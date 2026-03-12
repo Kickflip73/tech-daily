@@ -13,7 +13,7 @@ from pathlib import Path
 SMTP_SERVER = "smtp.qq.com"
 SMTP_PORT = 465
 SENDER = "3065242502@qq.com"
-PASSWORD = os.environ.get("QQ_SMTP_PASSWORD", "bfdqzfvcfimzdhdh")
+PASSWORD = os.environ.get("QQ_SMTP_PASSWORD")
 RECIPIENT = "3065242502@qq.com"
 
 def send_report(md_file: str, subject: str = None):
