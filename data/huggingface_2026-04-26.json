@@ -1,0 +1,261 @@
+[
+  {
+    "title": "LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model",
+    "authors": [
+      "Inclusion AI",
+      "Tiwei Bie",
+      "Haoxing Chen",
+      "Tieyuan Chen",
+      "Zhenglin Cheng",
+      "Long Cui",
+      "Kai Gan",
+      "Zhicheng Huang",
+      "Zhenzhong Lan",
+      "Haoquan Li",
+      "Jianguo Li",
+      "Tao Lin",
+      "Qi Qin",
+      "Hongjun Wang",
+      "Xiaomei Wang",
+      "Haoyuan Wu",
+      "Yi Xin",
+      "Junbo Zhao"
+    ],
+    "url": "https://huggingface.co/papers/2604.20796",
+    "likes": 227
+  },
+  {
+    "title": "LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics",
+    "authors": [
+      "Yueyang Ding",
+      "HaoPeng Zhang",
+      "Rui Dai",
+      "Yi Wang",
+      "Tianyu Zong",
+      "Kaikui Liu",
+      "Xiangxiang Chu"
+    ],
+    "url": "https://huggingface.co/papers/2604.17295",
+    "likes": 80
+  },
+  {
+    "title": "Near-Future Policy Optimization",
+    "authors": [
+      "Chuanyu Qin",
+      "Chenxu Yang",
+      "Qingyi Si",
+      "Naibin Gu",
+      "Dingyu Yao",
+      "Zheng Lin",
+      "Peng Fu",
+      "Nan Duan",
+      "Jiaqi Wang"
+    ],
+    "url": "https://huggingface.co/papers/2604.20733",
+    "likes": 63
+  },
+  {
+    "title": "DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data",
+    "authors": [
+      "Venus Team",
+      "Sunhao Dai",
+      "Yong Deng",
+      "Jinzhen Lin",
+      "Yusheng Song",
+      "Guoqing Wang",
+      "Xiaofeng Wu",
+      "Yuqi Zhou",
+      "Shuo Yang",
+      "Zhenzhe Ying",
+      "Zhanwei Zhang",
+      "Changhua Meng",
+      "Weiqiang Wang"
+    ],
+    "url": "https://huggingface.co/papers/2604.19859",
+    "likes": 45
+  },
+  {
+    "title": "WorldMark: A Unified Benchmark Suite for Interactive Video World Models",
+    "authors": [
+      "Xiaojie Xu",
+      "Zhengyuan Lin",
+      "Kang He",
+      "Yukang Feng",
+      "Xiaofeng Mao",
+      "Yuanyang Yin",
+      "Kaipeng Zhang",
+      "Yongtao Ge"
+    ],
+    "url": "https://huggingface.co/papers/2604.21686",
+    "likes": 34
+  },
+  {
+    "title": "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
+    "authors": [
+      "Boyu Chen",
+      "Yi Chen",
+      "Lu Qiu",
+      "Jerry Bai",
+      "Yuying Ge",
+      "Yixiao Ge"
+    ],
+    "url": "https://huggingface.co/papers/2604.19734",
+    "likes": 27
+  },
+  {
+    "title": "OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis",
+    "authors": [
+      "Kanzhi Cheng",
+      "Zehao Li",
+      "Zheng Ma",
+      "Nuo Chen",
+      "Jialin Cao",
+      "Qiushi Sun",
+      "Zichen Ding",
+      "Fangzhi Xu",
+      "Hang Yan",
+      "Jiajun Chen",
+      "Anh Tuan Luu",
+      "Jianbing Zhang",
+      "Lewei Lu",
+      "Dahua Lin"
+    ],
+    "url": "https://huggingface.co/papers/2604.15093",
+    "likes": 27
+  },
+  {
+    "title": "DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation",
+    "authors": [
+      "Hyeonwoo Kim",
+      "Jeonghwan Kim",
+      "Kyungwon Cho",
+      "Hanbyul Joo"
+    ],
+    "url": "https://huggingface.co/papers/2604.20841",
+    "likes": 24
+  },
+  {
+    "title": "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges",
+    "authors": [
+      "Xiaohua Wang",
+      "Muzhao Tian",
+      "Yuqi Zeng",
+      "Zisu Huang",
+      "Jiakang Yuan",
+      "Bowen Chen",
+      "Jingwen Xu",
+      "Mingbo Zhou",
+      "Wenhao Liu",
+      "Muling Wu",
+      "Zhengkang Guo",
+      "Qi Qian",
+      "Yifei Wang",
+      "Feiran Zhang",
+      "Ruicheng Yin",
+      "Shihan Dou",
+      "Changze Lv",
+      "Tao Chen",
+      "Kaitao Song",
+      "Xu Tan",
+      "Tao Gui",
+      "Xiaoqing Zheng",
+      "Xuanjing Huang"
+    ],
+    "url": "https://huggingface.co/papers/2604.13602",
+    "likes": 24
+  },
+  {
+    "title": "Exploring Spatial Intelligence from a Generative Perspective",
+    "authors": [
+      "Muzhi Zhu",
+      "Shunyao Jiang",
+      "Huanyi Zheng",
+      "Zekai Luo",
+      "Hao Zhong",
+      "Anzhou Li",
+      "Kaijun Wang",
+      "Jintao Rong",
+      "Yang Liu",
+      "Hao Chen",
+      "Tao Lin",
+      "Chunhua Shen"
+    ],
+    "url": "https://huggingface.co/papers/2604.20570",
+    "likes": 21
+  },
+  {
+    "title": "StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition",
+    "authors": [
+      "Kwan Yun",
+      "Changmin Lee",
+      "Ayeong Jeong",
+      "Youngseo Kim",
+      "Seungmi Lee",
+      "Junyong Noh"
+    ],
+    "url": "https://huggingface.co/papers/2604.21689",
+    "likes": 20
+  },
+  {
+    "title": "A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression",
+    "authors": [
+      "Jincheng Ren",
+      "Siwei Wu",
+      "Yizhi Li",
+      "Kang Zhu",
+      "Shu Xu",
+      "Boyu Feng",
+      "Ruibin Yuan",
+      "Wei Zhang",
+      "Riza Batista-Navarro",
+      "Jian Yang",
+      "Chenghua Lin"
+    ],
+    "url": "https://huggingface.co/papers/2604.19572",
+    "likes": 18
+  },
+  {
+    "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+    "authors": [
+      "Xiyang Wu",
+      "Zongxia Li",
+      "Guangyao Shi",
+      "Alexander Duffy",
+      "Tyler Marques",
+      "Matthew Lyle Olson",
+      "Tianyi Zhou",
+      "Dinesh Manocha"
+    ],
+    "url": "https://huggingface.co/papers/2604.20987",
+    "likes": 16
+  },
+  {
+    "title": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
+    "authors": [
+      "Yen-Siang Wu",
+      "Rundong Luo",
+      "Jingsen Zhu",
+      "Tao Tu",
+      "Ali Farhadi",
+      "Matthew Wallingford",
+      "Yu-Chiang Frank Wang",
+      "Steve Marschner",
+      "Wei-Chiu Ma"
+    ],
+    "url": "https://huggingface.co/papers/2604.21931",
+    "likes": 15
+  },
+  {
+    "title": "Expert Upcycling: Shifting the Compute-Efficient Frontier of Mixture-of-Experts",
+    "authors": [
+      "Chaitanya Dwivedi",
+      "Binxuan Huang",
+      "Himanshu Gupta",
+      "Pratik Jayarao",
+      "Neeraj Varshney",
+      "Bing Yin"
+    ],
+    "url": "https://huggingface.co/papers/2604.19835",
+    "likes": 15
+  }
+]
