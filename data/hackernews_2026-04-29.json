@@ -1,0 +1,16 @@
+{
+  "date": "2026-04-29",
+  "source": "hackernews",
+  "top_stories": [
+    {"title": "Ghostty is leaving GitHub", "points": 1456, "comments": 450, "source": "mitchellh.com"},
+    {"title": "Localsend: An open-source cross-platform alternative to AirDrop", "points": 725, "comments": 227, "source": "github.com/localsend"},
+    {"title": "Your phone is about to stop being yours", "points": 896, "comments": 450, "source": "keepandroidopen.org"},
+    {"title": "Talkie: a 13B vintage language model from 1930", "points": 631, "comments": 257, "source": "talkie-lm.com"},
+    {"title": "Claude.ai unavailable and elevated errors on the API", "points": 259, "comments": 218, "source": "claude.com"},
+    {"title": "OpenAI models coming to Amazon Bedrock", "points": 160, "comments": 60, "source": "stratechery.com"},
+    {"title": "GitHub RCE Vulnerability: CVE-2026-3854", "points": 223, "comments": 55, "source": "wiz.io"},
+    {"title": "Warp is now open-source", "points": 134, "comments": 47, "source": "warp.dev"},
+    {"title": "Who owns the code Claude Code wrote?", "points": 232, "comments": 275, "source": "legallayer.substack.com"},
+    {"title": "GitHub Actions is the weakest link", "points": 210, "comments": 68, "source": "nesbitt.io"}
+  ]
+}
