@@ -1,0 +1,113 @@
+{
+  "source": "huggingface_papers",
+  "date": "2026-05-10",
+  "fetched_at": "2026-05-10T00:14:09Z",
+  "total": 15,
+  "papers": [
+    {
+      "rank": 1,
+      "title": "Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction",
+      "url": "https://arxiv.org/abs/2605.05242",
+      "huggingface_url": "https://huggingface.co/papers/2605.05242",
+      "upvotes": 66
+    },
+    {
+      "rank": 2,
+      "title": "Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.06130",
+      "huggingface_url": "https://huggingface.co/papers/2605.06130",
+      "upvotes": 60
+    },
+    {
+      "rank": 3,
+      "title": "Continuous Latent Diffusion Language Model",
+      "url": "https://arxiv.org/abs/2605.06548",
+      "huggingface_url": "https://huggingface.co/papers/2605.06548",
+      "upvotes": 54
+    },
+    {
+      "rank": 4,
+      "title": "MiA-Signature: Approximating Global Activation for Long-Context Understanding",
+      "url": "https://arxiv.org/abs/2605.06416",
+      "huggingface_url": "https://huggingface.co/papers/2605.06416",
+      "upvotes": 46
+    },
+    {
+      "rank": 5,
+      "title": "RaguTeam at SemEval-2026 Task 8: Meno and Friends in a Judge-Orchestrated LLM Ensemble for Faithful Multi-Turn Response Generation",
+      "url": "https://arxiv.org/abs/2605.04523",
+      "huggingface_url": "https://huggingface.co/papers/2605.04523",
+      "upvotes": 37
+    },
+    {
+      "rank": 6,
+      "title": "When to Trust Imagination: Adaptive Action Execution for World Action Models",
+      "url": "https://arxiv.org/abs/2605.06222",
+      "huggingface_url": "https://huggingface.co/papers/2605.06222",
+      "upvotes": 36
+    },
+    {
+      "rank": 7,
+      "title": "MARBLE: Multi-Aspect Reward Balance for Diffusion RL",
+      "url": "https://arxiv.org/abs/2605.06507",
+      "huggingface_url": "https://huggingface.co/papers/2605.06507",
+      "upvotes": 34
+    },
+    {
+      "rank": 8,
+      "title": "Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration",
+      "url": "https://arxiv.org/abs/2605.05566",
+      "huggingface_url": "https://huggingface.co/papers/2605.05566",
+      "upvotes": 29
+    },
+    {
+      "rank": 9,
+      "title": "SkillOS: Learning Skill Curation for Self-Evolving Agents",
+      "url": "https://arxiv.org/abs/2605.06614",
+      "huggingface_url": "https://huggingface.co/papers/2605.06614",
+      "upvotes": 29
+    },
+    {
+      "rank": 10,
+      "title": "Audio-Visual Intelligence in Large Foundation Models",
+      "url": "https://arxiv.org/abs/2605.04045",
+      "huggingface_url": "https://huggingface.co/papers/2605.04045",
+      "upvotes": 25
+    },
+    {
+      "rank": 11,
+      "title": "Continuous-Time Distribution Matching for Few-Step Diffusion Distillation",
+      "url": "https://arxiv.org/abs/2605.06376",
+      "huggingface_url": "https://huggingface.co/papers/2605.06376",
+      "upvotes": 24
+    },
+    {
+      "rank": 12,
+      "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
+      "url": "https://arxiv.org/abs/2605.06642",
+      "huggingface_url": "https://huggingface.co/papers/2605.06642",
+      "upvotes": 16
+    },
+    {
+      "rank": 13,
+      "title": "Auto Research with Specialist Agents Develops Effective and Non-Trivial Training Recipes",
+      "url": "https://arxiv.org/abs/2605.05724",
+      "huggingface_url": "https://huggingface.co/papers/2605.05724",
+      "upvotes": 12
+    },
+    {
+      "rank": 14,
+      "title": "A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping",
+      "url": "https://arxiv.org/abs/2605.06200",
+      "huggingface_url": "https://huggingface.co/papers/2605.06200",
+      "upvotes": 10
+    },
+    {
+      "rank": 15,
+      "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key",
+      "url": "https://arxiv.org/abs/2605.06638",
+      "huggingface_url": "https://huggingface.co/papers/2605.06638",
+      "upvotes": 10
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "source": "arxiv",
+  "date": "2026-05-10",
+  "fetched_at": "2026-05-10T00:13:22Z",
+  "total": 15,
+  "papers": [
+    {
+      "rank": 1,
+      "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+      "authors": [
+        "Omar El Khalifi",
+        "Thomas Rossi",
+        "Oscar Fossey"
+      ],
+      "url": "https://arxiv.org/abs/2605.06667",
+      "abstract": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a new s",
+      "submitted": "",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+      "authors": [
+        "Minbin Huang",
+        "Han Shi",
+        "Chuanyang Zheng"
+      ],
+      "url": "https://arxiv.org/abs/2605.06665",
+      "abstract": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with linear expert-parameter growth and assumes that every layer needs isolated expert capacity. However, re",
+      "submitted": "",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
+      "authors": [
+        "Borui Zhang",
+        "Bo Zhang",
+        "Bo Wang"
+      ],
+      "url": "https://arxiv.org/abs/2605.06664",
+      "abstract": "GUI grounding is a critical capability for enabling GUI agents to execute tasks such as clicking and dragging. However, in complex scenarios like the ScreenSpot-Pro benchmark, existing models often suffer from suboptimal performance. Utilizing the proposed \\textbf{Masked Prediction Distribution (MPD",
+      "submitted": "",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "authors": [
+        "Ryan Wang",
+        "Akshita Bhagia",
+        "Sewon Min"
+      ],
+      "url": "https://arxiv.org/abs/2605.06663",
+      "abstract": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific knowledge. Mixture-of-Experts (MoEs) seemingly offer a potential alternative by activating only a subset",
+      "submitted": "",
+      "categories": [
+        "cs.CL"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Multi-Robot Coordination in V2X Environments",
+      "authors": [
+        "John Pravin Arockiasamy",
+        "Alexey Vinel"
+      ],
+      "url": "https://arxiv.org/abs/2605.06662",
+      "abstract": "This paper presents a Vehicle-to-Everything (V2X) communication framework that enables decentralized cooperation among social robots operating in complex urban traffic environments. Building on ETSI Cooperative Awareness and Maneuver Coordination services, the framework introduces two robot-centric ",
+      "submitted": "",
+      "categories": [
+        "cs.RO"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+      "authors": [
+        "Yuhang Lai",
+        "Jiazhan Feng",
+        "Yee Whye Teh"
+      ],
+      "url": "https://arxiv.org/abs/2605.06660",
+      "abstract": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential component for advancing LLM training and enabling autonomous scientific research. Existing problem generat",
+      "submitted": "",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Relit-LiVE: Relight Video by Jointly Learning Environment Video",
+      "authors": [
+        "Weiqing Xiao",
+        "Hong Li",
+        "Xiuyu Yang"
+      ],
+      "url": "https://arxiv.org/abs/2605.06658",
+      "abstract": "Recent advances have shown that large-scale video diffusion models can be repurposed as neural renderers by first decomposing videos into intrinsic scene representations and then performing forward rendering under novel illumination. While promising, this paradigm fundamentally relies on accurate in",
+      "submitted": "",
+      "categories": [
+        "cs.CV"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+      "authors": [
+        "Jai Moondra",
+        "Ayela Chughtai",
+        "Bhargavi Lanka"
+      ],
+      "url": "https://arxiv.org/abs/2605.06656",
+      "abstract": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs from Arena, and show that the best-fit global Bradley-Terry (BT) ranking is misleading. Nearly 2/3 of ",
+      "submitted": "",
+      "categories": [
+        "cs.LG",
+        "cs.DM",
+        "cs.ET",
+        "math.OC"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+      "authors": [
+        "Yuxing Liu",
+        "Jianyu Wang",
+        "Tong Zhang"
+      ],
+      "url": "https://arxiv.org/abs/2605.06654",
+      "abstract": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same optimizer as in pretraining achieves a better learning-forgetting tradeoff, i.e., forgetting less while ",
+      "submitted": "",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "math.OC"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+      "authors": [
+        "Sushant Gautam",
+        "Finn Schwall",
+        "Annika Willoch Olstad"
+      ],
+      "url": "https://arxiv.org/abs/2605.06652",
+      "abstract": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless comparative safety scoring and specify the contract under which a scenario-based audit can be inter",
+      "submitted": "",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "authors": [
+        "Daniel Zheng",
+        "Ingrid von Glehn",
+        "Yori Zwols"
+      ],
+      "url": "https://arxiv.org/abs/2605.06651",
+      "abstract": "We introduce the AI co-mathematician, a workbench for mathematicians to interactively leverage AI agents to pursue open-ended research. The AI co-mathematician is optimized to provide holistic support for the exploratory and iterative reality of mathematical workflows, including ideation, literature",
+      "submitted": "",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients",
+      "authors": [
+        "Mingwei Xu",
+        "Hao Fang"
+      ],
+      "url": "https://arxiv.org/abs/2605.06650",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR), due to the deterministic verification, becomes a dominant paradigm for enhancing the reasoning ability of large language models (LLMs). The community witnesses the rapid change from the Proximal Policy Optimization (PPO) to Group Relative Policy",
+      "submitted": "",
+      "categories": [
+        "cs.CL"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval",
+      "authors": [
+        "Zeyu Yang",
+        "Qi Ma",
+        "Jason Chen"
+      ],
+      "url": "https://arxiv.org/abs/2605.06647",
+      "abstract": "Retrieval-augmented agents are increasingly the interface to large organizational knowledge bases, yet most still treat retrieval as a black box: they issue exploratory queries, inspect returned snippets, and iteratively reformulate until useful evidence emerges. This approach resembles how a newcom",
+      "submitted": "",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Inductive Venn-Abers and related regressors",
+      "authors": [
+        "Ivan Petej",
+        "Vladimir Vovk"
+      ],
+      "url": "https://arxiv.org/abs/2605.06646",
+      "abstract": "Venn-Abers predictors are probabilistic predictors that enjoy appealing properties of validity, but their major limitation is that they are applicable only to the case of binary classification, with a recent extension to bounded regression. We generalize them to the case of unbounded regression, whi",
+      "submitted": "",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction",
+      "authors": [
+        "Yuchen Xiong",
+        "Swee Keong Yeap",
+        "Steven Aw Yoong Kit"
+      ],
+      "url": "https://arxiv.org/abs/2605.06644",
+      "abstract": "Fluorescent protein quantum yield (QY) is governed by the mature chromophore and its three-dimensional microenvironment rather than sequence identity alone. Protein language models and emission-band averages capture global trends, but do not model how local physical signals act on specific chromopho",
+      "submitted": "",
+      "categories": [
+        "cs.LG"
+      ]
+    }
+  ]
+}
