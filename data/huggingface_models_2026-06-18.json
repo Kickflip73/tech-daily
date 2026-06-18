@@ -1,0 +1,114 @@
+[
+  {
+    "modelId": "deepseek-ai/DeepSeek-R1",
+    "author": "deepseek-ai",
+    "name": "DeepSeek-R1",
+    "downloads": 5118223,
+    "likes": 13394,
+    "description": "DeepSeek-R1 is a reasoning model with 671B total parameters, 37B activated per token, using MoE architecture and RL training.",
+    "tags": [
+      "text-generation",
+      "reasoning"
+    ]
+  },
+  {
+    "modelId": "black-forest-labs/FLUX.1-dev",
+    "author": "black-forest-labs",
+    "name": "FLUX.1-dev",
+    "downloads": 712241,
+    "likes": 13231,
+    "description": "FLUX.1 [dev] is a 12 billion parameter rectified flow transformer capable of generating images from text descriptions.",
+    "tags": [
+      "text-to-image"
+    ]
+  },
+  {
+    "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
+    "author": "stabilityai",
+    "name": "stable-diffusion-xl-base-1.0",
+    "downloads": 1080230,
+    "likes": 7823,
+    "description": "SDXL base model - the largest Stable Diffusion checkpoint by Stability AI.",
+    "tags": [
+      "text-to-image"
+    ]
+  },
+  {
+    "modelId": "CompVis/stable-diffusion-v1-4",
+    "author": "CompVis",
+    "name": "stable-diffusion-v1-4",
+    "downloads": 317686,
+    "likes": 7021,
+    "description": "Stable Diffusion v1.4 - the original open-source text-to-image model.",
+    "tags": [
+      "text-to-image"
+    ]
+  },
+  {
+    "modelId": "meta-llama/Meta-Llama-3-8B",
+    "author": "meta-llama",
+    "name": "Meta-Llama-3-8B",
+    "downloads": 987035,
+    "likes": 6578,
+    "description": "Meta's Llama 3 8B pre-trained language model.",
+    "tags": [
+      "text-generation"
+    ]
+  },
+  {
+    "modelId": "hexgrad/Kokoro-82M",
+    "author": "hexgrad",
+    "name": "Kokoro-82M",
+    "downloads": 13558358,
+    "likes": 6353,
+    "description": "Kokoro is a state-of-the-art text-to-speech model with natural voice generation.",
+    "tags": [
+      "text-to-speech"
+    ]
+  },
+  {
+    "modelId": "meta-llama/Llama-3.1-8B-Instruct",
+    "author": "meta-llama",
+    "name": "Llama-3.1-8B-Instruct",
+    "downloads": 6918988,
+    "likes": 6103,
+    "description": "Llama 3.1 8B instruction-tuned model with multilingual support.",
+    "tags": [
+      "text-generation",
+      "multilingual"
+    ]
+  },
+  {
+    "modelId": "openai/whisper-large-v3",
+    "author": "openai",
+    "name": "whisper-large-v3",
+    "downloads": 4629156,
+    "likes": 5826,
+    "description": "OpenAI's Whisper large v3 model for multilingual speech recognition.",
+    "tags": [
+      "speech-recognition"
+    ]
+  },
+  {
+    "modelId": "black-forest-labs/FLUX.1-schnell",
+    "author": "black-forest-labs",
+    "name": "FLUX.1-schnell",
+    "downloads": 221386,
+    "likes": 5150,
+    "description": "FLUX.1 [schnell] is a fast 12B rectified flow transformer for rapid image generation.",
+    "tags": [
+      "text-to-image"
+    ]
+  },
+  {
+    "modelId": "deepseek-ai/DeepSeek-V4-Pro",
+    "author": "deepseek-ai",
+    "name": "DeepSeek-V4-Pro",
+    "downloads": 2804646,
+    "likes": 4924,
+    "description": "DeepSeek V4 Pro - advanced reasoning and generation model.",
+    "tags": [
+      "text-generation"
+    ]
+  }
+]

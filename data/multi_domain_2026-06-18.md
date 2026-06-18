@@ -1,0 +1,324 @@
+# 多领域技术热点报告 — 2026-06-18
+
+> 抓取时间: 2026-06-18 08:16:27 CST
+> 数据来源: The Verge, TechCrunch, Tom's Hardware, Ars Technica, Nature, CoinDesk, PC Gamer, BBC, Google News
+> 抓取文章: 73 篇 | 覆盖领域: 10 个
+
+## 安全
+
+1. **[Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world](https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/)**
+   - 来源: techcrunch.com
+
+2. **[Apple plans to change its Hide My Email privacy feature that could make it less effective](https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/)**
+   - 来源: techcrunch.com
+
+3. **[Bug in FIFA World Cup internal system gave anyone ability to modify TV stream](https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/)**
+   - 来源: techcrunch.com
+
+4. **[India orders temporary ban on Telegram over exam fraud concerns](https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/)**
+   - 来源: techcrunch.com
+
+5. **[The US government’s Anthropic models ban was never about an AI jailbreak](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)**
+   - 来源: techcrunch.com
+
+---
+
+## 安全/科技
+
+1. **[Second carcass-eating fly species cleared by FDA for maggot wound therapy](https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/)**
+   - 来源: arstechnica.com
+   - 摘要: Maggot therapy lacks robust data, but it has fans and a fail-safe "bacon therapy."
+
+2. **[Sooner than expected? Useful quantum error correction promised for 2028.](https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/)**
+   - 来源: arstechnica.com
+   - 摘要: Elsewhere, beyond-classical quantum hardware, plus classical computing fires back.
+
+3. **[California says AT&T lied to FCC in attempt to shut off old phone network](https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/)**
+   - 来源: arstechnica.com
+   - 摘要: FCC considers AT&T petitions to preempt state rules and discontinue phone service.
+
+4. **[Massive breach spills credentials for thousands of sensitive networks](https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/)**
+   - 来源: arstechnica.com
+   - 摘要: The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.
+
+5. **[Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/)**
+   - 来源: arstechnica.com
+   - 摘要: Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.
+
+6. **[AI coding agents taught robots how to install GPUs and cut zip ties](https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/)**
+   - 来源: arstechnica.com
+   - 摘要: Nvidia's self-improvement program for robots enlists teams of AI coding agents.
+
+7. **[Tim Cook says RAM expenses are ‘unsustainable’ and Apple is going to raise prices](https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram)**
+   - 来源: theverge.com
+   - 摘要: Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says "price increases are unavoidable:" We're doing our b
+
+8. **[VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription](https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription)**
+   - 来源: theverge.com
+   - 摘要: VSCO is taking on Adobe with a new Studio Pro editing app rolling out today on iOS and coming to macOS later this year, as Bloomberg reports. At launch, the app offers tools for batch editing, style m
+
+9. **[Epic wants to let you bring your Fortnite skins to other games](https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse)**
+   - 来源: theverge.com
+   - 摘要: Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn't yet become a reality. But with Unreal Engine 6, the next major version of its game developm
+
+10. **[The Echo Dot Max is cheaper than ever in an early Prime Day sale](https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale)**
+   - 来源: theverge.com
+   - 摘要: We’re seeing good early Prime Day deals ahead of the event next week, and unsurprisingly, some of the best deals are on Amazon’s own devices. Several Echo speakers have dropped to new low prices, incl
+
+11. **[Vibe-decoding the White House-Anthropic fight over Fable](https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house)**
+   - 来源: theverge.com
+   - 摘要: Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got 
+
+12. **[Can anyone look cool wearing Snap’s $2,000 glasses?](https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion)**
+   - 来源: theverge.com
+   - 摘要: Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attem
+
+---
+
+## 芯片/硬件
+
+1. **[Lip-Bu Tan Nearly Walked Away From Semiconductors, But One Plea to ‘Save Intel’ Pulled Him Back as CEO, Now Hiring Top CPU/GPU Architects - Wccftech](https://news.google.com/rss/articles/CBMizAFBVV95cUxNMDhJeU5PcjhUR3NoTHF6YXd5XzVia29zVVlJVDZ3Sk4yVWJIOHI4T3ZVTEc4amhJc1dtdThNVGxmYmdIc2tBa3lLMmdsaWhvTFdfcUFjX0hNTUVpNjBtN0U2NmY5bmp4M2xhMGEzVGlwekxEQmJjcGJBT1VmNEtYUklDWjVhM01nUXVXUzZyRTNRemVPVGFXOXBkSUhGbWw5aGYxRXlRRWpPMnZpZl9uLWRPbHJURXZrZ3c3eF8ydDZzZHNMVkllbkw2Sy3SAcwBQVVfeXFMTTA4SXlOT3I4VEdzaExxemF3eV81Ymtvc1VZSVQ2d0pOMlViSDhyOE92VUxHOGpoSXNXbXU4TVRsZmJnSHNrQWt5SzJnbGlob0xXX3FBY19ITU1FaTYwbTdFNjZmOW5qeDNsYTBhM1RpcHpMREJiY3BiQU9VZjRLWFJJQ1o1YTNNZ1F1V1M2ckUzUXplT1RhVzlwZElIRm1sOWhmMUV5UUVqTzJ2aWZfbi1kT2xyVEV2a2d3N3hfMnQ2c2RzTFZJZW5MNkst?oc=5)**
+   - 来源: google-news/hardware
+   - 摘要: Lip-Bu Tan Nearly Walked Away From Semiconductors, But One Plea to ‘Save Intel’ Pulled Him Back as CEO, Now Hiring Top CPU/GPU Architects Wccftech
+
+2. **[Is Intel the Comeback Stock of the Decade? - The Globe and Mail](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVjdiR0lCY3lZU2JVZlhWVlNmYW9JNUpucENwandQbnhHNDhyYVNZZkN5Ym5rdGl2dXhwVmNfd25wMEFtUVQ1d2hrQmtjNWZoM0ppdTh6MHpDSGJHLXBOSVZZVWtjaGgxam9neGdzRnZOU3M2NGdNVzNFWlVpaTFFU2RiZDJtanhudW4yRFg1eU9MdlRXb2Q1Nk9MVW1Zb1RXVkt5V0JqZ2dlYXROSEdkaHMwZGJoVXBzb2ZwVElBemxfZUE?oc=5)**
+   - 来源: google-news/hardware
+   - 摘要: Is Intel the Comeback Stock of the Decade? The Globe and Mail
+
+3. **[Shifts in Computing Power Investment Logic: Bernstein Bullish on CPU Revival, Hygon Information Target Price Significantly Upgraded - odaily.news](https://news.google.com/rss/articles/CBMiT0FVX3lxTE43cGFQT2I3cF9waF9KWGRmb0lKQ1oyQVg1N2JhZW0xZDlaaXRQT2pRdFNrMHoxS2xOZkcyM0VpRm1KRks5MC0zcHNfRmJRUG8?oc=5)**
+   - 来源: google-news/hardware
+   - 摘要: Shifts in Computing Power Investment Logic: Bernstein Bullish on CPU Revival, Hygon Information Target Price Significantly Upgraded odaily.news
+
+4. **[Databricks Unleashes AI Runtime for GPU Training - StartupHub.ai](https://news.google.com/rss/articles/CBMinwFBVV95cUxOaU80cUpQZl9xM3E4Qk1JakQ0RFR2N0pSdDJfNGhXTnh1cE1xY0lfdjI5Ulk5ODlHc2Z0eWNhYW5wTE5kVUNEVnVnRW9IMGlSOEc2Vi05T2FUa01PbGFWZUVKZFllR1dUcXdwdDlNN1hoSF9FalhPZHRxcXd0WFc2X1IzQUdpSjdYYV9XYUpQblBQN242SnV3RE16c1hCWHM?oc=5)**
+   - 来源: google-news/hardware
+   - 摘要: Databricks Unleashes AI Runtime for GPU Training StartupHub.ai
+
+5. **[SMI says Nvidia is driving its consumer PCIe 6.0 roadmap, not AMD and Intel — RTX Spark agentic AI platform fuels a hunger for storage bandwidth - Tom's Hardware](https://news.google.com/rss/articles/CBMipwJBVV95cUxQWmZqekllLS1tbkRyeFRQenFZWi1vZ2Uwam1UbVRGYThGZ3FvWG9QVmE1SGhTYTdBVDI4Q3FBWEx2UzNVZ294NktrV0NOVWtxV0lDRllzY2xXZHp2d0xndWdXUHlKWGZwem83MlF1ME12Z3N5SVozT0k1N3U4N1JkVjlfYW1ZT2JuczJOSjQxakQxT241RWM1M2J6VVdCNER5THNiY1hDT0cyWE5HWW5aRnp4NUc4ZEFyUUwyUHVEWWh4dDVTbFl6Tng3bDhFQXpsWFRoTU5FOWU1UFV2ZXQ5d043MFVUc2hrR25wbnp4ZUs2Z0UybjYwVzhhQXpKcEFBeHk5andIVHlreWRZdzZVWk40a2JKRnhVakhUZDdvNVFvTm1MRk9j?oc=5)**
+   - 来源: google-news/hardware
+   - 摘要: SMI says Nvidia is driving its consumer PCIe 6.0 roadmap, not AMD and Intel — RTX Spark agentic AI platform fuels a hunger for storage bandwidth Tom's Hardware
+
+6. **[Bernstein Research Report: Agentic AI Will Elevate CPUs from Supporting Role to Leading Role—Bullish on Hygon Information - 深潮TechFlow](https://news.google.com/rss/articles/CBMiUkFVX3lxTE82ejBhdjFLQ3hpUEZVeDhibUlxWl9WQ0dFbi14WnFQaF9Fdm10bVBEU0llOEJ2X3lIYzh3cXVRY0VhMEtSQmRNZmZMdWpyUWowOFE?oc=5)**
+   - 来源: google-news/hardware
+   - 摘要: Bernstein Research Report: Agentic AI Will Elevate CPUs from Supporting Role to Leading Role—Bullish on Hygon Information 深潮TechFlow
+
+---
+
+## 航天
+
+1. **[SpaceX Dragon Splashes Down in Pacific, Completes Cargo Mission - NASA (.gov)](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUNONWN5LWhwZTItellLZTZiUEVXbTlWckVidk1zdTVMSmlEbl9fRy00NjBVbUo1TmpuZXB4Z2g0d1pOYWoyMXNGMGVxLVRhNEo4RVFqbl80R2I1ejUzc3dDeXViaGw3QU02WHRQM3FxNW1WZDhnR00ycF9pNnJxY21iZ1ZEX0RPSDlEU2xTUllrSDB2TXRsbjlVWU9YZnFOZVhyWEJwaUdyNEtDU1NjSU1ZbF8?oc=5)**
+   - 来源: google-news/space
+   - 摘要: SpaceX Dragon Splashes Down in Pacific, Completes Cargo Mission NASA (.gov)
+
+2. **[SpaceX to attempt rare booster landing after next Vandenberg launch - Ventura County Star](https://news.google.com/rss/articles/CBMivgFBVV95cUxPamRTMjlLbUR0OVUzMDVhTDlfQnpMcmVZT1ZCZ0tRY2Iya1BrRDRsMmtTVDNQcFE3ZGZuZWhka3N3enB6bE9CcUlha1daaUp2VUVZU3pTQklRaWhSbmtEZkxPUzc3NDFjcHhfdU9aMkphYU5YTWo5VDlvbnI1S3owQjVtdFRPMGlwNFFzeGd2Um1UdDVVZUJqa01aNVRMTjl3eElwVTFJc0lzaW5YUmkwSVc5RVpoQlprSEstTEVR?oc=5)**
+   - 来源: google-news/space
+   - 摘要: SpaceX to attempt rare booster landing after next Vandenberg launch Ventura County Star
+
+3. **[SpaceX to launch its Falcon 9 on recon satellite mission at Vandenberg - The Desert Sun](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYXRFWWtLaWxtdWM3NndPSW5pLS1IRDkyNjB1U0lPSzVuak1PYU1iLWhMWHBkMDkwU0FreExIZ19LYTZUN0Z0Y2kyaWNKTVBJOUVKSU9iZ21sZXBBZ1JhZkxEQVREX0RIeWZnb3QyY2RhZDZSQmtseVhuWkFISzVHckhJWHdyLUUxS0N0ZXVON3lWVUdKYl8tLTlNbEpTSzhCOW84YmRrMA?oc=5)**
+   - 来源: google-news/space
+   - 摘要: SpaceX to launch its Falcon 9 on recon satellite mission at Vandenberg The Desert Sun
+
+4. **[SpaceX launches 3 Block 2 BlueBird satellites for AST SpaceMobile - Spaceflight Now](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTE2ZWE1U1JKdkJSRGsyckhjZjdvenlGZDIzeFpuTGVNRVlkN0JMdnk4MTl2X25TX2RmUVJFNUE1dlpRVmt5STZTVVBhZGVMMENCN0ZSR3lUNEJPV3BHVTV1ZEFta1Z3QTdMTVc1cjRXbU1QMnlveHRJOE1YSklPeXV6SzFPbmhyOFJad1BLWjQ0V0dob3pnUFViQ2hwWlUyWng2UjU4VEs4SWlIMzRPYWF5eGVLSG9UVFp3?oc=5)**
+   - 来源: google-news/space
+   - 摘要: SpaceX launches 3 Block 2 BlueBird satellites for AST SpaceMobile Spaceflight Now
+
+5. **[Space Coast launch schedule: - Orlando Sentinel](https://news.google.com/rss/articles/CBMie0FVX3lxTE1jVHA5ZVJNZVRJckNUMWFkRk5pbHo0S2ZBQVJhNXRoMzNKVVctZnRoRy1oWGxac0lVNl9EME5kMllZN0lkbnlhY1FTWE1COVNsN2VLZ3RhaVZVLWFmSUJZS1dYaGVibkNsNWpkM1Fic0R1OGwwdUJfclZ1UQ?oc=5)**
+   - 来源: google-news/space
+   - 摘要: Space Coast launch schedule: Orlando Sentinel
+
+6. **[Home again! SpaceX Dragon cargo capsule splashes down off California coast - Space](https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2dhbnhfbjJ6d3dQM3pKaVpOWVMtaGtLRi1BS0loTU1icXBiRWFkMmViR0FTZEVZZVZWc1B1OXRzWHM4QUV1aE4wR0dreTI1ZkMyNnE0dnhndXRsMVdmSVpRZE9UZm5fUTZxc1AwNVRhYkE1Wk11VVpXNExodWNzd1NyMnFGUVR6WVI3TXNHMnAzaVh5SFh6RkVnX2NpcWpqTFFfNjdnV2JoMlh3d3hFWEVNdFgzYlAtcUE?oc=5)**
+   - 来源: google-news/space
+   - 摘要: Home again! SpaceX Dragon cargo capsule splashes down off California coast Space
+
+---
+
+## 生物科技
+
+1. **[How the brain builds sentences, neuron by neuron Neural maps reveal the specialized cells that produce speech. news | 17 Jun 2026](https://www.nature.com/articles/d41586-026-01922-w)**
+   - 来源: nature.com
+
+2. **[Oceans in Asia smash heat records — what it means for extreme weather Report shows region is particularly vulnerable to the effects of climate change.](https://www.nature.com/articles/d41586-026-01938-2)**
+   - 来源: nature.com
+
+3. **[A prominent VC explains why she’s against U.S. restrictions on investment in China’s drug industry](https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTJHQUZFNDhsc3hXeFVSeTg1bFhGOUhLVkNHSVgyaFVSMi11eENWY3JQaExsQlBLZ0pXVG5UZFI1QjBuVDJfbzNJLXlRWjJWa2N5UVAtTzktUGtZRWpXei1uOW54Z3RaVHE5dTVDVkV2Qm0zMWpEN09wbENFU0xUV2oyUmtCeV9PdWd1enlpN3EyZ0VXdlJIZw?oc=5)**
+   - 来源: statnews.com
+   - 摘要: A prominent VC explains why she’s against U.S. restrictions on investment in China’s drug industry statnews.com
+
+4. **[Protillion and Merck & Co sign AI drug discovery pact](https://news.google.com/rss/articles/CBMinAFBVV95cUxOb29HTXVFd05RbXF1cUdqRnY1UklsUmJ1bUpObGhJU193VDZsMi1nTW5TNjRFc1FjMmNETUI3cDZjOUsyeFYwM3NMcGtwRnNWdk82cnEtU2h1V0UwWlRrdjc1bWs1RGxQX3d6ajJQTVJJY0h1UHBXOFNiWkxTT1ZtUDk5UUlXNkdIWkNubGp5eHdlUnFYVTJoZ29jVUk?oc=5)**
+   - 来源: thepharmaletter
+   - 摘要: Protillion and Merck & Co sign AI drug discovery pact The Pharma Letter
+
+5. **[Pelago Bioscience Acquires RG Discovery to Create Integrated Chemistry-to-Biology Drug Discovery Platform](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQM0JGQ09sNzllbm9xMk9YbzVrRU1QYzFITzdOdnYxeU1iV1RDemUwaEZpRlRLcmRZRW9xTUFWTnp6eXlwSzdyVDNyS0hETzNBUTlaNVVWSDhqWUtudHU5c1BnSWNQTDQyREpSdXZ0VE9BUkdmWDdYMTRCN3k1T0dOSFdjOUVEYlFSWmc5NDFSZFRFdFZIa2dVWEFvdDREVFhwUTZTWmp5bjFvWXluYVpzWkpNalI4ZUFQUXBRVFBmUTN5cDF5bEVwQkdMUDZFX1lQN3RXeUJrV1BDTTY4ZXF6M25GQQ?oc=5)**
+   - 来源: biopharmaapac
+   - 摘要: Pelago Bioscience Acquires RG Discovery to Create Integrated Chemistry-to-Biology Drug Discovery Platform BioPharma APAC
+
+6. **[South Korea's Pharma-Bio Tech Exports Surge Toward Record $15 Billion](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ25sNXpjWTBiZnV5SFYzTXR6OUVIaEs1NDRvNFQ0d0hsVXZRT1ByRGZVMU1Bb242OEJzWXlLTkR1UjlfblZHUGkwMkprelNmaE1PY3Bmb2VCSHlrbzR4LTI0TEN3MF9Yb3BacnVQcUZtaHpPdENsSzR1VHpQVjB2MzR3TFdVUV9a?oc=5)**
+   - 来源: 조선일보
+   - 摘要: South Korea's Pharma-Bio Tech Exports Surge Toward Record $15 Billion 조선일보
+
+7. **[Have Microbubbles Burst Through the Barriers of Genetic Medicine Delivery?](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWWN4c0J5ckp3b0NaRWs5a3Y2VFZ3T1prckNqTkFGNGlRX1M2WUJNanoxSVNzVWRLaW95YmZWTHB5MVpRMDVORW8tM3pTQ0NKMlJSTmx6OHpFdmRQb2JOdXNCRnE4a3N4QTlxUEllVFZJV25tRWlSSjUwWHNkTUZkX3Jkd0Vhc2thYXFQN1BZWGplSE5FOEtTWXVvY0NGWnItWlJZSXVnQUk4eUd0Y091eTlwXy1FWFMxMVhVYWdfamZDMTR1UkF3eVotclZVN3RjZnRCaTNOMlZjeVdQ?oc=5)**
+   - 来源: insideprecisionmedicine
+   - 摘要: Have Microbubbles Burst Through the Barriers of Genetic Medicine Delivery? Inside Precision Medicine
+
+8. **[Dosing of Rett gene therapy NGN-401 complete in Embolden study](https://news.google.com/rss/articles/CBMilgFBVV95cUxONzZJWEhrWVIzeGkzVjZuVmcxV2RyZnBSV1VNR3BjekZ0UGpSZmZYdU1LaU5fZXQ3NkpQeUN0ZW90d1NPU3c1ZlVkcWlZeUNDOVZBSDh2NFo4T3RXcEJLOGY3NVNiTktLVGlqbGVHR25XS04wSXJqcnNtazJXU2hPejhyVUpna3Zqc0t1VC00SlVwNk93MlE?oc=5)**
+   - 来源: rettsyndromenews
+   - 摘要: Dosing of Rett gene therapy NGN-401 complete in Embolden study Rett Syndrome News
+
+9. **[Opus Genetics advances ocular gene therapies toward clinic](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW9ZMWNRZGRsOVQ4WTRpNTFkOWxmWnVtaVlCSTlxV3hCYmxXeDdwMk52TFh3UGp0TFVPV3VybWhoVGJVejMxMGJxaXMtVVlRMjdaYUoxbE1ad0FPUXAyY3hnNDd3ZFdOTTMyVGI1QVVTLUV5Y2o0U0Ezb215LW9wN3VrcjJoemdPaEJVTzhrbkV1clduUG9MNzcwMDRaejJf?oc=5)**
+   - 来源: bioworldnews
+   - 摘要: Opus Genetics advances ocular gene therapies toward clinic BioWorld News
+
+10. **[Cell and gene therapy's next challenge is not the science, it's everything else](https://news.google.com/rss/articles/CBMiugFBVV95cUxOOG4wcUFpbXRINXRESzFJTk1OWHZtazIzYVFpQmp6UDJWcXFrUk8yS0UtdkxsU05KQU9hcmNkOF83dXNSeDZrbzNzQ25nVS1Od2UyZUlnU01QQlpiU1NDVVZuVkVCM19HTThneHVSX1dCX28tYUEwQkl5R012c0RfMzBsb0txNnl3MUFLQ0FxU01KX3E1M0VWYWJid1paR0VubFZuYWpLQ0tNWXF1dFV4MXNoZUhtb3ppbWc?oc=5)**
+   - 来源: drugdiscoverynews
+   - 摘要: Cell and gene therapy's next challenge is not the science, it's everything else Drug Discovery News
+
+11. **[Introducing GPT-Rosalind for life sciences research](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uZ1NtSXpCMklFQTRLUUhFVUFKOE95U1pYTmpKODltVFVxUnZSNmNiMTZ1d051WFVPb2lmRnVVUmp1WGI3UkZvQ2p6VlJsVXFOcEpkcl9NbVkxZTRfTU1DVjVsZmp0SE0?oc=5)**
+   - 来源: openai
+   - 摘要: Introducing GPT-Rosalind for life sciences research OpenAI
+
+12. **[UC San Diego Moores Cancer Center Receives Prestigious $25 Million Grant](https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2dqMFZrdUdMNHgxVDlWRnQ0N3FCdWptaUZHTFkyN3Y2Rks5M0dJS2dwLW03VHRiRVNKMDVOR1FhUG5tUlhfVmduMUtJT3VaQm50dVFkVUJGWFNSbVctMmw4U1dNY081eXdSXzQ0UE5PTllVenVRWXZRQ0liRm9SMEFZV0RBQlJlb3FJekhadEN6UENqek0xOXRsaTBiTjgxN3c?oc=5)**
+   - 来源: ucsandiegotoday
+   - 摘要: UC San Diego Moores Cancer Center Receives Prestigious $25 Million Grant UC San Diego Today
+
+13. **[Upcoming opportunities](https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGV3cnJHZG5Ka2VyMUdBRDJ3VzBTQ2NuMzZwaWZIb3F3eHR1a0o0d19GYmdoWndjTEI3Y01OeUY2UTJxb3ctR3Q4NnJmVnR3X2F1OTg4WjJPYmlfT0FEREt5amZlbnE4azAtU1Y1R3lnWEtFWWtNYldIajBOa2lqQk1Wc0RnNVVKT1Nmd19hYUU?oc=5)**
+   - 来源: americansocietyforbiochemistryandmolecularbiology
+   - 摘要: Upcoming opportunities American Society for Biochemistry and Molecular Biology
+
+14. **[Cambridge Once Fought Harvard’s DNA Research. Now There’s a Play About It.](https://news.google.com/rss/articles/CBMid0FVX3lxTE1JS1lDWngyZ1JvbE9PMjZRU3FFUklkV3BHX0dGQzd1SzBHWEw5ZEVlVlE0QjhnbVN5ajlnaDFsX2g0TEk5ZGxKdmZULVllelBGczBBclNMTGxZWWZHbFNTTjkyV0JNMnBkc0x6SWgtM2RQTE10TjBj?oc=5)**
+   - 来源: harvardmagazine
+   - 摘要: Cambridge Once Fought Harvard’s DNA Research. Now There’s a Play About It. Harvard Magazine
+
+---
+
+## 区块链/加密
+
+1. **[Fidelity joins Wall Street's race to manage stablecoin reservesFollowing State Street, Fidelity is targeting reserve assets that underpin the expanding stablecoin market.](https://www.coindesk.com/markets/2026/06/17/fidelity-joins-wall-street-s-race-to-manage-stablecoin-reserves)**
+   - 来源: coindesk.com
+
+2. **[Here is how Coinbase plan to survive the crypto downturn by ditching its reliance on trading feesAnalysts say the exchange's push into derivatives, payments and infrastructure broadens its growth story beyond crypto trading.](https://www.coindesk.com/business/2026/06/17/here-is-how-coinbase-plan-to-survive-the-crypto-downturn-by-ditching-its-reliance-on-trading-fees)**
+   - 来源: coindesk.com
+
+3. **[Bitcoin layer-2s face a bear-market reality checkBotanix's shutdown has raised an uncomfortable question for Bitcoin builders: Does the market actually want programmable BTC, or just a better way to borrow, lend and earn yield on it?](https://www.coindesk.com/tech/2026/06/17/bitcoin-layer-2s-face-a-bear-market-reality-check)**
+   - 来源: coindesk.com
+
+4. **[FIFA wanted Avalanche's blockchain to help curb World Cup ticket scalping. Here's how it's goingIn this week's edition of The Protocol Newsletter, we're looking at how FIFA is using the Avalanche blockchain to test out a new ticketing system.](https://www.coindesk.com/tech/2026/06/17/fifa-wanted-avalanche-s-blockchain-to-help-curb-world-cup-ticket-scalping-here-s-how-it-s-going)**
+   - 来源: coindesk.com
+
+5. **[Crypto industry aghast at Illinois' new tax on holding or transferring digital assets in state budgetThe 0.2% tax on any business activity involving digital assets was added last-minute, and is unlikely to change, two people familiar with the matter said.](https://www.coindesk.com/policy/2026/06/17/crypto-industry-aghast-at-illinois-new-tax-on-holding-or-transferring-digital-assets-in-state-budget)**
+   - 来源: coindesk.com
+
+6. **[Crypto Long & Short: The measure of a maturing marketIn this week's Crypto Long & Short, trusted indexes turn fragmented digital assets into a mature market that big institutions can confidently invest in, writes Kirsten Wegner. Then, the division between traditional finance (TradFi) and crypto is disappearing, says Dave LaValle, President of CoinDesk Data & Indices.](https://www.coindesk.com/coindesk-indices/2026/06/17/crypto-long-and-short-the-measure-of-a-maturing-market)**
+   - 来源: coindesk.com
+
+---
+
+## 游戏
+
+1. **[PlayerUnknown's survival game becomes free-to-own and offers Steam refunds 'without restrictions on playtime or how long ago you bought the game'](https://www.pcgamer.com/games/survival-crafting/playerunknowns-survival-game-becomes-free-to-own-and-offers-steam-refunds-without-restrictions-on-playtime-or-how-long-ago-you-bought-the-game/)**
+   - 来源: pcgamer.com
+   - 摘要: It's free forever, but it's also over.
+
+2. **[Hours after announcing a collab with Fortnite, Vampire Survivors dev suggests it may back out over Epic's touting of generative AI](https://www.pcgamer.com/games/action/hours-after-announcing-a-collab-with-fortnite-vampire-survivors-dev-suggests-it-may-back-out-over-epics-recent-touting-of-gen-ai/)**
+   - 来源: pcgamer.com
+   - 摘要: Poncle is apparently reconsidering its Fortnite collab after seeing how Epic is using generative AI to help design Fortnite assets.
+
+3. **['[It] is going to change a lot about how games are made': Epic merges Unreal Engine 5 with Unreal Engine for Fortnite to give game devs around the world Unreal Engine 6](https://www.pcgamer.com/software/it-is-going-to-change-a-lot-about-how-games-are-made-epic-merges-unreal-engine-5-with-unreal-engine-for-fortnite-to-give-game-devs-around-the-world-unreal-engine-6/)**
+   - 来源: pcgamer.com
+   - 摘要: When two become one.
+
+4. **[Guild Wars 3 hopes to solve the problem that made me quit Guild Wars 2 after thousands of hours with the series](https://www.pcgamer.com/games/mmo/guild-wars-3-hopes-to-solve-the-problem-that-made-me-quit-guild-wars-2-after-thousands-of-hours-with-the-series/)**
+   - 来源: pcgamer.com
+   - 摘要: I stopped logging in after realizing I would always need to clean my room before I was allowed to have any fun.
+
+5. **[Capcom has heard feedback that Onimusha is too easy, says it's 'confident fans will be satisfied with difficulty' in the final game](https://www.pcgamer.com/games/action/capcom-has-heard-feedback-that-onimusha-is-too-easy-says-its-confident-fans-will-be-satisfied-with-difficulty-in-the-final-game/)**
+   - 来源: pcgamer.com
+   - 摘要: The behind-closed-doors Onimusha demo at Summer Game Fest was fantastic, but easy.
+
+6. **[Rockstar faces legal setback as UK tribunal allows its fired workers to bring every one of their union busting allegations to trial](https://www.pcgamer.com/gaming-industry/rockstar-faces-legal-setback-as-uk-tribunal-allows-its-fired-workers-to-bring-every-one-of-their-union-busting-allegations-to-trial/)**
+   - 来源: pcgamer.com
+   - 摘要: The trial date for Rockstar's firings dispute is now set for September.
+
+---
+
+## DevTools
+
+1. **[Vercel launches a new framework and enterprise controls for agentic AI infrastructure - SiliconANGLE](https://news.google.com/rss/articles/CBMisgFBVV95cUxNOG1KWUoyZVNINXptSnFfV2g0WE1WN2NxTE1ERGZkeXlUeWNIT1ozeFpLNGtXejhrZWlBZS1seTJGeTFnYmIwdlRjZEZScEVkVmRuei12cnZ5SFEwUWE5bnR1Ym5sZXB3VGt2ZlluOVpNVDBIc1NNTTlwZi04Xzkyb1l2REFoSG9lOTJXT0pJUmF5UTBGNDd6R3A2WHZySFBDMjhVOVNGclJBVUgxQldHbDd3?oc=5)**
+   - 来源: google-news/devtools
+   - 摘要: Vercel launches a new framework and enterprise controls for agentic AI infrastructure SiliconANGLE
+
+2. **[AI SDLC Tools: Platform vs Point Solutions - Augment Code](https://news.google.com/rss/articles/CBMiggFBVV95cUxOc2VVQk0xUEl6clA0YkN4cWlGNk9oVGxoM3NGTWpZQWNIQTJaVkRiVmMyUC1oLUNJcE1JRnJraWM3cjVpbUtmMUp1OEw5bmc1THZCbmVHemJFNUxqczJEX3FNb1Bod0ZlX1B1cVhKWDVDVVBFbGs5eHRHS2tpRFhJRVZ3?oc=5)**
+   - 来源: google-news/devtools
+   - 摘要: AI SDLC Tools: Platform vs Point Solutions Augment Code
+
+3. **[GitKraken Introduces Code Flow, a Framework for Software Development in the Agentic Era - AiThority](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmswVDZPdXM3WWFMQ0ZLZUl5UElqRV9UNC1LcjltdXVvekVGbmVPZlU4YkplbTE2bUNlQmJvaGgxZUVnV2ZwQXFoRWxXTFBzc29ERWtXM1ZTdXdicFI5emt3NGNRUHNDNjNpY250alZ2cVNUbUhhNVZQZ2UyV0lMRXpsVGpFRm16c3J5UHUwSF9NRmRUM3ctNjZPajN3bVlidFgyOE5MNjcySmp0VDlJRjJCRDI3dHg0TG9VcXRfRDVVanVV?oc=5)**
+   - 来源: google-news/devtools
+   - 摘要: GitKraken Introduces Code Flow, a Framework for Software Development in the Agentic Era AiThority
+
+4. **[Vercel launches agent framework and enterprise controls - Let's Data Science](https://news.google.com/rss/articles/CBMingFBVV95cUxNUFVKQ3VjT2hldzkzekdNUjFnbUllMngwYlZLWU8yWUY1aHRKMFpqd29mM0ZkWGh3YkFaeXcxcW1MNlBrR2RTMXcxS2N6Ylp1YWtIVzlwWjUtdXJuWmNTMS02aUttVENYdUp3Z2NNSFFmd2RQWS1OcHd4OGFrNVNPcW1jelduZnBBV1lJZVhnOUZzY2NQZHBGN19nenJEdw?oc=5)**
+   - 来源: google-news/devtools
+   - 摘要: Vercel launches agent framework and enterprise controls Let's Data Science
+
+5. **[Unreal Engine 6 gets 2027 "Early Access" launch - OC3D](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTdwNUZZNzRVbThiQXJaTXhEOER5U1d5TlJlSHpsRGVVa2pVTzlOaWgybFBOaDZFWWNnbkF0ZFI1ek5OY0FMRElVTnBxY0E0SC1GdG5nTk4xTkREZk8zbHdCWDVHb3dLdURUMHc2N2QzNXNDczdlTF9YcnlKdFRPdVYta1BmaDFCdzVETmx4YVl3enhHUnlkLUNCN0liTFNWb2hLUXB6NkJvOTNPcXNDSF9ycHg?oc=5)**
+   - 来源: google-news/devtools
+   - 摘要: Unreal Engine 6 gets 2027 "Early Access" launch OC3D
+
+6. **[OpenAI Codex Outage: Severe Model Capacity Failures - Techgenyz](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mWXk4VnNxYnBianBMSnNPam1LZGU0d0E4NDBydjk1MVBpRDNZMzQ4RWl3bUh6d25vQ1FhOHA4Z2xlcEN1TkpzMGdOOEYxZUUyX1ZCcg?oc=5)**
+   - 来源: google-news/devtools
+   - 摘要: OpenAI Codex Outage: Severe Model Capacity Failures Techgenyz
+
+---
+
+## 金融科技
+
+1. **[Nigeria identifies government payments to boost struggling CBDC - Global Government Finance](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOE1vOEFUcnBoNG5PdGZ5NHdPY1h2Ri10OHhZcVFKS0ZsdVBNWi1DR0t5Nm1vQUFjcHEyc01TdUFXTTVtandGdE9aTVhUS3FfbnZhMzl3cVdPSVVOVHEtTXpTUGV4UTU1SW9DMXFMNERtaDdQOGI4eHBXQkd6cndMY294aFZKR1lGUGhPMllHY0VpTWs?oc=5)**
+   - 来源: google-news/fintech
+   - 摘要: Nigeria identifies government payments to boost struggling CBDC Global Government Finance
+
+2. **[Profile Software Showcases AI-Driven Banking Transformation Solutions at UNCHAIN Fintech Festival 2026 in Romania - Fintechgate](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTWV3cFlSTmtvOTdlZUZfRXN4dWFKNTUxY0Yza1BQSVdBZnVIakphdGhxNkRJUFAxRk11MGpjT0ItbkhSelUwby1iV29xZmdsR2pBRGhLX213ZGN6TkpGZVJzVFc5alFBaTVsZHZCa0VKN256UVFLd0dfYkpoaElnY3E1V0ZXdnVhSWIwaU9jYjRmTkVueGFHX0RRR0ZCVXVZeHp3cV9JbWNsampsSDhZVTVKUW5NSGR0aUZ4cVMxY2hzQ2MtTVBvcHI2aUROcktBSFVDUmo0ejlPRjV6WElJMUcwWQ?oc=5)**
+   - 来源: google-news/fintech
+   - 摘要: Profile Software Showcases AI-Driven Banking Transformation Solutions at UNCHAIN Fintech Festival 2026 in Romania Fintechgate
+
+3. **[U.S. Faster Payments Council Report Examines How Digital Inclusion Drives Financial Inclusion - Fintech Finance](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ3VHQ0FhdnQ3V2FxV1FxQXk1QWVXdk8tZExDRjlUOHgyZ1JJTlRnTXhxR3IxV1loWi1mRzdWZUExemF0SU5mU09MeWJPeURYM1M1U01BUnJKTUtUZU9icmw2UVczM0ZZcEZLeHprbXpaMFM4S0ZlRm42cUV4b19EMmJETVd3UkpMTlJEcEhrYklPRjV1SnNqdC0tVnBJXzA5N0gyZzc3S24zNXoxc2pRM194WFQ1cFVFb0xPckd2WlNYSHZCajJsejJDck0?oc=5)**
+   - 来源: google-news/fintech
+   - 摘要: U.S. Faster Payments Council Report Examines How Digital Inclusion Drives Financial Inclusion Fintech Finance
+
+4. **[First Commerce Bank Selects FIS Core Banking to Compete in an AI-Ready Future - Business Wire](https://news.google.com/rss/articles/CBMizwFBVV95cUxNb2w4ZkJERDJmTHotYUd6aTlHN2tPemRyeWNWSWJ5bmRHOEVNNmw2YTExQVFtTlU4TENfR253SmxmQmh0YmdRYWdlNkEzQU95R2IyUS1NVGVuclFiRk9OSjZnQ2sxRGF3MDE4blhiVnU1cndUR2ZvWV9fOWRXU0c3dUlXdnNYSHZIcVg1ZTlCZDl1U2J5aUhsQzA1LVprLWd6OUVoWXc3X0Z5ZTVZaHdhcTVITUZzcGtsbzJXQk5ZOG5mRkw0RGJ3N2k2TlhZMHM?oc=5)**
+   - 来源: google-news/fintech
+   - 摘要: First Commerce Bank Selects FIS Core Banking to Compete in an AI-Ready Future Business Wire
+
+5. **[Stock Market Today, June 17: Nu Holdings Rises as AI Credit Models Lift Lending Outlook - The Globe and Mail](https://news.google.com/rss/articles/CBMiggJBVV95cUxNZngwZmdrV2FOLWhYa0MyZlV3VVZKLUVQbnJPenRWRnRmXzh1R3lCSmgxTE5Qa3RRN1djOFl5Q0tFUGpPYzU2SEhBbHpsZmRSNkM3SW4xSW5HMy1WUkgtRG93SEhjdmZ1M0xJT1hRUEpFeG1aenlsUGhoU21kQjVzOWJEcjhaaUJYb0VWZmVCY1VnU2NOYVBBM0NZSy1HNHNocmtnRUo1ZG9CNk5Kb3dKMWowaVozUjFtUTRBRUswRE96WXpwdndWanJta3lTekRZSEZYRC1HLUI1WGJ1WTV3eDRtMzA4bGFxX1NnSmt5azJ1SVFBSlJzTFVYVE9wTjc5QUE?oc=5)**
+   - 来源: google-news/fintech
+   - 摘要: Stock Market Today, June 17: Nu Holdings Rises as AI Credit Models Lift Lending Outlook The Globe and Mail
+
+6. **[Top 10: Chatbots in Fintech - FinTech Magazine](https://news.google.com/rss/articles/CBMibEFVX3lxTE5GWTE2eEtGY0JwemdEM1J5dzNONVd1NGsxZXpFSlgtdHlIYjFGeV81NUxZOHl4OFVUQUZIelVnOXpLUy1zQmlDZDVZNzctWDVxNWVVQWVSN3JnOG5LdDFuTXl0cDNOQWIyS01fbw?oc=5)**
+   - 来源: google-news/fintech
+   - 摘要: Top 10: Chatbots in Fintech FinTech Magazine
+
+---
+
+## 社会新闻/科技政策
+
+1. **[AI, Privacy, and the Hidden Architecture of Harm from Inference - Tech Policy Press](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXl3N0tCeG9JbndhV2tnYVJ4Zm1qRDFIRFNLZDEydmdLZ0NlMGZqbm1CQldpb2FtYk5PZmlUb3A5cGltQUh5b01oZFpOSTJXY3NoTDE3VlAzV2gwc0tfTm96X1BIRHRBa3ZTcmF5Y1FZaUtVdnJ0cFhxWk5jcnlRbkdfSVVhSDA1MS0zTjhqNTRES3E0ZEE?oc=5)**
+   - 来源: google-news/tech-policy
+   - 摘要: AI, Privacy, and the Hidden Architecture of Harm from Inference Tech Policy Press
+
+2. **[French president urges US to share cutting-edge AI and democracies to cooperate on regulation - The Washington Post](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmsweGtCM0dIUTZOYWo1eTJJQUQ4OUpyTUhvZ1hJV1U1WGNtRk9aY0pkVXN2NV9hRTY4NUxSY1l1OTR0MDgyQkRsLW9ueUNVQXQ5UUVhM1dSZ3QyTXFhZjZfU1B5QUU5d3cyRnNCeVNSVkJzWF85R004TUV4TW1aWkZCMXlFZ0JZRllfb2hXVlozU0lwamlYWlhhOEZ0NnZkcFRXbkQtaVJ1Q0JkTV9BSlVQanpaSDNTSDBybVpQZjg?oc=5)**
+   - 来源: google-news/tech-policy
+   - 摘要: French president urges US to share cutting-edge AI and democracies to cooperate on regulation The Washington Post
+
+3. **[A Primer on the Great American Artificial Intelligence Act - Cato Institute](https://news.google.com/rss/articles/CBMigAFBVV95cUxQOEU5czI5Vld0eUhoaEJGV1l0aHhKQU9ZNXRnNHJvR0VPTFUyY1BWWVNHN1NaS2xLdTE5Ui16Wkk2SVFGTnNjUkhfbVUyQVdmcW1wNm9weVMtOVYyeUEzektfT1pTM0prMHcwVDdrY291Y25yZC1BX2ptVkt2WkpkNw?oc=5)**
+   - 来源: google-news/tech-policy
+   - 摘要: A Primer on the Great American Artificial Intelligence Act Cato Institute
+
+4. **[Healthcare AI Policy: What Clinicians Need to Know - Telehealth.org](https://news.google.com/rss/articles/CBMijgFBVV95cUxQYW1ZZGpZQTR5OGFMQ19HVmdQR0ZnYXpjNU9ucnBNSndzTmlueVFjZklJWkw0d0psZDlZV3NuMkVvZ2xYZHhqZ0ZBZ0U1SnFNckJ6bHVxdnhrVXFqcWoyWEhTVTVJR3MtMHhXN2RZM0JpSjJ4WWpsdzcyQ3BDd3REdEl1djhjeFhlTTRhRmpB?oc=5)**
+   - 来源: google-news/tech-policy
+   - 摘要: Healthcare AI Policy: What Clinicians Need to Know Telehealth.org
+
+5. **[California Reopens Opt-Out Period for Certain Interconnected VoIP Licenses and Refines Associated Regulatory Framework - Inside Global Tech](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQ09aOGUxWkNVeDJCX1V4VlBOaGlmSlQ3SVFNWjlwWWhWblFqbmNqTGpHWDFObVo5UVdsMWRDMDQxWXE4LVB3RlN6UkV2cEg3T0JZcE9rdGozSjRWU3VCSlJYY3J3M0hCbFhnSWg5NzhZNUxnMkVXZDBlT3ZiZFNLZ0F1V3Nua3NoaUhCNUZ1d1BrZ1lwSUpPT3FUYjZ5bE91T0p6bXVLbUdMZkxubkdaSk14LWhRNldTWGZhRHBZT1JmczFBdl9TdmwyU0Z1SkRCSnlMeE5MVUZibmVxUVQ2SUZsS3pYdmhnc0lMckp6aXdpOWJuZVE?oc=5)**
+   - 来源: google-news/tech-policy
+   - 摘要: California Reopens Opt-Out Period for Certain Interconnected VoIP Licenses and Refines Associated Regulatory Framework Inside Global Tech
+
+6. **[Privacy Regulation Strategies in the Age of AI - Carnegie Mellon University](https://news.google.com/rss/articles/CBMieEFVX3lxTE5jVWt3MnJ1WFRCU3ZLQTRYdlRPckVJc0dTWHVzUnN1SkRiUWY1VEZBTndFVmdGcDZDZ1lFSm5lcm5DSFhEdmlvTlY2NFNFVmpaaWNTZ2k2bnAtbU1MTS12TUNmZF81Uy1mS3pSSjdlYTJKQVZCdEpnUg?oc=5)**
+   - 来源: google-news/tech-policy
+   - 摘要: Privacy Regulation Strategies in the Age of AI Carnegie Mellon University
+
+---
