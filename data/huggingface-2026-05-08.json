@@ -1,0 +1,467 @@
+{
+  "source": "HuggingFace Papers",
+  "date": "2026-05-08",
+  "fetched_at": "2026-05-08T08:08:00+08:00",
+  "description": "HuggingFace Papers 热门论文 Top 15（按点赞数排序）",
+  "papers": [
+    {
+      "rank": 1,
+      "paper_id": "2605.03849",
+      "title": "Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation",
+      "authors": [
+        "Bin Wu",
+        "Mengqi Huang",
+        "Shaojin Wu",
+        "Weinan Jia",
+        "Yuxin Wang",
+        "Zhendong Mao",
+        "Yongdong Zhang"
+      ],
+      "link": "https://huggingface.co/papers/2605.03849",
+      "arxiv_link": "https://arxiv.org/abs/2605.03849",
+      "upvotes": 108,
+      "abstract": "Distillation-based acceleration has become foundational for making autoregressive streaming video diffusion models practical, with distribution matching distillation (DMD) as the de facto choice. Existing methods, however, train the student to match the teacher's output indiscriminately, treating every rollout, frame, and pixel as equally reliable supervision. We argue that this caps distilled quality, since it overlooks two complementary axes of variance in DMD supervision: Inter-Reliability across student rollouts whose supervision varies in reliability, and Intra-Perplexity across spatial regions and temporal frames that contribute unequally to where quality can still be improved. The objective thus conflates two questions under a uniform weight: whether to learn from each rollout, and where to concentrate optimization within it. To address this, we propose Stream-R1, a Reliability-Perplexity Aware Reward Distillation framework that adaptively reweights the distillation objective at both rollout and spatiotemporal-element levels through a single shared reward-guided mechanism.",
+      "tags": [
+        "distribution matching distillation",
+        "student-teacher model",
+        "rollout",
+        "video reward score",
+        "gradient saliency",
+        "spatiotemporal-element",
+        "reward-guided mechanism",
+        "distillation objective",
+        "visual quality",
+        "motion quality",
+        "text alignment"
+      ]
+    },
+    {
+      "rank": 2,
+      "paper_id": "2605.04461",
+      "title": "Stream-T1: Test-Time Scaling for Streaming Video Generation",
+      "authors": [
+        "Yijing Tu",
+        "Shaojin Wu",
+        "Mengqi Huang",
+        "Wenchuan Wang",
+        "Yuxin Wang",
+        "Chunxiao Liu",
+        "Zhendong Mao"
+      ],
+      "link": "https://huggingface.co/papers/2605.04461",
+      "arxiv_link": "https://arxiv.org/abs/2605.04461",
+      "upvotes": 93,
+      "abstract": "While Test-Time Scaling (TTS) offers a promising direction to enhance video generation without the surging costs of training, current test-time video generation methods based on diffusion models suffer from exorbitant candidate exploration costs and lack temporal guidance. To address these structural bottlenecks, we propose shifting the focus to streaming video generation. We identify that its chunk-level synthesis and few denoising steps are intrinsically suited for TTS, significantly lowering computational overhead while enabling fine-grained temporal control. Driven by this insight, we introduced Stream-T1, a pioneering comprehensive TTS framework exclusively tailored for streaming video generation.",
+      "tags": [
+        "Test-Time Scaling",
+        "diffusion models",
+        "video generation",
+        "temporal guidance",
+        "streaming video generation",
+        "denoising steps",
+        "latent noise",
+        "temporal dependency",
+        "Gaussian prior",
+        "reward pruning",
+        "sliding-window evaluation",
+        "memory sinking",
+        "KV-cache"
+      ]
+    },
+    {
+      "rank": 3,
+      "paper_id": "2605.03269",
+      "title": "RLDX-1 Technical Report",
+      "authors": [
+        "Dongyoung Kim",
+        "Huiwon Jang",
+        "Myungkyu Koo",
+        "Suhyeok Jang",
+        "Taeyoung Kim",
+        "Beomjun Kim",
+        "Byungjun Yoon",
+        "Changsung Jang",
+        "Daewon Choi",
+        "Dongsu Han"
+      ],
+      "link": "https://huggingface.co/papers/2605.03269",
+      "arxiv_link": "https://arxiv.org/abs/2605.03269",
+      "upvotes": 85,
+      "abstract": "While Vision-Language-Action models (VLAs) have shown remarkable progress toward human-like generalist robotic policies through the versatile intelligence inherited from pre-trained Vision-Language Models, they still struggle with complex real-world tasks requiring broader functional capabilities (e.g. motion awareness, memory-aware decision making, and physical sensing). To address this, we introduce RLDX-1, a general-purpose robotic policy for dexterous manipulation built on the Multi-Stream Action Transformer (MSAT), an architecture that unifies these capabilities by integrating heterogeneous modalities through modality-specific streams with cross-modal joint self-attention.",
+      "tags": [
+        "Vision-Language-Action models",
+        "Multi-Stream Action Transformer",
+        "cross-modal joint self-attention",
+        "dexterous manipulation",
+        "humanoid robot",
+        "real-time deployment",
+        "simulation benchmarks",
+        "real-world tasks"
+      ]
+    },
+    {
+      "rank": 4,
+      "paper_id": "2605.05185",
+      "title": "OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents",
+      "authors": [
+        "Shuang Chen",
+        "Kaituo Feng",
+        "Hangting Chen",
+        "Wenxuan Huang",
+        "Dasen Dai",
+        "Quanxin Shou",
+        "Yunlong Lin",
+        "Xiangyu Yue",
+        "Shenghua Gao",
+        "Tianyu Pang"
+      ],
+      "link": "https://huggingface.co/papers/2605.05185",
+      "arxiv_link": "https://arxiv.org/abs/2605.05185",
+      "upvotes": 80,
+      "abstract": "Deep search has become a crucial capability for frontier multimodal agents, enabling models to solve complex questions through active search, evidence verification, and multi-step reasoning. To this end, we introduce OpenSearch-VL, a fully open-source recipe for training frontier multimodal deep search agents with agentic reinforcement learning. We curated a dedicated pipeline to construct high-quality training data through Wikipedia path sampling, fuzzy entity rewriting, and source-anchor visual grounding.",
+      "tags": [
+        "multimodal search agents",
+        "agentic reinforcement learning",
+        "Wikipedia path sampling",
+        "fuzzy entity rewriting",
+        "source-anchor visual grounding",
+        "SFT",
+        "RL",
+        "tool environment",
+        "OCR",
+        "cropping",
+        "sharpening",
+        "super-resolution",
+        "perspective correction",
+        "GRPO",
+        "advantage clamping"
+      ]
+    },
+    {
+      "rank": 5,
+      "paper_id": "2605.04036",
+      "title": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
+      "authors": [
+        "Yuwen Du",
+        "Rui Ye",
+        "Shuo Tang",
+        "Keduan Huang",
+        "Xinyu Zhu",
+        "Yuzhu Cai",
+        "Siheng Chen"
+      ],
+      "link": "https://huggingface.co/papers/2605.04036",
+      "arxiv_link": "https://arxiv.org/abs/2605.04036",
+      "upvotes": 55,
+      "abstract": "Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. In this report, we show that when fueled with informative and high-difficulty trajectories, a simple SFT approach could be surprisingly powerful for training frontier search agents. Trained on merely 10.6k data points, our OpenSeeker-v2 achieves state-of-the-art performance across 4 benchmarks (30B-sized agents with ReAct paradigm): 46.0% on BrowseComp, 58.1% on BrowseComp-ZH, 34.6% on Humanity's Last Exam, and 78.0% on xbench.",
+      "tags": [
+        "Large Language Model",
+        "continual pre-training",
+        "supervised fine-tuning",
+        "reinforcement learning",
+        "knowledge graph",
+        "tool set",
+        "ReAct paradigm",
+        "BrowseComp",
+        "BrowseComp-ZH",
+        "Humanity's Last Exam",
+        "xbench"
+      ]
+    },
+    {
+      "rank": 6,
+      "paper_id": "2605.05163",
+      "title": "PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World",
+      "authors": [
+        "Yunhan Yang",
+        "Chunshi Wang",
+        "Junliang Ye",
+        "Yang Li",
+        "Zanxin Chen",
+        "Zehuan Huang",
+        "Yao Mu",
+        "Zhuo Chen",
+        "Chunchao Guo",
+        "Xihui Liu"
+      ],
+      "link": "https://huggingface.co/papers/2605.05163",
+      "arxiv_link": "https://arxiv.org/abs/2605.05163",
+      "upvotes": 30,
+      "abstract": "Synthesizing physics-grounded 3D assets is a critical bottleneck for interactive virtual worlds and embodied AI. We propose that interactive asset generation must be rooted in functional logic and hierarchical physics. To bridge this gap, we introduce PhysForge, a decoupled two-stage framework supported by PhysDB, a large-scale dataset of 150,000 assets with four-tier physical annotations.",
+      "tags": [
+        "visual-language model",
+        "physics-grounded diffusion model",
+        "KineVoxel Injection",
+        "Hierarchical Physical Blueprint",
+        "kinematic parameters",
+        "simulation-ready assets"
+      ]
+    },
+    {
+      "rank": 7,
+      "paper_id": "2605.04018",
+      "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
+      "authors": [
+        "Yilun Zhao",
+        "Jinbiao Wei",
+        "Tingyu Song",
+        "Siyue Zhang",
+        "Chen Zhao",
+        "Arman Cohan"
+      ],
+      "link": "https://huggingface.co/papers/2605.04018",
+      "arxiv_link": "https://arxiv.org/abs/2605.04018",
+      "upvotes": 27,
+      "abstract": "Reasoning-intensive retrieval aims to surface evidence that supports downstream reasoning rather than merely matching topical similarity. We introduce BRIGHT-Pro, an expert-annotated benchmark that expands each query with multi-aspect gold evidence and evaluates retrievers under both static and agentic search protocols. We further construct RTriever-Synth, an aspect-decomposed synthetic corpus that generates complementary positives and positive-conditioned hard negatives, and use it to LoRA fine-tune RTriever-4B from Qwen3-Embedding-4B.",
+      "tags": [
+        "reasoning-intensive retrieval",
+        "agentic search systems",
+        "evidence portfolio construction",
+        "BRIGHT",
+        "BRIGHT-Pro",
+        "RTriever-Synth",
+        "aspect-decomposed synthetic corpus",
+        "LoRA fine-tuning",
+        "Qwen3-Embedding-4B",
+        "RTriever-4B"
+      ]
+    },
+    {
+      "rank": 8,
+      "paper_id": "2605.05204",
+      "title": "D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models",
+      "authors": [
+        "Dengyang Jiang",
+        "Xin Jin",
+        "Dongyang Liu",
+        "Zanyi Wang",
+        "Mingzhe Zheng",
+        "Ruoyi Du",
+        "Xiangpeng Yang",
+        "Qilong Wu",
+        "Zhen Li",
+        "Peng Gao",
+        "Harry Yang",
+        "Steven Hoi"
+      ],
+      "link": "https://huggingface.co/papers/2605.05204",
+      "arxiv_link": "https://arxiv.org/abs/2605.05204",
+      "upvotes": 19,
+      "abstract": "The landscape of high-performance image generation models is currently shifting from the inefficient multi-step ones to the efficient few-step counterparts (e.g, Z-Image-Turbo and FLUX.2-klein). We propose D-OPSD, a novel training paradigm for step-distilled diffusion models that enables on-policy learning during supervised fine-tuning. During training, we make the model acts as both the teacher and the student with different contexts, where the student is conditioned only on the text feature, while the teacher is conditioned on the multimodal feature of both the text prompt and the target image.",
+      "tags": [
+        "diffusion models",
+        "supervised fine-tuning",
+        "on-policy learning",
+        "self-distillation",
+        "text feature",
+        "multimodal feature",
+        "few-step inference",
+        "step-distilled diffusion models"
+      ]
+    },
+    {
+      "rank": 9,
+      "paper_id": "2605.04569",
+      "title": "Lightning Unified Video Editing via In-Context Sparse Attention",
+      "authors": [
+        "Shitong Shao",
+        "Zikai Zhou",
+        "Haopeng Li",
+        "Yingwei Song",
+        "Wenliang Zhong",
+        "Lichen Bai",
+        "Zeke Xie"
+      ],
+      "link": "https://huggingface.co/papers/2605.04569",
+      "arxiv_link": "https://arxiv.org/abs/2605.04569",
+      "upvotes": 11,
+      "abstract": "Video editing has evolved toward In-Context Learning (ICL) paradigms, yet the resulting quadratic attention costs create a critical computational bottleneck. We propose In-context Sparse Attention (ISA), the first near-lossless empirical sparse framework tailored for ICL video editing. We build LIVEditor, a novel lightning video editing model via ISA and a proposed video-editing data pipeline that curated a 1.7M high-quality dataset. LIVEditor achieves a ~60% reduction in attention-module latency while surpassing state-of-the-art methods across EditVerseBench, IVE-Bench, and VIE-Bench.",
+      "tags": [
+        "In-Context Learning",
+        "sparse attention",
+        "attention-module latency",
+        "query sharpness",
+        "0-th order Taylor sparse attention",
+        "video editing",
+        "EditVerseBench",
+        "IVE-Bench",
+        "VIE-Bench"
+      ]
+    },
+    {
+      "rank": 10,
+      "paper_id": "2605.04453",
+      "title": "StableI2I: Spotting Unintended Changes in Image-to-Image Transition",
+      "authors": [
+        "Jiayang Li",
+        "Shuo Cao",
+        "Xiaohui Li",
+        "Zhizhen Zhang",
+        "Kaiwen Zhu",
+        "Yule Duan",
+        "Yu Qiao",
+        "Jian Zhang",
+        "Yihao Liu"
+      ],
+      "link": "https://huggingface.co/papers/2605.04453",
+      "arxiv_link": "https://arxiv.org/abs/2605.04453",
+      "upvotes": 9,
+      "abstract": "In most real-world image-to-image (I2I) scenarios, existing evaluations primarily focus on instruction following and the perceptual quality or aesthetics of the generated images. We propose StableI2I, a unified and dynamic evaluation framework that explicitly measures content fidelity and pre-post consistency across a wide range of I2I tasks without requiring reference images. We also construct StableI2I-Bench, a benchmark designed to systematically evaluate the accuracy of MLLMs on fidelity and consistency assessment tasks.",
+      "tags": [
+        "image-to-image",
+        "content fidelity",
+        "pre-post consistency",
+        "StableI2I",
+        "StableI2I-Bench",
+        "MLLMs",
+        "image editing",
+        "image restoration"
+      ]
+    },
+    {
+      "rank": 11,
+      "paper_id": "2605.04128",
+      "title": "Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation",
+      "authors": [
+        "Lin Song",
+        "Wenbo Li",
+        "Guoqing Ma",
+        "Wei Tang",
+        "Bo Wang",
+        "Yuan Zhang",
+        "Yijun Yang",
+        "Yicheng Xiao",
+        "Jianhui Liu",
+        "Yanbing Zhang"
+      ],
+      "link": "https://huggingface.co/papers/2605.04128",
+      "arxiv_link": "https://arxiv.org/abs/2605.04128",
+      "upvotes": 8,
+      "abstract": "We present JoyAI-Image, a unified multimodal foundation model for visual understanding, text-to-image generation, and instruction-guided image editing. JoyAI-Image couples a spatially enhanced Multimodal Large Language Model (MLLM) with a Multimodal Diffusion Transformer (MMDiT). This design gives the model broad multimodal capability while strengthening geometry-aware reasoning and controllable visual synthesis.",
+      "tags": [
+        "Multimodal Large Language Model",
+        "Multimodal Diffusion Transformer",
+        "spatially enhanced",
+        "unified instruction tuning",
+        "long-text rendering supervision",
+        "spatially grounded data",
+        "controllable visual synthesis",
+        "bidirectional loop",
+        "spatial intelligence",
+        "vision-language-action systems",
+        "world models"
+      ]
+    },
+    {
+      "rank": 12,
+      "paper_id": "2605.04012",
+      "title": "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment",
+      "authors": [
+        "Joseph Breda",
+        "Fadi Yousif",
+        "Beszel Hawkins",
+        "Marinela Cotoi",
+        "Miao Liu",
+        "Ray Luo",
+        "Po-Hsuan Cameron Chen",
+        "Mike Schaekermann",
+        "Samuel Schmidgall",
+        "Xin Liu"
+      ],
+      "link": "https://huggingface.co/papers/2605.04012",
+      "arxiv_link": "https://arxiv.org/abs/2605.04012",
+      "upvotes": 8,
+      "abstract": "Language models excel at diagnostic assessments on curated medical case-studies and vignettes. We deployed SymptomAI, a set of conversational AI agents for end-to-end patient interviewing and differential diagnosis (DDx), via the Fitbit app in a study that randomized participants (N=13,917) to interact with five AI agents. SymptomAI DDx were significantly more accurate (OR = 2.47, p < 0.001) than those from independent clinicians given the same dialogue in a blinded randomized comparison.",
+      "tags": [
+        "conversational AI agents",
+        "differential diagnosis",
+        "symptom interview",
+        "wearable metrics",
+        "physiological shifts"
+      ]
+    },
+    {
+      "rank": 13,
+      "paper_id": "2605.03475",
+      "title": "WorldJen: An End-to-End Multi-Dimensional Benchmark for Generative Video Models",
+      "authors": [
+        "Karthik Inbasekar",
+        "Guy Rom",
+        "Omer Shlomovits"
+      ],
+      "link": "https://huggingface.co/papers/2605.03475",
+      "arxiv_link": "https://arxiv.org/abs/2605.03475",
+      "upvotes": 7,
+      "abstract": "Evaluating generative video models remains an open problem. Reference-based metrics such as SSIM and PSNR reward pixel fidelity over semantic correctness. WorldJen addresses these limitations by replacing binary VQA with Likert-scale questionnaires graded by a VLM that receives frames at native video resolution. The framework uses adversarially curated prompts designed to exercise up to 16 quality dimensions simultaneously.",
+      "tags": [
+        "generative video models",
+        "Structural Similarity Index Measure",
+        "Peak Signal to Noise Ratio",
+        "Frechet Video Distance",
+        "Binary Visual Question Answering",
+        "VLM-as-a-judge",
+        "Bradley-Terry rating",
+        "Spearman correlation"
+      ]
+    },
+    {
+      "rank": 14,
+      "paper_id": "2605.03596",
+      "title": "Workspace-Bench 1.0: Benchmarking AI Agents on Workspace Tasks with Large-Scale File Dependencies",
+      "authors": [
+        "Zirui Tang",
+        "Xuanhe Zhou",
+        "Yumou Liu",
+        "Linchun Li",
+        "Weizheng Wang",
+        "Hongzhang Huang",
+        "Jun Zhou",
+        "Jiachen Song",
+        "Shaoli Yu",
+        "Jinqi Wang"
+      ],
+      "link": "https://huggingface.co/papers/2605.03596",
+      "arxiv_link": "https://arxiv.org/abs/2605.03596",
+      "upvotes": 5,
+      "abstract": "Workspace learning requires AI agents to identify, reason over, exploit, and update explicit and implicit dependencies among heterogeneous files. We introduce Workspace-Bench, a benchmark for evaluating AI agents on Workspace Learning involving Large-Scale File Dependencies. We construct realistic workspaces with 5 worker profiles, 74 file types, 20,476 files (up to 20GB) and curate 388 tasks. The best agent reaches only 68.7%, substantially below the human result of 80.7%.",
+      "tags": [
+        "workspace learning",
+        "file dependencies",
+        "agent harnesses",
+        "foundation models",
+        "cross-file retrieval",
+        "contextual reasoning",
+        "adaptive decision-making"
+      ]
+    },
+    {
+      "rank": 15,
+      "paper_id": "2605.03571",
+      "title": "PatRe: A Full-Stage Office Action and Rebuttal Generation Benchmark for Patent Examination",
+      "authors": [
+        "Qiyao Wang",
+        "Xinyu Chen",
+        "Longze Chen",
+        "Hongbo Wang",
+        "Hamid Alinejad-Rokny",
+        "Yuan Lin",
+        "Min Yang"
+      ],
+      "link": "https://huggingface.co/papers/2605.03571",
+      "arxiv_link": "https://arxiv.org/abs/2605.03571",
+      "upvotes": 5,
+      "abstract": "Patent examination is a complex, multi-stage process requiring both technical expertise and legal reasoning. We introduce PatRe, the first benchmark that models the full patent examination lifecycle, including Office Action generation and applicant rebuttal. PatRe comprises 480 real-world cases and supports both oracle and retrieval-simulated evaluation settings.",
+      "tags": [
+        "patent examination",
+        "office action generation",
+        "applicant rebuttal",
+        "multi-turn process",
+        "legal reasoning",
+        "technical novelty judgment",
+        "LLMs",
+        "benchmark",
+        "dynamic interaction"
+      ]
+    }
+  ]
+}

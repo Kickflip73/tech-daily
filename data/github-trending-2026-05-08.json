@@ -1,0 +1,1093 @@
+{
+  "date": "2026-05-08",
+  "fetched_at": "2026-05-08T00:11:00Z",
+  "source": "https://github.com/trending",
+  "categories": {
+    "all_languages_top15": [
+      {
+        "rank": 1,
+        "name": "anthropics/financial-services",
+        "url": "https://github.com/anthropics/financial-services",
+        "description": "Reference agents, skills, and data connectors for financial-services workflows: investment banking, equity research, private equity, and wealth management. Dual deployment via Cowork plugin or Managed Agents API.",
+        "language": "Python",
+        "stars_total": 11628,
+        "stars_today": 1343,
+        "forks": 1513,
+        "key_features": [
+          "10 named workflow agents: Pitch Agent, Market Researcher, GL Reconciler, KYC Screener, Month-End Closer",
+          "Dual deployment: Claude Cowork plugin OR Claude Managed Agents API",
+          "FSI vertical plugins with /comps, /dcf, /earnings slash commands",
+          "Partner-built integrations: LSEG, S&P Global",
+          "Human-in-the-loop design — all outputs staged for professional sign-off"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "addyosmani/agent-skills",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents — 7 slash commands covering the full software development lifecycle.",
+        "language": "Shell",
+        "stars_total": 32919,
+        "stars_today": 3062,
+        "forks": 3807,
+        "key_features": [
+          "7 slash commands: /spec, /plan, /build, /test, /review, /code-simplify, /ship",
+          "20 underlying skills covering full SDLC",
+          "Auto-activates context-appropriate skills",
+          "Compatible with Claude Code, Cursor, Gemini CLI, Windsurf, OpenCode, Copilot, Kiro, Codex",
+          "Plain Markdown — works with any agent accepting system prompts"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "z-lab/dflash",
+        "url": "https://github.com/z-lab/dflash",
+        "description": "DFlash: Block Diffusion for Flash Speculative Decoding — lightweight block diffusion model for efficient, high-quality parallel LLM inference.",
+        "language": "Python",
+        "stars_total": 3487,
+        "stars_today": 671,
+        "forks": 247,
+        "key_features": [
+          "Block diffusion speculative decoding architecture (arxiv:2602.06036)",
+          "Draft models for Gemma-4, Qwen3.6/3.5, Kimi-K2.5, gpt-oss, Llama-3.1",
+          "Backends: vLLM v0.20.1+, SGLang, Transformers, MLX (Apple Silicon)",
+          "15+ speculative tokens per step",
+          "Docker-ready; open training recipe coming soon"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "InsForge/InsForge",
+        "url": "https://github.com/InsForge/InsForge",
+        "description": "InsForge is a Postgres-based backend platform for AI-native developers with auth, storage, compute, hosting, and AI gateway — built for coding agents.",
+        "language": "TypeScript",
+        "stars_total": 8848,
+        "stars_today": 460,
+        "forks": 732,
+        "key_features": [
+          "Backend primitives through semantic layer for AI agent comprehension",
+          "Postgres-native: database, auth, storage, functions unified",
+          "MCP Server integration for Claude Code, Cursor, etc.",
+          "Self-hostable via Docker Compose",
+          "Built-in AI gateway for LLM routing; Apache 2.0"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "LearningCircuit/local-deep-research",
+        "url": "https://github.com/LearningCircuit/local-deep-research",
+        "description": "~95% on SimpleQA benchmark. Local deep research supporting all LLMs, 10+ search engines (arXiv, PubMed, private docs). Fully local & encrypted.",
+        "language": "Python",
+        "stars_total": 6232,
+        "stars_today": 559,
+        "forks": 548,
+        "key_features": [
+          "~95% SimpleQA with Qwen3.6-27B on RTX 3090",
+          "10+ search engines: arXiv, PubMed, private document corpus",
+          "Supports llama.cpp, Ollama, Google, 10+ LLM providers",
+          "Fully local, encrypted — no external data transfer"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "VectifyAI/PageIndex",
+        "url": "https://github.com/VectifyAI/PageIndex",
+        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG — eliminates vector databases from RAG pipelines.",
+        "language": null,
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Vectorless RAG — no embedding DB required",
+          "Reasoning-based document retrieval",
+          "Novel document indexing approach"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "vercel-labs/open-agents",
+        "url": "https://github.com/vercel-labs/open-agents",
+        "description": "An open source template for building cloud agents, by Vercel Labs.",
+        "language": "TypeScript",
+        "stars_total": 5036,
+        "stars_today": 131,
+        "forks": 636,
+        "key_features": [
+          "Open source cloud agent template from Vercel Labs",
+          "TypeScript-first architecture",
+          "Deployable on Vercel edge infrastructure"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "docusealco/docuseal",
+        "url": "https://github.com/docusealco/docuseal",
+        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ — self-hostable e-signature platform.",
+        "language": null,
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Open source DocuSign alternative",
+          "Create, fill, sign digital documents",
+          "Self-hostable e-signature workflows",
+          "Form builder with conditional logic"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "decolua/9router",
+        "url": "https://github.com/decolua/9router",
+        "description": "🆓 Unlimited FREE AI coding via 40+ providers with auto-fallback and RTK -40% token compression. Connects Claude Code, Codex, Cursor, Cline, Copilot to free Claude/GPT/Gemini.",
+        "language": "JavaScript",
+        "stars_total": 4505,
+        "stars_today": 149,
+        "forks": 979,
+        "key_features": [
+          "40+ AI provider aggregation with auto-fallback",
+          "RTK compression reducing tokens by ~40%",
+          "Compatible with Claude Code, Codex, Cursor, Cline, Copilot, Antigravity",
+          "Routes to free Claude/GPT/Gemini tiers"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "PriorLabs/TabPFN",
+        "url": "https://github.com/PriorLabs/TabPFN",
+        "description": "⚡ TabPFN: Foundation Model for Tabular Data — zero-shot ML on structured datasets without per-task training.",
+        "language": "Python",
+        "stars_total": 6782,
+        "stars_today": 230,
+        "forks": 669,
+        "key_features": [
+          "Foundation model for tabular data",
+          "Prior-Data Fitted Networks (PFN) methodology",
+          "Zero-shot inference — no per-dataset training needed",
+          "Extremely fast prediction at inference time"
+        ]
+      },
+      {
+        "rank": 11,
+        "name": "aaif-goose/goose",
+        "url": "https://github.com/aaif-goose/goose",
+        "description": "An open source, extensible AI agent that goes beyond code suggestions — install, execute, edit, and test with any LLM.",
+        "language": null,
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Open source extensible AI agent",
+          "Full workflow: install, execute, edit, test",
+          "Works with any LLM backend"
+        ]
+      },
+      {
+        "rank": 12,
+        "name": "Augani/openreel-video",
+        "url": "https://github.com/Augani/openreel-video",
+        "description": "OpenReel Video — professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
+        "language": "TypeScript",
+        "stars_total": 1673,
+        "stars_today": 233,
+        "forks": 253,
+        "key_features": [
+          "100% browser-based, no installation required",
+          "All processing local — no cloud uploads",
+          "No watermarks",
+          "Open source CapCut alternative",
+          "Professional-grade timeline editor"
+        ]
+      },
+      {
+        "rank": 13,
+        "name": "Hmbown/DeepSeek-TUI",
+        "url": "https://github.com/Hmbown/DeepSeek-TUI",
+        "description": "Coding agent for DeepSeek models that runs in your terminal — TUI-based AI development environment.",
+        "language": "Rust",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Terminal UI (TUI) coding agent for DeepSeek",
+          "Rust-native performance",
+          "Interactive terminal-based AI coding"
+        ]
+      },
+      {
+        "rank": 14,
+        "name": "RightNow-AI/openfang",
+        "url": "https://github.com/RightNow-AI/openfang",
+        "description": "Open-source Agent Operating System — infrastructure layer for running and orchestrating AI agents.",
+        "language": "Rust",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Agent operating system primitives",
+          "Open source agent orchestration infrastructure",
+          "Rust-based for safety and performance"
+        ]
+      },
+      {
+        "rank": 15,
+        "name": "farion1231/cc-switch",
+        "url": "https://github.com/farion1231/cc-switch",
+        "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.",
+        "language": "Rust",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Desktop GUI for managing multiple AI coding agents",
+          "Cross-platform (Windows, macOS, Linux)",
+          "Unified interface for Claude Code, Codex, OpenCode, Gemini CLI",
+          "Built with Tauri (Rust)"
+        ]
+      }
+    ],
+    "python_top10": [
+      {
+        "rank": 1,
+        "name": "anthropics/financial-services",
+        "url": "https://github.com/anthropics/financial-services",
+        "description": "Reference agents, skills, and data connectors for financial-services workflows. Dual deployment via Cowork plugin or Managed Agents API.",
+        "language": "Python",
+        "stars_total": 11628,
+        "stars_today": 1343,
+        "forks": 1513,
+        "key_features": [
+          "10 named agents: Pitch Agent, Market Researcher, Earnings Reviewer, Model Builder, KYC Screener, GL Reconciler",
+          "Cowork plugin + Managed Agents API dual-mode deployment",
+          "/comps, /dcf, /earnings vertical slash commands",
+          "Partner integrations: LSEG, S&P Global",
+          "Human sign-off required — no autonomous transactions"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "z-lab/dflash",
+        "url": "https://github.com/z-lab/dflash",
+        "description": "DFlash: Block Diffusion for Flash Speculative Decoding — accelerates LLM inference via parallel block diffusion.",
+        "language": "Python",
+        "stars_total": 3487,
+        "stars_today": 671,
+        "forks": 247,
+        "key_features": [
+          "Block diffusion for speculative decoding (arxiv:2602.06036)",
+          "Draft models: Gemma-4, Qwen3.6/3.5, Kimi-K2.5, gpt-oss, Llama-3.1",
+          "Backends: vLLM v0.20.1+, SGLang, Transformers, MLX",
+          "15+ tokens drafted per speculative step",
+          "Docker images for Gemma4; open training recipe coming"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "LearningCircuit/local-deep-research",
+        "url": "https://github.com/LearningCircuit/local-deep-research",
+        "description": "Privacy-first local deep research with ~95% SimpleQA accuracy, supporting all LLMs and 10+ search engines.",
+        "language": "Python",
+        "stars_total": 6232,
+        "stars_today": 559,
+        "forks": 548,
+        "key_features": [
+          "~95% SimpleQA with Qwen3.6-27B on consumer GPU",
+          "10+ search sources: arXiv, PubMed, private documents",
+          "Fully local and encrypted",
+          "Supports llama.cpp, Ollama, Google, and more"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "VectifyAI/PageIndex",
+        "url": "https://github.com/VectifyAI/PageIndex",
+        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG.",
+        "language": "Python",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Vectorless RAG — no vector DB required",
+          "Reasoning-based document retrieval",
+          "Novel indexing paradigm"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "PriorLabs/TabPFN",
+        "url": "https://github.com/PriorLabs/TabPFN",
+        "description": "⚡ TabPFN: Foundation Model for Tabular Data — zero-shot ML for structured datasets.",
+        "language": "Python",
+        "stars_total": 6782,
+        "stars_today": 230,
+        "forks": 669,
+        "key_features": [
+          "Foundation model for tabular data",
+          "Prior-Data Fitted Networks (PFN) approach",
+          "Zero-shot inference without per-task training",
+          "Fast predictions on small-to-medium datasets"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "freemocap/freemocap",
+        "url": "https://github.com/freemocap/freemocap",
+        "description": "Free Motion Capture for Everyone 💀✨ — open source markerless motion capture with commodity hardware.",
+        "language": "Python",
+        "stars_total": 8094,
+        "stars_today": 256,
+        "forks": 705,
+        "key_features": [
+          "Markerless motion capture with standard webcams",
+          "3D body pose estimation pipeline",
+          "Free and open source",
+          "Runs on consumer-grade hardware"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+        "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+        "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D talking face — runs locally across platforms.",
+        "language": "Python",
+        "stars_total": 7546,
+        "stars_today": 25,
+        "forks": 978,
+        "key_features": [
+          "Hands-free voice interaction with LLMs",
+          "Voice interruption support",
+          "Live2D animated talking avatar",
+          "Fully local and cross-platform",
+          "Modular LLM/TTS/STT backend support"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "github/spec-kit",
+        "url": "https://github.com/github/spec-kit",
+        "description": "💫 Toolkit to help you get started with Spec-Driven Development — official GitHub toolkit for SDD.",
+        "language": "Python",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Spec-Driven Development (SDD) methodology toolkit",
+          "Official GitHub project",
+          "Structured specification workflows for AI agents"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "openai/plugins",
+        "url": "https://github.com/openai/plugins",
+        "description": "OpenAI Plugins — official plugin framework and reference implementations.",
+        "language": "Python",
+        "stars_total": 1027,
+        "stars_today": 17,
+        "forks": 131,
+        "key_features": [
+          "Official OpenAI plugin framework",
+          "REST API-based integration standard",
+          "Reference plugin implementations",
+          "Authentication and manifest spec"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Blaizzy/mlx-vlm",
+        "url": "https://github.com/Blaizzy/mlx-vlm",
+        "description": "MLX-VLM: inference and fine-tuning of Vision Language Models on Mac (Apple Silicon) using MLX.",
+        "language": "Python",
+        "stars_total": 4663,
+        "stars_today": 50,
+        "forks": 522,
+        "key_features": [
+          "VLM inference & fine-tuning on Apple M-series chips",
+          "MLX-optimized for maximum Apple Silicon performance",
+          "Supports LLaVA, Qwen-VL, and other popular VLMs",
+          "Easy Python API"
+        ]
+      }
+    ],
+    "go_top10": [
+      {
+        "rank": 1,
+        "name": "sipeed/picoclaw",
+        "url": "https://github.com/sipeed/picoclaw",
+        "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity. From Sipeed hardware team.",
+        "language": "Go",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Lightweight Go automation framework",
+          "Deploys anywhere",
+          "From Sipeed (hardware/RISC-V specialists)"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "jackc/pgx",
+        "url": "https://github.com/jackc/pgx",
+        "description": "PostgreSQL driver and toolkit for Go — high-performance native Postgres driver with extensive feature support.",
+        "language": "Go",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Native Go PostgreSQL driver (no CGO)",
+          "Full PostgreSQL wire protocol support",
+          "pgxpool connection pooling",
+          "Copy protocol, LISTEN/NOTIFY, prepared statements"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "fleetdm/fleet",
+        "url": "https://github.com/fleetdm/fleet",
+        "description": "Open device management — osquery-based endpoint security, MDM, and compliance platform.",
+        "language": "Go",
+        "stars_total": 6332,
+        "stars_today": 8,
+        "forks": 869,
+        "key_features": [
+          "osquery-based endpoint visibility",
+          "MDM for macOS, Windows, Linux",
+          "Security compliance and vulnerability scanning",
+          "Open source, self-hostable"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "chenhg5/cc-connect",
+        "url": "https://github.com/chenhg5/cc-connect",
+        "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). No public IP required.",
+        "language": "Go",
+        "stars_total": 7831,
+        "stars_today": 252,
+        "forks": 726,
+        "key_features": [
+          "Bridges local AI agents to 7+ messaging platforms",
+          "No public IP needed for most platforms",
+          "Supports Claude Code, Cursor, Gemini CLI, Codex",
+          "Platforms: Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Tencent/WeKnora",
+        "url": "https://github.com/Tencent/WeKnora",
+        "description": "Open-source LLM knowledge platform: convert raw documents into queryable RAG, autonomous reasoning agent, and self-maintaining Wiki.",
+        "language": "Go",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Full RAG pipeline from raw documents",
+          "Autonomous reasoning agent",
+          "Self-maintaining Wiki generation",
+          "Open source from Tencent"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "QuantumNous/new-api",
+        "url": "https://github.com/QuantumNous/new-api",
+        "description": "Unified AI model hub for aggregation and distribution. Cross-converts LLMs to OpenAI/Claude/Gemini-compatible formats.",
+        "language": "Go",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Multi-format LLM conversion (OpenAI/Claude/Gemini API compatible)",
+          "Centralized AI gateway for enterprises",
+          "Load balancing and intelligent routing",
+          "Usage tracking and rate limiting"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "e2b-dev/infra",
+        "url": "https://github.com/e2b-dev/infra",
+        "description": "Infrastructure powering E2B Cloud — secure sandbox environments for AI coding agents.",
+        "language": "Go",
+        "stars_total": 1089,
+        "stars_today": 3,
+        "forks": 299,
+        "key_features": [
+          "MicroVM-based sandbox isolation for AI code execution",
+          "Powers E2B Cloud platform",
+          "Fast boot times for on-demand sandboxes",
+          "Filesystem snapshotting"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "MercuryTechnologies/mercury-cli",
+        "url": "https://github.com/MercuryTechnologies/mercury-cli",
+        "description": "Mercury Technologies CLI — Go-based command line tool.",
+        "language": "Go",
+        "stars_total": 113,
+        "stars_today": 28,
+        "forks": 9,
+        "key_features": [
+          "Mercury Technologies official CLI",
+          "Go-based implementation",
+          "Stainless-generated SDK"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "tulir/whatsmeow",
+        "url": "https://github.com/tulir/whatsmeow",
+        "description": "Go library for the WhatsApp web multidevice API — full-featured WhatsApp client without Selenium.",
+        "language": "Go",
+        "stars_total": 6081,
+        "stars_today": 34,
+        "forks": 968,
+        "key_features": [
+          "Full WhatsApp Web multidevice API in pure Go",
+          "Send/receive messages, media, reactions, polls",
+          "Group management, presence, read receipts",
+          "No browser/Selenium dependency"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "openclaw/wacli",
+        "url": "https://github.com/openclaw/wacli",
+        "description": "WhatsApp CLI — command-line interface for WhatsApp, written in Go.",
+        "language": "Go",
+        "stars_total": 2251,
+        "stars_today": 28,
+        "forks": 260,
+        "key_features": [
+          "WhatsApp from the terminal",
+          "Go-based for performance and portability",
+          "Send/receive WhatsApp messages via CLI"
+        ]
+      }
+    ],
+    "rust_top10": [
+      {
+        "rank": 1,
+        "name": "Hmbown/DeepSeek-TUI",
+        "url": "https://github.com/Hmbown/DeepSeek-TUI",
+        "description": "Coding agent for DeepSeek models that runs in your terminal — Rust-based TUI AI coding environment.",
+        "language": "Rust",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Terminal UI coding agent for DeepSeek models",
+          "Rust-native performance and safety",
+          "Interactive terminal-based AI coding experience"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "aaif-goose/goose",
+        "url": "https://github.com/aaif-goose/goose",
+        "description": "An open source, extensible AI agent that goes beyond code suggestions — supports install, execute, edit, test with any LLM.",
+        "language": "Rust",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Extensible AI agent for full dev workflows",
+          "Supports install, execute, edit, test operations",
+          "LLM-agnostic backend",
+          "Open source"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "astral-sh/uv",
+        "url": "https://github.com/astral-sh/uv",
+        "description": "An extremely fast Python package and project manager, written in Rust — 10-100x faster than pip.",
+        "language": "Rust",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "10-100x faster than pip written in Rust",
+          "Drop-in pip and pip-tools replacement",
+          "Unified package + virtual env + project manager",
+          "PEP 517/518/621 compliant",
+          "Global tool installation (uvx)"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "rtk-ai/rtk",
+        "url": "https://github.com/rtk-ai/rtk",
+        "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies.",
+        "language": "Rust",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "60-90% LLM token reduction on dev workflows",
+          "Single Rust binary with zero dependencies",
+          "CLI proxy architecture",
+          "Context compression for AI coding tools"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "SaladDay/cc-switch-cli",
+        "url": "https://github.com/SaladDay/cc-switch-cli",
+        "description": "⭐️ Cross-platform CLI All-in-One assistant for Claude Code, Codex & Gemini CLI — account switching and management.",
+        "language": "Rust",
+        "stars_total": 2441,
+        "stars_today": 33,
+        "forks": 153,
+        "key_features": [
+          "Cross-platform (Windows, macOS, Linux)",
+          "One-click account switching for Claude Code, Codex, Gemini CLI",
+          "Single Rust binary",
+          "All-in-one AI tool manager"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "ilya-zlobintsev/LACT",
+        "url": "https://github.com/ilya-zlobintsev/LACT",
+        "description": "Linux GPU Configuration And Monitoring Tool — Rust-based GUI/CLI for AMD and NVIDIA GPU tuning.",
+        "language": "Rust",
+        "stars_total": 4643,
+        "stars_today": 79,
+        "forks": 120,
+        "key_features": [
+          "GPU overclocking and power limit control on Linux",
+          "Real-time monitoring: temp, clocks, utilization, VRAM",
+          "Supports AMD RDNA/CDNA and NVIDIA GPUs",
+          "GTK4 GUI + CLI interface",
+          "D-Bus daemon for system integration"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "xingkongliang/skills-manager",
+        "url": "https://github.com/xingkongliang/skills-manager",
+        "description": "Lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot.",
+        "language": "Rust",
+        "stars_total": 1192,
+        "stars_today": 41,
+        "forks": 110,
+        "key_features": [
+          "Desktop GUI for AI skill management (Tauri + Rust)",
+          "Sync skills across 15+ AI coding tools",
+          "Supports Cursor, Claude Code, Codex, Copilot and more",
+          "Cross-platform desktop app"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "lance-format/lance",
+        "url": "https://github.com/lance-format/lance",
+        "description": "Open Lakehouse Format for Multimodal AI. 100x faster random access than Parquet, with vector index and data versioning.",
+        "language": "Rust",
+        "stars_total": 6394,
+        "stars_today": 3,
+        "forks": 656,
+        "key_features": [
+          "100x faster random access than Parquet",
+          "Built-in vector index for similarity search",
+          "Data versioning (time travel)",
+          "Compatible with Pandas, DuckDB, Polars, PyArrow, PyTorch",
+          "Optimized for multimodal AI datasets"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "always-further/nono",
+        "url": "https://github.com/always-further/nono",
+        "description": "Capability-based sandboxes with fine-grained policies — next-generation isolation primitive for AI agents with zero setup and zero latency.",
+        "language": "Rust",
+        "stars_total": 2291,
+        "stars_today": 29,
+        "forks": 157,
+        "key_features": [
+          "Capability-based security sandboxing",
+          "Fine-grained access policies for AI agents",
+          "Zero setup, zero latency overhead",
+          "Brokers access within agent operating context",
+          "Rust-based for memory safety"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "sxyazi/yazi",
+        "url": "https://github.com/sxyazi/yazi",
+        "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+        "language": "Rust",
+        "stars_total": 37730,
+        "stars_today": 70,
+        "forks": 852,
+        "key_features": [
+          "Blazing fast async I/O file management",
+          "Terminal UI with image preview support",
+          "Plugin system (Lua-based)",
+          "Multi-tab, multi-pane layout",
+          "Git integration, bulk rename, archive support"
+        ]
+      }
+    ],
+    "java_top10": [
+      {
+        "rank": 1,
+        "name": "krahets/hello-algo",
+        "url": "https://github.com/krahets/hello-algo",
+        "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现。",
+        "language": "Java",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Animated data structures & algorithms tutorial",
+          "One-click runnable code in 14+ languages",
+          "Multi-language: Chinese (Simplified/Traditional), English, Japanese",
+          "Covers Python, Java, C++, Go, Rust, Kotlin, Dart, and more"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "neo4j/neo4j",
+        "url": "https://github.com/neo4j/neo4j",
+        "description": "Graphs for Everyone — the world's leading graph database.",
+        "language": "Java",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "World's leading graph database",
+          "Cypher query language",
+          "Native graph storage and processing",
+          "ACID transactions, clustering, full-text search"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "CodePhiliaX/Chat2DB",
+        "url": "https://github.com/CodePhiliaX/Chat2DB",
+        "description": "AI-driven database tool and SQL client supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, SQLite, H2, ClickHouse, and more.",
+        "language": "Java",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "AI-powered SQL generation and analysis",
+          "Supports 10+ databases: MySQL, PostgreSQL, Oracle, ClickHouse, etc.",
+          "Natural language to SQL conversion",
+          "GUI SQL client with AI chat interface"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "thingsboard/thingsboard",
+        "url": "https://github.com/thingsboard/thingsboard",
+        "description": "Open-source IoT Platform — device management, data collection, processing and visualization.",
+        "language": "Java",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Open source IoT platform",
+          "Device management and provisioning",
+          "Rule engine for data processing",
+          "Real-time dashboards and visualization",
+          "MQTT, CoAP, HTTP device connectivity"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "alibaba/spring-ai-alibaba",
+        "url": "https://github.com/alibaba/spring-ai-alibaba",
+        "description": "Agentic AI Framework for Java Developers — Spring AI extension with Alibaba Cloud AI services.",
+        "language": "Java",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Spring AI extension for Alibaba Cloud",
+          "Agentic workflow support for Java",
+          "Integration with Tongyi Qianwen LLMs",
+          "RAG, function calling, multi-agent support",
+          "Spring Boot auto-configuration"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "loks666/get_jobs",
+        "url": "https://github.com/loks666/get_jobs",
+        "description": "💼【AI找工作助手】全平台自动投简历脚本：BOSS直聘、前程无忧、猎聘、智联招聘。AI-powered auto job application across Chinese job platforms.",
+        "language": "Java",
+        "stars_total": 6888,
+        "stars_today": 11,
+        "forks": 867,
+        "key_features": [
+          "Auto-applies to jobs on BOSS直聘, 前程无忧, 猎聘, 智联招聘",
+          "AI-powered resume matching",
+          "Batch application automation",
+          "Java-based cross-platform script"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "nageoffer/ragent",
+        "url": "https://github.com/nageoffer/ragent",
+        "description": "企业级 Agentic RAG — full-stack: document parsing, multi-path retrieval, intent recognition, query rewriting, session memory, MCP tool calls, deep thinking.",
+        "language": "Java",
+        "stars_total": 1928,
+        "stars_today": 24,
+        "forks": 374,
+        "key_features": [
+          "Enterprise Agentic RAG full implementation",
+          "Document parsing + multi-path retrieval",
+          "Intent recognition + query rewriting",
+          "Session memory persistence",
+          "MCP tool call integration + deep thinking mode"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Snailclimb/interview-guide",
+        "url": "https://github.com/Snailclimb/interview-guide",
+        "description": "Spring Boot 4.0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis — AI resume analysis, mock interviews, RAG knowledge base.",
+        "language": "Java",
+        "stars_total": 1993,
+        "stars_today": 27,
+        "forks": 438,
+        "key_features": [
+          "Spring Boot 4.0 + Java 21 modern stack",
+          "AI-powered resume analysis",
+          "AI mock interview system",
+          "RAG knowledge base with pgvector",
+          "Redis caching, RustFS storage"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "google/adk-java",
+        "url": "https://github.com/google/adk-java",
+        "description": "Open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "language": "Java",
+        "stars_total": 1540,
+        "stars_today": 3,
+        "forks": 340,
+        "key_features": [
+          "Google ADK (Agent Development Kit) for Java",
+          "Code-first agent building approach",
+          "Built-in agent evaluation framework",
+          "Flexible deployment options",
+          "Integration with Google AI services"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "agentscope-ai/agentscope-java",
+        "url": "https://github.com/agentscope-ai/agentscope-java",
+        "description": "AgentScope Java: Agent-Oriented Programming for building LLM applications in Java.",
+        "language": "Java",
+        "stars_total": 2858,
+        "stars_today": 10,
+        "forks": 605,
+        "key_features": [
+          "Agent-Oriented Programming paradigm for Java",
+          "Multi-agent system construction",
+          "LLM application framework",
+          "Spring integration support"
+        ]
+      }
+    ],
+    "typescript_top10": [
+      {
+        "rank": 1,
+        "name": "InsForge/InsForge",
+        "url": "https://github.com/InsForge/InsForge",
+        "description": "InsForge is a Postgres-based backend platform for AI-native developers with auth, storage, compute, hosting, and AI gateway — built for coding agents.",
+        "language": "TypeScript",
+        "stars_total": 8848,
+        "stars_today": 460,
+        "forks": 732,
+        "key_features": [
+          "Postgres-native: DB, auth, storage, functions unified",
+          "Semantic layer for AI agent comprehension",
+          "MCP Server integration for Claude Code, Cursor, etc.",
+          "Self-hostable via Docker Compose",
+          "Built-in AI gateway; Apache 2.0 license"
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "vercel-labs/open-agents",
+        "url": "https://github.com/vercel-labs/open-agents",
+        "description": "An open source template for building cloud agents, by Vercel Labs.",
+        "language": "TypeScript",
+        "stars_total": 5036,
+        "stars_today": 131,
+        "forks": 636,
+        "key_features": [
+          "Open source cloud agent template",
+          "TypeScript-first",
+          "Vercel edge deployment ready",
+          "Official Vercel Labs project"
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Augani/openreel-video",
+        "url": "https://github.com/Augani/openreel-video",
+        "description": "OpenReel Video — professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no cloud uploads, no watermarks.",
+        "language": "TypeScript",
+        "stars_total": 1673,
+        "stars_today": 233,
+        "forks": 253,
+        "key_features": [
+          "100% browser-based video editing",
+          "No cloud uploads, no watermarks",
+          "Open source CapCut alternative",
+          "Professional timeline editor in browser"
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "langgenius/dify",
+        "url": "https://github.com/langgenius/dify",
+        "description": "Production-ready platform for agentic workflow development — visual LLM app builder.",
+        "language": "TypeScript",
+        "stars_total": null,
+        "stars_today": null,
+        "forks": null,
+        "key_features": [
+          "Visual agentic workflow builder",
+          "Production-ready LLM application platform",
+          "RAG pipeline, agent orchestration",
+          "100+ LLM integrations",
+          "Self-hostable"
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Crosstalk-Solutions/project-nomad",
+        "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+        "description": "Project N.O.M.A.D — self-contained offline survival computer with critical tools, knowledge, and AI. Works anytime, anywhere without internet.",
+        "language": "TypeScript",
+        "stars_total": 25540,
+        "stars_today": 91,
+        "forks": 2500,
+        "key_features": [
+          "Fully offline survival computer",
+          "Packed with survival tools and knowledge base",
+          "Local AI for decision support",
+          "Self-contained, no internet dependency",
+          "Cross-platform desktop app (Tauri)"
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "clash-verge-rev/clash-verge-rev",
+        "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+        "description": "A modern GUI client based on Tauri for Windows, macOS, and Linux — tailored proxy experience.",
+        "language": "TypeScript",
+        "stars_total": 116389,
+        "stars_today": 286,
+        "forks": 8496,
+        "key_features": [
+          "Modern Tauri-based proxy GUI",
+          "Cross-platform: Windows, macOS, Linux",
+          "Clash/Mihomo core integration",
+          "Rule-based proxy with GUI management",
+          "Profile subscription management"
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "shareAI-lab/learn-claude-code",
+        "url": "https://github.com/shareAI-lab/learn-claude-code",
+        "description": "Bash is all you need — a nano claude code-like agent harness built from 0 to 1.",
+        "language": "TypeScript",
+        "stars_total": 58818,
+        "stars_today": 317,
+        "forks": 9650,
+        "key_features": [
+          "Minimal Claude Code-like agent harness",
+          "Built from scratch for learning",
+          "Bash-first philosophy",
+          "Educational resource for agent development"
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "code-yeongyu/oh-my-openagent",
+        "url": "https://github.com/code-yeongyu/oh-my-openagent",
+        "description": "omo — the best agent harness (previously oh-my-opencode). Feature-rich AI coding agent framework.",
+        "language": "TypeScript",
+        "stars_total": 56441,
+        "stars_today": 257,
+        "forks": 4595,
+        "key_features": [
+          "Feature-rich agent harness framework",
+          "Plugin ecosystem for extensibility",
+          "Multi-LLM support",
+          "Shell integration"
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "mksglu/context-mode",
+        "url": "https://github.com/mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output with 98% reduction. Supports 14 platforms.",
+        "language": "TypeScript",
+        "stars_total": 13835,
+        "stars_today": 260,
+        "forks": 956,
+        "key_features": [
+          "98% context window reduction via tool output sandboxing",
+          "Supports 14 AI coding platforms",
+          "Extends effective context window",
+          "Drop-in optimization layer"
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "directus/directus",
+        "url": "https://github.com/directus/directus",
+        "description": "The flexible backend for all your projects 🐰 — turn your DB into a headless CMS, admin panels, or apps with instant APIs, auth & more.",
+        "language": "TypeScript",
+        "stars_total": 35344,
+        "stars_today": 252,
+        "forks": 4745,
+        "key_features": [
+          "Turns any SQL database into a REST + GraphQL API",
+          "Headless CMS with visual editor",
+          "Built-in auth, roles, permissions",
+          "Real-time subscriptions (WebSockets)",
+          "Self-hostable, MIT licensed"
+        ]
+      }
+    ]
+  },
+  "summary": {
+    "trending_themes": [
+      "AI coding agents and agent infrastructure dominate all categories",
+      "LLM inference optimization (speculative decoding, token compression)",
+      "Backend platforms built specifically for AI agents (InsForge, E2B)",
+      "Financial services AI automation (Anthropic financial-services)",
+      "Multi-agent orchestration and skill management frameworks",
+      "Local/private AI: local-deep-research, Open-LLM-VTuber",
+      "Enterprise RAG and knowledge management (WeKnora, ragent)",
+      "Developer tooling: uv (Rust), pgx, agent skill managers"
+    ],
+    "top_stars_today": [
+      {"repo": "addyosmani/agent-skills", "stars_today": 3062},
+      {"repo": "anthropics/financial-services", "stars_today": 1343},
+      {"repo": "z-lab/dflash", "stars_today": 671},
+      {"repo": "LearningCircuit/local-deep-research", "stars_today": 559},
+      {"repo": "InsForge/InsForge", "stars_today": 460},
+      {"repo": "InsForge/InsForge (TS)", "stars_today": 460},
+      {"repo": "freemocap/freemocap", "stars_today": 256},
+      {"repo": "chenhg5/cc-connect", "stars_today": 252}
+    ]
+  }
+}
