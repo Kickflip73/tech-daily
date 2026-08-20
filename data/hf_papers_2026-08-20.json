@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-20",
+  "source": "HuggingFace Papers API",
+  "papers": [
+    {"id": "2608.17744", "title": "Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See", "upvotes": 2, "summary": "Fine-tuning large MoE models on a low-resource language shifts reasoning into that language without harming accuracy, while RL with verifiable rewards fixes formatting and leakage defects.", "organization": "Unknown"},
+    {"id": "2608.18076", "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation", "upvotes": 9, "summary": "A capability-driven data infrastructure with curriculum scheduling and specialized data engines trains large multimodal diffusion models on curated heterogeneous supervision for diverse generative tasks.", "organization": "alibaba"},
+    {"id": "2608.18063", "title": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing", "upvotes": 21, "summary": "EditBridge enables efficient ultra high-resolution image editing via a diffusion bridge that translates low-resolution edits to high-resolution outputs while preserving source details through sparse attention.", "organization": "Unknown"},
+    {"id": "2608.18034", "title": "Deep Academic Survey: Stateful Agentic Closed-Loop Paradigm for Academic Survey Automation", "upvotes": 0, "summary": "DAS is a stateful agentic framework that separates reusable paper analysis from survey construction to generate validated, citation-grounded academic surveys with structured planning and repair loops.", "organization": "Unknown"},
+    {"id": "2608.17988", "title": "GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation", "upvotes": 3, "summary": "GS-Voxel converts unstructured 3D Gaussian reconstructions into sparse structured latents to enable scalable aerial scene generation via flow models.", "organization": "alibaba amap cv lab"},
+    {"id": "2608.17975", "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design", "upvotes": 2, "summary": "Jointly designs an Agent-centric Domain-Specific Language (aDSL) and multi-agent system for 3D content creation, bridging semantic logic and geometric constraints.", "organization": "Unknown"}
+  ]
+}

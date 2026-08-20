@@ -1,0 +1,306 @@
+{
+  "date": "2026-08-18",
+  "count": 30,
+  "stories": [
+    {
+      "id": 49353221,
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "score": 89,
+      "by": "phoenix120",
+      "time": 1787089833,
+      "descendants": 23,
+      "type": "story"
+    },
+    {
+      "id": 49321298,
+      "title": "Being ambitious and being a dad",
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "score": 200,
+      "by": "nichochar",
+      "time": 1786896537,
+      "descendants": 94,
+      "type": "story"
+    },
+    {
+      "id": 49345263,
+      "title": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "score": 858,
+      "by": "herbertl",
+      "time": 1787059358,
+      "descendants": 514,
+      "type": "story"
+    },
+    {
+      "id": 49353339,
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh",
+      "score": 63,
+      "by": "handfuloflight",
+      "time": 1787090421,
+      "descendants": 39,
+      "type": "story"
+    },
+    {
+      "id": 49349984,
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "score": 207,
+      "by": "NaOH",
+      "time": 1787076713,
+      "descendants": 129,
+      "type": "story"
+    },
+    {
+      "id": 49349898,
+      "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "score": 192,
+      "by": "fittingopposite",
+      "time": 1787076441,
+      "descendants": 25,
+      "type": "story"
+    },
+    {
+      "id": 49352806,
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "score": 99,
+      "by": "amrrs",
+      "time": 1787087661,
+      "descendants": 61,
+      "type": "story"
+    },
+    {
+      "id": 49351324,
+      "title": "Beware Management Consultants",
+      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+      "score": 422,
+      "by": "KolmogorovComp",
+      "time": 1787081391,
+      "descendants": 111,
+      "type": "story"
+    },
+    {
+      "id": 49344825,
+      "title": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
+      "score": 383,
+      "by": "otherayden",
+      "time": 1787057034,
+      "descendants": 58,
+      "type": "story"
+    },
+    {
+      "id": 49334209,
+      "title": "Cursor launches Origin, GitHub alternative",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "score": 444,
+      "by": "tomasreimers",
+      "time": 1786986164,
+      "descendants": 343,
+      "type": "story"
+    },
+    {
+      "id": 49345220,
+      "title": "Fixing a bricked Framework laptop",
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "score": 342,
+      "by": "jp_sc",
+      "time": 1787059120,
+      "descendants": 232,
+      "type": "story"
+    },
+    {
+      "id": 49353432,
+      "title": "AI usage patterns in software teams",
+      "url": "https://linear.app/data",
+      "score": 17,
+      "by": "giuliomagnifico",
+      "time": 1787090887,
+      "descendants": 4,
+      "type": "story"
+    },
+    {
+      "id": 49353407,
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "url": "https://artificialanalysis.ai/models/glm-5-3",
+      "score": 58,
+      "by": "apitman",
+      "time": 1787090770,
+      "descendants": 22,
+      "type": "story"
+    },
+    {
+      "id": 49348912,
+      "title": "And then the men with guns tell you to do it anyway",
+      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+      "score": 131,
+      "by": "_djo_",
+      "time": 1787073088,
+      "descendants": 62,
+      "type": "story"
+    },
+    {
+      "id": 49311814,
+      "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
+      "url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
+      "score": 60,
+      "by": "theanonymousone",
+      "time": 1786810677,
+      "descendants": 17,
+      "type": "story"
+    },
+    {
+      "id": 49334960,
+      "title": "Memory prices climb 500% in 12 months",
+      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+      "score": 441,
+      "by": "haunter",
+      "time": 1786989157,
+      "descendants": 359,
+      "type": "story"
+    },
+    {
+      "id": 49342719,
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "score": 501,
+      "by": "flaburgan",
+      "time": 1787039510,
+      "descendants": 266,
+      "type": "story"
+    },
+    {
+      "id": 49295369,
+      "title": "How a giant battery is transforming a town centre in Cannington, Ontario",
+      "url": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
+      "score": 11,
+      "by": "builtbystef",
+      "time": 1786689370,
+      "descendants": 4,
+      "type": "story"
+    },
+    {
+      "id": 49350031,
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "score": 68,
+      "by": "j4mie",
+      "time": 1787076899,
+      "descendants": 37,
+      "type": "story"
+    },
+    {
+      "id": 49287463,
+      "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
+      "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
+      "score": 62,
+      "by": "speckx",
+      "time": 1786634802,
+      "descendants": 22,
+      "type": "story"
+    },
+    {
+      "id": 49351330,
+      "title": "Norway should buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "score": 193,
+      "by": "alexeigannon",
+      "time": 1787081429,
+      "descendants": 222,
+      "type": "story"
+    },
+    {
+      "id": 49348055,
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "score": 100,
+      "by": "newusertoday",
+      "time": 1787070094,
+      "descendants": 155,
+      "type": "story"
+    },
+    {
+      "id": 49348751,
+      "title": "Claude Code May\u2013August 2026 weekly limits promotion",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "score": 251,
+      "by": "tyre",
+      "time": 1787072535,
+      "descendants": 219,
+      "type": "story"
+    },
+    {
+      "id": 49353618,
+      "title": "Programmable Property-Based Testing",
+      "url": "https://dl.acm.org/doi/10.1145/3828685",
+      "score": 8,
+      "by": "matt_d",
+      "time": 1787091761,
+      "descendants": 0,
+      "type": "story"
+    },
+    {
+      "id": 49309248,
+      "title": "Evolve: An incremental game about evolving a civilization",
+      "url": "https://pmotschmann.github.io/Evolve/",
+      "score": 70,
+      "by": "frozenseven",
+      "time": 1786787909,
+      "descendants": 22,
+      "type": "story"
+    },
+    {
+      "id": 49332981,
+      "title": "Universal health coverage could save $1T and 114k lives a year: study",
+      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "score": 676,
+      "by": "karakoram",
+      "time": 1786981797,
+      "descendants": 766,
+      "type": "story"
+    },
+    {
+      "id": 49348136,
+      "title": "Launch HN: machine0 (YC S26) \u2013 Persistent CPU and GPU VMs from the CLI",
+      "url": "https://machine0.io",
+      "score": 57,
+      "by": "bwm",
+      "time": 1787070402,
+      "descendants": 35,
+      "type": "story"
+    },
+    {
+      "id": 49345476,
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+      "score": 155,
+      "by": "jeroenjanssens",
+      "time": 1787060303,
+      "descendants": 33,
+      "type": "story"
+    },
+    {
+      "id": 49349147,
+      "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "score": 279,
+      "by": "cwwc",
+      "time": 1787073893,
+      "descendants": 414,
+      "type": "story"
+    },
+    {
+      "id": 49272631,
+      "title": "Teaching my kid to code with a modern MUD",
+      "url": "https://tau.dev/2026/08/07/canon",
+      "score": 222,
+      "by": "andrewjanke",
+      "time": 1786543634,
+      "descendants": 60,
+      "type": "story"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2026-08-20",
+  "source": "GitHub Search API (created:>2026-08-13, last 7 days)",
+  "repositories": {
+    "all_languages": [
+      {"full_name": "yjh051108/dsh-routing-suite", "language": "PowerShell", "stars": 6298, "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mo", "license": "MIT"},
+      {"full_name": "xiaobright/dsh-anchored-standard", "language": "JavaScript", "stars": 3639, "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)", "license": "NOASSERTION"},
+      {"full_name": "yetone/cumora", "language": "TypeScript", "stars": 2680, "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates", "license": "MIT"},
+      {"full_name": "s1dashu/ip-as-logo-skill", "language": "None", "stars": 2068, "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos", "license": "MIT"},
+      {"full_name": "dsh-market/dsh-market", "language": "TypeScript", "stars": 1245, "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install", "license": "MIT"},
+      {"full_name": "cinderline/northcinder", "language": "JavaScript", "stars": 1193, "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates", "license": "MIT"},
+      {"full_name": "alchaincyf/deepseek-harness-orange-book", "language": "HTML", "stars": 1071, "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志", "license": "NOASSERTION"},
+      {"full_name": "ZSvirt/zsvirt", "language": "Java", "stars": 1066, "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt", "license": "GPL-3.0"},
+      {"full_name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report", "language": "None", "stars": 1018, "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence", "license": "NOASSERTION"},
+      {"full_name": "zouyuxuan122/Deepseek-Harness-EAC", "language": "JavaScript", "stars": 958, "description": "DeepSeek Harness (dsh) Windows / Linux desktop client", "license": "MIT"},
+      {"full_name": "Leutenegger/watermarks-remover", "language": "Python", "stars": 911, "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting", "license": "MIT"},
+      {"full_name": "wang2122/sprix-sage-router", "language": "Python", "stars": 606, "description": "Sprix AI — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks", "license": "MIT"},
+      {"full_name": "hairyf/deepseek-harness-desktop", "language": "Rust", "stars": 602, "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup", "license": "MIT"},
+      {"full_name": "SigmanticAI/apex-inference-chip", "language": "Python", "stars": 575, "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA", "license": "Apache-2.0"},
+      {"full_name": "browser-use/macos-harness", "language": "Python", "stars": 525, "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac", "license": "MIT"},
+      {"full_name": "Nervercc/gpt_nerver", "language": "Python", "stars": 424, "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine", "license": "MIT"},
+      {"full_name": "bawadou/ai-data-extractor", "language": "Python", "stars": 363, "description": "Free open-source extractor for AI coding assistant chat histories", "license": "MIT"},
+      {"full_name": "flaqai/backlink_skills", "language": "Python", "stars": 267, "description": "Awesome skills for submitting url to free websites", "license": "MIT"},
+      {"full_name": "opaxial/CVE-2026-9830", "language": "Python", "stars": 257, "description": "CVE-2026-9830 Proof of Concept", "license": "Apache-2.0"}
+    ],
+    "python": [
+      {"full_name": "Leutenegger/watermarks-remover", "language": "Python", "stars": 911, "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting", "license": "MIT"},
+      {"full_name": "wang2122/sprix-sage-router", "language": "Python", "stars": 606, "description": "Sprix AI — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks", "license": "MIT"},
+      {"full_name": "SigmanticAI/apex-inference-chip", "language": "Python", "stars": 575, "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA", "license": "Apache-2.0"},
+      {"full_name": "browser-use/macos-harness", "language": "Python", "stars": 525, "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac", "license": "MIT"},
+      {"full_name": "Nervercc/gpt_nerver", "language": "Python", "stars": 424, "description": "ChatGPT Plus automation toolkit", "license": "MIT"},
+      {"full_name": "bawadou/ai-data-extractor", "language": "Python", "stars": 363, "description": "Free open-source extractor for AI coding assistant chat histories", "license": "MIT"},
+      {"full_name": "flaqai/backlink_skills", "language": "Python", "stars": 267, "description": "Awesome skills for submitting url to free websites", "license": "MIT"},
+      {"full_name": "opaxial/CVE-2026-9830", "language": "Python", "stars": 257, "description": "CVE-2026-9830 Proof of Concept", "license": "Apache-2.0"}
+    ],
+    "typescript": [
+      {"full_name": "yetone/cumora", "language": "TypeScript", "stars": 2680, "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates", "license": "MIT"},
+      {"full_name": "dsh-market/dsh-market", "language": "TypeScript", "stars": 1245, "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install", "license": "MIT"}
+    ],
+    "go": [],
+    "rust": [
+      {"full_name": "hairyf/deepseek-harness-desktop", "language": "Rust", "stars": 602, "description": "DeepSeek Harness Tauri 桌面版", "license": "MIT"},
+      {"full_name": "zunmax/osnm-z", "language": "Rust", "stars": 173, "description": "OpenSea NFT Minter by Zun", "license": "MIT"},
+      {"full_name": "iAmCorey/Wake", "language": "Rust", "stars": 111, "description": "Every coding-agent session on your Mac in one place — browse, search, resume", "license": "MIT"},
+      {"full_name": "CapSoftware/cinder", "language": "Rust", "stars": 92, "description": "A drop-in Cargo replacement focused on dramatically faster Rust development", "license": "MIT"}
+    ],
+    "java": [
+      {"full_name": "ZSvirt/zsvirt", "language": "Java", "stars": 1066, "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt", "license": "GPL-3.0"},
+      {"full_name": "NoHackClient/Rise-6.9.5", "language": "Java", "stars": 99, "description": "fully deobf, renamed, optimized, and ideaready", "license": "NOASSERTION"},
+      {"full_name": "qiannianhuanxiang/DSHA", "language": "Java", "stars": 93, "description": "DeepSeek Harness 安卓启动器", "license": "MIT"}
+    ]
+  }
+}
