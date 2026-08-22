@@ -1,0 +1,306 @@
+{
+  "date": "2026-08-22",
+  "count": 30,
+  "stories": [
+    {
+      "id": 49390427,
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "score": 388,
+      "by": "thepoet",
+      "time": 1787329525,
+      "descendants": 135,
+      "type": "story"
+    },
+    {
+      "id": 49389430,
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "score": 473,
+      "by": "colinprince",
+      "time": 1787325424,
+      "descendants": 215,
+      "type": "story"
+    },
+    {
+      "id": 49386895,
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "score": 492,
+      "by": "floathub",
+      "time": 1787314213,
+      "descendants": 677,
+      "type": "story"
+    },
+    {
+      "id": 49395040,
+      "title": "Paul Atkins Misreads Adam Smith and the American Founding",
+      "url": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
+      "score": 7,
+      "by": "zaik",
+      "time": 1787355164,
+      "descendants": 0,
+      "type": "story"
+    },
+    {
+      "id": 49392200,
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "score": 133,
+      "by": "NKosmatos",
+      "time": 1787337394,
+      "descendants": 38,
+      "type": "story"
+    },
+    {
+      "id": 49357530,
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "score": 219,
+      "by": "dash2",
+      "time": 1787120011,
+      "descendants": 276,
+      "type": "story"
+    },
+    {
+      "id": 49388154,
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "score": 977,
+      "by": "speckx",
+      "time": 1787320597,
+      "descendants": 332,
+      "type": "story"
+    },
+    {
+      "id": 49387570,
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "score": 418,
+      "by": "gavide",
+      "time": 1787317888,
+      "descendants": 45,
+      "type": "story"
+    },
+    {
+      "id": 49386163,
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "score": 448,
+      "by": "dares2573",
+      "time": 1787308436,
+      "descendants": 142,
+      "type": "story"
+    },
+    {
+      "id": 49394827,
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "score": 14,
+      "by": "dariusmonsef",
+      "time": 1787353746,
+      "descendants": 4,
+      "type": "story"
+    },
+    {
+      "id": 49389952,
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "score": 95,
+      "by": "toebee",
+      "time": 1787327470,
+      "descendants": 24,
+      "type": "story"
+    },
+    {
+      "id": 49393733,
+      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+      "score": 1,
+      "by": "maciejSz",
+      "time": 1787346048,
+      "descendants": 0,
+      "type": "job"
+    },
+    {
+      "id": 49389441,
+      "title": "I ran Photoshop on a \u00a30.60 computer chip",
+      "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+      "score": 111,
+      "by": "colinprince",
+      "time": 1787325467,
+      "descendants": 26,
+      "type": "story"
+    },
+    {
+      "id": 49374853,
+      "title": "A look under our trunk: what's in our compute",
+      "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
+      "score": 88,
+      "by": "ra7",
+      "time": 1787235225,
+      "descendants": 36,
+      "type": "story"
+    },
+    {
+      "id": 49327408,
+      "title": "People of ACM \u2013 Russ Cox",
+      "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+      "score": 80,
+      "by": "signa11",
+      "time": 1786950735,
+      "descendants": 10,
+      "type": "story"
+    },
+    {
+      "id": 49394496,
+      "title": "Three important steps in my maturation process",
+      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "score": 13,
+      "by": "tdullien",
+      "time": 1787351340,
+      "descendants": 4,
+      "type": "story"
+    },
+    {
+      "id": 49388752,
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "score": 181,
+      "by": "aakil",
+      "time": 1787322712,
+      "descendants": 130,
+      "type": "story"
+    },
+    {
+      "id": 49392465,
+      "title": "Tumble Forth \u2013 from assembly to OS with C compiler",
+      "url": "https://tumbleforth.hardcoded.net/",
+      "score": 47,
+      "by": "vicek22",
+      "time": 1787338792,
+      "descendants": 4,
+      "type": "story"
+    },
+    {
+      "id": 49390308,
+      "title": "What happens when a GPU reads memory",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+      "score": 94,
+      "by": "ibobev",
+      "time": 1787329002,
+      "descendants": 15,
+      "type": "story"
+    },
+    {
+      "id": 49386699,
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "score": 248,
+      "by": "rcymerys",
+      "time": 1787312885,
+      "descendants": 253,
+      "type": "story"
+    },
+    {
+      "id": 49346444,
+      "title": "The coolest anti-surveillance tools at Defcon [video]",
+      "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+      "score": 142,
+      "by": "neom",
+      "time": 1787064559,
+      "descendants": 8,
+      "type": "story"
+    },
+    {
+      "id": 49394373,
+      "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
+      "url": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
+      "score": 47,
+      "by": "bcaulfield",
+      "time": 1787350546,
+      "descendants": 17,
+      "type": "story"
+    },
+    {
+      "id": 49383026,
+      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "score": 513,
+      "by": "Cider9986",
+      "time": 1787279867,
+      "descendants": 833,
+      "type": "story"
+    },
+    {
+      "id": 49394028,
+      "title": "Remotely Unlocking Electric Scooters",
+      "url": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
+      "score": 16,
+      "by": "henriemategui",
+      "time": 1787347927,
+      "descendants": 2,
+      "type": "story"
+    },
+    {
+      "id": 49332812,
+      "title": "Using an old Android phone as a music player",
+      "url": "https://monocyte.blog/using-an-old-android-phone-as-a-music-player/",
+      "score": 33,
+      "by": "surprisetalk",
+      "time": 1786981215,
+      "descendants": 18,
+      "type": "story"
+    },
+    {
+      "id": 49390463,
+      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+      "score": 75,
+      "by": "jakelsaunders94",
+      "time": 1787329672,
+      "descendants": 48,
+      "type": "story"
+    },
+    {
+      "id": 49392654,
+      "title": "Rust Glancer",
+      "url": "https://matklad.github.io/2026/08/21/rust-glancer.html",
+      "score": 25,
+      "by": "surprisetalk",
+      "time": 1787339760,
+      "descendants": 0,
+      "type": "story"
+    },
+    {
+      "id": 49390206,
+      "title": "Decayfmt \u2013 a file format that corrupts itself a little every time you open it",
+      "url": "https://github.com/aravpanwar/decayfmt",
+      "score": 44,
+      "by": "unprovable",
+      "time": 1787328590,
+      "descendants": 17,
+      "type": "story"
+    },
+    {
+      "id": 49390286,
+      "title": "Three ways to smuggle SQLite into Nix",
+      "url": "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix",
+      "score": 15,
+      "by": "domenkozar",
+      "time": 1787328926,
+      "descendants": 3,
+      "type": "story"
+    },
+    {
+      "id": 49388095,
+      "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
+      "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
+      "score": 50,
+      "by": "cainxinth",
+      "time": 1787320373,
+      "descendants": 2,
+      "type": "story"
+    }
+  ]
+}
