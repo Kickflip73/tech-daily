@@ -1,0 +1,763 @@
+{
+  "date": "2026-08-25",
+  "count": 50,
+  "papers": [
+    {
+      "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+      "arxiv_id": "2608.21360v1",
+      "abstract": "Recent omni-modal large language models (Omni-LLMs) show great potential as real-time video assistants, which continuously perceive environments and guide users to achieve specific goals. Unlike traditional passive video understanding, interactive assistants should actively combine visual states, us",
+      "authors": [
+        "Xianyun Sun",
+        "Chaoyou Fu",
+        "Zhengye Zhang",
+        "Feiyang Duan",
+        "Qingyuan Cao"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-08-21T17:59:52Z"
+    },
+    {
+      "title": "Primal Acceleration of Newton's Method",
+      "arxiv_id": "2608.21359v1",
+      "abstract": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of",
+      "authors": [
+        "Nikita Doikov"
+      ],
+      "categories": [
+        "math.OC",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-08-21T17:59:37Z"
+    },
+    {
+      "title": "Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction",
+      "arxiv_id": "2608.21358v1",
+      "abstract": "Space resource acquisition and utilization, commonly referred to as Space Mining, represent critical pathways for enabling sustained human exploration and unlocking commercial opportunities in space. These resources mainly include helium-3, water, mineral resources on the Moon and Mars, and abundant",
+      "authors": [
+        "Dong Li",
+        "Dujun Nie",
+        "Xiaotong Zhang",
+        "Ruilin Wang",
+        "Yuchen Li"
+      ],
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-08-21T17:59:30Z"
+    },
+    {
+      "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+      "arxiv_id": "2608.21357v1",
+      "abstract": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation ",
+      "authors": [
+        "Elaine Lau",
+        "Thanuka Udumulla",
+        "Lee Izhaki-Tavor",
+        "Francisco Guzmán",
+        "Nicholas Magazine"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-08-21T17:59:26Z"
+    },
+    {
+      "title": "AI with Authority, from Application to Silicon",
+      "arxiv_id": "2608.21356v1",
+      "abstract": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only economical but essential to productivity --- it is the incorruptible referee tha",
+      "authors": [
+        "Jason Hickey"
+      ],
+      "categories": [
+        "cs.SE",
+        "cs.AI",
+        "cs.AR",
+        "cs.LO"
+      ],
+      "published": "2026-08-21T17:59:16Z"
+    },
+    {
+      "title": "ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations",
+      "arxiv_id": "2608.21355v1",
+      "abstract": "Recent vision-based action models have demonstrated strong capabilities in complex manipulation, but they rarely leverage explicit object physical properties to adapt their policies. We introduce ViTacPhys, a visual-tactile framework and data acquisition system that estimates object mass and frictio",
+      "authors": [
+        "Yiwen Liu",
+        "Yujun Zhu",
+        "Kui Jia",
+        "Zhao Liao",
+        "Yangwei You"
+      ],
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-08-21T17:58:10Z"
+    },
+    {
+      "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+      "arxiv_id": "2608.21349v1",
+      "abstract": "Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, without explicitly modeling the molecular changes expected under treatment. We propose PerturbRx, a treatm",
+      "authors": [
+        "Yoshitaka Inoue",
+        "Minoh Jeong",
+        "Alfred Hero",
+        "Rui Kuang",
+        "Augustin Luna"
+      ],
+      "categories": [
+        "q-bio.QM",
+        "cs.LG"
+      ],
+      "published": "2026-08-21T17:54:48Z"
+    },
+    {
+      "title": "Truthful Calibration Measures for Sequential Prediction",
+      "arxiv_id": "2608.21348v1",
+      "abstract": "Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports. Haghtalab et al. (2024) proposed an approximately truthful calibration measure for online prediction, leaving o",
+      "authors": [
+        "Anagha Gokul",
+        "Jason Hartline",
+        "Lunjia Hu",
+        "Jonathan Ullman",
+        "Yifan Wu"
+      ],
+      "categories": [
+        "cs.DS",
+        "cs.GT",
+        "cs.LG"
+      ],
+      "published": "2026-08-21T17:54:05Z"
+    },
+    {
+      "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
+      "arxiv_id": "2608.21345v1",
+      "abstract": "Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the three stages involve different cognitive demands, most existing approaches conveniently treat the model ",
+      "authors": [
+        "Zhuoyi Yang",
+        "Ian G. Harris",
+        "Salar Hashemitaheri",
+        "Cassie Huang",
+        "Yuangang Li"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-08-21T17:52:17Z"
+    },
+    {
+      "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
+      "arxiv_id": "2608.21343v1",
+      "abstract": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many context-biasing methods improve recognition accuracy, they often do not address the practical requiremen",
+      "authors": [
+        "Vladimir Bataev",
+        "Lilit Grigoryan",
+        "Andrei Andrusenko",
+        "Nikolay Karpov",
+        "Vitaly Lavrukhin"
+      ],
+      "categories": [
+        "eess.AS",
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "cs.SD"
+      ],
+      "published": "2026-08-21T17:50:00Z"
+    },
+    {
+      "title": "Natural-Language Workflows Are Not Software Yet: Artifact-Driven Compilation for Reliable Agent Execution",
+      "arxiv_id": "2608.21341v1",
+      "abstract": "Natural-language workflows offer a software-like interface for agents: domain experts can write reusable procedures, and agents can execute them as instructions. This promise is not yet reliable. Workflow descriptions often leave data dependencies implicit, so the executor must infer which prior res",
+      "authors": [
+        "Xiangzhe Xu",
+        "Hanxi Guo",
+        "Guangyu Shen",
+        "Siyuan Cheng",
+        "Xiangyu Zhang"
+      ],
+      "categories": [
+        "cs.SE"
+      ],
+      "published": "2026-08-21T17:47:47Z"
+    },
+    {
+      "title": "The first tight classification of skew-constacyclic codes over finite fields",
+      "arxiv_id": "2608.21339v1",
+      "abstract": "We parametrize the isometry and equivalence classes of skew constacyclic codes over a finite field by classifying the corresponding classes of their ambient rings, and present algorithms for the parametrizations. We achieve a tight classification by taking all possible Hamming-weight preserving isom",
+      "authors": [
+        "Monica Nevins",
+        "Susanne Pumluen"
+      ],
+      "categories": [
+        "cs.IT",
+        "math.RA"
+      ],
+      "published": "2026-08-21T17:45:54Z"
+    },
+    {
+      "title": "Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories",
+      "arxiv_id": "2608.21334v1",
+      "abstract": "Short observational pricing panels can contain many observations while offering only a small number of distinct price movements. This paper studies the inferential consequences of that distinction in a synthetic data-generating process calibrated to a sparse pricing regime. We separate uncertainty c",
+      "authors": [
+        "Pedro Cadahia Delgado"
+      ],
+      "categories": [
+        "cs.LG",
+        "econ.EM"
+      ],
+      "published": "2026-08-21T17:40:31Z"
+    },
+    {
+      "title": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
+      "arxiv_id": "2608.21332v1",
+      "abstract": "Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly when data are scarce. We introduce Anatomy-Informed Neural Networks (AINN), in which soft anatomic priors enter as penalty terms in the loss (e.g., a branching penalty that treats a r",
+      "authors": [
+        "David P. Stonko"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.CV",
+        "cs.RO"
+      ],
+      "published": "2026-08-21T17:38:42Z"
+    },
+    {
+      "title": "NeSAM: Neuro-Symbolic Kinodynamics with Soil Adaptation for Off-Road Mobility",
+      "arxiv_id": "2608.21330v1",
+      "abstract": "Accurate prediction of off-road vehicle motion over deformable terrain remains challenging because sinkage, slip, and traction vary with local soil conditions. Existing learning-based kinodynamic models directly approximate vehicle-terrain interactions from data but do not explicitly represent soil ",
+      "authors": [
+        "Chenhui Pan",
+        "Tong Xu",
+        "Francesco Cancelliere",
+        "Xuesu Xiao"
+      ],
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-08-21T17:37:33Z"
+    },
+    {
+      "title": "Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa",
+      "arxiv_id": "2608.21326v1",
+      "abstract": "Autonomous AI diagnostic agents, systems that analyse patient-specific clinical data and produce diagnostic outputs or triage decisions without mandatory real-time human review, are increasingly deployed across eHealth platforms in sub-Saharan Africa at a pace that has outrun the governance infrastr",
+      "authors": [
+        "Percy Brown",
+        "Kweku Yamoah"
+      ],
+      "categories": [
+        "cs.CY"
+      ],
+      "published": "2026-08-21T17:34:19Z"
+    },
+    {
+      "title": "Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy",
+      "arxiv_id": "2608.21325v1",
+      "abstract": "Users increasingly turn to large language models for emotional support, yet little is known about how these models actually conduct a psychotherapy interaction. We introduce an ontology of ten therapeutic moves: compact, function-based categories grounded in the MULTI-60 inventory, validated through",
+      "authors": [
+        "Afonso Baldo",
+        "Hugo Pitorro",
+        "Areti Vassilopoulos",
+        "Anabela C. Areias",
+        "Maya D'Eon"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-08-21T17:32:38Z"
+    },
+    {
+      "title": "Time-Aware Tranformer-Based Prediction Model for AECOPD",
+      "arxiv_id": "2608.21324v1",
+      "abstract": "The rapid symptom change of Acute exacerbation of chronic obstructive pulmonary disease (AECOPD) makes it critical to have time-sensitive prediction models. However, most current machine learning models studying AECOPD use clinical and laboratory data, which will inevitably cause latency. To ensure ",
+      "authors": [
+        "Weihao Qu",
+        "Ling Zheng",
+        "Dongyang Wang",
+        "Jiacun Wang",
+        "Haowen Pan"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-08-21T17:31:23Z"
+    },
+    {
+      "title": "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets",
+      "arxiv_id": "2608.21319v1",
+      "abstract": "We formalize the Steiner Traveling Salesman Problem (Steiner-TSP) on Graphs of Convex Sets (GCS), which seeks a minimum-cost closed trajectory through required convex sets while allowing optional transit vertices and revisits. To explore the resulting infinite solution space, we propose a unified br",
+      "authors": [
+        "Jingtao Tang",
+        "Hang Ma"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.RO"
+      ],
+      "published": "2026-08-21T17:28:03Z"
+    },
+    {
+      "title": "From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry",
+      "arxiv_id": "2608.21317v1",
+      "abstract": "The European Union (EU) has emerged as a leading regulatory body in the development of sustainability and privacy regulations. While new regulation requirements vary, many include a documentation artifact to ensure compliance. Notably, the Ecodesign for Sustainable Products Regulation (ESPR) introdu",
+      "authors": [
+        "Adriana Watson",
+        "Marco Bücheler",
+        "Grant Richards"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-08-21T17:27:13Z"
+    },
+    {
+      "title": "Prompt-Model Interaction Reaches the Fixed Points: A deterministic, task-free structural readout -- and the factorizations of it that failed",
+      "arxiv_id": "2608.21315v1",
+      "abstract": "That a prompt's effect is not a property of the prompt is established: prompts optimised for one model degrade on another, and rankings reorder under neutral reformatting. That evidence is about task accuracy, which cannot say whether the interaction is a fact about task machinery or about the condi",
+      "authors": [
+        "Nicolás Vera Zúñiga"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-08-21T17:25:18Z"
+    },
+    {
+      "title": "VTRQ: Enabling Verifiable Trajectory Range Queries in Hybrid-Storage Blockchains",
+      "arxiv_id": "2608.21314v1",
+      "abstract": "Due to their increasingly large volumes, outsourcing of trajectory storage and querying to third-party service providers has become attractive. However, in such outsourced environments, service providers may return incorrect, e.g., incomplete, tampered, or invalid query results, making verifiability",
+      "authors": [
+        "Zhongming Yao",
+        "Junchang Xin",
+        "Yumeng Song",
+        "Yusen Mao",
+        "Kristian Torp"
+      ],
+      "categories": [
+        "cs.DB"
+      ],
+      "published": "2026-08-21T17:24:00Z"
+    },
+    {
+      "title": "AI-to-AI Code Reviews of GitHub Pull Requests",
+      "arxiv_id": "2608.21311v1",
+      "abstract": "AI coding agents are increasingly integrated into software development workflows, operating on both sides of the pull-request (PR) process: AI authoring agents create or modify PRs, while AI reviewers evaluate them. This creates a closed loop in which one AI coding agent reviews a contribution attri",
+      "authors": [
+        "Niruthiha Selvanayagam",
+        "Taher A. Ghaleb"
+      ],
+      "categories": [
+        "cs.SE"
+      ],
+      "published": "2026-08-21T17:17:35Z"
+    },
+    {
+      "title": "Beyond Fault Localization: A Trajectory-Level Study of LLM Agents for Microservice Root Cause Analysis",
+      "arxiv_id": "2608.21310v1",
+      "abstract": "Existing evaluations of automated root cause analysis (RCA) for microservices assess diagnostic performance mainly by endpoint correctness: whether a method localizes the responsible service. This criterion enables comparison but does not reveal the evidentiary basis of a diagnosis or the fault-prop",
+      "authors": [
+        "Qisheng Lu",
+        "Aoyang Fang",
+        "Junjielong Xu",
+        "Jin'ao Shang",
+        "Songhan Zhang"
+      ],
+      "categories": [
+        "cs.SE"
+      ],
+      "published": "2026-08-21T17:13:45Z"
+    },
+    {
+      "title": "Rethinking Expressivity and Efficiency in Test-Time Training",
+      "arxiv_id": "2608.21308v1",
+      "abstract": "Test-Time Training (TTT) enables long-context processing via continuous weight updates during inference, but current methods struggle to balance the expressivity of per-token update dynamics with the hardware efficiency of chunk-wise approximations. We propose E$^2$-TTT (Expressive and Efficient TTT",
+      "authors": [
+        "Zeyun Zhong",
+        "Joya Chen",
+        "Manuel Martin",
+        "Frederik Diederichs",
+        "Juergen Gall"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-08-21T17:12:28Z"
+    },
+    {
+      "title": "SPARCL: Spectral Partitioned Analytic Continual Learning",
+      "arxiv_id": "2608.21307v1",
+      "abstract": "Analytic continual learning has emerged as a strong exemplar-free alternative to gradient-based class-incremental learning because it replaces iterative optimization with closed-form ridge updates. Yet the usual forgetting narrative, centered on stochastic gradient overwriting, does not explain why ",
+      "authors": [
+        "James Hartley",
+        "Zeropy Surio",
+        "Daniel Whitmore",
+        "Hannah Clarke",
+        "Thomas Reed"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-08-21T17:09:48Z"
+    },
+    {
+      "title": "Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning",
+      "arxiv_id": "2608.21305v1",
+      "abstract": "Reinforcement Learning (RL) has demonstrated significant gains in image captioning, yet it is still limited in encouraging Large Vision-Language Models (LVLMs) to explore novel reasoning strategies. This limitation leads to a performance gap between RL and Supervised Fine-Tuning (SFT). In this paper",
+      "authors": [
+        "Haonan Jia",
+        "Shichao Dong",
+        "Zenghui Sun",
+        "Jiawen Zheng",
+        "Ziqi Miao"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-08-21T17:07:41Z"
+    },
+    {
+      "title": "Basin-Preserving Discretizations of Modern Hopfield Retrieval Dynamics: Energy Cells, Dissipation, and the Attention Limit",
+      "arxiv_id": "2608.21304v1",
+      "abstract": "The retrieval dynamics of a modern Hopfield network is the gradient flow of a log-sum-exp energy, while the attention update is its exact difference-of-convex minimization step. We study which time discretizations preserve not only energy decay and equilibria but also basins of attraction. We introd",
+      "authors": [
+        "Francisco R. Villatoro"
+      ],
+      "categories": [
+        "math.NA",
+        "cs.NE"
+      ],
+      "published": "2026-08-21T17:06:43Z"
+    },
+    {
+      "title": "When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning",
+      "arxiv_id": "2608.21300v1",
+      "abstract": "Foundation models for medical image segmentation, like prompt-based MedSAM, generalize well across domains and modalities, often in zero or few-shot setups. However, their performance depends on the quality of prompts and the adaptation of the models to custom datasets. This work systematically exam",
+      "authors": [
+        "Marko Haralović",
+        "Sounic Akkaraju",
+        "Carlo Baretta",
+        "Vasil Zapryanov",
+        "Alexia Briassouli"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-08-21T17:01:10Z"
+    },
+    {
+      "title": "Human-AI Collaboration in Requirements Engineering: Evidence of the Negative Effect of LLMs on Requirements Inspection",
+      "arxiv_id": "2608.21298v1",
+      "abstract": "Background. Requirements inspection (RI) is a well-established practice for detecting potential defects in requirements artifacts early in the software lifecycle. Recent advances in large language models (LLMs) have stimulated interest in their potential to support requirements engineering (RE) task",
+      "authors": [
+        "Giovanna Broccia",
+        "Julian Frattini",
+        "Chetan Arora",
+        "Maurice H. ter Beek",
+        "Alessandro Fantechi"
+      ],
+      "categories": [
+        "cs.SE"
+      ],
+      "published": "2026-08-21T16:58:48Z"
+    },
+    {
+      "title": "Level-k Distinguishable Mechanisms for Evaluating Bounded Rationality in LLMs",
+      "arxiv_id": "2608.21296v1",
+      "abstract": "Strategic depth of reasoning is essential for human interaction of Large Language Models (LLMs) operating in boundedly rational environments. However, existing evaluations are primarily based on canonical games prevalent in pretraining corpora, making it difficult to disentangle true strategic reaso",
+      "authors": [
+        "Binchi Zhang",
+        "Atrisha Sarkar"
+      ],
+      "categories": [
+        "cs.MA"
+      ],
+      "published": "2026-08-21T16:58:10Z"
+    },
+    {
+      "title": "Event-Time Confounding Under Bursty Human Dynamics",
+      "arxiv_id": "2608.21294v1",
+      "abstract": "Studies of digital behavior often align users at moments they choose, such as opening an AI assistant, clicking a recommendation, or visiting a product page, and interpret higher activity afterward as an event effect. We show how this creates an endogenous time zero: the event occurs during an ongoi",
+      "authors": [
+        "Michael Iannelli",
+        "Alan Ai"
+      ],
+      "categories": [
+        "cs.HC",
+        "stat.ME"
+      ],
+      "published": "2026-08-21T16:57:12Z"
+    },
+    {
+      "title": "AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization",
+      "arxiv_id": "2608.21292v1",
+      "abstract": "Skills play different roles as an agent's policy evolves: they should first provide learnable knowledge, then support capability formation, and finally be invoked only when they improve individual decisions. Existing methods rarely model this lifecycle. They either keep skills outside the model, ful",
+      "authors": [
+        "Huizu Lin",
+        "Chengkai Huang",
+        "Tianqi Gao",
+        "Tao Huang",
+        "Daijiao Liu"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-08-21T16:53:27Z"
+    },
+    {
+      "title": "VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation",
+      "arxiv_id": "2608.21290v1",
+      "abstract": "We propose VT-MUSE, a Multimodal Unified SEquential representation learning framework for visuotactilemanipulation. Existing approaches often encode visual and tactile observations independently before fusion, limiting their ability to capture fine-grained cross-modal dependencies. Moreover, most me",
+      "authors": [
+        "Congsheng Xu",
+        "Qiaochu Yang",
+        "Fangyuan Shi",
+        "Yifan Han",
+        "Baijun Chen"
+      ],
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "published": "2026-08-21T16:50:02Z"
+    },
+    {
+      "title": "Supporting The Many Lives of Personal Data with Rebite: LLM-Powered Goal-Directed Framing in Food Journaling",
+      "arxiv_id": "2608.21289v1",
+      "abstract": "People's health and tracking goals frequently change, but most personal informatics systems struggle to adapt, leading people to abandon their data and start over. We propose goal-directed framing, an approach that repositions goals within personal informatics systems. Instead of fixing the meaning ",
+      "authors": [
+        "Weijun Li",
+        "Daniel A. Epstein"
+      ],
+      "categories": [
+        "cs.HC"
+      ],
+      "published": "2026-08-21T16:48:45Z"
+    },
+    {
+      "title": "Assessing Triple Modular Redundancy for Wide-Link, Low-Latency NoC Routers: Reliability and Physical Design Challenges",
+      "arxiv_id": "2608.21288v1",
+      "abstract": "Protecting the Network-on-Chip (NoC) of physical-AI tile-based accelerators deployed in harsh environments against single-event effects (SEEs) is paramount for preventing NoC failures that can lead to deadlocks and silent data corruption (SDC). Prior work on reliable NoCs has largely focused on narr",
+      "authors": [
+        "Chen Wu",
+        "Michael Rogenmoser",
+        "Luca Benini",
+        "Angelo Garofalo"
+      ],
+      "categories": [
+        "cs.AR"
+      ],
+      "published": "2026-08-21T16:43:39Z"
+    },
+    {
+      "title": "Difficulty-Calibrated Interpolation Paths for Conditional Flow Matching",
+      "arxiv_id": "2608.21286v1",
+      "abstract": "Conditional Flow Matching trains generative models by regressing a network onto the velocity of a prescribed noise-to-data interpolation path. The interpolation schedule that shapes this path is known to affect convergence and sample quality, yet it is invariably fixed in advance, independent of bot",
+      "authors": [
+        "Airin Akter Tania",
+        "Md Raihan Khan"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-08-21T16:42:52Z"
+    },
+    {
+      "title": "WildFin: An In-the-Wild Dataset for Fish Behavioral Recognition",
+      "arxiv_id": "2608.21281v1",
+      "abstract": "Recent advances in field technology have led to a massive influx of in-the-wild video data for ecological science. The primary bottleneck in leveraging this data is the high cost of expert annotation. While computer vision offers a potential solution, current models frequently fail when deployed in ",
+      "authors": [
+        "Abigail G. Grassick",
+        "Jerome Tze-Hou Hsu",
+        "Ethan Lin",
+        "Ziang Liu",
+        "Max Whitton"
+      ],
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-08-21T16:38:01Z"
+    },
+    {
+      "title": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
+      "arxiv_id": "2608.21278v1",
+      "abstract": "Improving the safety of large language models (LLMs) often comes at the expense of utility, as globally applied safety tuning may affect model responses to both harmful and benign inputs. We propose \\textbf{C}ontinuous \\textbf{L}at\\textbf{E}nt \\textbf{A}dapter \\textbf{R}outing (CLEAR), a conditional",
+      "authors": [
+        "Chengxiao Wang",
+        "Enyi Jiang",
+        "Xiaojing Liao",
+        "Sanmi Koyejo"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-08-21T16:36:10Z"
+    },
+    {
+      "title": "ConceptTS: LLM-Guided Concept Bottlenecks for Interpretable Multivariate Time-Series Forecasting",
+      "arxiv_id": "2608.21277v1",
+      "abstract": "State-of-the-art multivariate time-series forecasters can model complex temporal and cross-variable dependencies, yet their opaque representations provide limited insight into why a particular forecast is produced. This lack of transparency restricts their use in settings where practitioners must un",
+      "authors": [
+        "Yichen Jiang",
+        "Yueqiao Chen",
+        "Dongyu Liu"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-08-21T16:35:44Z"
+    },
+    {
+      "title": "The Coastline as a Structural Constraint: Harnessing Scene Geometry for Autonomous Surface Vessel Localization",
+      "arxiv_id": "2608.21276v1",
+      "abstract": "Coastal environments contain rich, largely unexploited geometric structure capable of providing globally referenced localization cues. In this work, we present two complementary localization frameworks that exploit shoreline and water-surface geometry for GPS-denied autonomous surface vessel localiz",
+      "authors": [
+        "Derek R. Benham",
+        "Joshua G. Mangelson"
+      ],
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "published": "2026-08-21T16:34:48Z"
+    },
+    {
+      "title": "Recommendation Quality and the Concentration of Consumption: Experimental Evidence from Netflix",
+      "arxiv_id": "2608.21274v1",
+      "abstract": "We study an experiment with 8.5 million users on Netflix's recommender system to measure how improvements in recommendation technology affect the set of products that get consumed. Improvements increase total consumption and users' reliance on recommendations while diffusing recommendations and cons",
+      "authors": [
+        "Guy Aridor",
+        "Winston Chou",
+        "Nathan Kallus",
+        "Antoine Scheid",
+        "Allen Tren"
+      ],
+      "categories": [
+        "econ.GN",
+        "cs.IR"
+      ],
+      "published": "2026-08-21T16:30:18Z"
+    },
+    {
+      "title": "Finitary Semantics for Full Ground Local State",
+      "arxiv_id": "2608.21271v1",
+      "abstract": "Full ground local state (FGLS) refers to dynamically allocated mutable state that allows storing ground values and references. It is a key ingredient in many imperative algorithms as it enables (cyclic) data structures. In this work, we treat full ground local state as a computational effect, focusi",
+      "authors": [
+        "Orpheas van Rooij",
+        "Ohad Kammar",
+        "Sam Lindley",
+        "Cristina Matache"
+      ],
+      "categories": [
+        "cs.PL"
+      ],
+      "published": "2026-08-21T16:26:20Z"
+    },
+    {
+      "title": "Memory Augmentation Unlocks Efficient Chain-of-Thought Reasoning",
+      "arxiv_id": "2608.21265v1",
+      "abstract": "Large language models often rely on Chain-of-Thought (CoT) reasoning to solve complex tasks, but verbose reasoning traces introduce substantial inference overhead. CoT compression shortens generation, yet aggressive compression may disrupt logical coherence and degrade performance. We formalize this",
+      "authors": [
+        "Simeng Zhang",
+        "Yilong Chen",
+        "Wenyuan Zhang",
+        "Zhenyu Zhang",
+        "Yao Chen"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-08-21T16:22:36Z"
+    },
+    {
+      "title": "The Exceedance Design Effect: Effective Sample Size for Thresholds under Clustering",
+      "arxiv_id": "2608.21262v1",
+      "abstract": "Many machine-learning systems set a threshold at a quantile of a calibration set: conformal predictors that promise 90% coverage by drawing their cutoff at the calibration set's 90th percentile, abstention gates that decline to answer when a model's score falls below the calibration set's tenth perc",
+      "authors": [
+        "Adam Noonan"
+      ],
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ],
+      "published": "2026-08-21T16:19:50Z"
+    },
+    {
+      "title": "Security Games on Series-Parallel Attack Graphs with Adaptive Attackers",
+      "arxiv_id": "2608.21259v1",
+      "abstract": "We study security games on attack graphs, where an adaptive attacker seeks to reach a target by sequentially attempting stochastic controls along the current attack frontier, while a defender allocates limited resources across controls to delay compromise. The attacker may choose among exponentially",
+      "authors": [
+        "Russell Kai Min Tan",
+        "Hui Han Chin",
+        "Chun Kai Ling"
+      ],
+      "categories": [
+        "cs.GT"
+      ],
+      "published": "2026-08-21T16:16:31Z"
+    },
+    {
+      "title": "On the Transferability of Agricultural Weed Detection Under Cross-Field Distribution Shift",
+      "arxiv_id": "2608.21254v1",
+      "abstract": "Accurate agricultural weed detection in real-world field conditions is essential for precision agriculture, enabling targeted intervention and reducing yield loss. Recent work has reported strong detection performance from UAV-based imagery across a range of crops, yet existing approaches evaluate w",
+      "authors": [
+        "Nikhilesh Prabhakar",
+        "Pranuthi Tenali",
+        "Wilfredo Abudeye Fernandez",
+        "Shekhar Borah",
+        "Athresh Karanam"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "published": "2026-08-21T16:06:09Z"
+    },
+    {
+      "title": "EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering",
+      "arxiv_id": "2608.21252v1",
+      "abstract": "Question answering (QA) over long, connected documents remains challenging because relevant evidence may span multiple entities and their relationships. Existing retrieval-augmented generation (RAG) methods typically index documents as raw chunks and retrieve them through embedding similarity. Their",
+      "authors": [
+        "Xuanyu Meng",
+        "Jiashuo Sun",
+        "Jash Rajesh Parekh",
+        "Jiawei Han"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.DB",
+        "cs.IR"
+      ],
+      "published": "2026-08-21T16:05:00Z"
+    },
+    {
+      "title": "TRACE-C: Rank-Calibrated Relational Anomaly Detection for Multi-Stream Operational Telemetry",
+      "arxiv_id": "2608.21251v1",
+      "abstract": "Operational telemetry can be jointly anomalous while every individual stream stays inside its familiar range. TRACE-C is an auditable strictly-prior rank-calibrated detector for aligned multi-stream telemetry: same-regime rolling median/MAD residuals feed three window channels -- a maximum normalize",
+      "authors": [
+        "Matthew Faucher"
+      ],
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2026-08-21T16:01:56Z"
+    },
+    {
+      "title": "Benchmarking Patent Drafting from Inventor-Style Disclosures",
+      "arxiv_id": "2608.21249v1",
+      "abstract": "While recent large language models (LLMs) have achieved promising results on individual patent drafting tasks, they fundamentally fail to investigate the core challenge of real-world patent drafting: generating a complete and legally coherent patent application directly from early-stage invention ma",
+      "authors": [
+        "Lekang Jiang",
+        "Wenjun Sun",
+        "Stephan Goetz"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-08-21T16:00:52Z"
+    }
+  ]
+}
