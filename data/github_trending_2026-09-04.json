@@ -102,12 +102,12 @@
     {
       "name": "nateherkai/scroll-craft",
       "language": "JavaScript",
-      "stars": 1679,
+      "stars": 1680,
       "stars_today": null,
       "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
       "url": "https://github.com/nateherkai/scroll-craft",
       "created_at": "2026-08-22T15:25:08Z",
-      "updated_at": "2026-09-04T00:06:05Z",
+      "updated_at": "2026-09-04T00:09:30Z",
       "category": "all"
     },
     {
@@ -124,12 +124,12 @@
     {
       "name": "anthropics/commerce-agents",
       "language": "Python",
-      "stars": 1539,
+      "stars": 1540,
       "stars_today": null,
       "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
       "created_at": "2026-09-01T12:30:12Z",
-      "updated_at": "2026-09-04T00:08:05Z",
+      "updated_at": "2026-09-04T00:10:21Z",
       "category": "all"
     },
     {
@@ -311,12 +311,12 @@
     {
       "name": "anthropics/commerce-agents",
       "language": "Python",
-      "stars": 1539,
+      "stars": 1540,
       "stars_today": null,
       "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
       "created_at": "2026-09-01T12:30:12Z",
-      "updated_at": "2026-09-04T00:08:05Z",
+      "updated_at": "2026-09-04T00:10:21Z",
       "category": "python"
     },
     {
@@ -410,12 +410,12 @@
     {
       "name": "2akouwu/reverify",
       "language": "Python",
-      "stars": 755,
+      "stars": 756,
       "stars_today": null,
       "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
       "url": "https://github.com/2akouwu/reverify",
       "created_at": "2026-08-31T01:02:18Z",
-      "updated_at": "2026-09-03T23:58:10Z",
+      "updated_at": "2026-09-04T00:10:04Z",
       "category": "python"
     },
     {
@@ -641,12 +641,12 @@
     {
       "name": "totec448-spec/chat-on-steroids",
       "language": "TypeScript",
-      "stars": 653,
+      "stars": 652,
       "stars_today": null,
       "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
       "url": "https://github.com/totec448-spec/chat-on-steroids",
       "created_at": "2026-08-22T14:16:24Z",
-      "updated_at": "2026-09-03T23:34:33Z",
+      "updated_at": "2026-09-04T00:10:01Z",
       "category": "typescript"
     },
     {
@@ -817,12 +817,12 @@
     {
       "name": "coldteadotai/pr-lens",
       "language": "TypeScript",
-      "stars": 211,
+      "stars": 212,
       "stars_today": null,
       "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow diagrams, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a skill for your coding agent",
       "url": "https://github.com/coldteadotai/pr-lens",
       "created_at": "2026-08-20T19:16:16Z",
-      "updated_at": "2026-09-03T23:43:02Z",
+      "updated_at": "2026-09-04T00:09:37Z",
       "category": "typescript"
     },
     {
