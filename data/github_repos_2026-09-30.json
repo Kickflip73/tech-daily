@@ -1,0 +1,2702 @@
+[
+  {
+    "full_name": "jev-chat/jev-chat-jarvis",
+    "stargazers_count": 7105,
+    "prev_stars": 6918,
+    "language": "Kotlin",
+    "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "created_at": "2026-09-21T11:12:53Z",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis"
+  },
+  {
+    "full_name": "KKKKhazix/AIHOT",
+    "stargazers_count": 3094,
+    "prev_stars": null,
+    "language": "TypeScript",
+    "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "created_at": "2026-09-28T23:40:05Z",
+    "url": "https://github.com/KKKKhazix/AIHOT"
+  },
+  {
+    "full_name": "yetone/magpie",
+    "stargazers_count": 2645,
+    "prev_stars": 1587,
+    "language": "Go",
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "created_at": "2026-09-23T16:22:35Z",
+    "url": "https://github.com/yetone/magpie"
+  },
+  {
+    "full_name": "Contrastive-LM/CLM",
+    "stargazers_count": 2513,
+    "prev_stars": 2277,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-09-23T19:29:56Z",
+    "url": "https://github.com/Contrastive-LM/CLM"
+  },
+  {
+    "full_name": "unreallabsai/unreal-agent",
+    "stargazers_count": 2034,
+    "prev_stars": 2013,
+    "language": "Go",
+    "description": "Async-first agent harness",
+    "created_at": "2026-09-21T23:14:02Z",
+    "url": "https://github.com/unreallabsai/unreal-agent"
+  },
+  {
+    "full_name": "mexicat/pdoom-video",
+    "stargazers_count": 1978,
+    "prev_stars": 1771,
+    "language": "TypeScript",
+    "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+    "created_at": "2026-09-24T21:33:53Z",
+    "url": "https://github.com/mexicat/pdoom-video"
+  },
+  {
+    "full_name": "tobi/disktree",
+    "stargazers_count": 1909,
+    "prev_stars": 1810,
+    "language": "Rust",
+    "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+    "created_at": "2026-09-24T20:56:29Z",
+    "url": "https://github.com/tobi/disktree"
+  },
+  {
+    "full_name": "dzhng/jevgrep",
+    "stargazers_count": 1772,
+    "prev_stars": 1418,
+    "language": "TypeScript",
+    "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "created_at": "2026-09-26T04:06:56Z",
+    "url": "https://github.com/dzhng/jevgrep"
+  },
+  {
+    "full_name": "Niko1221/Strata",
+    "stargazers_count": 1722,
+    "prev_stars": 1066,
+    "language": "C++",
+    "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+    "created_at": "2026-09-24T16:40:20Z",
+    "url": "https://github.com/Niko1221/Strata"
+  },
+  {
+    "full_name": "JohnHeibel/PDoomVideo",
+    "stargazers_count": 1508,
+    "prev_stars": 1427,
+    "language": "JavaScript",
+    "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+    "created_at": "2026-09-22T23:32:19Z",
+    "url": "https://github.com/JohnHeibel/PDoomVideo"
+  },
+  {
+    "full_name": "deepopen-com/deepopen",
+    "stargazers_count": 1420,
+    "prev_stars": 1044,
+    "language": "Python",
+    "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+    "created_at": "2026-09-21T02:12:24Z",
+    "url": "https://github.com/deepopen-com/deepopen"
+  },
+  {
+    "full_name": "mikehasa/golive-skill",
+    "stargazers_count": 1111,
+    "prev_stars": 1047,
+    "language": "TypeScript",
+    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+    "created_at": "2026-09-23T13:37:26Z",
+    "url": "https://github.com/mikehasa/golive-skill"
+  },
+  {
+    "full_name": "kryvora-network/kryvora-node",
+    "stargazers_count": 1104,
+    "prev_stars": 1043,
+    "language": "Go",
+    "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+    "created_at": "2026-09-22T16:10:23Z",
+    "url": "https://github.com/kryvora-network/kryvora-node"
+  },
+  {
+    "full_name": "852wa/JIZURA",
+    "stargazers_count": 1099,
+    "prev_stars": 958,
+    "language": "HTML",
+    "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+    "created_at": "2026-09-23T04:04:13Z",
+    "url": "https://github.com/852wa/JIZURA"
+  },
+  {
+    "full_name": "firelex/jeff",
+    "stargazers_count": 1015,
+    "prev_stars": 229,
+    "language": "Python",
+    "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+    "created_at": "2026-09-28T16:18:39Z",
+    "url": "https://github.com/firelex/jeff"
+  },
+  {
+    "full_name": "feitangyuan/onetake",
+    "stargazers_count": 981,
+    "prev_stars": 834,
+    "language": "Python",
+    "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+    "created_at": "2026-09-26T05:35:17Z",
+    "url": "https://github.com/feitangyuan/onetake"
+  },
+  {
+    "full_name": "OnlistTeam/ai-manager",
+    "stargazers_count": 977,
+    "prev_stars": 792,
+    "language": "Rust",
+    "description": "AI Manager desktop application for AI coding tools",
+    "created_at": "2026-09-21T05:07:53Z",
+    "url": "https://github.com/OnlistTeam/ai-manager"
+  },
+  {
+    "full_name": "ollaya-dev/ollaya",
+    "stargazers_count": 976,
+    "prev_stars": 874,
+    "language": "Rust",
+    "description": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
+    "created_at": "2026-09-23T22:11:15Z",
+    "url": "https://github.com/ollaya-dev/ollaya"
+  },
+  {
+    "full_name": "dgreenheck/tidewater",
+    "stargazers_count": 966,
+    "prev_stars": 911,
+    "language": "JavaScript",
+    "description": "Coastal town built with Opus 5.5",
+    "created_at": "2026-09-23T21:40:29Z",
+    "url": "https://github.com/dgreenheck/tidewater"
+  },
+  {
+    "full_name": "nokia-applied-research/AnyJev",
+    "stargazers_count": 953,
+    "prev_stars": 877,
+    "language": "Python",
+    "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
+    "created_at": "2026-09-21T05:55:40Z",
+    "url": "https://github.com/nokia-applied-research/AnyJev"
+  },
+  {
+    "full_name": "shihabal3amri/DiPlay",
+    "stargazers_count": 933,
+    "prev_stars": 324,
+    "language": "Kotlin",
+    "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+    "created_at": "2026-09-24T15:36:38Z",
+    "url": "https://github.com/shihabal3amri/DiPlay"
+  },
+  {
+    "full_name": "riba2534/claude-opus-5-5-demo",
+    "stargazers_count": 919,
+    "prev_stars": 879,
+    "language": "JavaScript",
+    "description": "claude-opus-5-5-demo",
+    "created_at": "2026-09-23T06:31:00Z",
+    "url": "https://github.com/riba2534/claude-opus-5-5-demo"
+  },
+  {
+    "full_name": "freestylefly/WeChatBridge",
+    "stargazers_count": 912,
+    "prev_stars": 873,
+    "language": "Swift",
+    "description": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+    "created_at": "2026-09-21T02:54:51Z",
+    "url": "https://github.com/freestylefly/WeChatBridge"
+  },
+  {
+    "full_name": "yihui-dev/awesome-opus5-5-videos",
+    "stargazers_count": 909,
+    "prev_stars": 700,
+    "language": null,
+    "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+    "created_at": "2026-09-27T06:19:36Z",
+    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
+  },
+  {
+    "full_name": "supermemoryai/company-brain",
+    "stargazers_count": 847,
+    "prev_stars": 794,
+    "language": "TypeScript",
+    "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+    "created_at": "2026-09-25T22:48:14Z",
+    "url": "https://github.com/supermemoryai/company-brain"
+  },
+  {
+    "full_name": "kaankiziltug/logo-design-skill",
+    "stargazers_count": 838,
+    "prev_stars": 442,
+    "language": "HTML",
+    "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+    "created_at": "2026-09-26T08:23:34Z",
+    "url": "https://github.com/kaankiziltug/logo-design-skill"
+  },
+  {
+    "full_name": "cloudflare/forge",
+    "stargazers_count": 814,
+    "prev_stars": 507,
+    "language": "TypeScript",
+    "description": null,
+    "created_at": "2026-09-21T15:17:42Z",
+    "url": "https://github.com/cloudflare/forge"
+  },
+  {
+    "full_name": "Rizzo-AI-Academy/rizzo-flow",
+    "stargazers_count": 758,
+    "prev_stars": 738,
+    "language": "Python",
+    "description": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+    "created_at": "2026-09-21T00:00:02Z",
+    "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow"
+  },
+  {
+    "full_name": "anishfn/shapeshift",
+    "stargazers_count": 744,
+    "prev_stars": 724,
+    "language": "TypeScript",
+    "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
+    "created_at": "2026-09-22T08:52:32Z",
+    "url": "https://github.com/anishfn/shapeshift"
+  },
+  {
+    "full_name": "Alex314618-create/JevRev",
+    "stargazers_count": 699,
+    "prev_stars": 603,
+    "language": "TypeScript",
+    "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+    "created_at": "2026-09-21T01:53:13Z",
+    "url": "https://github.com/Alex314618-create/JevRev"
+  },
+  {
+    "full_name": "alexgreensh/anidoodle",
+    "stargazers_count": 694,
+    "prev_stars": 660,
+    "language": "TypeScript",
+    "description": "Art and animation, written as code. Illustrations, loops, interactive web art, launch-videos and scored films in dozens of styles, identical on every render.",
+    "created_at": "2026-09-22T11:20:47Z",
+    "url": "https://github.com/alexgreensh/anidoodle"
+  },
+  {
+    "full_name": "jev-chat/jev-chat-windows",
+    "stargazers_count": 687,
+    "prev_stars": 653,
+    "language": "Python",
+    "description": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+    "created_at": "2026-09-21T14:37:14Z",
+    "url": "https://github.com/jev-chat/jev-chat-windows"
+  },
+  {
+    "full_name": "lemomo-ai/lemo-opuscar",
+    "stargazers_count": 609,
+    "prev_stars": 515,
+    "language": "JavaScript",
+    "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+    "created_at": "2026-09-26T10:10:41Z",
+    "url": "https://github.com/lemomo-ai/lemo-opuscar"
+  },
+  {
+    "full_name": "kydlikebtc/awesome-jev",
+    "stargazers_count": 586,
+    "prev_stars": 582,
+    "language": "Python",
+    "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+    "created_at": "2026-09-22T02:22:54Z",
+    "url": "https://github.com/kydlikebtc/awesome-jev"
+  },
+  {
+    "full_name": "JohnHeibel/ClaudeAnimationBase",
+    "stargazers_count": 583,
+    "prev_stars": 549,
+    "language": "JavaScript",
+    "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+    "created_at": "2026-09-23T20:27:00Z",
+    "url": "https://github.com/JohnHeibel/ClaudeAnimationBase"
+  },
+  {
+    "full_name": "angusdevgo/Seep-Reverse-Lab",
+    "stargazers_count": 569,
+    "prev_stars": 480,
+    "language": "Lua",
+    "description": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+    "created_at": "2026-09-23T18:05:31Z",
+    "url": "https://github.com/angusdevgo/Seep-Reverse-Lab"
+  },
+  {
+    "full_name": "glanderness/BeefTV",
+    "stargazers_count": 509,
+    "prev_stars": 347,
+    "language": "TypeScript",
+    "description": "Local-first, lightweight, AI-native video workspace.",
+    "created_at": "2026-09-24T05:20:03Z",
+    "url": "https://github.com/glanderness/BeefTV"
+  },
+  {
+    "full_name": "samyost1/3dicon",
+    "stargazers_count": 509,
+    "prev_stars": 504,
+    "language": "Python",
+    "description": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+    "created_at": "2026-09-23T18:04:25Z",
+    "url": "https://github.com/samyost1/3dicon"
+  },
+  {
+    "full_name": "Liuziyu77/Valen",
+    "stargazers_count": 508,
+    "prev_stars": 438,
+    "language": "Python",
+    "description": "Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+    "created_at": "2026-09-23T02:48:02Z",
+    "url": "https://github.com/Liuziyu77/Valen"
+  },
+  {
+    "full_name": "rgem227/knoweldge-base",
+    "stargazers_count": 498,
+    "prev_stars": 498,
+    "language": "Python",
+    "description": "Personal or team knowledge base, supports MCP API calls.",
+    "created_at": "2026-09-22T04:28:59Z",
+    "url": "https://github.com/rgem227/knoweldge-base"
+  },
+  {
+    "full_name": "Aureliengmz/clearwater",
+    "stargazers_count": 487,
+    "prev_stars": 482,
+    "language": "HTML",
+    "description": "Real-time, photoreal shallow water in a single HTML file. WebGL2, no libraries, no build step.",
+    "created_at": "2026-09-23T13:20:08Z",
+    "url": "https://github.com/Aureliengmz/clearwater"
+  },
+  {
+    "full_name": "wy51ai/floorplan-3d",
+    "stargazers_count": 479,
+    "prev_stars": null,
+    "language": "HTML",
+    "description": null,
+    "created_at": "2026-09-29T02:57:30Z",
+    "url": "https://github.com/wy51ai/floorplan-3d"
+  },
+  {
+    "full_name": "amitshekhariitbhu/ai-system-design",
+    "stargazers_count": 468,
+    "prev_stars": 463,
+    "language": "Markdown",
+    "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+    "created_at": "2026-09-25T04:50:06Z",
+    "url": "https://github.com/amitshekhariitbhu/ai-system-design"
+  },
+  {
+    "full_name": "cloudflare/cf",
+    "stargazers_count": 462,
+    "prev_stars": 244,
+    "language": "TypeScript",
+    "description": "The agentic CLI for the entire Cloudflare API",
+    "created_at": "2026-09-21T15:16:36Z",
+    "url": "https://github.com/cloudflare/cf"
+  },
+  {
+    "full_name": "SpecterLouse/CapCut-Pro-macOS-Windows",
+    "stargazers_count": 454,
+    "prev_stars": 452,
+    "language": null,
+    "description": "Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS)",
+    "created_at": "2026-09-25T11:40:59Z",
+    "url": "https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows"
+  },
+  {
+    "full_name": "amitshekhariitbhu/ai-engineering-course",
+    "stargazers_count": 446,
+    "prev_stars": 431,
+    "language": "Markdown",
+    "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
+    "created_at": "2026-09-23T08:04:42Z",
+    "url": "https://github.com/amitshekhariitbhu/ai-engineering-course"
+  },
+  {
+    "full_name": "jev-chat/jev-chat-jarvis-mac",
+    "stargazers_count": 442,
+    "prev_stars": 431,
+    "language": "Python",
+    "description": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
+    "created_at": "2026-09-21T11:39:32Z",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis-mac"
+  },
+  {
+    "full_name": "xikhar/spiderbench",
+    "stargazers_count": 437,
+    "prev_stars": 401,
+    "language": "JavaScript",
+    "description": null,
+    "created_at": "2026-09-27T05:55:36Z",
+    "url": "https://github.com/xikhar/spiderbench"
+  },
+  {
+    "full_name": "zouyuxuan122/dsh-our-free-model",
+    "stargazers_count": 421,
+    "prev_stars": 351,
+    "language": "JavaScript",
+    "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+    "created_at": "2026-09-24T16:17:19Z",
+    "url": "https://github.com/zouyuxuan122/dsh-our-free-model"
+  },
+  {
+    "full_name": "JoasASantos/Offensive-Security-AI-Models",
+    "stargazers_count": 414,
+    "prev_stars": 183,
+    "language": null,
+    "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+    "created_at": "2026-09-27T20:36:30Z",
+    "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models"
+  },
+  {
+    "full_name": "wangmingxuan666/Tiersense",
+    "stargazers_count": 414,
+    "prev_stars": 311,
+    "language": null,
+    "description": null,
+    "created_at": "2026-09-24T06:36:17Z",
+    "url": "https://github.com/wangmingxuan666/Tiersense"
+  },
+  {
+    "full_name": "lhlGitHub/threejs-architecture-effects",
+    "stargazers_count": 409,
+    "prev_stars": 383,
+    "language": "TypeScript",
+    "description": "An Agent Skill for building interactive, self-assembling 3D architecture with Three.js.  一个用 Three.js 生成可交互、可动态建造 3D 建筑的 Agent Skill。",
+    "created_at": "2026-09-22T03:01:05Z",
+    "url": "https://github.com/lhlGitHub/threejs-architecture-effects"
+  },
+  {
+    "full_name": "LuwuDynamics/xgoduck_hardware",
+    "stargazers_count": 396,
+    "prev_stars": 356,
+    "language": null,
+    "description": null,
+    "created_at": "2026-09-24T08:39:53Z",
+    "url": "https://github.com/LuwuDynamics/xgoduck_hardware"
+  },
+  {
+    "full_name": "bjarneo/flux",
+    "stargazers_count": 395,
+    "prev_stars": 337,
+    "language": "Swift",
+    "description": "Connect an Omarchy computer to your phone: files, clipboard, notifications, media, camera, and more",
+    "created_at": "2026-09-25T18:45:46Z",
+    "url": "https://github.com/bjarneo/flux"
+  },
+  {
+    "full_name": "AgentSystemLabs/agent-office",
+    "stargazers_count": 384,
+    "prev_stars": 276,
+    "language": "TypeScript",
+    "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+    "created_at": "2026-09-26T00:32:48Z",
+    "url": "https://github.com/AgentSystemLabs/agent-office"
+  },
+  {
+    "full_name": "TianyuCodings/JevHarness",
+    "stargazers_count": 384,
+    "prev_stars": 351,
+    "language": "Python",
+    "description": "LLM-authored task-specific Jev harnesses with optional full-trajectory reward reflection and GEPA evolution.",
+    "created_at": "2026-09-21T08:59:46Z",
+    "url": "https://github.com/TianyuCodings/JevHarness"
+  },
+  {
+    "full_name": "CaptureGrubEnchant/SolidWorks",
+    "stargazers_count": 372,
+    "prev_stars": null,
+    "language": "TypeScript",
+    "description": "SolidWorks MCP Server connects an AI assistant to a running SolidWorks instance. Sketch, extrude, fillet, export STEP/STL, generate macros.",
+    "created_at": "2026-09-25T10:42:51Z",
+    "url": "https://github.com/CaptureGrubEnchant/SolidWorks"
+  },
+  {
+    "full_name": "Rieranthony/product-film-skill",
+    "stargazers_count": 369,
+    "prev_stars": 357,
+    "language": "TypeScript",
+    "description": null,
+    "created_at": "2026-09-26T10:42:48Z",
+    "url": "https://github.com/Rieranthony/product-film-skill"
+  },
+  {
+    "full_name": "saragordic/rooms",
+    "stargazers_count": 349,
+    "prev_stars": 341,
+    "language": "Swift",
+    "description": "Switch between projects on your Mac. Every project is a room: its windows, laid out, one shortcut away.",
+    "created_at": "2026-09-23T21:35:54Z",
+    "url": "https://github.com/saragordic/rooms"
+  },
+  {
+    "full_name": "bridge-mind/bridgeclip",
+    "stargazers_count": 338,
+    "prev_stars": 326,
+    "language": "Python",
+    "description": "Open-source AI video clipping desktop app by BridgeMind",
+    "created_at": "2026-09-24T17:09:04Z",
+    "url": "https://github.com/bridge-mind/bridgeclip"
+  },
+  {
+    "full_name": "angel291592/Intent-Router",
+    "stargazers_count": 338,
+    "prev_stars": 251,
+    "language": "Python",
+    "description": "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
+    "created_at": "2026-09-22T06:00:27Z",
+    "url": "https://github.com/angel291592/Intent-Router"
+  },
+  {
+    "full_name": "athemeroy/awesome-opus-5-5-videos",
+    "stargazers_count": 336,
+    "prev_stars": 311,
+    "language": "Python",
+    "description": "Source-linked guide to 1,000+ videos people made with Claude Opus 5.5: what they're about, how they look, how the frames were made.",
+    "created_at": "2026-09-25T00:29:30Z",
+    "url": "https://github.com/athemeroy/awesome-opus-5-5-videos"
+  },
+  {
+    "full_name": "Barty-Bart/motion-graphics",
+    "stargazers_count": 330,
+    "prev_stars": 273,
+    "language": "HTML",
+    "description": "Motion-graphics skills for Claude Code and Codex.",
+    "created_at": "2026-09-25T12:07:01Z",
+    "url": "https://github.com/Barty-Bart/motion-graphics"
+  },
+  {
+    "full_name": "timoncool/YuE2-Studio",
+    "stargazers_count": 325,
+    "prev_stars": 289,
+    "language": "TypeScript",
+    "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows app, no Python, installer with auto-update.",
+    "created_at": "2026-09-22T23:06:11Z",
+    "url": "https://github.com/timoncool/YuE2-Studio"
+  },
+  {
+    "full_name": "jaydendavisnc/inkwave",
+    "stargazers_count": 324,
+    "prev_stars": 294,
+    "language": "JavaScript",
+    "description": "Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
+    "created_at": "2026-09-26T12:50:22Z",
+    "url": "https://github.com/jaydendavisnc/inkwave"
+  },
+  {
+    "full_name": "malevrigns/agent-jev",
+    "stargazers_count": 324,
+    "prev_stars": 322,
+    "language": "Python",
+    "description": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding.",
+    "created_at": "2026-09-21T16:24:42Z",
+    "url": "https://github.com/malevrigns/agent-jev"
+  },
+  {
+    "full_name": "qybaihe/mu",
+    "stargazers_count": 322,
+    "prev_stars": 309,
+    "language": "TypeScript",
+    "description": "mu (μ): a coding agent that thinks before it acts. A small, fast judge makes the routine calls, the big model does the work. Built on pi and AionUi.",
+    "created_at": "2026-09-22T11:56:05Z",
+    "url": "https://github.com/qybaihe/mu"
+  },
+  {
+    "full_name": "moguzbulbul/blueprint-animation",
+    "stargazers_count": 320,
+    "prev_stars": 270,
+    "language": "JavaScript",
+    "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
+    "created_at": "2026-09-27T21:48:33Z",
+    "url": "https://github.com/moguzbulbul/blueprint-animation"
+  },
+  {
+    "full_name": "jankeesvw/omarchy-meeting-recorder",
+    "stargazers_count": 315,
+    "prev_stars": 311,
+    "language": "Rust",
+    "description": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
+    "created_at": "2026-09-24T15:44:42Z",
+    "url": "https://github.com/jankeesvw/omarchy-meeting-recorder"
+  },
+  {
+    "full_name": "codejunkie99/keel",
+    "stargazers_count": 314,
+    "prev_stars": 303,
+    "language": "Rust",
+    "description": "Local-first macOS coding workspace with local Laya and optional Jev decision selection",
+    "created_at": "2026-09-22T22:08:29Z",
+    "url": "https://github.com/codejunkie99/keel"
+  },
+  {
+    "full_name": "brainbrick-trades/The-Quant-Trading-Vault",
+    "stargazers_count": 313,
+    "prev_stars": 236,
+    "language": null,
+    "description": "5800+ trading strategies unlocked.",
+    "created_at": "2026-09-27T04:24:34Z",
+    "url": "https://github.com/brainbrick-trades/The-Quant-Trading-Vault"
+  },
+  {
+    "full_name": "ucashier/UCashier-USDT-Payment",
+    "stargazers_count": 313,
+    "prev_stars": 314,
+    "language": null,
+    "description": "UCashier 提供 USDT 与 USDC 的稳定币收款和出款。买家付款直接进入商户绑定的钱包，提现、分成和供应商结算从同一商户账户打出。含托管收银台与代付服务。USDT 支持 TRC / ERC，USDC 支持 ERC。免任何开户费和月费。",
+    "created_at": "2026-09-26T14:41:32Z",
+    "url": "https://github.com/ucashier/UCashier-USDT-Payment"
+  },
+  {
+    "full_name": "leter/zh-tech-writing",
+    "stargazers_count": 310,
+    "prev_stars": 303,
+    "language": null,
+    "description": "写中文技术文档的 Agent Skill，基于阮一峰《中文技术文档的写作规范》：短句、平实、没有 AI 腔",
+    "created_at": "2026-09-24T17:37:46Z",
+    "url": "https://github.com/leter/zh-tech-writing"
+  },
+  {
+    "full_name": "win4r/MuseAI-Skills",
+    "stargazers_count": 304,
+    "prev_stars": 293,
+    "language": "HTML",
+    "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive.",
+    "created_at": "2026-09-25T07:45:43Z",
+    "url": "https://github.com/win4r/MuseAI-Skills"
+  },
+  {
+    "full_name": "chasmlol/2010-rust-rewrite-mashup",
+    "stargazers_count": 296,
+    "prev_stars": null,
+    "language": "Rust",
+    "description": "MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
+    "created_at": "2026-09-27T23:47:01Z",
+    "url": "https://github.com/chasmlol/2010-rust-rewrite-mashup"
+  },
+  {
+    "full_name": "zhuyansen/awesome-claude-video-skills",
+    "stargazers_count": 294,
+    "prev_stars": 186,
+    "language": null,
+    "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.",
+    "created_at": "2026-09-27T04:06:05Z",
+    "url": "https://github.com/zhuyansen/awesome-claude-video-skills"
+  },
+  {
+    "full_name": "miuuyy/Astra-Ares",
+    "stargazers_count": 293,
+    "prev_stars": 293,
+    "language": "JavaScript",
+    "description": "Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
+    "created_at": "2026-09-22T14:10:07Z",
+    "url": "https://github.com/miuuyy/Astra-Ares"
+  },
+  {
+    "full_name": "emir/claude-s40",
+    "stargazers_count": 276,
+    "prev_stars": 201,
+    "language": "Java",
+    "description": "A 2007 Nokia can't search Google anymore, so I gave it Claude. Unofficial J2ME app + tiny Go server.",
+    "created_at": "2026-09-26T03:40:08Z",
+    "url": "https://github.com/emir/claude-s40"
+  },
+  {
+    "full_name": "amirmushichge/unreal-home-wizard",
+    "stargazers_count": 269,
+    "prev_stars": 235,
+    "language": "PowerShell",
+    "description": "Turn room and home photographs into reviewable, walkable Unreal Engine projects with Codex.",
+    "created_at": "2026-09-24T06:39:38Z",
+    "url": "https://github.com/amirmushichge/unreal-home-wizard"
+  },
+  {
+    "full_name": "PostHog/jeeves",
+    "stargazers_count": 268,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "Jeeves – Reasoning improves Jev-like decision models",
+    "created_at": "2026-09-29T09:56:47Z",
+    "url": "https://github.com/PostHog/jeeves"
+  },
+  {
+    "full_name": "mater1996/travel-planning",
+    "stargazers_count": 268,
+    "prev_stars": 260,
+    "language": "Python",
+    "description": "travel planning",
+    "created_at": "2026-09-21T07:44:55Z",
+    "url": "https://github.com/mater1996/travel-planning"
+  },
+  {
+    "full_name": "secwind7/polytech-tree",
+    "stargazers_count": 265,
+    "prev_stars": 255,
+    "language": "Python",
+    "description": "Interactive 3D map of the human tech tree, from the first stone tools to 2024: technologies stacked as a tower of eras in three.js, with prerequisite and relation edges, hover cards and a guided camera tour. All data lives in plain JSON, so adding a technology, era or domain is one pull request away.",
+    "created_at": "2026-09-21T05:28:58Z",
+    "url": "https://github.com/secwind7/polytech-tree"
+  },
+  {
+    "full_name": "sopersone/cabbage-trading-machine",
+    "stargazers_count": 263,
+    "prev_stars": 259,
+    "language": "Python",
+    "description": "Spot trading bot - RSI + EMA signals, backtest, paper and live trading via CCXT. Built on Investing Algorithm Framework.",
+    "created_at": "2026-09-24T14:13:54Z",
+    "url": "https://github.com/sopersone/cabbage-trading-machine"
+  },
+  {
+    "full_name": "jamespolyakov9829/captcha-api",
+    "stargazers_count": 262,
+    "prev_stars": 264,
+    "language": "Python",
+    "description": "Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface, with cost tracking and concurrent batch solves.",
+    "created_at": "2026-09-25T19:27:22Z",
+    "url": "https://github.com/jamespolyakov9829/captcha-api"
+  },
+  {
+    "full_name": "HeyOkay/HaloBattery",
+    "stargazers_count": 261,
+    "prev_stars": 244,
+    "language": "Python",
+    "description": "Unified battery level indicators for 2.4GHz mice, headsets and Bluetooth devices in the Windows tray",
+    "created_at": "2026-09-25T06:05:56Z",
+    "url": "https://github.com/HeyOkay/HaloBattery"
+  },
+  {
+    "full_name": "sevenevesai/riso-windowseat",
+    "stargazers_count": 256,
+    "prev_stars": 248,
+    "language": "HTML",
+    "description": "Procedural risograph films in single HTML files (Window Seat, Roost and more), with the Claude Code skills, docs and tools to make your own.",
+    "created_at": "2026-09-22T20:14:59Z",
+    "url": "https://github.com/sevenevesai/riso-windowseat"
+  },
+  {
+    "full_name": "InternLM/Intern-Decision",
+    "stargazers_count": 246,
+    "prev_stars": 165,
+    "language": "Python",
+    "description": "Fast multi-modal decision model",
+    "created_at": "2026-09-24T23:37:44Z",
+    "url": "https://github.com/InternLM/Intern-Decision"
+  },
+  {
+    "full_name": "Droid-Deck/DroidDeck",
+    "stargazers_count": 243,
+    "prev_stars": null,
+    "language": "C",
+    "description": "DroidDeck brings the SteamOS experience to Android",
+    "created_at": "2026-09-24T15:14:13Z",
+    "url": "https://github.com/Droid-Deck/DroidDeck"
+  },
+  {
+    "full_name": "yu1745/wetype-ime-linux",
+    "stargazers_count": 243,
+    "prev_stars": 238,
+    "language": "C",
+    "description": "Linux port and Fcitx 5 integration for the WeType Android input engine",
+    "created_at": "2026-09-23T18:34:15Z",
+    "url": "https://github.com/yu1745/wetype-ime-linux"
+  },
+  {
+    "full_name": "openJiuwen-ai/iCode",
+    "stargazers_count": 238,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
+    "created_at": "2026-09-28T03:35:08Z",
+    "url": "https://github.com/openJiuwen-ai/iCode"
+  },
+  {
+    "full_name": "ipenywis/laya-ultrafast",
+    "stargazers_count": 229,
+    "prev_stars": 225,
+    "language": "Python",
+    "description": "Same as jev-ultrafast but using Laya",
+    "created_at": "2026-09-21T22:21:52Z",
+    "url": "https://github.com/ipenywis/laya-ultrafast"
+  },
+  {
+    "full_name": "glaz-boga-poisk-bot/glaz-boga",
+    "stargazers_count": 228,
+    "prev_stars": 228,
+    "language": null,
+    "description": "Глаз Бога: поиск по телефону, email, нику и Telegram ID. Открытые, архивные и ранее утёкшие записи; совпадения зависят от доступных данных.",
+    "created_at": "2026-09-22T07:56:41Z",
+    "url": "https://github.com/glaz-boga-poisk-bot/glaz-boga"
+  },
+  {
+    "full_name": "ilkerzg/storycast",
+    "stargazers_count": 227,
+    "prev_stars": 227,
+    "language": "TypeScript",
+    "description": "Type a topic. Get a story.",
+    "created_at": "2026-09-24T21:23:25Z",
+    "url": "https://github.com/ilkerzg/storycast"
+  },
+  {
+    "full_name": "edison-land/paragravity",
+    "stargazers_count": 220,
+    "prev_stars": 219,
+    "language": "Python",
+    "description": "Native, non-invasive parallel multi-account & sandbox manager for Google Antigravity",
+    "created_at": "2026-09-22T09:51:33Z",
+    "url": "https://github.com/edison-land/paragravity"
+  },
+  {
+    "full_name": "ninjahawk/livenerf",
+    "stargazers_count": 220,
+    "prev_stars": 139,
+    "language": "Python",
+    "description": "Benchmark for tracking model capability after release.",
+    "created_at": "2026-09-22T21:59:26Z",
+    "url": "https://github.com/ninjahawk/livenerf"
+  },
+  {
+    "full_name": "XiaoPuOuO/openchatx-mcp",
+    "stargazers_count": 220,
+    "prev_stars": 200,
+    "language": "TypeScript",
+    "description": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
+    "created_at": "2026-09-23T14:25:56Z",
+    "url": "https://github.com/XiaoPuOuO/openchatx-mcp"
+  },
+  {
+    "full_name": "diggerhq/shipvideo",
+    "stargazers_count": 218,
+    "prev_stars": 216,
+    "language": "TypeScript",
+    "description": "Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it.",
+    "created_at": "2026-09-24T19:17:31Z",
+    "url": "https://github.com/diggerhq/shipvideo"
+  },
+  {
+    "full_name": "Shelpid/SETS",
+    "stargazers_count": 216,
+    "prev_stars": 215,
+    "language": "JavaScript",
+    "description": "Self Improving Trading Machine",
+    "created_at": "2026-09-22T21:16:24Z",
+    "url": "https://github.com/Shelpid/SETS"
+  },
+  {
+    "full_name": "markxplorer969/profile",
+    "stargazers_count": 216,
+    "prev_stars": 216,
+    "language": null,
+    "description": null,
+    "created_at": "2026-09-25T19:03:40Z",
+    "url": "https://github.com/markxplorer969/profile"
+  },
+  {
+    "full_name": "rushiranpise/Shizuku-Next",
+    "stargazers_count": 215,
+    "prev_stars": 130,
+    "language": "Kotlin",
+    "description": "A feature-rich Shizuku fork with improved setup, reliability, UI, and additional start methods.",
+    "created_at": "2026-09-26T23:24:36Z",
+    "url": "https://github.com/rushiranpise/Shizuku-Next"
+  },
+  {
+    "full_name": "ZacharyZhang-NY/OmaPhoto",
+    "stargazers_count": 213,
+    "prev_stars": 192,
+    "language": "C++",
+    "description": "Layered image editor for Linux and Omarchy, a port of Compositor",
+    "created_at": "2026-09-26T04:44:52Z",
+    "url": "https://github.com/ZacharyZhang-NY/OmaPhoto"
+  },
+  {
+    "full_name": "openai/mcp-extensions",
+    "stargazers_count": 212,
+    "prev_stars": null,
+    "language": "TypeScript",
+    "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+    "created_at": "2026-09-29T00:45:42Z",
+    "url": "https://github.com/openai/mcp-extensions"
+  },
+  {
+    "full_name": "FluidInference/FluidUse",
+    "stargazers_count": 212,
+    "prev_stars": 209,
+    "language": "Swift",
+    "description": "Local computer use on Apple silicon: on-device typed decisions with laya and form filling with CUA-S1-FORMS, driven through the macOS Accessibility API",
+    "created_at": "2026-09-21T00:47:25Z",
+    "url": "https://github.com/FluidInference/FluidUse"
+  },
+  {
+    "full_name": "KevinXu02/aha-3d",
+    "stargazers_count": 206,
+    "prev_stars": 135,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-09-23T21:06:21Z",
+    "url": "https://github.com/KevinXu02/aha-3d"
+  },
+  {
+    "full_name": "nihui/qwenimage-ncnn-vulkan",
+    "stargazers_count": 204,
+    "prev_stars": 126,
+    "language": "C++",
+    "description": "ncnn implementation of Qwen-Image-2.1, with text-to-image, image editing, multi-reference image input and transparent RGBA output",
+    "created_at": "2026-09-21T11:11:37Z",
+    "url": "https://github.com/nihui/qwenimage-ncnn-vulkan"
+  },
+  {
+    "full_name": "Appllama/liquid-glass-chat-ui",
+    "stargazers_count": 202,
+    "prev_stars": 184,
+    "language": "TypeScript",
+    "description": "Explore liquid-glass chat UIs with animated portraits, interactive stories, and floating composers.",
+    "created_at": "2026-09-27T13:33:00Z",
+    "url": "https://github.com/Appllama/liquid-glass-chat-ui"
+  },
+  {
+    "full_name": "yuedizhibo/MHI2Q-CarPlay-AltScreen",
+    "stargazers_count": 202,
+    "prev_stars": 182,
+    "language": "Shell",
+    "description": "补全 Audi MHI2Q / MIB2 High AUG22 的 CarPlay AltScreen 逻辑，让 CarPlay 第二屏显示在 Virtual Cockpit 仪表盘。Completes CarPlay AltScreen logic for Audi MHI2Q / MIB2 High AUG22, displaying the CarPlay secondary screen on the Virtual Cockpit.",
+    "created_at": "2026-09-25T09:41:18Z",
+    "url": "https://github.com/yuedizhibo/MHI2Q-CarPlay-AltScreen"
+  },
+  {
+    "full_name": "Michael-Jiahao-Zhang/game-the-llm-reviewer",
+    "stargazers_count": 199,
+    "prev_stars": 196,
+    "language": null,
+    "description": "Defend sound research against LLM reviewer bias through meaning-preserving rewrites.",
+    "created_at": "2026-09-21T23:11:47Z",
+    "url": "https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer"
+  },
+  {
+    "full_name": "kaolti/phantomat",
+    "stargazers_count": 199,
+    "prev_stars": 194,
+    "language": "C++",
+    "description": "Phantomat: a zoomable, infinite-canvas window manager for Hyprland",
+    "created_at": "2026-09-24T08:07:06Z",
+    "url": "https://github.com/kaolti/phantomat"
+  },
+  {
+    "full_name": "Simreal-AI/Simreal-MLBench",
+    "stargazers_count": 198,
+    "prev_stars": 169,
+    "language": "Python",
+    "description": "[Public preview] Externally scored agentic ML research benchmark: 60 tasks, real competition ground truth. Open protocol, operated evaluation.",
+    "created_at": "2026-09-21T11:29:47Z",
+    "url": "https://github.com/Simreal-AI/Simreal-MLBench"
+  },
+  {
+    "full_name": "michelle11032424-jpg/Interpark-",
+    "stargazers_count": 197,
+    "prev_stars": 194,
+    "language": "Python",
+    "description": "开源免费给大家使用 教程在readme请自行摸索 拿去盈利出问题了我不负责",
+    "created_at": "2026-09-23T13:46:01Z",
+    "url": "https://github.com/michelle11032424-jpg/Interpark-"
+  },
+  {
+    "full_name": "BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB",
+    "stargazers_count": 196,
+    "prev_stars": 194,
+    "language": "Shell",
+    "description": "Play Mobile Legends: Bang Bang (MLBB) on Linux via Waydroid — and stream it to your Android phone as cloud gaming (Sunshine + Artemis/Moonlight). Working multi-touch, Intel VAAPI encoding, one-command launcher.",
+    "created_at": "2026-09-28T02:40:41Z",
+    "url": "https://github.com/BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB"
+  },
+  {
+    "full_name": "DanFessler/trellis",
+    "stargazers_count": 195,
+    "prev_stars": 183,
+    "language": "TypeScript",
+    "description": "Fractal layouts for web apps: nest panels to any depth, zoom to the part you need, and keep every view alive.",
+    "created_at": "2026-09-26T07:52:44Z",
+    "url": "https://github.com/DanFessler/trellis"
+  },
+  {
+    "full_name": "shengjidaguai-china/goutoujunshi-jev-chat",
+    "stargazers_count": 195,
+    "prev_stars": 144,
+    "language": "Python",
+    "description": "狗头军师 Chat：Mac 微信读屏、关系分析与回复草稿悬浮窗",
+    "created_at": "2026-09-23T09:42:26Z",
+    "url": "https://github.com/shengjidaguai-china/goutoujunshi-jev-chat"
+  },
+  {
+    "full_name": "dagowda/notRDP",
+    "stargazers_count": 194,
+    "prev_stars": 147,
+    "language": "C",
+    "description": null,
+    "created_at": "2026-09-26T08:38:04Z",
+    "url": "https://github.com/dagowda/notRDP"
+  },
+  {
+    "full_name": "ashleydarosa/CC-Checker-Validator-Generator",
+    "stargazers_count": 194,
+    "prev_stars": 193,
+    "language": "Python",
+    "description": "Python CLI toolkit for payment QA: generate and validate synthetic Luhn-valid card numbers by brand, BIN, or custom pattern. Supports Visa, Mastercard, Amex, Discover and more, plus BIN/IIN lookup, expiry/CVV checks, bulk validation, masking, and TXT/CSV/JSON export. Offline and cross-platform.",
+    "created_at": "2026-09-21T19:25:00Z",
+    "url": "https://github.com/ashleydarosa/CC-Checker-Validator-Generator"
+  },
+  {
+    "full_name": "Re1nhard-1/deconv-preflight",
+    "stargazers_count": 194,
+    "prev_stars": 194,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-09-21T17:29:19Z",
+    "url": "https://github.com/Re1nhard-1/deconv-preflight"
+  },
+  {
+    "full_name": "Goncafer47/Stablecoin-Payment-Gateway",
+    "stargazers_count": 194,
+    "prev_stars": 194,
+    "language": "Python",
+    "description": "Self-hosted, non-custodial stablecoin payment gateway with x402 and invoice checkout. Accepts USDC, USDT, PYUSD and DAI across 8 networks with QR payments, payment links, settlement tracking and signed webhooks. REST API, micropayments, exports, zero platform fees and no KYC. Python, cross-platform.",
+    "created_at": "2026-09-22T00:03:14Z",
+    "url": "https://github.com/Goncafer47/Stablecoin-Payment-Gateway"
+  },
+  {
+    "full_name": "pbs05/ponwrt",
+    "stargazers_count": 191,
+    "prev_stars": 185,
+    "language": "C",
+    "description": null,
+    "created_at": "2026-09-23T12:27:45Z",
+    "url": "https://github.com/pbs05/ponwrt"
+  },
+  {
+    "full_name": "Soniavasseur/Wallet-Risk-Scanner",
+    "stargazers_count": 190,
+    "prev_stars": 190,
+    "language": "Python",
+    "description": "Multi-chain crypto wallet risk scanner for AML/KYT screening. Scores addresses 0–100 using sanctions, risky contracts and fund tracing. Integrates 6 intelligence providers with failover, detects scams, hacks, mixers and phishing, supports 15+ chains, batch screening and TXT/JSON/CSV/HTML/PDF reports. Python, cross-platform.",
+    "created_at": "2026-09-22T00:07:37Z",
+    "url": "https://github.com/Soniavasseur/Wallet-Risk-Scanner"
+  },
+  {
+    "full_name": "lukeTheNeuromancer/system-design-notes-zh",
+    "stargazers_count": 189,
+    "prev_stars": 185,
+    "language": null,
+    "description": "System Design Interview 笔记中文翻译版（Chinese translation of liquidslr/system-design-notes）",
+    "created_at": "2026-09-23T21:19:34Z",
+    "url": "https://github.com/lukeTheNeuromancer/system-design-notes-zh"
+  },
+  {
+    "full_name": "avinash201199/System-Design-KIT",
+    "stargazers_count": 185,
+    "prev_stars": 175,
+    "language": null,
+    "description": "A curated collection of resources, case studies, tools, and roadmaps to help you go from system design beginner to confidently architecting large-scale distributed systems.",
+    "created_at": "2026-09-25T12:31:39Z",
+    "url": "https://github.com/avinash201199/System-Design-KIT"
+  },
+  {
+    "full_name": "dgreenheck/threejs-particle-fluids",
+    "stargazers_count": 184,
+    "prev_stars": null,
+    "language": "TypeScript",
+    "description": "Particle Based Fluids (PBF) library for Three.js",
+    "created_at": "2026-09-25T19:41:58Z",
+    "url": "https://github.com/dgreenheck/threejs-particle-fluids"
+  },
+  {
+    "full_name": "swoonqx/TypingPet",
+    "stargazers_count": 183,
+    "prev_stars": 163,
+    "language": null,
+    "description": "승우의 타이핑 펫",
+    "created_at": "2026-09-24T02:13:35Z",
+    "url": "https://github.com/swoonqx/TypingPet"
+  },
+  {
+    "full_name": "MysticGSI/mysticgsi",
+    "stargazers_count": 183,
+    "prev_stars": 179,
+    "language": "Shell",
+    "description": "A tool to build a Generic System Image from (almost) any stock firmware",
+    "created_at": "2026-09-25T19:23:18Z",
+    "url": "https://github.com/MysticGSI/mysticgsi"
+  },
+  {
+    "full_name": "blackbearreloaded/ProsperoEden",
+    "stargazers_count": 177,
+    "prev_stars": 153,
+    "language": null,
+    "description": "Unofficial port of the Eden emulator for PS5",
+    "created_at": "2026-09-21T22:39:10Z",
+    "url": "https://github.com/blackbearreloaded/ProsperoEden"
+  },
+  {
+    "full_name": "ng-native/ng-native",
+    "stargazers_count": 176,
+    "prev_stars": null,
+    "language": "TypeScript",
+    "description": "Angular apps, rendered as real native iOS and Android views, on React Native's Fabric renderer.",
+    "created_at": "2026-09-27T19:15:46Z",
+    "url": "https://github.com/ng-native/ng-native"
+  },
+  {
+    "full_name": "Badtheorylabs/interference-search",
+    "stargazers_count": 176,
+    "prev_stars": 174,
+    "language": "Python",
+    "description": "Reason over explicit states, many branches at once: merge duplicates, cancel dead ends, advance together.",
+    "created_at": "2026-09-25T15:25:38Z",
+    "url": "https://github.com/Badtheorylabs/interference-search"
+  },
+  {
+    "full_name": "Outsideglutweezers/Discord-Nitro-Generator",
+    "stargazers_count": 175,
+    "prev_stars": null,
+    "language": null,
+    "description": null,
+    "created_at": "2026-09-29T12:45:51Z",
+    "url": "https://github.com/Outsideglutweezers/Discord-Nitro-Generator"
+  },
+  {
+    "full_name": "imikerussell/beebots",
+    "stargazers_count": 174,
+    "prev_stars": 167,
+    "language": "TypeScript",
+    "description": "Three AI trading bees on OKX, every decision by Jev. Paper trading by default. Not financial advice.",
+    "created_at": "2026-09-25T15:30:48Z",
+    "url": "https://github.com/imikerussell/beebots"
+  },
+  {
+    "full_name": "richard1208/parallio",
+    "stargazers_count": 173,
+    "prev_stars": 137,
+    "language": "TypeScript",
+    "description": "Open-source multi-model desktop group chat and Chrome extension",
+    "created_at": "2026-09-24T09:13:39Z",
+    "url": "https://github.com/richard1208/parallio"
+  },
+  {
+    "full_name": "Kaixxrua/excel-codex-bridge",
+    "stargazers_count": 172,
+    "prev_stars": 151,
+    "language": "Python",
+    "description": "防降智插件",
+    "created_at": "2026-09-24T15:09:11Z",
+    "url": "https://github.com/Kaixxrua/excel-codex-bridge"
+  },
+  {
+    "full_name": "sciaschi/CBFD-Recompiled",
+    "stargazers_count": 172,
+    "prev_stars": 150,
+    "language": "C",
+    "description": "Conker's Bad Fur Day Recompiled",
+    "created_at": "2026-09-26T00:23:25Z",
+    "url": "https://github.com/sciaschi/CBFD-Recompiled"
+  },
+  {
+    "full_name": "togethercomputer/tev1",
+    "stargazers_count": 171,
+    "prev_stars": 163,
+    "language": "Python",
+    "description": "Open-weight, Jev-inspired decision model finetuned on top of Qwen3.5 4B",
+    "created_at": "2026-09-23T17:39:43Z",
+    "url": "https://github.com/togethercomputer/tev1"
+  },
+  {
+    "full_name": "czg86389-hub/muse2api",
+    "stargazers_count": 170,
+    "prev_stars": 141,
+    "language": "Python",
+    "description": "把 Muse(muse.ai) 逆向封装为 OpenAI 兼容接口，支持对话、文生图、文生视频/图生视频、多账号池轮转与 48h 自动续期。OpenAI-compatible API for Muse.ai with Chat, Image & Video generation.",
+    "created_at": "2026-09-25T14:22:55Z",
+    "url": "https://github.com/czg86389-hub/muse2api"
+  },
+  {
+    "full_name": "AgriciDaniel/jev-seo",
+    "stargazers_count": 169,
+    "prev_stars": 162,
+    "language": "Python",
+    "description": "Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports.",
+    "created_at": "2026-09-22T00:33:54Z",
+    "url": "https://github.com/AgriciDaniel/jev-seo"
+  },
+  {
+    "full_name": "seamusc/papermono-shopping-list",
+    "stargazers_count": 167,
+    "prev_stars": 140,
+    "language": "C++",
+    "description": "E-paper shopping list for the M5Stack PaperMono, with a FastAPI server and phone web UI",
+    "created_at": "2026-09-27T12:05:30Z",
+    "url": "https://github.com/seamusc/papermono-shopping-list"
+  },
+  {
+    "full_name": "ZCodium-project/ZCodium",
+    "stargazers_count": 166,
+    "prev_stars": 151,
+    "language": "TypeScript",
+    "description": "ZCodium，Independent audit fork of ZCode (ZCode → ZCodium). All monitoring and telemetry removed; upstream commits reviewed one by one. ZCode 的独立审计分支（ZCode → ZCodium）：已移除监控与遥测，上游改动逐提交审阅。",
+    "created_at": "2026-09-23T21:53:06Z",
+    "url": "https://github.com/ZCodium-project/ZCodium"
+  },
+  {
+    "full_name": "elmasas/lcs-recomp",
+    "stargazers_count": 166,
+    "prev_stars": 158,
+    "language": "C++",
+    "description": null,
+    "created_at": "2026-09-24T22:35:41Z",
+    "url": "https://github.com/elmasas/lcs-recomp"
+  },
+  {
+    "full_name": "unjs/upm",
+    "stargazers_count": 165,
+    "prev_stars": 108,
+    "language": "TypeScript",
+    "description": "📦 A fast, tiny package manager for the npm registry, written in TypeScript.",
+    "created_at": "2026-09-23T18:20:35Z",
+    "url": "https://github.com/unjs/upm"
+  },
+  {
+    "full_name": "DemonGrouse41/Discord-Quest-Completer",
+    "stargazers_count": 164,
+    "prev_stars": null,
+    "language": null,
+    "description": null,
+    "created_at": "2026-09-21T03:00:14Z",
+    "url": "https://github.com/DemonGrouse41/Discord-Quest-Completer"
+  },
+  {
+    "full_name": "deepakness/cogsend",
+    "stargazers_count": 163,
+    "prev_stars": 160,
+    "language": "TypeScript",
+    "description": "Self-hosted social media scheduler. Write once, publish to any connected platform. Runs on your own Cloudflare account.",
+    "created_at": "2026-09-22T01:41:32Z",
+    "url": "https://github.com/deepakness/cogsend"
+  },
+  {
+    "full_name": "merijjeyn/jive",
+    "stargazers_count": 163,
+    "prev_stars": 159,
+    "language": "Python",
+    "description": "A terminal coding agent that plans work as executable graphs",
+    "created_at": "2026-09-21T15:07:55Z",
+    "url": "https://github.com/merijjeyn/jive"
+  },
+  {
+    "full_name": "breezegrubdirect/Canva-Pro",
+    "stargazers_count": 163,
+    "prev_stars": null,
+    "language": null,
+    "description": null,
+    "created_at": "2026-09-21T02:56:42Z",
+    "url": "https://github.com/breezegrubdirect/Canva-Pro"
+  },
+  {
+    "full_name": "opusvideo/awesome-claude-video",
+    "stargazers_count": 162,
+    "prev_stars": 151,
+    "language": null,
+    "description": "A curated collection of Claude Opus 5.5 videos and animations: demos, original posts, prompts and workflows. English / 中文.",
+    "created_at": "2026-09-25T14:45:20Z",
+    "url": "https://github.com/opusvideo/awesome-claude-video"
+  },
+  {
+    "full_name": "ScottieFox/caustic-volume",
+    "stargazers_count": 160,
+    "prev_stars": 150,
+    "language": "HTML",
+    "description": "Real-time water caustics in the browser, built on three.js. Single-file lite and sandbox versions.",
+    "created_at": "2026-09-26T14:21:42Z",
+    "url": "https://github.com/ScottieFox/caustic-volume"
+  },
+  {
+    "full_name": "JoinArtisanVent/x-scraper-no-api",
+    "stargazers_count": 159,
+    "prev_stars": 170,
+    "language": "JavaScript",
+    "description": "Free, self-hosted X (Twitter) scraper no API key, no credits. Uses your own browser session via Playwright. Export tweets, search results & timelines as LLM-ready JSON/CSV/Markdown. Ships an AI agent Skill for OpenClaw & Hermes.",
+    "created_at": "2026-09-26T01:57:59Z",
+    "url": "https://github.com/JoinArtisanVent/x-scraper-no-api"
+  },
+  {
+    "full_name": "pch/rawmakase",
+    "stargazers_count": 159,
+    "prev_stars": 139,
+    "language": "Rust",
+    "description": "Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
+    "created_at": "2026-09-26T13:44:32Z",
+    "url": "https://github.com/pch/rawmakase"
+  },
+  {
+    "full_name": "Freebeyondcolander/Cap-Cut-For-Windows",
+    "stargazers_count": 159,
+    "prev_stars": null,
+    "language": null,
+    "description": null,
+    "created_at": "2026-09-21T02:51:33Z",
+    "url": "https://github.com/Freebeyondcolander/Cap-Cut-For-Windows"
+  },
+  {
+    "full_name": "Liyucheng1997/332_lab-jev-chat",
+    "stargazers_count": 158,
+    "prev_stars": 156,
+    "language": "Kotlin",
+    "description": "Jev Chat Assistant for Windows - 电脑版微信意图判断与 DeepSeek 建议回复",
+    "created_at": "2026-09-21T18:10:06Z",
+    "url": "https://github.com/Liyucheng1997/332_lab-jev-chat"
+  },
+  {
+    "full_name": "JaxsonWang/cpa-plugin-oai-basispoints",
+    "stargazers_count": 157,
+    "prev_stars": 139,
+    "language": "Go",
+    "description": null,
+    "created_at": "2026-09-24T15:55:38Z",
+    "url": "https://github.com/JaxsonWang/cpa-plugin-oai-basispoints"
+  },
+  {
+    "full_name": "tswawa/WechatVibe",
+    "stargazers_count": 156,
+    "prev_stars": 137,
+    "language": "Python",
+    "description": "微信聊天分析工具，支持本地 Laya 与 API 模型，提供意图识别、情绪感知、人物画像、群聊画像、好感度分析和 MBTI 聊天推测。",
+    "created_at": "2026-09-23T09:59:24Z",
+    "url": "https://github.com/tswawa/WechatVibe"
+  },
+  {
+    "full_name": "Operativeziescalator/AnyUnlock",
+    "stargazers_count": 154,
+    "prev_stars": null,
+    "language": null,
+    "description": null,
+    "created_at": "2026-09-21T03:00:11Z",
+    "url": "https://github.com/Operativeziescalator/AnyUnlock"
+  },
+  {
+    "full_name": "slop-place/zulu",
+    "stargazers_count": 153,
+    "prev_stars": null,
+    "language": "Swift",
+    "description": "A sensible Zulip client",
+    "created_at": "2026-09-22T18:10:56Z",
+    "url": "https://github.com/slop-place/zulu"
+  },
+  {
+    "full_name": "CoastDiviner/Acrobat-Free",
+    "stargazers_count": 153,
+    "prev_stars": null,
+    "language": null,
+    "description": null,
+    "created_at": "2026-09-21T03:03:28Z",
+    "url": "https://github.com/CoastDiviner/Acrobat-Free"
+  },
+  {
+    "full_name": "mvanhorn/agent-tincan",
+    "stargazers_count": 151,
+    "prev_stars": 135,
+    "language": "Go",
+    "description": "Let your AI agents ask each other for help, over Tailscale. Wherever they run.",
+    "created_at": "2026-09-22T22:50:16Z",
+    "url": "https://github.com/mvanhorn/agent-tincan"
+  },
+  {
+    "full_name": "scarletkc/seiso",
+    "stargazers_count": 149,
+    "prev_stars": 115,
+    "language": "Rust",
+    "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+    "created_at": "2026-09-27T13:27:28Z",
+    "url": "https://github.com/scarletkc/seiso"
+  },
+  {
+    "full_name": "CTNicholas/jev-workflow-builder",
+    "stargazers_count": 149,
+    "prev_stars": 149,
+    "language": "TypeScript",
+    "description": null,
+    "created_at": "2026-09-21T14:31:38Z",
+    "url": "https://github.com/CTNicholas/jev-workflow-builder"
+  },
+  {
+    "full_name": "admte/orc-claude-plugin",
+    "stargazers_count": 147,
+    "prev_stars": 177,
+    "language": null,
+    "description": "Claude plugin for the ORC8R Cloud MCP server",
+    "created_at": "2026-09-26T20:16:59Z",
+    "url": "https://github.com/admte/orc-claude-plugin"
+  },
+  {
+    "full_name": "SecFathy/xss-specialist",
+    "stargazers_count": 147,
+    "prev_stars": 116,
+    "language": "Python",
+    "description": "KEV-gated continual-learning XSS specialist with execution-authoritative browser verification",
+    "created_at": "2026-09-27T19:11:33Z",
+    "url": "https://github.com/SecFathy/xss-specialist"
+  },
+  {
+    "full_name": "NotProtonNot/NotProton",
+    "stargazers_count": 145,
+    "prev_stars": 140,
+    "language": "Swift",
+    "description": "Steam Play for macOS",
+    "created_at": "2026-09-23T01:55:23Z",
+    "url": "https://github.com/NotProtonNot/NotProton"
+  },
+  {
+    "full_name": "CaptureCentipede/AnyDesk",
+    "stargazers_count": 145,
+    "prev_stars": null,
+    "language": null,
+    "description": null,
+    "created_at": "2026-09-21T02:52:40Z",
+    "url": "https://github.com/CaptureCentipede/AnyDesk"
+  },
+  {
+    "full_name": "SelmiAbderrahim/rankme.fast",
+    "stargazers_count": 144,
+    "prev_stars": 106,
+    "language": "TypeScript",
+    "description": "The self-hosted SEO platform. ",
+    "created_at": "2026-09-22T18:10:17Z",
+    "url": "https://github.com/SelmiAbderrahim/rankme.fast"
+  },
+  {
+    "full_name": "angusdevgo/Seep-Tool",
+    "stargazers_count": 144,
+    "prev_stars": 120,
+    "language": "C#",
+    "description": "客户端鉴权安全审计与决策旁路集成工作台",
+    "created_at": "2026-09-25T08:05:37Z",
+    "url": "https://github.com/angusdevgo/Seep-Tool"
+  },
+  {
+    "full_name": "yasinozmeen/animasyon-stil-katalogu",
+    "stargazers_count": 143,
+    "prev_stars": 132,
+    "language": "HTML",
+    "description": "irticalen videoları için 20 animasyon tarzı: her biri kendi kısa filmiyle. Tarzı README'den seç.",
+    "created_at": "2026-09-27T05:32:16Z",
+    "url": "https://github.com/yasinozmeen/animasyon-stil-katalogu"
+  },
+  {
+    "full_name": "Roberto02800/turnstile-token",
+    "stargazers_count": 142,
+    "prev_stars": 143,
+    "language": "Python",
+    "description": "A small Python CLI and library for Cloudflare Turnstile token - discover the sitekey, create a cf-turnstile-response token, and replay the browser identity",
+    "created_at": "2026-09-26T05:32:51Z",
+    "url": "https://github.com/Roberto02800/turnstile-token"
+  },
+  {
+    "full_name": "grmchn/dopa-drill",
+    "stargazers_count": 142,
+    "prev_stars": null,
+    "language": "JavaScript",
+    "description": "算数を解くたびに演出と音が増幅する、ブラウザ完結の計算ドリル",
+    "created_at": "2026-09-27T01:47:36Z",
+    "url": "https://github.com/grmchn/dopa-drill"
+  },
+  {
+    "full_name": "tugrawork-creator/saas-motion-kit",
+    "stargazers_count": 138,
+    "prev_stars": 136,
+    "language": "Python",
+    "description": "Promo & motion videos for software products with HyperFrames + Claude Code. No two films should feel the same: tone matrix, variety audit, 24-transition atlas, 100 storyboard themes.",
+    "created_at": "2026-09-25T11:35:57Z",
+    "url": "https://github.com/tugrawork-creator/saas-motion-kit"
+  },
+  {
+    "full_name": "sunkeke-ai/Life-Compass-Obsidian-CN",
+    "stargazers_count": 138,
+    "prev_stars": 138,
+    "language": "JavaScript",
+    "description": "Compass 的非官方简体中文本地化；原项目由 Daniel Agrici（@AgriciDaniel）创建。",
+    "created_at": "2026-09-23T09:20:08Z",
+    "url": "https://github.com/sunkeke-ai/Life-Compass-Obsidian-CN"
+  },
+  {
+    "full_name": "yym8224961/world.execute-me-ascii",
+    "stargazers_count": 138,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "world.execute(me); —ascii",
+    "created_at": "2026-09-26T12:25:15Z",
+    "url": "https://github.com/yym8224961/world.execute-me-ascii"
+  },
+  {
+    "full_name": "HeyPuter/builder",
+    "stargazers_count": 138,
+    "prev_stars": 133,
+    "language": "JavaScript",
+    "description": "📦✨ AI Builder For Creating Sites and Apps! An open-source alternative to Lovable, Replit, v0, and similar platforms.",
+    "created_at": "2026-09-21T03:45:45Z",
+    "url": "https://github.com/HeyPuter/builder"
+  },
+  {
+    "full_name": "Majorclujerk/Server-Raider",
+    "stargazers_count": 137,
+    "prev_stars": null,
+    "language": null,
+    "description": null,
+    "created_at": "2026-09-21T03:00:30Z",
+    "url": "https://github.com/Majorclujerk/Server-Raider"
+  },
+  {
+    "full_name": "TreapGoGo/deepseek-whale-girl",
+    "stargazers_count": 137,
+    "prev_stars": null,
+    "language": "CSS",
+    "description": "由社区共同维护的鲸鱼娘二创资源库，整理角色参考图、生成提示词、社区作品与相关项目，为创作者提供方便易用的参考与灵感。本项目为非官方社区项目，不代表 DeepSeek 官方立场。",
+    "created_at": "2026-09-28T17:53:10Z",
+    "url": "https://github.com/TreapGoGo/deepseek-whale-girl"
+  },
+  {
+    "full_name": "Swordpdf/PS5SX2",
+    "stargazers_count": 136,
+    "prev_stars": null,
+    "language": "C++",
+    "description": "A port of PCSX2 for PS5",
+    "created_at": "2026-09-25T10:38:36Z",
+    "url": "https://github.com/Swordpdf/PS5SX2"
+  },
+  {
+    "full_name": "ThinkFlowLab/system1-agents",
+    "stargazers_count": 135,
+    "prev_stars": 135,
+    "language": "Python",
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+    "created_at": "2026-09-22T16:42:42Z",
+    "url": "https://github.com/ThinkFlowLab/system1-agents"
+  },
+  {
+    "full_name": "Inferact/tpu-megakernels",
+    "stargazers_count": 134,
+    "prev_stars": 131,
+    "language": "Python",
+    "description": "A collection of megakernels for TPU",
+    "created_at": "2026-09-23T00:18:12Z",
+    "url": "https://github.com/Inferact/tpu-megakernels"
+  },
+  {
+    "full_name": "mohit67890/imajev",
+    "stargazers_count": 134,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "Open Jev-style typed-decision model that also takes images: photo + app state + typed questions in, calibrated probabilities out, locally.",
+    "created_at": "2026-09-23T11:57:16Z",
+    "url": "https://github.com/mohit67890/imajev"
+  },
+  {
+    "full_name": "XueshiQiao/qduo",
+    "stargazers_count": 134,
+    "prev_stars": null,
+    "language": "Swift",
+    "description": null,
+    "created_at": "2026-09-22T14:25:38Z",
+    "url": "https://github.com/XueshiQiao/qduo"
+  },
+  {
+    "full_name": "YeJe-cpu/SeeCut",
+    "stargazers_count": 133,
+    "prev_stars": 117,
+    "language": "JavaScript",
+    "description": "An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿",
+    "created_at": "2026-09-25T11:48:27Z",
+    "url": "https://github.com/YeJe-cpu/SeeCut"
+  },
+  {
+    "full_name": "OneMoh/html-explainer",
+    "stargazers_count": 132,
+    "prev_stars": 114,
+    "language": "Python",
+    "description": "把一个主题做成有配音、字幕、封面的讲解分析类视频 —— 全本地、用 HTML 写画面，稳定音画同步。 面向 AI 编程智能体的确定性 HTML → MP4 渲染流水线。",
+    "created_at": "2026-09-21T04:42:31Z",
+    "url": "https://github.com/OneMoh/html-explainer"
+  },
+  {
+    "full_name": "faligame/Parasite-Eve-HD-Remaster",
+    "stargazers_count": 131,
+    "prev_stars": 131,
+    "language": null,
+    "description": "Native PC port of PARASITE EVE via static recompilation — true 4K rendering, 60 fps, HD Remaster Not an emulator. Work in progress.",
+    "created_at": "2026-09-21T14:34:43Z",
+    "url": "https://github.com/faligame/Parasite-Eve-HD-Remaster"
+  },
+  {
+    "full_name": "Jiarui-0410/multimodal-product-discovery",
+    "stargazers_count": 131,
+    "prev_stars": 125,
+    "language": "Python",
+    "description": "Full-stack multimodal product retrieval and personalized reranking with CLIP, FAISS, Spring Boot, FastAPI, and PostgreSQL.",
+    "created_at": "2026-09-26T11:06:47Z",
+    "url": "https://github.com/Jiarui-0410/multimodal-product-discovery"
+  },
+  {
+    "full_name": "YUTA-fywoo/jev-gui-delegate",
+    "stargazers_count": 131,
+    "prev_stars": 131,
+    "language": "Python",
+    "description": "AI-assisted Windows and Chrome GUI delegation for Codex: task contracts, local execution, Jev semantic decisions, recovery and outcome verification.",
+    "created_at": "2026-09-25T13:23:45Z",
+    "url": "https://github.com/YUTA-fywoo/jev-gui-delegate"
+  },
+  {
+    "full_name": "Futureppo/typesafe_register",
+    "stargazers_count": 130,
+    "prev_stars": 129,
+    "language": "Python",
+    "description": "typesafe.ai注册机，极致优化，无限jev",
+    "created_at": "2026-09-21T13:21:38Z",
+    "url": "https://github.com/Futureppo/typesafe_register"
+  },
+  {
+    "full_name": "tornikegomareli/omarchy-spaces",
+    "stargazers_count": 130,
+    "prev_stars": null,
+    "language": "QML",
+    "description": "See what runs on every workspace. An Omarchy bar widget that shows the apps open on each workspace.",
+    "created_at": "2026-09-25T23:18:17Z",
+    "url": "https://github.com/tornikegomareli/omarchy-spaces"
+  },
+  {
+    "full_name": "Louis-CFM/coucou",
+    "stargazers_count": 129,
+    "prev_stars": null,
+    "language": "Swift",
+    "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
+    "created_at": "2026-09-27T21:54:12Z",
+    "url": "https://github.com/Louis-CFM/coucou"
+  },
+  {
+    "full_name": "NativeDog1/dsh-boot-animation",
+    "stargazers_count": 128,
+    "prev_stars": null,
+    "language": "JavaScript",
+    "description": "打开新对话、或打开你钉住的会话时，视频铺满整个窗口播放一段片头开机动画。支持换成自己的视频，每个会话只播一次或每次打开都播",
+    "created_at": "2026-09-25T09:40:45Z",
+    "url": "https://github.com/NativeDog1/dsh-boot-animation"
+  },
+  {
+    "full_name": "yibie/jev-engineering-zh",
+    "stargazers_count": 128,
+    "prev_stars": 127,
+    "language": null,
+    "description": "《Jev 工程学：为 coding agent 而作》完整中文翻译 — 保留原结构与 7 张插图",
+    "created_at": "2026-09-22T04:28:47Z",
+    "url": "https://github.com/yibie/jev-engineering-zh"
+  },
+  {
+    "full_name": "iamyoki/qwen-image-2.1-skill",
+    "stargazers_count": 125,
+    "prev_stars": 120,
+    "language": "Python",
+    "description": "🎨 Agentic skill for Qwen-Image-2.1: Rewrites and optimizes text-to-image and multi-image editing prompts using official Alibaba specifications. Compatible with skills.sh and all AI agents.",
+    "created_at": "2026-09-21T10:25:00Z",
+    "url": "https://github.com/iamyoki/qwen-image-2.1-skill"
+  },
+  {
+    "full_name": "StevensND/nfsmw-nx",
+    "stargazers_count": 124,
+    "prev_stars": null,
+    "language": "C",
+    "description": null,
+    "created_at": "2026-09-27T13:46:37Z",
+    "url": "https://github.com/StevensND/nfsmw-nx"
+  },
+  {
+    "full_name": "Leonxlnx/claude-launchvideo",
+    "stargazers_count": 124,
+    "prev_stars": 116,
+    "language": "TypeScript",
+    "description": null,
+    "created_at": "2026-09-26T23:38:01Z",
+    "url": "https://github.com/Leonxlnx/claude-launchvideo"
+  },
+  {
+    "full_name": "NaiveAI-Labs/Naive-N0.5-Flash",
+    "stargazers_count": 124,
+    "prev_stars": 109,
+    "language": "Python",
+    "description": "Naive-N0.5-Flash is an open-weight 309B MoE model with 15.5B active parameters, built for coding and AI R&D.",
+    "created_at": "2026-09-27T15:03:09Z",
+    "url": "https://github.com/NaiveAI-Labs/Naive-N0.5-Flash"
+  },
+  {
+    "full_name": "allebee/jevk5",
+    "stargazers_count": 124,
+    "prev_stars": 121,
+    "language": "Python",
+    "description": "JevK5: open-weight alternative to TypeSafe Jev. Typed decisions with probabilities in one forward pass; Apache-2.0 weights and code.",
+    "created_at": "2026-09-22T14:58:40Z",
+    "url": "https://github.com/allebee/jevk5"
+  },
+  {
+    "full_name": "ANDRETRIPOL/OpenGhost",
+    "stargazers_count": 123,
+    "prev_stars": 104,
+    "language": "JavaScript",
+    "description": "Open desktop agent for Windows, macOS and Linux",
+    "created_at": "2026-09-25T12:32:32Z",
+    "url": "https://github.com/ANDRETRIPOL/OpenGhost"
+  },
+  {
+    "full_name": "aaddrick/building-with-typesafe-jev",
+    "stargazers_count": 123,
+    "prev_stars": 113,
+    "language": "Python",
+    "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects.",
+    "created_at": "2026-09-26T00:01:19Z",
+    "url": "https://github.com/aaddrick/building-with-typesafe-jev"
+  },
+  {
+    "full_name": "michaelswissa/jevry",
+    "stargazers_count": 122,
+    "prev_stars": 119,
+    "language": "TypeScript",
+    "description": "Your browser. Ready to act. An MIT-licensed desktop browser agent for website tasks, cited research, and supported games.",
+    "created_at": "2026-09-24T10:44:35Z",
+    "url": "https://github.com/michaelswissa/jevry"
+  },
+  {
+    "full_name": "theNetworkChuck/paperclip-guide",
+    "stargazers_count": 121,
+    "prev_stars": 112,
+    "language": "TypeScript",
+    "description": "Companion guide for the NetworkChuck Paperclip video: install Paperclip and build an AI IT department. Every step tested on Paperclip 2026.916.1.",
+    "created_at": "2026-09-24T15:00:59Z",
+    "url": "https://github.com/theNetworkChuck/paperclip-guide"
+  },
+  {
+    "full_name": "joetawil7/first-pass",
+    "stargazers_count": 121,
+    "prev_stars": null,
+    "language": "JavaScript",
+    "description": " Rules and checks that make Claude Code look around a change, not just at the lines it writes: ten questions before code, a reviewer that didn't write it, proof before done, bugs fixed as a class.",
+    "created_at": "2026-09-25T15:45:56Z",
+    "url": "https://github.com/joetawil7/first-pass"
+  },
+  {
+    "full_name": "Echo-Storm/ls-addon-manager",
+    "stargazers_count": 120,
+    "prev_stars": 106,
+    "language": "C++",
+    "description": "Addon Manager for Lossless Scaling (LSFG): DLSS 5 Neural Rendering, DLSS, XESS and FSR upscalers with motion measured from the frames, one-click installer, addons you install and tune in one window, live GPU and frame-time view. Tested with World of Warcraft: Forever.",
+    "created_at": "2026-09-21T10:16:29Z",
+    "url": "https://github.com/Echo-Storm/ls-addon-manager"
+  },
+  {
+    "full_name": "chelinho139/wow-ai",
+    "stargazers_count": 120,
+    "prev_stars": 115,
+    "language": "JavaScript",
+    "description": "Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft  (WoW)",
+    "created_at": "2026-09-23T04:57:34Z",
+    "url": "https://github.com/chelinho139/wow-ai"
+  },
+  {
+    "full_name": "tinnel123666888/OmniJev",
+    "stargazers_count": 120,
+    "prev_stars": 111,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-09-23T10:25:10Z",
+    "url": "https://github.com/tinnel123666888/OmniJev"
+  },
+  {
+    "full_name": "aws-samples/sample-voice-ai-agent-studio",
+    "stargazers_count": 119,
+    "prev_stars": 119,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-09-24T13:32:45Z",
+    "url": "https://github.com/aws-samples/sample-voice-ai-agent-studio"
+  },
+  {
+    "full_name": "fzakaria/omnibin",
+    "stargazers_count": 119,
+    "prev_stars": 116,
+    "language": "Python",
+    "description": "Every binary nixpkgs ever shipped, on your PATH.",
+    "created_at": "2026-09-25T02:25:17Z",
+    "url": "https://github.com/fzakaria/omnibin"
+  },
+  {
+    "full_name": "Ch0pin/rdx",
+    "stargazers_count": 118,
+    "prev_stars": 105,
+    "language": "Rust",
+    "description": "A native APK and DEX decompiler written in Rust",
+    "created_at": "2026-09-21T09:24:55Z",
+    "url": "https://github.com/Ch0pin/rdx"
+  },
+  {
+    "full_name": "georgeding/Relate",
+    "stargazers_count": 118,
+    "prev_stars": 117,
+    "language": "JavaScript",
+    "description": "记得她说过的每一句话，也记得你答应过的每一件事。A self-hosted AI chief of staff for your chats — remembers what they said and what you promised.",
+    "created_at": "2026-09-23T16:20:10Z",
+    "url": "https://github.com/georgeding/Relate"
+  },
+  {
+    "full_name": "emmericp/D2R-3D",
+    "stargazers_count": 118,
+    "prev_stars": null,
+    "language": "C++",
+    "description": "Play Diablo II: Resurrected in 3D.",
+    "created_at": "2026-09-27T13:37:27Z",
+    "url": "https://github.com/emmericp/D2R-3D"
+  },
+  {
+    "full_name": "springvoiceswell/semrush-ai-tool",
+    "stargazers_count": 117,
+    "prev_stars": 127,
+    "language": "JavaScript",
+    "description": "Semrush SEO AI-powered analysis tool MCP server & CLI for keyword research, domain analytics, backlink analysis",
+    "created_at": "2026-09-25T04:00:09Z",
+    "url": "https://github.com/springvoiceswell/semrush-ai-tool"
+  },
+  {
+    "full_name": "majidmanzarpour/blender-game-skills",
+    "stargazers_count": 116,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "Claude Code agent skills for game dev in Blender. Turn concept art into rigged, game-ready 3D assets, measured against your references.",
+    "created_at": "2026-09-24T00:08:40Z",
+    "url": "https://github.com/majidmanzarpour/blender-game-skills"
+  },
+  {
+    "full_name": "PointAntStorm/grok-self",
+    "stargazers_count": 116,
+    "prev_stars": 124,
+    "language": "JavaScript",
+    "description": "grok-cli-self the lightweight, zero-dependency Grok CLI. Chat with xAI's Grok AI (Grok 4) in your terminal: one-shot prompts",
+    "created_at": "2026-09-25T03:26:15Z",
+    "url": "https://github.com/PointAntStorm/grok-self"
+  },
+  {
+    "full_name": "mode-io/vllm-jev",
+    "stargazers_count": 116,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "Native vLLM serving for Jev decision models",
+    "created_at": "2026-09-24T16:11:48Z",
+    "url": "https://github.com/mode-io/vllm-jev"
+  },
+  {
+    "full_name": "RamitVishwakarma/Janus",
+    "stargazers_count": 115,
+    "prev_stars": 110,
+    "language": "Swift",
+    "description": "Switch between Claude Code accounts and clear developer caches, from the macOS menu bar.",
+    "created_at": "2026-09-25T10:20:37Z",
+    "url": "https://github.com/RamitVishwakarma/Janus"
+  },
+  {
+    "full_name": "breakstageaxe61/genspark-claw",
+    "stargazers_count": 113,
+    "prev_stars": 122,
+    "language": "JavaScript",
+    "description": "🦀⚡ Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep research, reports, slides, browser automation, AI call prep), zero-dependency Node.js installer, MCP server, one-line install",
+    "created_at": "2026-09-26T02:18:05Z",
+    "url": "https://github.com/breakstageaxe61/genspark-claw"
+  },
+  {
+    "full_name": "paradigma-inc/limite-violetto",
+    "stargazers_count": 113,
+    "prev_stars": 112,
+    "language": "Python",
+    "description": "A model for high-frequency mathematical intelligence.",
+    "created_at": "2026-09-21T08:16:33Z",
+    "url": "https://github.com/paradigma-inc/limite-violetto"
+  },
+  {
+    "full_name": "ios-bundles/CarrierSIM",
+    "stargazers_count": 112,
+    "prev_stars": null,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-09-28T11:13:15Z",
+    "url": "https://github.com/ios-bundles/CarrierSIM"
+  },
+  {
+    "full_name": "virajbhartiya/laya-vs-jev",
+    "stargazers_count": 110,
+    "prev_stars": 110,
+    "language": "Python",
+    "description": "Laya vs Jev: local MLX and hosted AI decisions playing T-Rex side by side, with live metrics and replay recording",
+    "created_at": "2026-09-21T14:30:39Z",
+    "url": "https://github.com/virajbhartiya/laya-vs-jev"
+  },
+  {
+    "full_name": "mmastrac/djev",
+    "stargazers_count": 110,
+    "prev_stars": 109,
+    "language": "Python",
+    "description": "Jev-style structured decisions on DiffusionGemma: the example server from vLLM PR 57250",
+    "created_at": "2026-09-21T23:44:19Z",
+    "url": "https://github.com/mmastrac/djev"
+  },
+  {
+    "full_name": "logabell/dewarr",
+    "stargazers_count": 110,
+    "prev_stars": 105,
+    "language": "Python",
+    "description": "Self-hosted audiobook discovery, Goodreads and Hardcover lists, Audiobookshelf integration, and automatic downloads.",
+    "created_at": "2026-09-21T04:22:05Z",
+    "url": "https://github.com/logabell/dewarr"
+  },
+  {
+    "full_name": "SysAdminDoc/HushFacebook",
+    "stargazers_count": 110,
+    "prev_stars": null,
+    "language": "Java",
+    "description": "Hushfacebook v0.4.0: 43 patches for Facebook 580.0.0.51.74 with Morphe. Control ads and suggested posts, save videos, customize playback and use a focused Marketplace mode.",
+    "created_at": "2026-09-24T22:34:55Z",
+    "url": "https://github.com/SysAdminDoc/HushFacebook"
+  },
+  {
+    "full_name": "graygnatconsole/mcp-audit-tool",
+    "stargazers_count": 109,
+    "prev_stars": 120,
+    "language": "Python",
+    "description": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
+    "created_at": "2026-09-26T02:42:57Z",
+    "url": "https://github.com/graygnatconsole/mcp-audit-tool"
+  },
+  {
+    "full_name": "IQuestLab/IQuest-Q1",
+    "stargazers_count": 109,
+    "prev_stars": null,
+    "language": null,
+    "description": null,
+    "created_at": "2026-09-28T11:48:33Z",
+    "url": "https://github.com/IQuestLab/IQuest-Q1"
+  },
+  {
+    "full_name": "caomod2077/Deobfuscator-Luraph-V15",
+    "stargazers_count": 109,
+    "prev_stars": null,
+    "language": "JavaScript",
+    "description": "A standalone, high-performance deobfuscator and devirtualizer for Roblox Luau scripts protected by Luraph v15.",
+    "created_at": "2026-09-26T05:31:59Z",
+    "url": "https://github.com/caomod2077/Deobfuscator-Luraph-V15"
+  },
+  {
+    "full_name": "DeeJanuz/frametop",
+    "stargazers_count": 109,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "Multi-screen KDE Plasma desktop and universal 3D mouse for the Valve Steam Frame (SteamVR)",
+    "created_at": "2026-09-26T22:14:17Z",
+    "url": "https://github.com/DeeJanuz/frametop"
+  },
+  {
+    "full_name": "Finderchangchang/brewreel",
+    "stargazers_count": 109,
+    "prev_stars": null,
+    "language": "TypeScript",
+    "description": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
+    "created_at": "2026-09-26T01:52:24Z",
+    "url": "https://github.com/Finderchangchang/brewreel"
+  },
+  {
+    "full_name": "S3cur3Th1sSh1t/SnafflePy",
+    "stargazers_count": 108,
+    "prev_stars": 105,
+    "language": "Python",
+    "description": "Snaffler in Python",
+    "created_at": "2026-09-24T13:53:33Z",
+    "url": "https://github.com/S3cur3Th1sSh1t/SnafflePy"
+  },
+  {
+    "full_name": "mrtinkz/ai-charter",
+    "stargazers_count": 108,
+    "prev_stars": 108,
+    "language": "TypeScript",
+    "description": "Universal AI Charter: plain-language governance principles and a public certification registry for AI models, built on disclosure instead of a development slowdown.",
+    "created_at": "2026-09-22T03:47:52Z",
+    "url": "https://github.com/mrtinkz/ai-charter"
+  },
+  {
+    "full_name": "fulldiagnose/antigravity-fixer",
+    "stargazers_count": 108,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "Fix Antigravity 'not eligible' error - diagnose, clean credentials, auto-fix",
+    "created_at": "2026-09-29T05:22:13Z",
+    "url": "https://github.com/fulldiagnose/antigravity-fixer"
+  },
+  {
+    "full_name": "disler/ten-levels-of-jev",
+    "stargazers_count": 108,
+    "prev_stars": null,
+    "language": "TypeScript",
+    "description": "Ten levels of Jev, from one smart if statement to a coding agent that reaches for Jev on its own",
+    "created_at": "2026-09-27T17:19:00Z",
+    "url": "https://github.com/disler/ten-levels-of-jev"
+  },
+  {
+    "full_name": "TwoSevenOneT/InjectSetConsole",
+    "stargazers_count": 107,
+    "prev_stars": null,
+    "language": "C++",
+    "description": "Proof of Concept for Process Code Injection Without Using WriteProcessMemory",
+    "created_at": "2026-09-27T01:57:35Z",
+    "url": "https://github.com/TwoSevenOneT/InjectSetConsole"
+  },
+  {
+    "full_name": "wildminder/awesome-qwen-image",
+    "stargazers_count": 107,
+    "prev_stars": 103,
+    "language": null,
+    "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
+    "created_at": "2026-09-24T10:15:43Z",
+    "url": "https://github.com/wildminder/awesome-qwen-image"
+  },
+  {
+    "full_name": "mike007jd/voxel-musou",
+    "stargazers_count": 107,
+    "prev_stars": 104,
+    "language": "JavaScript",
+    "description": "Dynasty Warriors-style voxel action game in the browser: Zhao Yun vs 300 soldiers. Three.js, no build step.",
+    "created_at": "2026-09-24T04:10:40Z",
+    "url": "https://github.com/mike007jd/voxel-musou"
+  },
+  {
+    "full_name": "santtiago49/system-design-trainer",
+    "stargazers_count": 107,
+    "prev_stars": null,
+    "language": "TypeScript",
+    "description": "Whiteboard for practicing system design interviews with a live capacity model",
+    "created_at": "2026-09-28T00:11:06Z",
+    "url": "https://github.com/santtiago49/system-design-trainer"
+  },
+  {
+    "full_name": "jcx396905-gif/recipe-lab-sony-pmca-cn",
+    "stargazers_count": 106,
+    "prev_stars": null,
+    "language": "Java",
+    "description": "索尼相机胶片配方应用 Recipe Lab 的中文汉化版：77 种胶片色彩配方，实时预览并写入相机，在所有拍摄模式长期生效。适配 A7R II / A7 系列 / A6000 系列等支持 PlayMemories 应用的机型。",
+    "created_at": "2026-09-25T03:25:56Z",
+    "url": "https://github.com/jcx396905-gif/recipe-lab-sony-pmca-cn"
+  },
+  {
+    "full_name": "black-forest-labs/flux-action",
+    "stargazers_count": 106,
+    "prev_stars": 103,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-09-23T03:26:07Z",
+    "url": "https://github.com/black-forest-labs/flux-action"
+  },
+  {
+    "full_name": "christianmat/jev-pokemon",
+    "stargazers_count": 106,
+    "prev_stars": null,
+    "language": "TypeScript",
+    "description": "Jev, an AI decision model, plays Pokémon Red. It beat the game in 37h 40m.",
+    "created_at": "2026-09-25T01:02:51Z",
+    "url": "https://github.com/christianmat/jev-pokemon"
+  },
+  {
+    "full_name": "MaSieS4Fun/SteamOS-ARM-SM8550",
+    "stargazers_count": 105,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "Official SteamOS ARM version, custom-adapted for SM8550 ARM devices.",
+    "created_at": "2026-09-23T09:12:43Z",
+    "url": "https://github.com/MaSieS4Fun/SteamOS-ARM-SM8550"
+  },
+  {
+    "full_name": "howseen-ai/claude-motion-design",
+    "stargazers_count": 105,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "A Claude Code skill to make motion design videos in pure code: HTML + Playwright + ffmpeg. No After Effects, no Remotion license.",
+    "created_at": "2026-09-27T19:59:11Z",
+    "url": "https://github.com/howseen-ai/claude-motion-design"
+  },
+  {
+    "full_name": "FoxDevCommunity/FoxDevStudio",
+    "stargazers_count": 105,
+    "prev_stars": 102,
+    "language": "Rust",
+    "description": "A modern IDE and 64-bit runtime for Visual FoxPro 9 applications.",
+    "created_at": "2026-09-22T19:10:07Z",
+    "url": "https://github.com/FoxDevCommunity/FoxDevStudio"
+  },
+  {
+    "full_name": "JunMa11/MedJev",
+    "stargazers_count": 105,
+    "prev_stars": null,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-09-22T01:53:56Z",
+    "url": "https://github.com/JunMa11/MedJev"
+  },
+  {
+    "full_name": "openqa-cn/jev-browser",
+    "stargazers_count": 105,
+    "prev_stars": 103,
+    "language": "TypeScript",
+    "description": "Jev Browser — indexed browser automation. Jev chooses the control, Playwright acts. A CodexQA skill.",
+    "created_at": "2026-09-23T07:47:24Z",
+    "url": "https://github.com/openqa-cn/jev-browser"
+  },
+  {
+    "full_name": "pingwin010/tiktok-views-bot",
+    "stargazers_count": 104,
+    "prev_stars": 122,
+    "language": "Python",
+    "description": "tiktok views bot tool x-ladon x-gorgon x-argus full api tiktok, likes, search, follow, login, tiktok device register, tiktok api",
+    "created_at": "2026-09-25T13:10:58Z",
+    "url": "https://github.com/pingwin010/tiktok-views-bot"
+  },
+  {
+    "full_name": "Continuum-AI-Corp/scuttle",
+    "stargazers_count": 104,
+    "prev_stars": null,
+    "language": "Go",
+    "description": "Tiny post-quantum encryption for sensitive data. Write-only by design. ML-KEM-768 + X25519 + AES-256-GCM. Please break it.",
+    "created_at": "2026-09-23T22:28:43Z",
+    "url": "https://github.com/Continuum-AI-Corp/scuttle"
+  },
+  {
+    "full_name": "Edge0-AI/Audio8-ASR-Infinite",
+    "stargazers_count": 104,
+    "prev_stars": null,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-09-21T15:04:01Z",
+    "url": "https://github.com/Edge0-AI/Audio8-ASR-Infinite"
+  },
+  {
+    "full_name": "pavrus117/ai-os-maps-guide",
+    "stargazers_count": 104,
+    "prev_stars": null,
+    "language": null,
+    "description": "Free MAPS guide: set up your own AI operating system on Claude Code (Memory, Agent, Pulse, Screen) — one prompt per layer",
+    "created_at": "2026-09-22T09:49:59Z",
+    "url": "https://github.com/pavrus117/ai-os-maps-guide"
+  },
+  {
+    "full_name": "bestagentkits/motion-video-skill",
+    "stargazers_count": 103,
+    "prev_stars": 102,
+    "language": "JavaScript",
+    "description": "Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and generated music. MIT.",
+    "created_at": "2026-09-25T07:35:18Z",
+    "url": "https://github.com/bestagentkits/motion-video-skill"
+  },
+  {
+    "full_name": "Simreal-AI/MathmoBench",
+    "stargazers_count": 102,
+    "prev_stars": 102,
+    "language": "Python",
+    "description": "[Public preview] An advanced AI Benchmark for math, produced by mathmo at St John's College, Cambridge.",
+    "created_at": "2026-09-23T13:11:34Z",
+    "url": "https://github.com/Simreal-AI/MathmoBench"
+  },
+  {
+    "full_name": "j4c8dobolsuo8m2m/seedance-api-cn",
+    "stargazers_count": 102,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API 中转站/网关中文文档 · AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+    "created_at": "2026-09-24T16:46:07Z",
+    "url": "https://github.com/j4c8dobolsuo8m2m/seedance-api-cn"
+  },
+  {
+    "full_name": "SkylarKitchen/skills",
+    "stargazers_count": 102,
+    "prev_stars": null,
+    "language": "HTML",
+    "description": "Agent skills for design work: 3D build guides and more.",
+    "created_at": "2026-09-27T13:10:05Z",
+    "url": "https://github.com/SkylarKitchen/skills"
+  },
+  {
+    "full_name": "Simreal-AI/Xitadel-QuantBench",
+    "stargazers_count": 102,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "[Public preview] The first public quant trading benchmark scored against what professional traders actually made on the same asset",
+    "created_at": "2026-09-21T13:56:52Z",
+    "url": "https://github.com/Simreal-AI/Xitadel-QuantBench"
+  },
+  {
+    "full_name": "awangwang123/jianhao-travel-planner",
+    "stargazers_count": 102,
+    "prev_stars": null,
+    "language": "HTML",
+    "description": "出行路书工作流 skill：联网实查 + 多源交叉验证，产出可核验、能执行的旅行攻略。覆盖吃住行游拍避全维度，附美食情报卡、基准骨架与校验工具，支持一键部署在线版。",
+    "created_at": "2026-09-23T07:43:09Z",
+    "url": "https://github.com/awangwang123/jianhao-travel-planner"
+  },
+  {
+    "full_name": "khxd7yix/ai-video-api-ko",
+    "stargazers_count": 101,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API 중계·게이트웨이 한국어 가이드 · AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+    "created_at": "2026-09-24T19:29:48Z",
+    "url": "https://github.com/khxd7yix/ai-video-api-ko"
+  },
+  {
+    "full_name": "yinsuecci/mockrunning",
+    "stargazers_count": 101,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "帮助全国的大学生朋友们无伤通关校园跑的秘密武器~",
+    "created_at": "2026-09-23T10:32:57Z",
+    "url": "https://github.com/yinsuecci/mockrunning"
+  },
+  {
+    "full_name": "Rolyata228/Microsoft-Activation-Scripts",
+    "stargazers_count": 101,
+    "prev_stars": null,
+    "language": "Batchfile",
+    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
+    "created_at": "2026-09-24T15:16:59Z",
+    "url": "https://github.com/Rolyata228/Microsoft-Activation-Scripts"
+  },
+  {
+    "full_name": "Akun-python/mountain-flood-uav-optimization",
+    "stargazers_count": 101,
+    "prev_stars": null,
+    "language": "HTML",
+    "description": "开源免费，不断迭代更新！",
+    "created_at": "2026-09-24T02:34:21Z",
+    "url": "https://github.com/Akun-python/mountain-flood-uav-optimization"
+  },
+  {
+    "full_name": "lavenderrescuerblaze/ssd-tweaker-suite",
+    "stargazers_count": 101,
+    "prev_stars": null,
+    "language": null,
+    "description": "⚡ High-performance SSD optimization & TRIM control suite for macOS & Windows. Reduce write cycles, maximize IOPS, enable TRIM, and extend drive lifespan.",
+    "created_at": "2026-09-25T21:46:25Z",
+    "url": "https://github.com/lavenderrescuerblaze/ssd-tweaker-suite"
+  },
+  {
+    "full_name": "pbs05/an758x-stock2ubi",
+    "stargazers_count": 100,
+    "prev_stars": null,
+    "language": "Rust",
+    "description": null,
+    "created_at": "2026-09-21T11:50:26Z",
+    "url": "https://github.com/pbs05/an758x-stock2ubi"
+  },
+  {
+    "full_name": "rnzpezzb4ffdis0h/grokimagine2.0-grok-imagine-2.0-api-ko",
+    "stargazers_count": 100,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API 중계·게이트웨이 한국어 가이드 · grok-imagine-2.0 / grokimagine2.0 API：upload-image $0; default $0.015; region-edit $0.015。模型 ID、参数、curl 与 Python 示例，OpenAI 兼容接口，$1 起充。",
+    "created_at": "2026-09-24T18:33:40Z",
+    "url": "https://github.com/rnzpezzb4ffdis0h/grokimagine2.0-grok-imagine-2.0-api-ko"
+  },
+  {
+    "full_name": "omoun8nc1vbpx12/ai-image-api-fr",
+    "stargazers_count": 100,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "Passerelle/relais API — guide en français · AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+    "created_at": "2026-09-24T17:08:04Z",
+    "url": "https://github.com/omoun8nc1vbpx12/ai-image-api-fr"
+  },
+  {
+    "full_name": "tihanyin/REx-skill",
+    "stargazers_count": 99,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "REx@Skill - Agentic Reverse Engineering eXecution Skill for binary vulnerability discovery",
+    "created_at": "2026-09-23T06:49:12Z",
+    "url": "https://github.com/tihanyin/REx-skill"
+  },
+  {
+    "full_name": "k6hdkoe76rybli/flux2-flux-2-api-cn",
+    "stargazers_count": 99,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API 中转站/网关中文文档 · flux-2 / flux2 API：1MP $0.024; 2MP $0.036; 3MP $0.048。模型 ID、参数、curl 与 Python 示例，OpenAI 兼容接口，$1 起充。",
+    "created_at": "2026-09-24T18:36:01Z",
+    "url": "https://github.com/k6hdkoe76rybli/flux2-flux-2-api-cn"
+  },
+  {
+    "full_name": "haibarazz/awesome-codex-research",
+    "stargazers_count": 99,
+    "prev_stars": null,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-09-21T14:08:06Z",
+    "url": "https://github.com/haibarazz/awesome-codex-research"
+  },
+  {
+    "full_name": "hd42567u/grokimagine2.0-grok-imagine-2.0-api-cn",
+    "stargazers_count": 99,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API 中转站/网关中文文档 · grok-imagine-2.0 / grokimagine2.0 API：upload-image $0; default $0.015; region-edit $0.015。模型 ID、参数、curl 与 Python 示例，OpenAI 兼容接口，$1 起充。",
+    "created_at": "2026-09-24T18:28:54Z",
+    "url": "https://github.com/hd42567u/grokimagine2.0-grok-imagine-2.0-api-cn"
+  },
+  {
+    "full_name": "uni-launch/token-launch-handbook",
+    "stargazers_count": 98,
+    "prev_stars": 108,
+    "language": "HTML",
+    "description": "Create and manage your own token without code — Solana, Ethereum, Base, BNB Chain and 5 more networks. Guides, costs, checklists.",
+    "created_at": "2026-09-23T13:40:32Z",
+    "url": "https://github.com/uni-launch/token-launch-handbook"
+  },
+  {
+    "full_name": "pbxzhaqjodow7hc/ai-api-gateway-fr",
+    "stargazers_count": 98,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "Passerelle/relais API — guide en français · AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+    "created_at": "2026-09-24T17:05:14Z",
+    "url": "https://github.com/pbxzhaqjodow7hc/ai-api-gateway-fr"
+  },
+  {
+    "full_name": "azle5biyd9td956/pixverse6-pixverse-v6-api",
+    "stargazers_count": 98,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+    "created_at": "2026-09-24T18:10:34Z",
+    "url": "https://github.com/azle5biyd9td956/pixverse6-pixverse-v6-api"
+  },
+  {
+    "full_name": "b8agzi2vupj175j/skyreels4-skyreels-v4-api",
+    "stargazers_count": 98,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+    "created_at": "2026-09-24T18:15:27Z",
+    "url": "https://github.com/b8agzi2vupj175j/skyreels4-skyreels-v4-api"
+  },
+  {
+    "full_name": "Avinash-jetwani/jevmem",
+    "stargazers_count": 98,
+    "prev_stars": null,
+    "language": "TypeScript",
+    "description": "Automatic project memory for Claude Code. Also works with Cursor and Codex. Now in Anthropic's Claude plugin directory.",
+    "created_at": "2026-09-22T11:47:24Z",
+    "url": "https://github.com/Avinash-jetwani/jevmem"
+  },
+  {
+    "full_name": "Xuanwo/cida",
+    "stargazers_count": 98,
+    "prev_stars": null,
+    "language": "Swift",
+    "description": "辞达：用你选择的大模型，在 Mac 的任何地方翻译和润色文字。Translate and polish text anywhere on your Mac.",
+    "created_at": "2026-09-25T08:20:35Z",
+    "url": "https://github.com/Xuanwo/cida"
+  },
+  {
+    "full_name": "OedoSoldier/Endfield-Poser",
+    "stargazers_count": 98,
+    "prev_stars": null,
+    "language": "C++",
+    "description": null,
+    "created_at": "2026-09-24T12:48:54Z",
+    "url": "https://github.com/OedoSoldier/Endfield-Poser"
+  },
+  {
+    "full_name": "ovdtze56q1zgksb4/kling3-kling-3-prompts",
+    "stargazers_count": 98,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "kling-3 API (kling3 / kling 3): default $0.0672; pro $0.0896; sound $0.1008. Model id, prompts settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-",
+    "created_at": "2026-09-24T18:00:02Z",
+    "url": "https://github.com/ovdtze56q1zgksb4/kling3-kling-3-prompts"
+  },
+  {
+    "full_name": "u7n3fubt/gemini3pro-gemini-3-pro-api",
+    "stargazers_count": 98,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "gemini-3-pro API (gemini3pro / gemini 3 pro): input $1.6; output $9.6. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+    "created_at": "2026-09-24T18:56:57Z",
+    "url": "https://github.com/u7n3fubt/gemini3pro-gemini-3-pro-api"
+  },
+  {
+    "full_name": "r6rlnhx/gptimage2.5-gpt-image-2.5-api-cn",
+    "stargazers_count": 97,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API 中转站/网关中文文档 · gpt-image-2.5 / gptimage2.5 API：flare@1K $0.0085; sunburst@1K $0.0085; flare@2K $0.014。模型 ID、参数、curl 与 Python 示例，OpenAI 兼容接口，$1 起充。",
+    "created_at": "2026-09-24T18:20:49Z",
+    "url": "https://github.com/r6rlnhx/gptimage2.5-gpt-image-2.5-api-cn"
+  },
+  {
+    "full_name": "justxor/sobesrazborgoogle",
+    "stargazers_count": 97,
+    "prev_stars": null,
+    "language": null,
+    "description": "Разбор актуальных вопросов с собеседований для программистов ",
+    "created_at": "2026-09-25T11:45:54Z",
+    "url": "https://github.com/justxor/sobesrazborgoogle"
+  },
+  {
+    "full_name": "artemnovitckii/creator-lab",
+    "stargazers_count": 97,
+    "prev_stars": null,
+    "language": "JavaScript",
+    "description": "Research Instagram Reel scripts with Apify, Jev, and Fireworks or Groq. Bring your own keys, compare hooks, and record the patterns.",
+    "created_at": "2026-09-23T15:34:37Z",
+    "url": "https://github.com/artemnovitckii/creator-lab"
+  },
+  {
+    "full_name": "fengqiao57/abts",
+    "stargazers_count": 97,
+    "prev_stars": null,
+    "language": "Dart",
+    "description": "免登录、无广告、专注收听的第三方 B 站有声小说播放器",
+    "created_at": "2026-09-21T05:26:18Z",
+    "url": "https://github.com/fengqiao57/abts"
+  },
+  {
+    "full_name": "blackhat-7/vellum.nvim",
+    "stargazers_count": 97,
+    "prev_stars": null,
+    "language": "Lua",
+    "description": "Live, beautiful GitHub-markdown preview beside your buffer in Neovim — mermaid diagrams as real images, in the terminal.",
+    "created_at": "2026-09-22T18:22:41Z",
+    "url": "https://github.com/blackhat-7/vellum.nvim"
+  },
+  {
+    "full_name": "SkadenAI/skaden",
+    "stargazers_count": 96,
+    "prev_stars": null,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-09-23T08:47:22Z",
+    "url": "https://github.com/SkadenAI/skaden"
+  },
+  {
+    "full_name": "jinmanji/jinmanji-app",
+    "stargazers_count": 96,
+    "prev_stars": null,
+    "language": "Kotlin",
+    "description": "禁漫姬 - 更好的 Android 禁漫客户端",
+    "created_at": "2026-09-26T15:21:02Z",
+    "url": "https://github.com/jinmanji/jinmanji-app"
+  },
+  {
+    "full_name": "xlba2khlnrdsd8f/seedream5.0-seedream-5.0-api",
+    "stargazers_count": 96,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "seedream-5.0 API (seedream5.0 / seedream 5.0): 1K-layer $0.0146; 1K $0.0293; 2K-layer $0.0293. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $",
+    "created_at": "2026-09-24T17:32:18Z",
+    "url": "https://github.com/xlba2khlnrdsd8f/seedream5.0-seedream-5.0-api"
+  },
+  {
+    "full_name": "dy9jyi5wrum1a/seedream5.0-seedream-5.0-api-ja",
+    "stargazers_count": 96,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API 中継・ゲートウェイ 日本語ガイド · seedream-5.0 / seedream5.0 API：1K-layer $0.0146; 1K $0.0293; 2K-layer $0.0293。模型 ID、参数、curl 与 Python 示例，OpenAI 兼容接口，$1 起充。",
+    "created_at": "2026-09-24T18:36:00Z",
+    "url": "https://github.com/dy9jyi5wrum1a/seedream5.0-seedream-5.0-api-ja"
+  },
+  {
+    "full_name": "joeseesun/opus-video-prompts",
+    "stargazers_count": 96,
+    "prev_stars": null,
+    "language": null,
+    "description": "Claude Opus 5.5 用代码生成视频：全网案例与可直接复制的提示词 | Copy-ready prompts & 54 cases of Opus 5.5 code-rendered videos",
+    "created_at": "2026-09-27T00:16:07Z",
+    "url": "https://github.com/joeseesun/opus-video-prompts"
+  },
+  {
+    "full_name": "ejsyk3xdp3t2o/wan3.0video-wan-3.0-video-api",
+    "stargazers_count": 95,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "wan-3.0-video API (wan3.0video / wan 3.0 video): 480P $0.0329; 720P $0.0658; default $0.1315. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1",
+    "created_at": "2026-09-24T18:03:45Z",
+    "url": "https://github.com/ejsyk3xdp3t2o/wan3.0video-wan-3.0-video-api"
+  },
+  {
+    "full_name": "twp0wh4xm56p6lc3/flux2-flux-2-gateway",
+    "stargazers_count": 95,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "flux-2 API (flux2 / flux 2): 1MP $0.024; 2MP $0.036; 3MP $0.048. Model id, gateway settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+    "created_at": "2026-09-24T17:34:44Z",
+    "url": "https://github.com/twp0wh4xm56p6lc3/flux2-flux-2-gateway"
+  },
+  {
+    "full_name": "ddiaf67azw/hailuo2.3-hailuo-2.3-prompts",
+    "stargazers_count": 95,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "hailuo-2.3 API (hailuo2.3 / hailuo 2.3): default $0.0248; 1080P $0.0424. Model id, prompts settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+    "created_at": "2026-09-24T18:07:14Z",
+    "url": "https://github.com/ddiaf67azw/hailuo2.3-hailuo-2.3-prompts"
+  },
+  {
+    "full_name": "jostinsantos/lolapp",
+    "stargazers_count": 95,
+    "prev_stars": null,
+    "language": "Dart",
+    "description": null,
+    "created_at": "2026-09-21T05:52:46Z",
+    "url": "https://github.com/jostinsantos/lolapp"
+  },
+  {
+    "full_name": "pbd91ed197/ai-api-proxy",
+    "stargazers_count": 95,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+    "created_at": "2026-09-24T16:37:42Z",
+    "url": "https://github.com/pbd91ed197/ai-api-proxy"
+  },
+  {
+    "full_name": "lpw9fvgd9kra6fk/seedream5.0-seedream-5.0-api-cn",
+    "stargazers_count": 95,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API 中转站/网关中文文档 · seedream-5.0 / seedream5.0 API：1K-layer $0.0146; 1K $0.0293; 2K-layer $0.0293。模型 ID、参数、curl 与 Python 示例，OpenAI 兼容接口，$1 起充。",
+    "created_at": "2026-09-24T19:23:37Z",
+    "url": "https://github.com/lpw9fvgd9kra6fk/seedream5.0-seedream-5.0-api-cn"
+  },
+  {
+    "full_name": "w22e9wxrmz/seedance2.5-seedance-2.5-api-ko",
+    "stargazers_count": 95,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API 중계·게이트웨이 한국어 가이드 · seedance-2.5 / seedance2.5 API：480P-input $0.0576; 480P $0.0961; 720P-input $0.1296。模型 ID、参数、curl 与 Python 示例，OpenAI 兼容接口，$1 起充。",
+    "created_at": "2026-09-24T19:21:03Z",
+    "url": "https://github.com/w22e9wxrmz/seedance2.5-seedance-2.5-api-ko"
+  },
+  {
+    "full_name": "iyqhcef3ffn/hailuo2.3-hailuo-2.3-gateway",
+    "stargazers_count": 95,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "hailuo-2.3 API (hailuo2.3 / hailuo 2.3): default $0.0248; 1080P $0.0424. Model id, gateway settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+    "created_at": "2026-09-24T18:06:02Z",
+    "url": "https://github.com/iyqhcef3ffn/hailuo2.3-hailuo-2.3-gateway"
+  },
+  {
+    "full_name": "pye8505i0c5cw9/claudesonnet5-claude-sonnet-5-api",
+    "stargazers_count": 95,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "claude-sonnet-5 API (claudesonnet5 / claude sonnet 5): input $1.6; cached_input $0.16; cache_write_5m $2. Model id, llm settings, curl and Python examples over an OpenAI-compatible",
+    "created_at": "2026-09-24T18:54:27Z",
+    "url": "https://github.com/pye8505i0c5cw9/claudesonnet5-claude-sonnet-5-api"
+  },
+  {
+    "full_name": "l5367qw01zq/zimage-z-image-turbo-api",
+    "stargazers_count": 95,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+    "created_at": "2026-09-24T18:09:52Z",
+    "url": "https://github.com/l5367qw01zq/zimage-z-image-turbo-api"
+  },
+  {
+    "full_name": "oy8jfpo2qa8075/qwenimage3.0-qwen-image-3.0-api-cn",
+    "stargazers_count": 95,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API 中转站/网关中文文档 · qwen-image-3.0 / qwenimage3.0 API：default $0.0206; 1K $0.0206; 2K $0.0206。模型 ID、参数、curl 与 Python 示例，OpenAI 兼容接口，$1 起充。",
+    "created_at": "2026-09-24T18:42:29Z",
+    "url": "https://github.com/oy8jfpo2qa8075/qwenimage3.0-qwen-image-3.0-api-cn"
+  },
+  {
+    "full_name": "gflnxt8p19v5e6/claudeopus4.7-claude-opus-4.7-api-pricing",
+    "stargazers_count": 95,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "claude-opus-4.7 API (claudeopus4.7 / claude opus 4.7): input $4; cached_input $0.4; cache_write_5m $5. Model id, llm-pricing settings, curl and Python examples over an OpenAI-compa",
+    "created_at": "2026-09-24T19:02:06Z",
+    "url": "https://github.com/gflnxt8p19v5e6/claudeopus4.7-claude-opus-4.7-api-pricing"
+  },
+  {
+    "full_name": "qwp38napmr7wuyk/seedance2.0-seedance-2.0-gateway",
+    "stargazers_count": 94,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "seedance-2.0 API (seedance2.0 / seedance 2.0): 480P-input $0.04; 480P $0.066; 720P-input $0.0858. Model id, gateway settings, curl and Python examples over an OpenAI-compatible gat",
+    "created_at": "2026-09-24T17:27:07Z",
+    "url": "https://github.com/qwp38napmr7wuyk/seedance2.0-seedance-2.0-gateway"
+  },
+  {
+    "full_name": "hvk5d6snsba15uum/seedance2.5-seedance-2.5-api",
+    "stargazers_count": 94,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "seedance-2.5 API (seedance2.5 / seedance 2.5): from $0.0961 per second (480P); 720P $0.216; 1080P $0.3849. Model id, api settings, curl and Python examples over an OpenAI-compatibl",
+    "created_at": "2026-09-24T13:39:35Z",
+    "url": "https://github.com/hvk5d6snsba15uum/seedance2.5-seedance-2.5-api"
+  },
+  {
+    "full_name": "wxyqdethj0wot9u/viduq3turbo-viduq3-turbo-api",
+    "stargazers_count": 94,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "viduq3-turbo API (viduq3turbo / viduq3 turbo): 540P $0.032; 720P $0.048; 1080P $0.056. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimu",
+    "created_at": "2026-09-24T18:18:01Z",
+    "url": "https://github.com/wxyqdethj0wot9u/viduq3turbo-viduq3-turbo-api"
+  },
+  {
+    "full_name": "o6vm1o9t/aiapi-gateway-pricing",
+    "stargazers_count": 94,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API gateway pricing: published unit prices for image2.5 ($0.0085/image), Seedance 2.0 Mini ($0.0106/sec), LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up",
+    "created_at": "2026-09-24T14:30:19Z",
+    "url": "https://github.com/o6vm1o9t/aiapi-gateway-pricing"
+  },
+  {
+    "full_name": "itsfz98v7ln/gpt5.6luna-gpt-5.6-luna-api",
+    "stargazers_count": 94,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "gpt-5.6-luna API (gpt5.6luna / gpt 5.6 luna): input $0.16; cached_input $0.016; cache_write $0.2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway",
+    "created_at": "2026-09-24T18:52:02Z",
+    "url": "https://github.com/itsfz98v7ln/gpt5.6luna-gpt-5.6-luna-api"
+  },
+  {
+    "full_name": "eceuisg0a0l6p7q/deepseekv4pro-deepseek-v4-pro-api",
+    "stargazers_count": 93,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "deepseek-v4-pro API (deepseekv4pro / deepseek v4 pro): input $1.0286; cached_input $0.2057; output $3.0857. Model id, llm settings, curl and Python examples over an OpenAI-compatib",
+    "created_at": "2026-09-24T18:59:34Z",
+    "url": "https://github.com/eceuisg0a0l6p7q/deepseekv4pro-deepseek-v4-pro-api"
+  },
+  {
+    "full_name": "j5uz55lf5vqfaq3m/veo3.1-veo-3.1-api-ja",
+    "stargazers_count": 93,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "AI API 中継・ゲートウェイ 日本語ガイド · veo-3.1 / veo3.1 API：default $0.07; extend $0.07; 4K $0.57。模型 ID、参数、curl 与 Python 示例，OpenAI 兼容接口，$1 起充。",
+    "created_at": "2026-09-24T18:41:06Z",
+    "url": "https://github.com/j5uz55lf5vqfaq3m/veo3.1-veo-3.1-api-ja"
+  },
+  {
+    "full_name": "jlqhf90669/gptimage2-gpt-image-2-api-ko",
+    "stargazers_count": 93,
+    "prev_stars": null,
+    "language": "Shell",
+    "description": "gpt-image-2 / gptimage2 API：default $0.0085; 1K $0.0085; 2K $0.014。模型 ID、参数、curl 与 Python 示例，OpenAI 兼容接口，$1 起充。",
+    "created_at": "2026-09-25T05:58:49Z",
+    "url": "https://github.com/jlqhf90669/gptimage2-gpt-image-2-api-ko"
+  }
+]
