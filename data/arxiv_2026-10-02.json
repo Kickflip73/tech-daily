@@ -1,0 +1,892 @@
+[
+  {
+    "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+    "summary": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine discrete language prediction with continuous image generation. The former introduces a visual quantization bottleneck. The latter requires modality-dependent objectives and sampling procedures. Fully continuous modeling avoids these trade-offs and enables a shared generative process, but remains underexplored for multimodal pretraining. Multimodal Flow introduces a unified continuous architecture that integrates multimodal continuous representations with a shared chunk-causal flow backbone. It organizes text blocks and images as ordered continuous hyperchunks, preserving textual token order and visual spatial structure. The backbone learns a single vector field over these hyperchunks through Flow Matching. Joint attention enables cross-modal interaction, while modality-specific feed-forward networks process each modality. The model predicts multiple target chunks in parallel during training and generates hyperchunks sequentially at inference. We instantiate MF-1 and pretrain it on multimodal data. Across 0.6B, 1.2B, and 1.6B scales, continued pretraining consistently improves multimodal modeling. With only 150B pretraining tokens, MF-1 achieves an average score of 82.8 across GenEval and DPG-Bench and 75.3 across VQAv2, MMBench, and POPE, remaining competitive with unified models trained on substantially more data. Under matched data, optimization, and parameter budgets, Multimodal Flow further outperforms representative hybrid and discrete models. These results establish continuous chunk-based embedding flow modeling as a new fully continuous paradigm for unified multimodal modeling. The related code and model are publicly released at https://github.com/hustvl/Multimodal-Flow.",
+    "id": "http://arxiv.org/abs/2609.40362v1",
+    "published": "2026-09-30T17:59:57Z",
+    "authors": [
+      "Hongyuan Tao",
+      "Xinggang Wang",
+      "Lianghui Zhu",
+      "Yongkang Li",
+      "Yunchao Wei",
+      "Bin Feng",
+      "Shaoyu Chen",
+      "Qian Zhang",
+      "Chang Huang",
+      "Kai Yu"
+    ],
+    "link": "https://arxiv.org/abs/2609.40362v1",
+    "categories": [
+      "cs.CV"
+    ]
+  },
+  {
+    "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+    "summary": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanced: a constant-majority predictor can score above 90% accuracy while being clinically useless. We therefore evaluate and optimize for AUROC, a threshold-free score that ranks positives above negatives and is invariant to class balance. We focus on prompt optimization in MLLMs. Reflective methods such as GEPA use a binary scores matrix with one row per evaluation instance and one column per candidate prompt; cells record per-instance correctness, so the column average is accuracy and drives candidate selection. We introduce pair-level Pareto prompt evolution (Ranking-PE), which replaces each correctness row with a pairwise-ordering row over (positive, negative) instance pairs: the cell is 1 if the candidate scores the positive higher than the paired negative. The column average then equals empirical AUROC (by the Wilcoxon-Mann-Whitney identity). We apply this swap at all three layers the prompt evolution search reads from - the scores matrix that decides Pareto dominance, the per-example feedback to the reflection LM, and final candidate selection - at no extra model calls and with no surrogate loss. Across three diseases on MIMIC, accuracy-based prompt evolution can degrade ranking; Ranking-PE reverses this, beating the accuracy-based recipe by +5.8 AUROC pp on fine-tuned Qwen3-VL-8B and +16.2 pp on MedGemma-4B. Ablations examine each design component and show that a medical-grade visual backbone - via vision-encoder-tuned SFT or medical pretraining - is a prerequisite that prompt search cannot replace - our recipe extends reflective prompt evolution from text-only data to multimodal clinical decision-making.",
+    "id": "http://arxiv.org/abs/2609.40361v1",
+    "published": "2026-09-30T17:59:56Z",
+    "authors": [
+      "Tian Xia",
+      "Minghao Liu",
+      "Yiqing Liang",
+      "Laixi Shi",
+      "Jiayun Wang"
+    ],
+    "link": "https://arxiv.org/abs/2609.40361v1",
+    "categories": [
+      "cs.LG",
+      "cs.CL",
+      "cs.CV"
+    ]
+  },
+  {
+    "title": "Semifactual Credit-Augmented Policy Optimization",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity through semifactual prompt interventions that preserve the underlying problem and its answer. Our analysis reveals substantial variation in token-level sensitivity and shows that suppressing high-drift token candidates during decoding improves reasoning accuracy without updating model weights. These findings highlight a limitation of Group Relative Policy Optimization (GRPO), which assigns the same outcome-derived advantage to every response token and may reinforce potential spurious dependence alongside useful reasoning. Motivated by this observation, we introduce Semifactual Credit-Augmented Policy Optimization (SCAPO), a causally inspired variant of GRPO that incorporates semifactual stability into token-level credit assignment. SCAPO measures token probability drift for fixed responses under semifactual interventions and uses normalized stability scores to reduce advantages for relatively unstable tokens during early training, while granting no additional credit for stability alone. On Qwen3-4B-Base and Qwen3-1.7B-Base, SCAPO improves AIME 2024-2026 accuracy over GRPO by 5.63 and 4.17 percentage points, respectively. At both model scales, SCAPO achieves the best results on most evaluated mathematics benchmarks and all evaluated out-of-distribution benchmarks among the compared methods. These results suggest that semifactual stability provides an effective training signal for improving reasoning and generalization through finer-grained credit assignment in RLVR. The code is available at https://github.com/DtYXs/SCAPO.",
+    "id": "http://arxiv.org/abs/2609.40360v1",
+    "published": "2026-09-30T17:59:56Z",
+    "authors": [
+      "Junshu Pan",
+      "Zhizhang Fu",
+      "Shulin Huang",
+      "Yiran Ding",
+      "Zifan Cheng",
+      "Wenqi Shao",
+      "Qiaosheng Zhang",
+      "Yue Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2609.40360v1",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+    "summary": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time series of brain activity from subjects perceiving continuous speech are segmented into fixed-length windows starting at each word. A neural network then generates predictions for all of the words in a sentence together. Neighbouring windows partially overlap, implicitly revealing the interval between words. Since these intervals indicate the duration of the words spoken, and different words tend to have different durations - for example, \"the\" is much shorter than \"supercalifragilisticexpialidocious\" - the neural network can improve its predictions of words without relying on the underlying brain activity. Consistent with this, the method reaches 22.0% balanced accuracy on synthetic signals containing no brain information, compared with 22.3% on real brain recordings. To prevent the network from learning this shortcut, we make a single, simple change. Instead of jointly encoding all windows in a sentence, we process each independently. As a result, the neural network achieves better performance by learning underlying word-specific information from brain recordings. This makes two existing strategies become much more effective than before. Both aggregating predictions from distinct neural responses to the same word and using a pretrained LLM as a linguistic prior now substantially improve results. On our perceived speech benchmark, this simple recipe (SimpleB2T) achieves a word error rate of 36.6% with five observations per word, approaching past invasive speech decoding performance, albeit under different conditions. The results in this work expose an important shortcut in brain-to-text decoding and show that removing it leads to a simple and considerably more effective strategy.",
+    "id": "http://arxiv.org/abs/2609.40359v1",
+    "published": "2026-09-30T17:59:52Z",
+    "authors": [
+      "Dulhan Jayalath",
+      "Oiwi Parker Jones"
+    ],
+    "link": "https://arxiv.org/abs/2609.40359v1",
+    "categories": [
+      "cs.LG",
+      "q-bio.NC"
+    ]
+  },
+  {
+    "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+    "summary": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible videos that violate basic physical principles. Existing approaches commonly assume that natural language is insufficient to represent the physical knowledge required for reliable generation, and therefore introduce additional visual, latent, numerical, or planning-based signals. We revisit this assumption and introduce Physis-Lang, a self-evolving framework that treats physical language as a shared and optimizable representation across data curation, model training, and video generation. Physis-Lang represents physical processes through language that describes their relevant entities, causes, interactions, governing principles, temporal evolution, and effects. To improve this representation, we construct PhysCapBench, which decomposes physical processes into atomic assertions and evaluates captions using recall and precision. An agentic loop iteratively analyzes assertion-level errors and refines the instruction used to produce physical captions. Physis-Lang further converts model deficiencies into textual descriptions and uses language-guided retrieval to identify visually diverse videos that cover missing physical processes. Experiments on four widely used physical video benchmarks with Wan and Cosmos backbones demonstrate consistent improvements in physical plausibility. Notably, starting from open-source Cosmos3-Nano backbones, our Physis-Lang-enhanced models surpass the leading proprietary Veo 3.1 model.",
+    "id": "http://arxiv.org/abs/2609.40358v1",
+    "published": "2026-09-30T17:59:51Z",
+    "authors": [
+      "Liming Lu",
+      "Xianzheng Ma",
+      "Wenkun He",
+      "Guanqi Zhan",
+      "Yilin Zhao",
+      "Junyu Chen",
+      "Mengyao Xu",
+      "Jiaojiao Fan",
+      "Wenhang Ge",
+      "Yuchao Gu",
+      "Yunze Liu",
+      "Boyi Li",
+      "Zhen Dong",
+      "Victor Prisacariu",
+      "Ming-Yu Liu",
+      "Song Han",
+      "Han Cai"
+    ],
+    "link": "https://arxiv.org/abs/2609.40358v1",
+    "categories": [
+      "cs.CV"
+    ]
+  },
+  {
+    "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+    "summary": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video scene text editing replaces text on scene surfaces, such as storefront signs, whiteboards, and product labels, while preserving the surrounding content, motion, and camera dynamics. Although scene text editing is well studied for images, video scene text editing that achieves high visual quality, temporal consistency, and edit locality remains underexplored. Existing resources offer limited paired real-video data, and general video-editing metrics do not directly measure whether the requested text remains correct over time. We introduce ViTeX-Bench, a benchmark suite comprising ViTeX-Dataset and a three-axis evaluation protocol. The dataset contains 387 real-world 720p videos with text-region masks and editing instructions: 230 provide reviewed, pipeline-generated paired edits for training, and 157 form a frozen evaluation split. The protocol evaluates text correctness, visual and temporal quality, and edit locality through 13 metrics, with one primary metric per axis and a Pareto comparison of their trade-offs. OCR calibration, human evaluation, and annotation-sensitivity analyses support the interpretation of these scores. Across eight baselines from four editing families, accurate text, temporal stability, and scene preservation remain difficult to achieve together. We also release ViTeX-Edit-14B, an open-source reference editor fine-tuned on the paired training split with motion-aligned glyph-video conditioning. It achieves CharAcc 0.688, the highest mean among the evaluated video-native editors, and the lowest comparable text-crop Warp among raw editor outputs. ViTeX-Bench provides a reproducible foundation for studying these trade-offs in video scene text editing.",
+    "id": "http://arxiv.org/abs/2609.40356v1",
+    "published": "2026-09-30T17:59:33Z",
+    "authors": [
+      "Xinghao Chen",
+      "Xiangbo Gao",
+      "Jiongze Yu",
+      "Yuheng Wu",
+      "Zhengzhong Tu"
+    ],
+    "link": "https://arxiv.org/abs/2609.40356v1",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "title": "AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents",
+    "summary": "The task of 3D assembly requires translating an understanding of parts and their relationships into precise spatial arrangements. Can pretrained general-purpose agents assemble objects through visual interaction without additional assembly-specific fine-tuning? To investigate this question, we introduce AssemblyWorld, an interactive 3D environment in which agents inspect rendered views and manipulate supplied rigid parts, guided by images or assembly manuals when available. Agents perceive part geometry through 2D views rather than direct access to mesh vertices or faces, while their resulting assemblies are evaluated geometrically. Building on this environment, we construct AssemblyWorldBench, comprising 100 assembly tasks across 80 objects spanning furniture, industrial assembly, and fracture reassembly. Evaluating eight agent systems reveals substantial differences in their capabilities. The strongest system achieves 80.9% part accuracy but 59.4% complete-assembly success. The evaluated open-source systems lag substantially behind their stronger closed-source peers in both execution reliability and assembly accuracy. Analyses of visual references, interaction trajectories, and failures show how agents revise assemblies while leaving residual positioning errors. AssemblyWorld provides a common setting for both assessing the capabilities of interactive assembly agents and characterizing the gap between approximate structure recovery and precise reconstruction.",
+    "id": "http://arxiv.org/abs/2609.40353v1",
+    "published": "2026-09-30T17:59:14Z",
+    "authors": [
+      "Jiahao Zhang",
+      "Yeying Fan",
+      "Moitreya Chatterjee",
+      "Suhas Lohit",
+      "Bernhard Egger",
+      "Tim K. Marks",
+      "Anoop Cherian",
+      "Stephen Gould"
+    ],
+    "link": "https://arxiv.org/abs/2609.40353v1",
+    "categories": [
+      "cs.CV",
+      "cs.RO"
+    ]
+  },
+  {
+    "title": "On The Simplest Quantum-Secure Block Cipher",
+    "summary": "Pseudorandom permutations are ubiquitous in theoretical and applied cryptography. PRPs that offer security even against adversaries making quantum queries are of increasing interest, and used in applications ranging from constructing pseudorandom unitaries to separating SZK from BQP. A successful framework for constructing classically-secure PRPs is the key-alternating Even-Mansour approach, which interleaves applications of public permutations with additions of round keys. The single-round construction is already classically secure in the ideal permutation model (IPM), with added rounds offering improved concrete security. However, in the quantum-query setting, the status of this framework is presently unclear. A simple quantum-query attack based on Simon's algorithm breaks the one-round cipher. For two or more rounds, security is only known against non-adaptive adversaries who must prepare all queries in advance. In this work, we show that the two-round Even-Mansour cipher is information theoretically secure in the IPM against adversaries making polynomially-many adaptive forward and inverse quantum queries to all available oracles. Our proof uses compressed permutation oracles and a specially crafted isometry relating the ideal and real experiments. We also show that this construction is minimal, in the sense that essentially any cipher constructed via a single call to a public permutation is quantumly insecure.",
+    "id": "http://arxiv.org/abs/2609.40350v1",
+    "published": "2026-09-30T17:59:10Z",
+    "authors": [
+      "Gorjan Alagic",
+      "Joseph Carolan",
+      "Christian Majenz",
+      "Saliha Tokat"
+    ],
+    "link": "https://arxiv.org/abs/2609.40350v1",
+    "categories": [
+      "quant-ph",
+      "cs.CR"
+    ]
+  },
+  {
+    "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
+    "summary": "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstruction-based autoencoders for learning with unlabeled data, we repurpose standard image Vision Transformers by representing videos as super images which are grids composed of frames sampled from videos. From each super image, we construct two views: one with spatial patch masking and the other with temporal frame masking, ensuring no information leakage across frames. A shared Vision Transformer (ViT) encoder aligns their embeddings using a masked Siamese loss, capturing both motion and appearance cues without reconstruction. Our decoder-free formulation leverages an image foundation model towards efficient video representation learning. Starting from pretrained DINO-v3 and DeiT-v3 image encoders, VideoMSN achieves state-of-the-art performance on Kinetics-400, UCF101, and HMDB51 while requiring up to $32\\times$ fewer and $160\\times$ fewer video pretraining epochs compared to prior video self-supervised learning methods. Our proposed approach also shows strong performance in low-shot classification, confirming the transferability of the learned representations in a label-scarce scenario. Project Page: https://cvir.github.io/projects/videomsn.",
+    "id": "http://arxiv.org/abs/2609.40347v1",
+    "published": "2026-09-30T17:59:03Z",
+    "authors": [
+      "Owais Iqbal",
+      "Sudipta Sarkar",
+      "Shyam Marjit",
+      "Omprakash Chakraborty",
+      "Anirban Chakraborty",
+      "Abir Das"
+    ],
+    "link": "https://arxiv.org/abs/2609.40347v1",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "title": "Gibbs Sampling in the Shattered Phase by Decoded Quantum Interferometry",
+    "summary": "We apply Decoded Quantum Interferometry (DQI) to sample from the Gibbs measures of classical Ising spin Hamiltonians. We show that this Gibbs sampling problem reduces to a quantum decoding problem, and the temperature achievable by DQI is determined by the performance of decoding algorithms. We then focus on the task of Gibbs sampling for classical Ising $k$-spin glasses (or Max-$k$-XORSAT) on random Erdős-Rényi hypergraphs with average degree $D\\ge k$. In a temperature range beginning asymptotically at the predicted dynamical phase transition, $β_{\\rm dyn}(k,D) = \\sqrt{(2\\ln k)/D}\\times [1+o_{k\\to\\infty}(1)]$, we show that shattering and disorder chaos form a topological barrier that obstructs many algorithms, including Glauber dynamics and any algorithm whose output distribution is \"stable\" under perturbations of the input. In contrast, we prove that this barrier can be broken both by a classical algorithm based on Prange's method, and by DQI equipped with a quantum decoder. For example, when $D=αk$ with fixed $α>1$, both Prange's algorithm and DQI can sample at any inverse temperature $β< \\tanh^{-1}(1/α)$ for sufficiently large $k$, well beyond the dynamical threshold $β_{\\rm dyn} \\sim \\sqrt{2\\ln k / (αk)}$. Therefore, our results show that DQI can overcome topological barriers that obstruct stable algorithms.",
+    "id": "http://arxiv.org/abs/2609.40345v1",
+    "published": "2026-09-30T17:58:53Z",
+    "authors": [
+      "Leo Zhou",
+      "Noah Shutty",
+      "Mark Sellke",
+      "Stephen P. Jordan"
+    ],
+    "link": "https://arxiv.org/abs/2609.40345v1",
+    "categories": [
+      "quant-ph",
+      "cond-mat.dis-nn",
+      "cs.CC",
+      "cs.DS",
+      "math.PR"
+    ]
+  },
+  {
+    "title": "Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?",
+    "summary": "Egocentric human data provides a scalable source of experience for robot learning, but varies substantially in human-robot alignment, behavioral coverage, and available supervision. Existing work shows favorable scaling with increasing human data, but it remains unclear which data properties drive downstream robot gains and how to use such data throughout the training pipeline. We present a systematic study of egocentric human data with different alignment and supervision under a unified world-action model framework. With the model backbone fixed, we disentangle the effects of human-robot alignment, data duration and task diversity, action supervision, and data usage strategies. We find that aligned human demonstrations substantially improve out-of-distribution generalization and reduce target-task robot data requirements; data duration and task diversity affect downstream capabilities differently; and video-only supervision remains effective without action labels, providing a strong foundation for subsequent video-action training. We validate these findings through closed-loop policy evaluation on both real robots and RoboDojo. Rather than treating data duration as the sole scaling axis, Ego4WAM shows how alignment, task diversity, available supervision, and usage strategy jointly shape the value of egocentric human data for robot learning.",
+    "id": "http://arxiv.org/abs/2609.40341v1",
+    "published": "2026-09-30T17:58:35Z",
+    "authors": [
+      "Zhihao Sun",
+      "Liu Liu",
+      "Xinjiang Wang",
+      "Haoyi Jiang",
+      "Wei Feng",
+      "Huiqiang Zhang",
+      "Xiaosong Jia",
+      "Zhizhong Su",
+      "Zuxuan Wu"
+    ],
+    "link": "https://arxiv.org/abs/2609.40341v1",
+    "categories": [
+      "cs.RO",
+      "cs.CV"
+    ]
+  },
+  {
+    "title": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+    "summary": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can keep returning the same pages as solutions change. We introduce EvoDuet, a bi-level optimization method that co-evolves solutions and search queries with fixed model parameters. At each iteration, a retrieval gate lets the LLM assess its knowledge gap and choose to retrieve new documents, reuse stored ones, or proceed without them. An inner loop refines queries and ranks documents by the solution scores they are predicted to yield; an outer loop generates candidates in parallel from these documents and records the evaluated outcomes for later searches. Across 21 optimization tasks with one candidate per iteration, EvoDuet raises OpenEvolve's normalized discovery gain from 74.1% to 78.0% with GPT-5.6-Luna and from 61.3% to 82.3% with Gemini-3.8-Flash, whereas Qwen3.5-9B does not benefit. Our best runs surpass the previously reported best scores on eight tasks, including Swap Reduction on Q20 and Rosetta, and match them on three more. EvoDuet also improves with other scaffolds (e.g., Top-K, EvoX) on Sums/Diffs and Denoising, demonstrating its applicability across evolutionary search scaffolds.",
+    "id": "http://arxiv.org/abs/2609.40340v1",
+    "published": "2026-09-30T17:58:28Z",
+    "authors": [
+      "Young-Jun Lee",
+      "Jinheon Baek",
+      "Soyeong Jeong",
+      "Minki Kang",
+      "Seungyeon Jwa",
+      "Jonghyun Choi",
+      "Seungho Han",
+      "Dongyeop Kang"
+    ],
+    "link": "https://arxiv.org/abs/2609.40340v1",
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "title": "Local Relaxation Hierarchies for Quantum Ground State Energies: Convergence Guarantees and Message Passing Algorithms",
+    "summary": "Convex relaxation hierarchies provide lower bounds to the ground state energy of quantum many-body systems that can be computed in polynomial time on a classical computer, at any fixed hierarchy level. However, scaling these methods to large systems and accurate approximations remains challenging due to the computational cost of traditional solvers and the scarcity of efficiency guarantees. In this work, we develop local relaxation hierarchies and efficient, highly parallelisable message passing algorithms for estimating the relaxed ground state energies. We show that the first level of the hierarchy---based on local consistency of pairwise reduced density matrices---is exact for commuting Hamiltonians on trees. We further establish that another hierarchy, based on consistent intervals, converges exponentially fast in the interval size to the ground state energy for weak perturbations of separable Hamiltonians on a chain, thereby providing an efficient classical algorithm for these systems. Then, we introduce two variants of message passing algorithms that run in $\\mathcal{O}(n/ε^2)$ and $\\mathcal{O}(n/ε)$ time for any fixed level of the local hierarchy on bounded-degree graphs, where $ε$ is the precision for the relaxed ground state energy per site. This assumes that the optimal messages have $\\mathcal{O}(1)$ norm---a condition we observe in practical settings in our experiments. These algorithms are based on the subgradient method and the Nesterov-type accelerated gradient descent method applied to an entropy-smoothed objective. Finally, we benchmark the message passing algorithms across different quantum Hamiltonians, lattice geometries, and relaxation levels, validating the theoretical predictions and their potential to surpass standard convex optimisation solvers for this problem. We release the resulting library at github.com/rick1924/gse-message-passing.",
+    "id": "http://arxiv.org/abs/2609.40336v1",
+    "published": "2026-09-30T17:57:46Z",
+    "authors": [
+      "Sheng-Ku Lin",
+      "Ricardo Rivera Cardoso",
+      "Roberto Bondesan"
+    ],
+    "link": "https://arxiv.org/abs/2609.40336v1",
+    "categories": [
+      "quant-ph",
+      "cs.DC"
+    ]
+  },
+  {
+    "title": "Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
+    "summary": "Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between input and output embeddings, a design choice originally introduced for parameter efficiency and improved language modeling performance in the non-private setting. However, the impact of weight tying under differentially private training remains largely unexplored. In this work, we investigate the role of weight tying in the DP setting using GPT2 and DistilGPT2 as representative decoder-only architectures. Interestingly, we find that untied embeddings consistently outperform weight-tied models under DP-SGD, achieving gains of up to 4.74% points in accuracy on SST-2, QNLI, and QQP. Beyond improved utility, untying embeddings enables the use of memory-efficient ghost clipping for DP-SGD. By contrast, weight tying introduces shared-parameter interactions that complicate standard ghost norm computation and largely negate its computational advantages. As a result, untied models achieve over 60% lower memory usage while preserving the benefits of ghost clipping. Our results indicate that untied embeddings provide a more effective and scalable design for differentially private training of decoder-only LLMs and highlight the need to revisit standard LLM architectural choices in the privacy-preserving setting.",
+    "id": "http://arxiv.org/abs/2609.40335v1",
+    "published": "2026-09-30T17:57:43Z",
+    "authors": [
+      "Razan El Mais",
+      "Ali Chehab",
+      "Ibrahim Issa",
+      "Razane Tajeddine"
+    ],
+    "link": "https://arxiv.org/abs/2609.40335v1",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "title": "A Noise Operator Approach to Quantum Query Complexity and Time-Space Tradeoff Lower Bounds",
+    "summary": "Time and space (memory) are two of the most important measures of cost in computation, even more so for quantum computation. In quantum computation our tools for proving unconditional tradeoffs between time and space are surprisingly limited. The first quantum time-space tradeoff lower bounds were proven for sorting by Klauck, Špalek and de Wolf. Unfortunately, their method is limited to proving output-oblivious lower bounds (i.e. the lower bounds only apply to algorithms with a non-adaptive output schedule) and other methods have yielded nothing beyond output-oblivious lower bounds for sorting.We prove the first fully general quantum time-space tradeoff lower bound for sorting. We do so by introducing a novel method based on the noise operator to add to the analysis toolkit for proving quantum query and time space tradeoff lower bounds. By combining our resulting quantum noise stability bound with quantum recording query methods, we prove an $Ω(n^{4/3} (\\log \\log n)/(S^{1/3} \\log n))$ lower bound on the number of queries that a fully general quantum algorithm with at most $S$ qubits of memory requires to sort $n$ numbers from $[n^2]$. Applying our noise operator argument involves purely classical arguments, which makes it particularly simple to use. We also us it to prove that, for any strongly universal (pairwise independent) hash function family $H$ from $n$ bits to $m$ bits, almost all hash functions in $H$ require a quantum algorithm with at most $S$ qubits of memory to make $Ω(nm/S)$ queries to an input $x$ in order to compute $h(x)$, even with very small success probability. Previously, Mansour, Nisan, and Tiwari had shown a similar classical lower bound using their hash mixing lemma. Our noise operator method allows us to use a related but simpler property of hash functions to prove our lower bounds.",
+    "id": "http://arxiv.org/abs/2609.40334v1",
+    "published": "2026-09-30T17:57:33Z",
+    "authors": [
+      "Paul Beame",
+      "Blake Holman",
+      "Niels Kornerup"
+    ],
+    "link": "https://arxiv.org/abs/2609.40334v1",
+    "categories": [
+      "cs.CC",
+      "quant-ph"
+    ]
+  },
+  {
+    "title": "I Have a Stream: Making Self-Supervised Learning Work on Continuous Video",
+    "summary": "Self-supervised learning draws inspiration from infant visual development, yet standard training pipelines bear little resemblance to it: images are independently sampled and globally shuffled across epochs. We study self-supervised learning from continuous video streams, where frames are consumed in temporal order using strict sliding-window batches, without global reshuffling or multi-epoch replay. To this end, we construct WT++, a 95-hour urban walking-tour video dataset for streaming pretraining. Combined with a comprehensive evaluation suite we find that contrastive and distillation-based methods struggle in this setting, while MAE is more robust but still falls short of standard i.i.d. pretraining. We find that high inter-batch similarity, caused by sliding-window consumption across consecutive batches, does not explain this gap. The main challenge is high intra-batch similarity, where frames within each batch are near-duplicates. To mitigate this, we propose StreamMAE, which preserves the core MAE reconstruction objective while adapting the input pipeline with stream-aware regularization and motion-biased crop selection. StreamMAE outperforms streaming baselines, matches i.i.d. MAE trained on the same video data, remains competitive with ImageNet-pretrained MAE, and scales positively as the pretraining stream grows from 12 to 95 hours.",
+    "id": "http://arxiv.org/abs/2609.40333v1",
+    "published": "2026-09-30T17:57:30Z",
+    "authors": [
+      "Ivan Martinović",
+      "Lukas Knobel",
+      "Yuki M. Asano"
+    ],
+    "link": "https://arxiv.org/abs/2609.40333v1",
+    "categories": [
+      "cs.CV"
+    ]
+  },
+  {
+    "title": "Turbo Harness: Instance-Adaptive Harness Optimization",
+    "summary": "Automating the search for effective harnesses is an important step toward enabling agents to recursively self-improve. Existing harness optimizations typically produce a single global harness that is applied uniformly across task instances. However, a harness that works well on average may not be optimal for every instance. We introduce Turbo Harness, a framework that can adapt a globally optimized harness to each instance by reusing information generated during the original optimization process. Specifically, Turbo Harness recycles artifacts produced during a completed global harness optimization run, and summarizes them into a structured playbook. We train a harness editor to leverage this prior optimization experience to generate instance-specific patches to the global harness. At inference time, the editor uses the instance and the playbook to construct a tailored harness in which the execution model operates. Through numerical experiments, we show that Turbo Harness consistently outperforms existing harness optimization baselines across seven benchmarks spanning interactive agent tasks, software engineering, and long-horizon terminal tasks.",
+    "id": "http://arxiv.org/abs/2609.40330v1",
+    "published": "2026-09-30T17:56:09Z",
+    "authors": [
+      "Tunyu Zhang",
+      "Hao Wang",
+      "Kai Xu",
+      "Dimitris N. Metaxas"
+    ],
+    "link": "https://arxiv.org/abs/2609.40330v1",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "title": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
+    "summary": "As interactive 3D worlds are increasingly used to study intelligent behavior, it becomes important to develop efficient pipelines for identifying anomalies in these simulated environments, such as floating objects, traversable walls, or objects inconsistent with the surrounding scene. Multimodal AI systems, including vision-language models (VLMs) and vision-language-action models (VLAs), have shown potential for automating this task. However, 3D world auditing is complex, requiring the close coupling of two distinct capabilities: action, to navigate the 3D world and search for anomalies systematically and efficiently; and visual reasoning, to understand the environment and identify anomalies from multimodal observations. It remains largely unexplored whether multimodal agents can effectively couple these two capabilities, using visual reasoning to identify potential anomalies while taking actions to validate them. In this paper, we introduce WorldAuditBench, a benchmark for 3D world auditing comprising 213 anomaly tasks across 13 environments built with Unreal Engine 5 and Three.js, spanning five anomaly families. We evaluate five frontier models under a fixed exploration budget using two auditing paradigms: VLA-based exploration followed by VLM-based anomaly identification, and an end-to-end VLM agent in which visual reasoning directly guides action selection. Across the evaluated models and two paradigms, success rates range from 6.6% to 42.3%, substantially below human performance (83.4%). Through the task of world auditing, WorldAuditBench provides a testbed for studying how multimodal agents couple action and visual reasoning in interactive 3D environments, while highlighting current limitations in their ability to gather and interpret evidence during exploration.",
+    "id": "http://arxiv.org/abs/2609.40325v1",
+    "published": "2026-09-30T17:55:29Z",
+    "authors": [
+      "Ziyan Jiang",
+      "Jingbo Yang",
+      "Jiabao Ji",
+      "Yujian Liu",
+      "Qiucheng Wu",
+      "Tommi Jaakkola",
+      "Yang Zhang",
+      "Shiyu Chang"
+    ],
+    "link": "https://arxiv.org/abs/2609.40325v1",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "title": "Cogentic: Multi-Agent Orchestration for Automated Proof Discovery",
+    "summary": "We present Cogentic, a multi-agent harness for automated proof discovery on open research problems. While frontier language models can generate strong mathematical ideas in a single shot, single-shot generation is often insufficient for open problems that require exploring multiple competing conjectures, overcoming subtle technical obstructions, and retaining intermediate progress over a long horizon. Cogentic addresses these challenges through an iterative prove--verify loop in which an orchestrator allocates a population of independent provers across distinct proof directions, subjects their output to adversarial verification by several specialized components, and promotes confirmed intermediate results into a persistent verified ledger that later rounds build on. The harness is designed to be able to solve research-level math and theoretical computer science problems. Using Gemini as the base model, Cogentic produced novel results on five open problems across online learning, auction theory, and mechanism design. Each result was independently verified by domain experts and is developed in full in companion papers. We list these results, and new ones as they are verified, at https://sites.google.com/view/cogentic .",
+    "id": "http://arxiv.org/abs/2609.40324v1",
+    "published": "2026-09-30T17:55:22Z",
+    "authors": [
+      "Yang Cai",
+      "Vineet Gupta",
+      "Yanchen Jiang",
+      "Christopher Liaw",
+      "Aranyak Mehta",
+      "Grigoris Velegkas",
+      "Di Wang"
+    ],
+    "link": "https://arxiv.org/abs/2609.40324v1",
+    "categories": [
+      "cs.AI",
+      "cs.GT"
+    ]
+  },
+  {
+    "title": "Computational Work Extraction: The Complexity of Catalysts",
+    "summary": "We prove maximal separations: $n$-qubit systems can have $Θ(n)$ ergotropy, while every efficient process extracts negligible work, even for Hamiltonians consisting of single-qubit terms. We establish an unconditional existential separation and give an explicit construction in the random oracle model. Assuming the existence of quantum-secure pseudorandom functions, this separation extends to the plain model. This work uncovers an important connection between ergotropy and the complexity of catalytic computation---computation where auxiliary qubits must be finally restored to their initial state. Relative to a random oracle, we establish relational and decision problems that: (i) can be solved efficiently with $λ$ catalysts; but (ii) cannot be solved by any algorithm with $cλ$ catalysts, for any $c<1$. We show this by proving query lower bounds for quantum-space bounded algorithms. As a consequence, for computational ergotropy, catalysts prove to be surprisingly powerful---there is a family of Hamiltonians and states for which catalysts enable efficient extraction of the full $Θ(n)$ ergotropy, while every efficient non-catalytic process extracts negligible work. Furthermore, catalysts also allow us to introduce and instantiate the notion of pseudoergotropy---analogous to pseudorandomness. On the other hand, we show catalysts do not change (information-theoretic) ergotropy. Finally, our work also sheds light on the classical aspect of the problem. First, most of our constructions rely on classical states and Hamiltonians and therefore imply analogous results for classical ergotropy. Second, we show that certain proof of quantumness protocols can be used to generically separate classical and quantum catalytic ergotropy.",
+    "id": "http://arxiv.org/abs/2609.40323v1",
+    "published": "2026-09-30T17:55:18Z",
+    "authors": [
+      "Atul Singh Arora",
+      "Shantanav Chakraborty",
+      "Alexandru Cojocaru",
+      "Sreyas Saminathan",
+      "Uttam Singh"
+    ],
+    "link": "https://arxiv.org/abs/2609.40323v1",
+    "categories": [
+      "quant-ph",
+      "cs.CC"
+    ]
+  },
+  {
+    "title": "MatLoom: Layered Text-to-Material Generation in a Compact Program Space",
+    "summary": "Material generation should produce not only an appearance, but also the rules that construct it. We introduce MatLoom, a compact, layer-oriented language for text-to-material generation with pretrained language models. Each program composes alpha-masked layers whose shared spatial expressions define coverage and physically based rendering (PBR) channels, making dependencies between patterns, color, and relief explicit. A standalone interpreter evaluates the program into material maps, while the source retains named fields and layer parameters for subsequent authoring. Without task-specific fine-tuning, our pipeline uses parser-guided repair and preview-based critique to revise material designs, then searches noise seeds while keeping each candidate's remaining source fixed. On a curated benchmark of 141 prompts evaluated with six backbones, our best-performing configuration achieves higher mean scores than three diffusion baselines on all four flat-layout prompt-alignment metrics. Its initial programs already exceed all three baselines on mean BLIPScore, before critique or seed search. Retained programs have a median length of 21 lines when pooled across backbones. In a blind four-way comparison involving 30 participants and 20 prompts, our renders receive 59.2% of choices, compared with 19.3% for the most-preferred baseline. Compact executable programs thus offer a way to generate prompt-aligned materials while retaining their construction as part of the asset.",
+    "id": "http://arxiv.org/abs/2609.40322v1",
+    "published": "2026-09-30T17:55:06Z",
+    "authors": [
+      "Anson Y. Lam",
+      "Shuqing Li",
+      "Michael R. Lyu"
+    ],
+    "link": "https://arxiv.org/abs/2609.40322v1",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL",
+      "cs.MM"
+    ]
+  },
+  {
+    "title": "Exponential quantum speedup for $\\mathbb{F}_3^n$-Subset-Sum? Or, rigorous classical algorithms for Binary-Error LWE",
+    "summary": "We study vector subset sum over $\\mathbb{F}_3^n$: given $m$ random vectors from $\\mathbb{F}_3^n$, find a nonempty subset that sums to zero; the smaller $m$, the more difficult it is to find such a subset. Chen, Liu, and Zhandry (EUROCRYPT'22) introduced an efficient quantum algorithm that solves this problem when $m\\approx n^2/2$, where a naive classical algorithm would require exponential time. Subsequently, Kothari, O'Donnell, and Wu (STOC'2026) gave an efficient classical algorithm that only requires $m \\approx n^2/3$ vectors, thus removing the hope for an exponential quantum advantage in this parameter regime. Using the framework of Chen, Liu, and Zhandry, we give quantum algorithms that require much fewer input vectors, renewing the possibility of an exponential quantum speedup: for any fixed $ε>0$, our quantum algorithm solves $\\mathbb{F}_3$-subset sum in polynomial time with $m=ε\\cdot n^2$ vectors. More generally, we establish a full sample--time tradeoff that interpolates between exponential and polynomial runtime. The main ingredient is a deterministic classical algorithm for the binary-error Learning-with-Errors problem, which is of independent cryptographic interest. For this, we rigorously establish a sample--time tradeoff that was predicted by earlier algebraic heuristics. For vector subset sums over larger fields, we also significantly improve classical algorithms in Kothari, O'Donnell, and Wu (STOC'2026).",
+    "id": "http://arxiv.org/abs/2609.40321v1",
+    "published": "2026-09-30T17:54:52Z",
+    "authors": [
+      "Robin Kothari",
+      "Tony Metger",
+      "Ryan O'Donnell",
+      "Noah Shutty",
+      "Kewen Wu"
+    ],
+    "link": "https://arxiv.org/abs/2609.40321v1",
+    "categories": [
+      "quant-ph",
+      "cs.CR",
+      "cs.DS"
+    ]
+  },
+  {
+    "title": "Atomizer-IO: Beyond Pixels, Patches and Grids",
+    "summary": "Most vision architectures assume that observations lie on a regular grid, an effective abstraction for natural images but a restrictive one for sensing data whose channels, temporal sampling, spatial resolution, and geometry can vary. Generic set-based architectures remove the grid, but also remove useful spatial inductive biases. We introduce Atomizer-IO, an architecture that places observations first and derives structure from their physical relationships. Building on top of an atomic representation of the data, each observation is described by its measurement and acquisition metadata, while local cross-attention maps observations to anchor points that can be arbitrarily placed. We evaluate this design by progressively relaxing the grid assumption, from varying input raster configurations and incomplete channel sets to flexible output density and, ultimately, inputs without a raster grid. Atomizer-IO is competitive with flexible EO-specific architectures on most tasks, while offering post-training control over inference cost and competitive compute--performance trade-offs. The same formulation extends without architectural redesign to unordered 3D point clouds, showing that the atomic interface generalizes beyond regular raster inputs. These results suggest that pixels, patches, and grids do not need to define the interface of a sensing architecture.",
+    "id": "http://arxiv.org/abs/2609.40320v1",
+    "published": "2026-09-30T17:54:41Z",
+    "authors": [
+      "Hugo Riffaud de Turckheim",
+      "Sylvain Lobry",
+      "Nicolas Houdré",
+      "Damien Robert",
+      "Roberto Interdonato",
+      "Diego Marcos"
+    ],
+    "link": "https://arxiv.org/abs/2609.40320v1",
+    "categories": [
+      "cs.CV"
+    ]
+  },
+  {
+    "title": "Local Automorphism-Aware Syndrome Compilation for General Quantum LDPC Codes",
+    "summary": "Low-depth syndrome extraction for Calderbank-Shor-Steane (CSS) quantum low-density parity-check codes can be formulated as a proper ordered edge-coloring problem subject to quantum parity constraints. A proper edge-coloring of the CSS Tanner graph ensures that each data or ancilla qubit participates in at most one two-qubit gate per layer, but does not guarantee a valid interleaving of the X- and Z-check measurements as for every overlapping X/Z check pair, the number of shared data qubits on which the X interaction precedes the Z interaction must be even. The minimum number of colors in a proper ordered edge-coloring satisfying the quantum parity constraints equals the minimum two-qubit depth when each stabilizer check is measured with a single ancilla. We introduce local automorphism-aware syndrome compilation (LocalASC), which reduces the constraint system to edge-orbit variables under a subgroup of the Tanner graph automorphisms and lifts each feasible orbit assignment to the full graph. Although the $6$-layer degree lower bound is unattainable for the published weight-$6$ IBM bivariate bicycle codes, we show that this is not universal among two-block CSS codes. Among code instances for which the maximum check weight equals the maximum Tanner graph degree, LocalASC finds depth-optimal syndrome-extraction schedules for several two-block CSS codes with odd component weights, including instances with unequal odd weights. We also obtain lower-bound-saturating syndrome-extraction schedules for several quantum Tanner codes satisfying the same degree condition. To obtain the subgroups used by LocalASC without computing the full automorphism group of the Tanner graph, we construct translation subgroups for two-block group-algebra CSS codes over abelian groups. For quantum Tanner codes, we give conditions under which square-complex symmetries extend to Tanner graph automorphisms.",
+    "id": "http://arxiv.org/abs/2609.40319v1",
+    "published": "2026-09-30T17:54:28Z",
+    "authors": [
+      "Eugenio Durazo Rocha",
+      "Olai Å. Mostad",
+      "Hsuan-Yin Lin",
+      "Eirik Rosnes"
+    ],
+    "link": "https://arxiv.org/abs/2609.40319v1",
+    "categories": [
+      "quant-ph",
+      "cs.IT"
+    ]
+  },
+  {
+    "title": "GLARE: Generating Listening Heads with Appropriate Reactions",
+    "summary": "While talking head generation has advanced rapidly, generating natural listener behavior in dyadic conversations, which know when to react, how to react, and with what type of response, remains underexplored. Existing dyadic datasets lack fine-grained listener reaction annotations, and prevailing evaluation metrics inherited from talking-head and video generation measure visual realism rather than whether a listener reacted appropriately. We address these gaps along three aspects. First, we curate a listening-head-specific dataset built from RealTalk and Seamless Interaction, comprising approximately 147 hours of paired speaker-listener videos with 64,557 event-level reaction annotations across six categories: nodding, head shaking, smiling, laughing, frowning, and surprised. Second, we introduce an audio-driven baseline built on a flow-matching transformer, namely GLARE, with prosody conditioning derived from Qwen2-Audio and a temporal reaction loss that explicitly supervises frame-wise reactions. Third, we propose a reaction-oriented evaluation protocol that jointly measures reaction occurrence (R-F1), temporal alignment (R-tIoU), asymmetric temporal deviation (R-ATD), and reaction-region visual quality (R-FID), giving a more behaviorally grounded assessment than visual-quality-only metrics. Experiment results show consistent gains over prior listening-head methods in both visual fidelity and reaction-level metrics, suggesting that reaction-aware data, modeling, and evaluation are critical for natural listening behavior.",
+    "id": "http://arxiv.org/abs/2609.40317v1",
+    "published": "2026-09-30T17:53:47Z",
+    "authors": [
+      "Zikai Liao",
+      "Yumin Suh",
+      "Yi Ouyang",
+      "Yi-Lun Lee",
+      "Yi-Hsuan Tsai",
+      "Zhaozheng Yin"
+    ],
+    "link": "https://arxiv.org/abs/2609.40317v1",
+    "categories": [
+      "cs.CV"
+    ]
+  },
+  {
+    "title": "Scaling Laws for Looped Mixture of Experts",
+    "summary": "Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands total capacity at fixed active compute. Yet existing scaling laws model recurrence or sparsity in isolation. In this work, we introduce Loop Scaling Laws, the first scaling law to jointly model recurrence and sparsity alongside model size and data. At its core is a bounded, sparsity-conditional recurrence mapping that characterizes the effective-parameter gain from looping and how sparsity raises this gain. The laws predict the held-out loss of looped models more accurately than prior alternatives, and recover the standard dense and MoE scaling laws as special cases. Beyond prediction, the fitted laws provide a principled foundation for designing looped MoE models under compute and memory constraints. Downstream evaluations further demonstrate the complementary benefits of the two axes: sparsity delivers ~3x active-parameter efficiency, recurrence yields ~2x total-parameter efficiency on reasoning, and joint scaling further advances the performance frontier. As a practical extension, we show these gains hold at trillion-token scale: at matched training compute, a looped MoE with law-derived recurrence matches a ~2x larger non-looped MoE on the reasoning benchmarks, while enabling test-time scaling through recurrence.",
+    "id": "http://arxiv.org/abs/2609.40316v1",
+    "published": "2026-09-30T17:53:47Z",
+    "authors": [
+      "Yanbei Chen",
+      "Anirudh Goyal",
+      "Raghuraman Krishnamoorthi"
+    ],
+    "link": "https://arxiv.org/abs/2609.40316v1",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "title": "Explicit Capacity-Achieving Quantum LDPC Codes List Decodable in Near-linear Time",
+    "summary": "In classical coding theory, the quest for explicit codes achieving list decoding capacity has been an important driving force. While random codes are easily shown to achieve capacity, an explicit construction was only discovered decades later in the seminal work [Guruswami and Rudra, STOC 2006]. In quantum coding theory, it is highly desirable that a code family be LDPC. While good quantum codes were known for decades, obtaining the additional LDPC property was elusive. In fact, only very recently that good quantum LDPC codes were discovered in a breakthrough work [Panteleev and Kalachev, STOC 2022]. In this context, a natural question is to ask for an explicit family of quantum codes achieving list decoding capacity while also possessing the important LDPC property. In this work, we provide (to the best of our knowledge) the first explicit constructions of quantum LDPC codes achieving list decoding capacity, namely, with a list decoding radius approaching the quantum Singleton bound with constant list sizes. Furthermore, we provide near-linear time (in the block-length) list decoding algorithms approaching capacity. Our explicit code construction are based on expander graphs via the quantum analogue of Alon-Edmonds-Luby (AEL) amplification [Bergamaschi, Golowich and Gunn, STOC 2024], and this enables the important LDPC property. Our efficient list decoding algorithms are obtained by generalizing the classical expander-based weak-regularity list decoding algorithms [Srivastava and Tulsiani, FOCS 2025] [Jeronimo and Singh, 2025] to suitable instantiations of quantum AEL.",
+    "id": "http://arxiv.org/abs/2609.40313v1",
+    "published": "2026-09-30T17:53:28Z",
+    "authors": [
+      "William Gay",
+      "Fernando Granha Jeronimo",
+      "Abhi Shukul"
+    ],
+    "link": "https://arxiv.org/abs/2609.40313v1",
+    "categories": [
+      "quant-ph",
+      "cs.IT"
+    ]
+  },
+  {
+    "title": "Compression Footprints as Security Signals for Model-Poisoning Defense in Federated Learning",
+    "summary": "Lossy compression is widely used in Federated Learning (FL) but is generally treated as an error source, while conventional poisoning defenses inspect update geometry. In this work, we instead treat the compressor's response as a security signal: the input-dependent distortion and payload behavior induced by lossy compression can expose differences between honest and attack-generated updates. We introduce the concept of a \\emph{compression footprint}: the low-dimensional collection of reconstruction, directional, sparsity, and payload statistics induced by a lossy compressor. We characterize sufficient conditions under which compression footprints separate honest and malicious updates, and operationalize our findings in the CRAFT (\\emph{Compression-guided Robust Aggregation via Footprint Trust}) server-side robust aggregation method. Crucially, under a strict honest-majority assumption, CRAFT uses server-verifiable footprints, requires no client-side metadata nor knowledge of the number of malicious clients, and adds no communication beyond the compressed FL pipeline. Moreover, while CRAFT assumes a strict honest majority, it does not require the number of malicious clients to be known in advance. We observe that error-bounded lossy compressor (EBLC) footprints provide stronger separation than Top-K footprints and that footprint trust suppresses malicious influence. We evaluate CRAFT under IID client data with 36\\% malicious participation across six standard model-poisoning attacks, three datasets, and six robust aggregation baselines, finding that CRAFT consistently achieves the best accuracy in 7 out of 18 settings and within 1.7 percentage points of the best in the others. Our results show that lossy compression can serve as both a communication mechanism and a security signal for robust aggregation in FL.",
+    "id": "http://arxiv.org/abs/2609.40312v1",
+    "published": "2026-09-30T17:53:14Z",
+    "authors": [
+      "Sachi Shome",
+      "William Eiers"
+    ],
+    "link": "https://arxiv.org/abs/2609.40312v1",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "title": "Planted Cliques and Quantum Symmetry-Adapted Measurements",
+    "summary": "The planted clique problem is a promising candidate for quantum advantage with a wide computational-statistical gap and substantial evidence for classical hardness. We study two quantum encodings of classical samples, a natural binary phase state encoding and symmetry-adapted measurements, and determine if they preserve enough information for planted-clique detection, as well as discuss their potential towards algorithmic efficiency. For the binary phase state encoding, we show that constant-advantage detection requires $Ω(n^{1+2\\varepsilon}\\ln^2 n)$ copies, even under arbitrary joint measurements. Measurements on $\\tilde{O}(n^2)$ copies suffice statistically above the logarithmic clique threshold. The symmetry-adapted measurements on the full graph register arise naturally from the Schur transform. We show that the outcome distribution of weak Schur sampling depends on the sampled graph only through its edge count and fails to distinguish the distributions; whereas retaining the representation label and Specht register after discarding multiplicity preserves distance $1-o(1)$. Near-perfect distinguishability survives even if the label is also discarded. We calculate the retained states, providing concrete targets for efficient measurement. Finally, we show that one supplied coherent quantum sample enables an efficient quantum distinguisher, which yields a conditional computational separation from one classical sample under quantum planted-clique hardness. Our results are structural and information-theoretic; efficient detection from one classical graph in the conjectured hard regime remains open.",
+    "id": "http://arxiv.org/abs/2609.40310v1",
+    "published": "2026-09-30T17:52:47Z",
+    "authors": [
+      "Vojtech Havlicek",
+      "Jordan Docter",
+      "Subhash Khot"
+    ],
+    "link": "https://arxiv.org/abs/2609.40310v1",
+    "categories": [
+      "quant-ph",
+      "cs.CC"
+    ]
+  },
+  {
+    "title": "DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents",
+    "summary": "Pretrained robot policies provide useful action priors, but long-horizon manipulation still requires coordination between semantic reasoning and physical execution. Semantic reasoning operates at a coarser timescale than physical interaction, while episode-level failures provide limited guidance on which system component should be revised. We propose DynaHarness, a dynamic physical harness that couples semantic reasoning with physical governance through a shared execution contract and turns failure evidence into validated capability revisions. To be more specific, the slow brain proposes capabilities and symbolic arguments, while the fast brain grounds and monitors commands, refuses unresolved actions, substitutes capabilities, and requests replans when needed. The physical execution contract bounds each accepted command and records execution evidence across analytic skills, recovery skills, and the frozen VLA. Failure attribution localizes faults in these records and directs targeted revisions of reusable capabilities or execution mechanisms. Paired regression checks govern admission or rejection, closing the self-evolution loop. On LIBERO-Pro, DynaHarness achieves 75.2% on 800 newly sampled initial states, compared with 17.5% for the frozen policy. With the same capability library, full dynamic execution reaches 74.0% versus 63.9% under nominal one-step replanning. This demonstrates the value of DynaHarness as a dynamic physical harness that governs how existing capabilities are grounded, monitored, and coordinated during execution. Our project page is at https://denghaoyuan123.github.io/Dynaharness_page/.",
+    "id": "http://arxiv.org/abs/2609.40306v1",
+    "published": "2026-09-30T17:52:09Z",
+    "authors": [
+      "Haoyuan Deng",
+      "Jiebin Liu",
+      "Tengxiao Zhang",
+      "Langning Yan",
+      "Hongye Cao",
+      "Ziwei Wang"
+    ],
+    "link": "https://arxiv.org/abs/2609.40306v1",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "title": "Looped Diffusion Transformer",
+    "summary": "Improving text-to-image models has traditionally relied on increasing model size or the number of denoising steps. In this work, we explore an alternative way to scale computation by repeatedly running shared Transformer blocks within each denoising step, effectively increasing computational depth while keeping the parameter count fixed. This looped computation enables iterative refinement of internal representations without explicit reasoning tokens. However, naive looping fails to consistently improve image quality. We trace this problem to weak supervision across intermediate loops and unregulated attention updates that progressively erode local information. To overcome these challenges, we propose Looped Diffusion Transformer (Looped-DiT), which combines deep supervision across intermediate loops with self-modulating attention to stabilize looped feature updates. Under matched-parameter and matched-compute settings, Looped-DiT consistently outperforms non-looped baselines. Notably, a 260M-parameter looped model can surpass a model 6.5x larger across multiple text-to-image benchmarks while requiring 4.9x lower inference compute. Beyond this performance gain, we find that looped computation can offer a more effective form of iterative computation for diffusion models, with increasing loop depth yielding larger gains than adding more denoising steps under a fixed inference budget. Furthermore, deeper loops can progressively correct mistakes made in earlier loops, exhibiting behaviors suggestive of latent reasoning. Together, these results show that looped computation offers a promising way to scale visual generation models.",
+    "id": "http://arxiv.org/abs/2609.40305v1",
+    "published": "2026-09-30T17:52:08Z",
+    "authors": [
+      "Yong Xien Chng",
+      "Tianyi Chen",
+      "Wenwen Tong",
+      "Haiwen Diao",
+      "Zhongang Cai",
+      "Lei Yang",
+      "Ziwei Liu",
+      "Lewei Lu",
+      "Dahua Lin",
+      "Gao Huang"
+    ],
+    "link": "https://arxiv.org/abs/2609.40305v1",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "title": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
+    "summary": "Recent autonomous machine learning engineering (MLE) agents have made significant progress on public leaderboards. Often motivated by progress stagnation over long-horizon cycles and limited Large Language Model (LLM) primitives, modern MLE agents are deployed on top of increasingly elaborate machinery: multi-agent orchestrators, dedicated retrieval subagents, and more. While such harnesses expand, the use of more primitive but improved coding agents - where LLMs have direct access to the execution environment through read, write, and bash primitives - has received little attention in the field. In this paper we find that, under an equal time budget and the same frontier LLM backbone, open-source state-of-the-art harnesses provide no advantages over a single session of a minimal-harness coding agent baseline, pointing to the backbone as the primary driver for performance. Via a series of large-scale systematic ablation studies, we argue that the machinery layers become redundant in the coding agent setting. We conclude that the effort spent elaborating hand-crafted harnesses around strong models yields poor returns for current MLE benchmarks.",
+    "id": "http://arxiv.org/abs/2609.40303v1",
+    "published": "2026-09-30T17:51:30Z",
+    "authors": [
+      "Kirill Brilliantov",
+      "Alejandro Hernández-Cano",
+      "Emmanuel Abbé"
+    ],
+    "link": "https://arxiv.org/abs/2609.40303v1",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "title": "Solving Sparse SDPs in Sublinear Time: A Classical Algorithm Inspired by the Quantum OR Lemma",
+    "summary": "We give the first sublinear-time classical solvers for sparse semidefinite programs in the bounded-radius regime, without low-rank assumptions or Frobenius norm dependence on the constraint matrices. For constant precision and bounded primal and dual radii, prior quantum algorithms of Brandão et al. (2019) and van Apeldoorn and Gilyén (2019) achieved $\\widetilde{O}(\\sqrt{n}+\\sqrt{m})$ dependence on matrix dimension $n$ and constraint number $m$. Compared with the $\\widetilde{O}(mn)$ runtime of existing classical methods, this suggests a quartic quantum speedup when $m \\approx n$. Beyond a usual Grover speedup, this separation relies on the Quantum OR lemma, whose sample-reuse mechanism decouples the cost of Gibbs-state preparation from constraint search. We show that this reuse mechanism is classically realizable for sparse SDPs. Our main technical contribution is a classical procedure for simultaneously estimating many expectation values with respect to a sparse Hamiltonian's Gibbs state. This combines randomized Lánczos filtering with an efficient sampling-based estimator. We also introduce a stochastic online-learning framework for SDP solving, substantially improving accuracy-dependence over standard oracle-based MMWU approaches. Let $s$ denote the the input matrix sparsity and $γ:=Rr/\\varepsilon$ capture dependence on the primal $(R)$ and dual $(r)$ radii as well as target accuracy $(\\varepsilon)$. When $γ^2\\leq\\min\\{m,n/s\\}$, our solver runs in time $\\widetilde{O}\\left(nsγ^{4.5}+msγ^2\\right)$. For $γ=O(1)$, this is $\\widetilde{O}\\left((n+m)s\\right)$ and sublinear in the $O(mns)$ input size. Similar to the quantum algorithms, this matches known lower bounds with respect to $m$ and $n$, up to logarithmic factors. This implies that, with respect to dimensions $m$ and $n$, there is no super-quadratic quantum advantage for generic sparse SDP solving.",
+    "id": "http://arxiv.org/abs/2609.40302v1",
+    "published": "2026-09-30T17:51:21Z",
+    "authors": [
+      "Fernando G. S. L. Brandão",
+      "Alexander M. Dalzell",
+      "András Gilyén",
+      "Francisca Vasconcelos"
+    ],
+    "link": "https://arxiv.org/abs/2609.40302v1",
+    "categories": [
+      "quant-ph",
+      "cs.DS"
+    ]
+  },
+  {
+    "title": "Need for Coherent Access in Constructing Quantum Cryptography",
+    "summary": "We construct quantum oracles relative to which quantum-secure one-way functions (OWFs) exist but pseudorandom states (PRSs) with superlogarithmic output length do not. At first glance, this appears to contradict the known black-box constructions of PRS generators from quantum-secure OWFs. The distinction lies in the access model to the oracles; our oracle separation uses \\emph{classical-accessible} random oracles that can be accessed only classically even by quantum algorithms. In fact, our impossibility of PRSs applies to \\emph{any} classically accessible classical oracle in place of the random oracle, while keeping the other oracle component unchanged, showing the need for coherent access in constructing PRSs. We further show that logarithmic output length pseudorandom function-like states (PRFSs) exist relative to our oracles, giving an oracle separation between classically accessible logarithmic length PRFSs and superlogarithmic length PRSs. This shows that fully black-box PRS length extension from logarithmic to superlogarithmic output length must use coherent access to the underlying short PRS.",
+    "id": "http://arxiv.org/abs/2609.40301v1",
+    "published": "2026-09-30T17:51:09Z",
+    "authors": [
+      "Minki Hhan",
+      "Changhun Oh",
+      "Vaughn Sohn"
+    ],
+    "link": "https://arxiv.org/abs/2609.40301v1",
+    "categories": [
+      "quant-ph",
+      "cs.CR"
+    ]
+  },
+  {
+    "title": "Mixing FM-indexes and CSAs: backward search over an order-1 rank encoding",
+    "summary": "FM-indexes and compressed suffix arrays (CSAs) are often treated as interchangeable, but they behave differently as the alphabet grows. An FM-index step costs about one cache miss per level of a wavelet tree, so it gets slower with the alphabet size. A CSA step is a binary search whose range shrinks as characters get rarer. We describe a simple hybrid. Each character of the text is replaced by the rank of its frequency among the characters that follow the previous character. We backward-search on this encoding, which is over a small, skewed alphabet, and recover the one piece of information the encoding loses (the first character of the pattern) with a single CSA-like step on an array we call $\\PsiE$. Counting is exact, and locating works with standard suffix-array sampling. A prototype on synthetic repetitive data shows that the hybrid is the fastest of the indexes we tried at intermediate alphabet sizes with 1\\% noise, but even its compact version is 1.7 to 3.9 times larger than a compressed run-length CSA or FM-index of the original text, because the encoding and $\\PsiE$ together have more runs than the original Burrows--Wheeler transform. Whether that changes on real data, such as parses and minimizer digests, is the main open question.",
+    "id": "http://arxiv.org/abs/2609.40299v1",
+    "published": "2026-09-30T17:50:57Z",
+    "authors": [
+      "Travis Gagie"
+    ],
+    "link": "https://arxiv.org/abs/2609.40299v1",
+    "categories": [
+      "cs.DS"
+    ]
+  },
+  {
+    "title": "GPU-Accelerated Path-Dependent Marginal Information Gain for Autonomous Exploration",
+    "summary": "Autonomous exploration demands that robots continuously evaluate candidate viewpoints based on their expected information gain and execution cost. Sampling-based planners estimate this gain by volumetric raycasting and, due to its computational cost, evaluate candidates under an assumption of mutual independence, ignoring the overlap between viewpoints along the same path. This work presents a GPU-accelerated method for computing path-dependent marginal information gain, where instead of storing and merging the observed unknown voxels along each candidate path, previous observations are represented using depth buffers. Candidate rays are projected into the depth buffers of their ancestors to identify observation overlap and exclude regions expected to be observed. The planning tree is evaluated in depth order to maintain the dependency between viewpoints and their optimized yaws, while candidate nodes and rays at each level are processed in parallel on the GPU. The proposed method stays within 5-10% of the exact marginal gain computed using voxel hash maps, with speed-ups of up to 118x on a desktop GPU and 28x on an NVIDIA Jetson Orin NX. The method was integrated into two sampling-based exploration planners and evaluated in three simulation environments, where marginal gain reduced the time to 95% coverage in five of the six evaluated planner-environment combinations. Real-world experiments also showed a 30% reduction in the time to 95% coverage, as well as earlier exploration termination times.",
+    "id": "http://arxiv.org/abs/2609.40297v1",
+    "published": "2026-09-30T17:50:30Z",
+    "authors": [
+      "João Félix Mendes",
+      "Rodrigo Ventura",
+      "Meysam Basiri"
+    ],
+    "link": "https://arxiv.org/abs/2609.40297v1",
+    "categories": [
+      "cs.RO"
+    ]
+  },
+  {
+    "title": "How Much Is an AI Token Worth? Scaling Laws for Wild AI-Generated Web Text",
+    "summary": "Web text makes up the majority of pretraining data and is increasingly AI-generated. After applying FineWeb quality filtering, we find that 27.5% of tokens from June 2026 web data are labeled as AI-generated by Pangram, rising to 31.1% by August. Unlike synthetic data or model-collapse setups, this *wild* AI text comes from many models, is written for human readers, and arrives unlabeled in pretraining corpora. How does AI text in the wild affect language model pretraining? To answer this question, we pretrain 800 language models, varying the ratio of added AI tokens to human tokens, and fit scaling laws to held-out losses on both human and AI-generated text. For data-starved models, adding AI tokens to pretraining data initially lowers loss on human text, but the benefit saturates as more are added and quickly *reverses* into harm. For models trained on high budgets of human text, AI tokens raise loss almost immediately, while the same number of fresh human tokens keeps lowering it. Scaling laws such as Hoffman et al. (2022) fail to predict this behavior. We propose a new scaling law with separate benefit and harm terms that allows the value of an AI token to change sign while also reducing to Chinchilla in the absence of AI text. When fit on smaller models, our scaling law predicts the effect of AI text on held-out human-text loss for models up to 3.6x larger with 41% lower error than the best existing law over all AI ratios. We recommend filtering AI text when the target is human text, repeating human text before expanding the training dataset with AI-generated web text, and reporting validation loss on human and AI text separately AI text remains valuable when the target is AI text. We release WildAI, an 83B-token corpus with AI, topic, and format labels, all 800 models and code at https://github.com/pangramlabs/WildAI.",
+    "id": "http://arxiv.org/abs/2609.40295v1",
+    "published": "2026-09-30T17:50:22Z",
+    "authors": [
+      "Jenna Russell",
+      "Ben Glickenhaus",
+      "Katherine Thai",
+      "John Wieting",
+      "Mohit Iyyer",
+      "Max Spero",
+      "Bradley Emi"
+    ],
+    "link": "https://arxiv.org/abs/2609.40295v1",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "title": "Quantum Fine-Grained Lower Bounds for SetDisjointness via Sub-Linear Reductions from 3SUM",
+    "summary": "In classical fine-grained complexity, the 3SUM Conjecture is used to prove a variety of conditional lower bounds on data structure and graph problems via an initial reduction to the SetDisjointness problem. However, there is an $\\tilde{O}(n)$-time quantum algorithm for 3SUM and a direct application of Grover's algorithm to SetDisjointness queries beats the state-of-the-art classical conditional bound by Kopelowitz, Pettie, and Porat (SODA 2016); this shows that these classical bounds do not apply in the quantum setting. Thus establishing analogous conditional lower bounds in the quantum setting requires applying the quantum 3SUM Conjecture to a \\emph{quantum} fine-grained reduction from 3SUM to SetDisjointness. We give the first sub-linear time quantum reductions from 3SUM to online SetDisjointness. Via our reduction, the quantum 3SUM conjecture implies a $p + 2q \\geqslant 1$ tradeoff bound for quantum SetDisjointness algorithms with $O(N^p)$ preprocessing time and $O(N^q)$ query time. We also give an analogous reduction from 3XOR. These results are derived from a general framework for fine-grained reductions to SetDisjointness which applies to any Abelian 3-Orthogonal Array (3OA) problem with suitable almost-linear hash functions.",
+    "id": "http://arxiv.org/abs/2609.40293v1",
+    "published": "2026-09-30T17:50:11Z",
+    "authors": [
+      "Jeremy Huang",
+      "Young Kun Ko",
+      "Chunhao Wang"
+    ],
+    "link": "https://arxiv.org/abs/2609.40293v1",
+    "categories": [
+      "cs.CC",
+      "cs.DS",
+      "quant-ph"
+    ]
+  },
+  {
+    "title": "Disentangling Computation in Multi-Task Neural Networks with the Green's Operator",
+    "summary": "How is computation organized and reused across tasks and time in a trained recurrent network? Most analyses emphasize the geometry of neural activity, dynamical motifs, or local perturbation growth. We instead study the network's global first-order perturbation response. The finite-horizon Green's operator maps perturbations at each source along a trajectory to their downstream state-space responses and therefore directly represents perturbation routing. Simple reductions of this operator provide task-to-task and time-to-time views of the same computation, while matrix-free products make these views accessible without constructing the full operator. In a flexible multitask recurrent network, task reductions reveal structured reuse of known computational motifs, while temporal reductions reveal causal pathways and how they emerge during training. Our main point is simple: the Green's operator provides a global response geometry for mapping the organization of learned dynamical computation.",
+    "id": "http://arxiv.org/abs/2609.40292v1",
+    "published": "2026-09-30T17:49:59Z",
+    "authors": [
+      "James Hazelden"
+    ],
+    "link": "https://arxiv.org/abs/2609.40292v1",
+    "categories": [
+      "cs.LG",
+      "q-bio.NC"
+    ]
+  },
+  {
+    "title": "CAS II: Symmetric Partitions as Kolmogorov Models",
+    "summary": "In algorithmic statistics a string x is explained by a finite set containing it, and Kolmogorov's structure function records the smallest such model at each level of complexity. Vereshchagin's strong models, those computable from the data by a total algorithm, are essentially the cells of simple partitions. We read a partition of binary strings as a hypothesis, with the cell containing x as its model, and develop algorithmic statistics over symmetric partitions: the orbit partitions of groups acting on strings. The Galois connection between subgroups and partitions gives each ambient group a lattice of symmetric partitions, with canonical certificates, canonical costs, and an algebra of hypotheses. The resulting structure function and symmetric sophistication measure which part of the regularity of x is symmetric. For the full symmetric group every partition is symmetric: cells recover all Kolmogorov models, cells of cheap partitions recover exactly the strong models, and normal and strange strings are characterized by symmetry. For GL(n,2) the cells are exactly the linearly homogeneous sets, so linear symmetry is a restricted model class. For nonzero x, the linear-symmetry structure function lies in a band between the sufficiency line and the trivial bound, and both edges are attained: there are stochastic normal strings whose simple structure is invisible to linear symmetry. We also give coordinates on the space of permutation groups: each group is an element of a Burnside ring (its type) together with a permutation (its placement), and restriction moves refine partitions via the Mackey formula. In these coordinates the collapse for the symmetric group is a statement about placement, a linear hypothesis is determined by its type up to n^2 bits, and the maximal gap theorem shows that any space of symmetry hypotheses small enough to search is small enough to miss simple structure.",
+    "id": "http://arxiv.org/abs/2609.40290v1",
+    "published": "2026-09-30T17:49:15Z",
+    "authors": [
+      "Romie Banerjee"
+    ],
+    "link": "https://arxiv.org/abs/2609.40290v1",
+    "categories": [
+      "cs.IT",
+      "cs.AI",
+      "math.GR"
+    ]
+  },
+  {
+    "title": "Verifiable Quantum Advantage and Computation via Quantum Circuit Obfuscation",
+    "summary": "We construct protocols for classically verifiable quantum advantage and classical verification of $\\mathsf{BQP}$ computations using \\emph{quantum indistinguishability obfuscation} (qiO). Specifically, given qiO and assuming a slightly stronger version of $\\mathsf{BQP}\\neq\\mathsf{BPP}$, we construct a two-message quantum-advantage protocol that is efficiently and publicly verifiable. Our result can be viewed as a rigorous cryptographic foundation for the heuristic quantum advantage proposals based on \\emph{peaked random circuit sampling} of Aaronson and Zhang (arXiv:2404.14493). We also construct two simple protocols for classically verifying arbitrary $\\mathsf{BQP}$ computations. The first protocol is privately verifiable and assumes only the existence of qiO. This gives a rare example of a nontrivial cryptographic application of (quantum) iO that does not make additional computational hardness assumptions. The second protocol additionally assumes post-quantum one-way functions and is \\emph{publicly verifiable}. To our knowledge, this is the first publicly verifiable protocol for classical verification of $\\mathsf{BQP}$ computations under computational assumptions in the standard model. We show that all our results hold when qiO is assumed only for ancilla-free unitary circuits. As evidence supporting this assumption, we prove a worst-to-average-case reduction for obfuscating such circuits. This reduction extends the local-mixing framework of Canetti, Chamon, Mucciolo and Ruckenstein (TCC 2024) under quantum analogues of their assumptions.",
+    "id": "http://arxiv.org/abs/2609.40289v1",
+    "published": "2026-09-30T17:49:01Z",
+    "authors": [
+      "Alexandru Gheorghiu",
+      "Aparna Gupte",
+      "Vojtěch Havlíček",
+      "Yunchao Liu"
+    ],
+    "link": "https://arxiv.org/abs/2609.40289v1",
+    "categories": [
+      "quant-ph",
+      "cs.CR"
+    ]
+  },
+  {
+    "title": "PMosFM: Preconditioned Manifold Matching for One-Step Physics-Constrained Generation",
+    "summary": "Physics-constrained generative models aim to generate physical fields that match a target distribution and satisfy prescribed constraints. However, enforcing these constraints often increases sampling costs through iterative corrections or training costs through residual optimization and trajectory unrolling. To address this issue, we introduce \\textbf{P}reconditioned \\textbf{M}anifold \\textbf{o}ne-\\textbf{s}tep \\textbf{F}low \\textbf{M}atching (\\textbf{PMosFM}), a preconditioned manifold matching framework for one-step physics-constrained generation. By encoding constraints in a manifold decoder, PMosFM learns transport in intrinsic coordinates without separate residual losses or terminal residual unrolling. A geometric preconditioner rescales coordinates using the decoder-induced metric, while a regularized covariance transform approximately whitens the interpolation-state inputs. A finite-interval objective couples velocity supervision with consistency between decoded endpoints in physical space. We show that exact parameterization removes residual-induced Gauss--Newton curvature, that geometric and covariance effects separate in a local conditioning bound, and that physical flow-map error bounds endpoint distributional error. Controlled ablations examine conditioning, and experiments evaluate optimizer-update time and memory footprint. At inference, PMosFM uses one neural transport evaluation followed by physical decoding. Experiments across benchmarks show lower training and sampling time than the multi-step baselines at comparable physical and distributional fidelity. Code and datasets will be released publicly.",
+    "id": "http://arxiv.org/abs/2609.40287v1",
+    "published": "2026-09-30T17:48:21Z",
+    "authors": [
+      "Zhangyong Liang",
+      "Haibin Ling"
+    ],
+    "link": "https://arxiv.org/abs/2609.40287v1",
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "title": "Linguistic Loopholes in LLM Unlearning: From a 174-Language Benchmark to Coverage-Aware Unlearning",
+    "summary": "Unlearning a fact in one language does not guarantee its removal in others as changing the query or even the requested answer language can reopen seemingly forgotten knowledge -- a cross-lingual loophole. The most straightforward solution to this challenge -- unlearning in all languages -- is neither scalable nor desirable as it amplifies damage to unrelated model capabilities. We introduce the task of language budgeted multilingual unlearning where the goal is to select a subset of languages that maximizes cross-lingual erasure. To study this task we introduce the Cross-Lingual Unlearning Tensor, an unlearning benchmark that spans 174 language--script pairs and 25 atomic paraphrase types to examine when forgetting generalizes across linguistic expressions of the same knowledge. We further propose COVER, which selects source languages to maximize predicted COVERage of languages receiving no forget supervision, enabling unlearning on a language budget. Surprisingly, we find naively selecting strong individual sources does not reliably compose into strong source sets motivating our development of COVER. At deployment COVER only requires benign calibration data and access to the frozen model. Across three model families and two disjoint forget sets, COVER reduces mean held-out residual access by 7.8--27.3% relative to uniform source selection. We find these gains extend beyond synthetic benchmarks to real news documents in low-resource language settings using human translated data from the Low Resource Languages for Emergent Incidents (LORELEI) corpus.",
+    "id": "http://arxiv.org/abs/2609.40286v1",
+    "published": "2026-09-30T17:48:13Z",
+    "authors": [
+      "Tyler Skow",
+      "Shravan Chaudhari",
+      "Rama Chellappa",
+      "Abhay Yadav"
+    ],
+    "link": "https://arxiv.org/abs/2609.40286v1",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ]
+  },
+  {
+    "title": "PivotOPD: Learning to Recover from Pivotal Mistakes in Multi-Turn Agents",
+    "summary": "On-policy distillation (OPD) is a promising approach for training language agents, providing dense teacher supervision on student-generated trajectories. However, in multi-turn interaction, an incorrect action changes the states the student encounters later, so errors compound across turns. In preliminary experiments across three Qwen3 models (8B to 235B), we find that more than half of the failed rollouts contain a pivotal mistake, an action that moves the agent farther from completing the task, and this mistake typically occurs early. These pivotal mistakes often remain recoverable: guiding the model for only a few turns after the pivotal turn can restore task success. We therefore propose PivotOPD, an on-policy distillation framework that jointly trains the student to prevent pivotal mistakes and to recover from the states they create. At each pivotal mistake, a teacher model provides a gold action and then names a recovery action at each of the next few turns. Preventive distillation uses the gold action with reverse KL to steer the student away from the pivotal mistake, while recovery distillation uses the recovery actions with forward KL to transfer recovery behaviors that the student rarely samples. Against 13 baselines on ALFWorld, WebShop, and Search-based QA, PivotOPD achieves the strongest average performance for both Qwen3-1.7B and Qwen3-8B students, improving over the strongest baseline on ALFWorld by +5.5% with the 1.7B student. The gains also transfer to another model family on the software engineering domain, where PivotOPD raises the resolve rate of a Nemotron-3.5 student on SWE-Bench Verified by +3.2%. Project page: https://research.nvidia.com/labs/lpr/pivotopd/",
+    "id": "http://arxiv.org/abs/2609.40285v1",
+    "published": "2026-09-30T17:48:11Z",
+    "authors": [
+      "Yinghui He",
+      "Yapei Chang",
+      "Khushi Bhardwaj",
+      "Daniele Molinari",
+      "Tugrul Konuk",
+      "Jan Kautz",
+      "Ali Hatamizadeh"
+    ],
+    "link": "https://arxiv.org/abs/2609.40285v1",
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "title": "cua-speedrun: Standardized Benchmarking of the Speed of Computer-Use Agents",
+    "summary": "Computer use agents (CUAs), which use graphical user interfaces (GUIs) to complete tasks on a computer, have recently surpassed human performance on many standard benchmarks, including difficult long-horizon tasks. Their capabilities are undoubtedly impressive, however, a key barrier to the widespread adoption and deployment of CUAs remains their speed and cost. Progress towards faster yet capable CUAs requires reliable evaluation of their speed, but many CUA benchmarks currently face a reproducibility crisis. Benchmarks are based on complex infrastructure with varying machine and container configurations that confound the evaluation of the execution speed of CUAs. Towards addressing this gap, we propose cua-speedrun, which introduces standardized infrastructure and task sets, with a focus on evaluating the speed and efficiency of CUAs. cua-speedrun uses a uniform virtual machine setup and execution pipeline, along with a common agent interface that enables single-agent implementations to operate seamlessly across different benchmarks. Across four different CUA benchmarks, we evaluate how reasoning effort, agent harnesses, and environment latency affect performance, speed, and cost. We find no single model family is optimal for all three; none of the open-weight models are on the frontier, and also, unintuitively, for some models increasing the reasoning effort can speed up task completion, while faster environment input-output can slow down overall task completion time. We also demonstrate that we can effectively reduce the evaluation task set of most CUA benchmarks without degrading overall statistical power, allowing for more efficient benchmarking and comparison. We believe cua-speedrun will enable structured progress towards fast, efficient CUAs, unlocking new real-world use cases and applications. All code, infrastructure, and analysis are available at https://cuaspeedrun.com.",
+    "id": "http://arxiv.org/abs/2609.40284v1",
+    "published": "2026-09-30T17:48:06Z",
+    "authors": [
+      "Pranjal Aggarwal",
+      "Lawrence Keunho Jang",
+      "Sean Welleck",
+      "Daniel Fried",
+      "Ruslan Salakhutdinov",
+      "Jing Yu Koh"
+    ],
+    "link": "https://arxiv.org/abs/2609.40284v1",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "title": "Computational Bounds for $f$-Routing",
+    "summary": "The $f$-routing protocol is a leading candidate for quantum position verification (Kent, Munro, and Spiller, 2011), but security guarantees for explicit functions remain limited. We prove unconditional resource lower bounds for uniform attackers; our new techniques bypass communication-complexity bounds central to previous works, which are inherently at most linear in the input length. We show that, for input length $n$ and sufficiently small constant $ε>0$, a uniformly generated strategy using $q$ qubits and having description length $\\mathrm{poly}(q)$, with success probability at least $1-ε$ on every input, implies the following computational bounds on $f$: 1. If the strategies are arbitrary quantum channels, then $f\\in\\mathrm{QSZK}(\\mathrm{poly}(nq))$, where $\\mathrm{QSZK}(T)$ is the class of languages having quantum statistical zero knowledge proofs in which the verifier runs in time $T$ (and the simulator in time $\\mathrm{poly}(T)$). 2. If the strategies are explicit Pauli-sparse unitaries on $q$ qubits that have at most $s$ nonzero Pauli coefficients, then $f\\in\\mathrm{DTIME}(\\mathrm{poly}(nqs))$. 3. If the strategies are Clifford+T circuits using at most $t$ magic gates, then $f\\in\\mathrm{DTIME}(\\mathrm{poly}(nq2^t))$. Time and space hierarchies then yield explicit functions secure against polynomial and even quasipolynomial qubits $q$ under our computational restrictions. These bounds exceed the $q\\le\\log n$ bound of Bluhm, Christandl, and Speelman (2022) for inner product function $f=\\mathrm{IP}$, at the cost of restricting adversarial computation and increasing honest evaluation complexity.",
+    "id": "http://arxiv.org/abs/2609.40278v1",
+    "published": "2026-09-30T17:46:42Z",
+    "authors": [
+      "Oren Renard",
+      "Nicholas Spooner"
+    ],
+    "link": "https://arxiv.org/abs/2609.40278v1",
+    "categories": [
+      "quant-ph",
+      "cs.CC"
+    ]
+  },
+  {
+    "title": "Conditioning-Free Non-Uniform Quantum Fourier and Chebyshev Transforms",
+    "summary": "We present an efficient quantum algorithm for the non-uniform Chebyshev transform. It is defined as the projection of a function onto Chebyshev polynomials sampled at given nodes that are uniform in $x\\in[-1,1]$, and hence non-uniform in the angle $θ=\\arccos x$, a setting that QFT-based quantum Chebyshev transforms cannot handle. Our construction is based on an improvement of an existing Non-uniform Quantum Fourier Transform (NUQFT) whereby we remove the conditioning from non-uniform node sampling. Hence, error bounds are independent of the geometry-dependent parameter $κ$ of prior work. We use the fact that Chebyshev transform matrix is the average of two Type-II non-uniform DFTs, which we implement with a single controlled NUQFT circuit. We provide explicit oracle constructions, including the row-access oracle previously left as an assumption. The resulting $\\varepsilon$-accurate block encoding has $O(1)$ normalization and uses $O(L)$ qubits and $\\widetilde O(L^2)$ gates, where $L=\\log N+\\log(1/\\varepsilon)$. We give an end-to-end implementation with complexity analysis, including the success probability and output-state error.",
+    "id": "http://arxiv.org/abs/2609.40277v1",
+    "published": "2026-09-30T17:46:17Z",
+    "authors": [
+      "Chaowen Guan",
+      "Akshit Katiyar"
+    ],
+    "link": "https://arxiv.org/abs/2609.40277v1",
+    "categories": [
+      "quant-ph",
+      "cs.DS"
+    ]
+  },
+  {
+    "title": "Exponential Quantum Advantage in Numbers-on-Forehead Communication",
+    "summary": "We give the first exponential quantum advantage in the general interactive three-party Numbers-on-Forehead (NOF) model for a decision problem. Previous separations hold only for restricted protocols like one-way communication for a relation. We construct an explicit partial Boolean function, the Interleaved Unitary Product problem, that requires only $O(\\log n)$ NOF quantum communication but $\\widetildeΩ(n^{1/32})$ randomized communication. This function builds on the two-party unitary product problem of Arunachalam, Girish, and Lifshitz (TQC 2024). The main technical obstacle is that discrepancy, the standard lower-bound method for NOF, also lower-bounds quantum communication. We instead develop a regularity-based argument for randomized NOF lower bounds, building on the approach of Kelley, Lovett, and Meka and adapting the regularity decomposition of Abboud, Fischer, Kelley, Lovett, and Meka (STOC 2024) to cylinder intersections. Combined with matrix-product estimates of Arunachalam, Girish, and Lifshitz, this yields our randomized lower bound.",
+    "id": "http://arxiv.org/abs/2609.40273v1",
+    "published": "2026-09-30T17:44:39Z",
+    "authors": [
+      "Haoyu Wang",
+      "Pei Wu",
+      "Guangxu Yang"
+    ],
+    "link": "https://arxiv.org/abs/2609.40273v1",
+    "categories": [
+      "cs.CC",
+      "quant-ph"
+    ]
+  },
+  {
+    "title": "Refined sample complexities from the tomographic rate function",
+    "summary": "Protocols for quantum state tomography can be characterized either by their sample complexity or by the tomographic rate function that governs the large deviation behaviour of error estimates. We establish a framework for the analysis of covariant protocols which allows us to compare these measures. First, we derive the rate functions for several protocols, including random purification-based protocols and the sample-optimal protocol of Haah et al. These rate functions are expressed in terms of a new family of divergences which includes the reverse sandwiched Rényi divergence and Keyl's annealed quantum relative entropy as special cases. We show that these rate functions obey a strict ordering, even though the sample complexity of each protocol is order optimal. We consider a different version of sample complexity based on Wasserstein distance rather than trace distance, and show that the ordering of the rate functions implies analogous strict inequalities for the Wasserstein-type sample complexity. Thus the tomographic rate function is a more fine-grained indicator of the performance of a tomography protocol than the usual sample complexity.",
+    "id": "http://arxiv.org/abs/2609.40271v1",
+    "published": "2026-09-30T17:44:29Z",
+    "authors": [
+      "Arick Grootveld",
+      "Alexander Maloney",
+      "Jason Pollack",
+      "Peixue Wu"
+    ],
+    "link": "https://arxiv.org/abs/2609.40271v1",
+    "categories": [
+      "quant-ph",
+      "cs.IT",
+      "math-ph",
+      "math.PR"
+    ]
+  },
+  {
+    "title": "Belief-Aware Multi-Agent Path Finding under Map Uncertainty",
+    "summary": "Multi-Agent Path Finding (MAPF) aims to find collision-free paths for multiple agents in a shared environment. Classical MAPF assumes that all static obstacles are known in advance, but real-world environments can change unexpectedly due to fallen objects, spills, or other local disturbances. When such changes are spatially correlated, an observation can inform traversability estimates beyond the observed location. Prior approaches address uncertainty in traversability through contingent plans or replanning based on direct observations, but do not leverage this spatial dependence to infer the traversability of nearby unobserved locations. As a result, they cannot use one observation to anticipate nearby unobserved obstacles that may cause costly rerouting later. We focus on Belief-Aware MAPF, where map discrepancies are fixed during execution but initially unknown, and observations can be informative beyond the observed location. We propose Multi-Agent Gaussian belief Inference for Coordination (MAGIC), a framework that updates a shared belief about traversability online based on agents' observations. MAGIC uses a Gaussian Markov Random Field and Gaussian Belief Propagation to approximately infer traversability and construct detour-aware costs for standard MAPF planners. Our experiments on MAPF benchmarks show that MAGIC reduces the executed sum of costs compared to existing approaches on 96.3% of instances, across several planner families and teams of up to 800 agents, demonstrating its applicability to large-scale MAPF problems.",
+    "id": "http://arxiv.org/abs/2609.40269v1",
+    "published": "2026-09-30T17:44:19Z",
+    "authors": [
+      "Viraj Parimi",
+      "Shao-Hung Chan",
+      "Han Zhang",
+      "Jingkai Chen",
+      "Brian Williams"
+    ],
+    "link": "https://arxiv.org/abs/2609.40269v1",
+    "categories": [
+      "cs.AI",
+      "cs.MA",
+      "cs.RO"
+    ]
+  }
+]

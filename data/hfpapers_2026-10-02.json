@@ -1,0 +1,2668 @@
+[
+  {
+    "paper": {
+      "id": "2609.38597",
+      "authors": [
+        {
+          "_id": "6abef3925ff0ac8de3b84975",
+          "name": "Cong Wei",
+          "hidden": false
+        },
+        {
+          "_id": "6abef3925ff0ac8de3b84976",
+          "name": "Xuanchi Ren",
+          "hidden": false
+        },
+        {
+          "_id": "6abef3925ff0ac8de3b84977",
+          "name": "Bryan Chu",
+          "hidden": false
+        },
+        {
+          "_id": "6abef3925ff0ac8de3b84978",
+          "name": "Weiming Ren",
+          "hidden": false
+        },
+        {
+          "_id": "6abef3925ff0ac8de3b84979",
+          "name": "Huan Ling",
+          "hidden": false
+        },
+        {
+          "_id": "6abef3925ff0ac8de3b8497a",
+          "name": "Jiahui Huang",
+          "hidden": false
+        },
+        {
+          "_id": "6abef3925ff0ac8de3b8497b",
+          "name": "Laura Leal-Taixé",
+          "hidden": false
+        },
+        {
+          "_id": "6abef3925ff0ac8de3b8497c",
+          "name": "Sanja Fidler",
+          "hidden": false
+        },
+        {
+          "_id": "6abef3925ff0ac8de3b8497d",
+          "name": "Wenhu Chen",
+          "hidden": false
+        },
+        {
+          "_id": "6abef3925ff0ac8de3b8497e",
+          "name": "Zian Wang",
+          "hidden": false
+        },
+        {
+          "_id": "6abef3925ff0ac8de3b8497f",
+          "name": "Jay Zhangjie Wu",
+          "hidden": false
+        }
+      ],
+      "mediaUrls": [
+        "https://cdn-uploads.huggingface.co/production/uploads/64f8e358766ff9f3d2b0de84/x-n_Z3pu7GqHpRP4hABnU.mp4"
+      ],
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "PixelUMM: Encoder-Free Unified Image and Video Understanding and Generation",
+      "submittedOnDailyBy": {
+        "_id": "64f8e358766ff9f3d2b0de84",
+        "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/64f8e358766ff9f3d2b0de84/R2P1YG-mRBh7TU9wkjGGk.jpeg",
+        "isPro": true,
+        "fullname": "Cong Wei",
+        "user": "CongWei1230",
+        "type": "user",
+        "name": "CongWei1230"
+      },
+      "summary": "Unified Multimodal Models (UMMs) often rely on separate visual representations for understanding and generation, increasing visual context length and complicating integration with established vision-language pretraining pipelines. Recent advances in pixel-space modeling offer an encoder-free alternative, but extending this paradigm from images to videos is non-trivial: video understanding and generation adopt different temporal representations, leaving the design of a unified visual interface an open question. We present PixelUMM, an encoder-free model for unified image and video understanding and generation directly in pixel space. PixelUMM represents images as spatial patches and videos as spatiotemporal tubelets, connecting raw pixels to a shared multimodal backbone through single-layer linear projections. Its Mixture-of-Transformers architecture combines shared attention with task-specific parameters and extends clean-pixel prediction to video generation, jointly supporting autoregressive text prediction and pixel-space flow matching. Experiments show that PixelUMM achieves competitive performance across image and video understanding and generation tasks. We further conduct empirical studies of key design choices, including decoder design and spatial-temporal patch size, providing insights for future pixel-space unified multimodal models.",
+      "upvotes": 3,
+      "discussionId": "6abef3925ff0ac8de3b84980",
+      "projectPage": "https://nv-tlabs.github.io/PixelUMM/",
+      "githubRepo": "https://github.com/nv-tlabs/PixelUMM",
+      "githubRepoAddedBy": "user",
+      "organization": {
+        "_id": "60262b67268c201cdc8b7d43",
+        "name": "nvidia",
+        "fullname": "NVIDIA",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/65df9200dc3292a8983e5017/Vs5FPVCH-VZBipV3qKTuy.png"
+      }
+    },
+    "publishedAt": "2026-09-28T20:00:00.000Z",
+    "title": "PixelUMM: Encoder-Free Unified Image and Video Understanding and Generation",
+    "summary": "Unified Multimodal Models (UMMs) often rely on separate visual representations for understanding and generation, increasing visual context length and complicating integration with established vision-language pretraining pipelines. Recent advances in pixel-space modeling offer an encoder-free alternative, but extending this paradigm from images to videos is non-trivial: video understanding and generation adopt different temporal representations, leaving the design of a unified visual interface an open question. We present PixelUMM, an encoder-free model for unified image and video understanding and generation directly in pixel space. PixelUMM represents images as spatial patches and videos as spatiotemporal tubelets, connecting raw pixels to a shared multimodal backbone through single-layer linear projections. Its Mixture-of-Transformers architecture combines shared attention with task-specific parameters and extends clean-pixel prediction to video generation, jointly supporting autoregressive text prediction and pixel-space flow matching. Experiments show that PixelUMM achieves competitive performance across image and video understanding and generation tasks. We further conduct empirical studies of key design choices, including decoder design and spatial-temporal patch size, providing insights for future pixel-space unified multimodal models.",
+    "mediaUrls": [
+      "https://cdn-uploads.huggingface.co/production/uploads/64f8e358766ff9f3d2b0de84/x-n_Z3pu7GqHpRP4hABnU.mp4"
+    ],
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.38597.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "64f8e358766ff9f3d2b0de84",
+      "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/64f8e358766ff9f3d2b0de84/R2P1YG-mRBh7TU9wkjGGk.jpeg",
+      "fullname": "Cong Wei",
+      "name": "CongWei1230",
+      "type": "user",
+      "isPro": true,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "followerCount": 33,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "60262b67268c201cdc8b7d43",
+      "name": "nvidia",
+      "fullname": "NVIDIA",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/65df9200dc3292a8983e5017/Vs5FPVCH-VZBipV3qKTuy.png"
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.38792",
+      "authors": [
+        {
+          "_id": "6abeadfd19c0e5434dfb9a0b",
+          "name": "Ilgee Hong",
+          "hidden": false
+        },
+        {
+          "_id": "6abeadfd19c0e5434dfb9a0c",
+          "name": "Changlong Yu",
+          "hidden": false
+        },
+        {
+          "_id": "6abeadfd19c0e5434dfb9a0d",
+          "name": "Zhenghao Xu",
+          "hidden": false
+        },
+        {
+          "_id": "6abeadfd19c0e5434dfb9a0e",
+          "name": "Xin Liu",
+          "hidden": false
+        },
+        {
+          "_id": "6abeadfd19c0e5434dfb9a0f",
+          "name": "Yuwei Zhang",
+          "hidden": false
+        },
+        {
+          "_id": "6abeadfd19c0e5434dfb9a10",
+          "name": "Qin Lu",
+          "hidden": false
+        },
+        {
+          "_id": "6abeadfd19c0e5434dfb9a11",
+          "name": "Bing Yin",
+          "hidden": false
+        },
+        {
+          "_id": "6abeadfd19c0e5434dfb9a12",
+          "name": "Tuo Zhao",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "Training LLM Judges from Language Feedback via Position-Selective Self-Distillation",
+      "submittedOnDailyBy": {
+        "_id": "6460df9a051604bda02b0f99",
+        "avatarUrl": "/avatars/1ff5133d8a92308d1a8d9b8ceb8e8e68.svg",
+        "isPro": false,
+        "fullname": "ilgee hong",
+        "user": "ilgee",
+        "type": "user",
+        "name": "ilgee"
+      },
+      "summary": "We study training LLM judges from natural language feedback, especially for subjective tasks where the verdict depends strongly on which evaluation criteria the judge invokes and how it weighs them. The dominant approach, outcome-supervised RL (e.g., GRPO), credits every token in the rollout with a single scalar determined only by the accuracy of the final verdict, providing no separate credit at the criterion-choice tokens and ignoring the rich language feedback (e.g., preference rationales) that naturally accompanies preference labels. Self-Distillation (SD) is one natural way to use this language feedback: the same model, conditioned on this feedback, acts as a teacher providing dense, position-level supervision. However, not all positions carry equally useful signal. Using the per-position entropy shift between teacher and student, we identify two regimes: context sharpening, where the teacher concentrates probability on a particular feedback-aligned criterion expression, and context spreading, where the teacher distributes probability across multiple feedback-aligned alternatives. We interpret these patterns as follows: sharpening encourages memorization of a particular criterion expression, whereas spreading promotes semantic understanding by preserving these alternatives. Motivated by this asymmetry, we introduce position masking based on the entropy shift that retains the lower tail of the entropy-shift distribution. Experiments show that masking higher-entropy-shift positions improves out-of-distribution generalization over naive SD. The resulting self-distilled judges outperform judges trained with outcome-supervised RL by 2-9 percentage points on the evaluated subjective subcategories, while remaining competitive on objective ones.",
+      "upvotes": 5,
+      "discussionId": "6abeadfd19c0e5434dfb9a13",
+      "projectPage": "https://huggingface.co/opsd-genrm",
+      "githubRepo": "https://github.com/horizon-llm/OPSD-GenRM",
+      "githubRepoAddedBy": "user",
+      "githubStars": 0,
+      "organization": {
+        "_id": "5ffdfbadbba2ae614d771970",
+        "name": "amazon",
+        "fullname": "Amazon",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/66f19ed428ae41c20c470792/8y7msN6A6W82LdQhQd85a.png"
+      }
+    },
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "title": "Training LLM Judges from Language Feedback via Position-Selective Self-Distillation",
+    "summary": "We study training LLM judges from natural language feedback, especially for subjective tasks where the verdict depends strongly on which evaluation criteria the judge invokes and how it weighs them. The dominant approach, outcome-supervised RL (e.g., GRPO), credits every token in the rollout with a single scalar determined only by the accuracy of the final verdict, providing no separate credit at the criterion-choice tokens and ignoring the rich language feedback (e.g., preference rationales) that naturally accompanies preference labels. Self-Distillation (SD) is one natural way to use this language feedback: the same model, conditioned on this feedback, acts as a teacher providing dense, position-level supervision. However, not all positions carry equally useful signal. Using the per-position entropy shift between teacher and student, we identify two regimes: context sharpening, where the teacher concentrates probability on a particular feedback-aligned criterion expression, and context spreading, where the teacher distributes probability across multiple feedback-aligned alternatives. We interpret these patterns as follows: sharpening encourages memorization of a particular criterion expression, whereas spreading promotes semantic understanding by preserving these alternatives. Motivated by this asymmetry, we introduce position masking based on the entropy shift that retains the lower tail of the entropy-shift distribution. Experiments show that masking higher-entropy-shift positions improves out-of-distribution generalization over naive SD. The resulting self-distilled judges outperform judges trained with outcome-supervised RL by 2-9 percentage points on the evaluated subjective subcategories, while remaining competitive on objective ones.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.38792.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "6460df9a051604bda02b0f99",
+      "avatarUrl": "/avatars/1ff5133d8a92308d1a8d9b8ceb8e8e68.svg",
+      "fullname": "ilgee hong",
+      "name": "ilgee",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "followerCount": 1,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "5ffdfbadbba2ae614d771970",
+      "name": "amazon",
+      "fullname": "Amazon",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/66f19ed428ae41c20c470792/8y7msN6A6W82LdQhQd85a.png"
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.30840",
+      "authors": [
+        {
+          "_id": "6abeac9419c0e5434dfb9a05",
+          "name": "Austin Wang",
+          "hidden": false
+        },
+        {
+          "_id": "6abeac9419c0e5434dfb9a06",
+          "name": "Ziheng Cheng",
+          "hidden": false
+        },
+        {
+          "_id": "6abeac9419c0e5434dfb9a07",
+          "name": "Lexing Ying",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "Aligning One-Step Generative Models with Reward-Weighted Transport Distillation",
+      "submittedOnDailyBy": {
+        "_id": "6a67fb353a00487e959025b0",
+        "avatarUrl": "/avatars/ed95eeb3f41bf1a7a5c2a4e7d2370183.svg",
+        "isPro": false,
+        "fullname": "Austin Kaiji Wang",
+        "user": "awang3382",
+        "type": "user",
+        "name": "awang3382"
+      },
+      "summary": "One-step generators enable high-quality visual generation with a single network evaluation, but their post-training is difficult: general implicit generators provide neither tractable likelihoods nor denoising trajectories, and many rewards are non-differentiable. We introduce Reward-Weighted Transport Distillation (RWTD), a post-training method that requires only generated samples and scalar reward evaluations. Rather than aligning solely to the conventional reward-tilted reference distribution, RWTD constructs an adaptive target that mixes separately tilted current and reference distributions. The current component incorporates improvements discovered during training, while the reference component anchors the target to the pretrained generator. RWTD realizes this target through feature-space optimal transport and fixed-point regression. Theoretical analysis shows that the fixed-point distributions of RWTD interpolate between off-policy reward tilting of the reference and on-policy tilting of the current model, providing a principled approach to balancing reward adaptation with retention of prior knowledge. Empirically, RWTD substantially improves the GenEval score of the one-step SANA Sprint 1.6B backbone from 0.73 to 0.80, while separate preference alignment experiments demonstrate strong cross-reward generalization that yields balanced improvements and preservation of compositional capabilities.",
+      "upvotes": 2,
+      "discussionId": "6abeac9419c0e5434dfb9a08",
+      "githubRepo": "https://github.com/austin-k-wang/Reward-Weighted-Transport-Distillation",
+      "githubRepoAddedBy": "user",
+      "githubStars": 1,
+      "organization": {
+        "_id": "67d1140985ea0644e2f14b99",
+        "name": "ByteDance-Seed",
+        "fullname": "ByteDance Seed",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6535c9e88bde2fae19b6fb25/flkDUqd_YEuFsjeNET3r-.png"
+      }
+    },
+    "publishedAt": "2026-09-24T20:00:00.000Z",
+    "title": "Aligning One-Step Generative Models with Reward-Weighted Transport Distillation",
+    "summary": "One-step generators enable high-quality visual generation with a single network evaluation, but their post-training is difficult: general implicit generators provide neither tractable likelihoods nor denoising trajectories, and many rewards are non-differentiable. We introduce Reward-Weighted Transport Distillation (RWTD), a post-training method that requires only generated samples and scalar reward evaluations. Rather than aligning solely to the conventional reward-tilted reference distribution, RWTD constructs an adaptive target that mixes separately tilted current and reference distributions. The current component incorporates improvements discovered during training, while the reference component anchors the target to the pretrained generator. RWTD realizes this target through feature-space optimal transport and fixed-point regression. Theoretical analysis shows that the fixed-point distributions of RWTD interpolate between off-policy reward tilting of the reference and on-policy tilting of the current model, providing a principled approach to balancing reward adaptation with retention of prior knowledge. Empirically, RWTD substantially improves the GenEval score of the one-step SANA Sprint 1.6B backbone from 0.73 to 0.80, while separate preference alignment experiments demonstrate strong cross-reward generalization that yields balanced improvements and preservation of compositional capabilities.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.30840.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "6a67fb353a00487e959025b0",
+      "avatarUrl": "/avatars/ed95eeb3f41bf1a7a5c2a4e7d2370183.svg",
+      "fullname": "Austin Kaiji Wang",
+      "name": "awang3382",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "67d1140985ea0644e2f14b99",
+      "name": "ByteDance-Seed",
+      "fullname": "ByteDance Seed",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6535c9e88bde2fae19b6fb25/flkDUqd_YEuFsjeNET3r-.png"
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.38658",
+      "authors": [
+        {
+          "_id": "6abea5f919c0e5434dfb99fb",
+          "name": "Jian Chen",
+          "hidden": false
+        },
+        {
+          "_id": "6abea5f919c0e5434dfb99fc",
+          "name": "You Zhang",
+          "hidden": false
+        },
+        {
+          "_id": "6abea5f919c0e5434dfb99fd",
+          "name": "Mark Vinton",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "Tacit-TTS: From Autoregressive Decoding to Masked Prediction for Efficient Transcript-Free Voice Cloning",
+      "submittedOnDailyBy": {
+        "_id": "64593836c16ecb4815e082ce",
+        "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/64593836c16ecb4815e082ce/cHv6bOowt4N7n-dweNozO.jpeg",
+        "isPro": false,
+        "fullname": "Jian Chen",
+        "user": "puar-playground",
+        "type": "user",
+        "name": "puar-playground"
+      },
+      "summary": "TTS systems with autoregressive semantic modeling have demonstrated strong zero-shot voice cloning performance and rich expressive variation, but their sequential decoding incurs substantial latency. Non-autoregressive alternatives offer much faster generation, yet often rely on more restrictive reference conditioning, such as requiring transcripts of the reference speech during inference. We present Tacit-TTS, an efficient transcript-free zero-shot voice cloning system distilled from IndexTTS2. Our model replaces autoregressive text-to-semantic decoding with masked non-autoregressive generation, introduces training-free acoustic length estimation, and accelerates the flow-matching renderer through ReFlow distillation. Across two English and two Mandarin datasets, Tacit-TTS achieves competitive zero-shot quality while generating speech over 10x faster than IndexTTS2 for utterances longer than 5 seconds. Its transcript-free conditioning further supports cross-lingual and non-lexical references. We validate this capability using references from eight other languages, infant babble, and synthetic gibberish, where transcript-dependent systems often degrade or fail due to unreliable ASR transcripts.",
+      "upvotes": 8,
+      "discussionId": "6abea5f919c0e5434dfb99fe"
+    },
+    "publishedAt": "2026-09-28T20:00:00.000Z",
+    "title": "Tacit-TTS: From Autoregressive Decoding to Masked Prediction for Efficient Transcript-Free Voice Cloning",
+    "summary": "TTS systems with autoregressive semantic modeling have demonstrated strong zero-shot voice cloning performance and rich expressive variation, but their sequential decoding incurs substantial latency. Non-autoregressive alternatives offer much faster generation, yet often rely on more restrictive reference conditioning, such as requiring transcripts of the reference speech during inference. We present Tacit-TTS, an efficient transcript-free zero-shot voice cloning system distilled from IndexTTS2. Our model replaces autoregressive text-to-semantic decoding with masked non-autoregressive generation, introduces training-free acoustic length estimation, and accelerates the flow-matching renderer through ReFlow distillation. Across two English and two Mandarin datasets, Tacit-TTS achieves competitive zero-shot quality while generating speech over 10x faster than IndexTTS2 for utterances longer than 5 seconds. Its transcript-free conditioning further supports cross-lingual and non-lexical references. We validate this capability using references from eight other languages, infant babble, and synthetic gibberish, where transcript-dependent systems often degrade or fail due to unreliable ASR transcripts.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.38658.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "64593836c16ecb4815e082ce",
+      "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/64593836c16ecb4815e082ce/cHv6bOowt4N7n-dweNozO.jpeg",
+      "fullname": "Jian Chen",
+      "name": "puar-playground",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "followerCount": 9,
+      "isUserFollowing": false
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.32720",
+      "authors": [
+        {
+          "_id": "6abe908a59582f0d06639e8e",
+          "name": "Shuang Liu",
+          "hidden": false
+        },
+        {
+          "_id": "6abe908a59582f0d06639e8f",
+          "name": "Yongliang Miao",
+          "hidden": false
+        },
+        {
+          "_id": "6abe908a59582f0d06639e90",
+          "name": "Yanguang Liu",
+          "hidden": false
+        },
+        {
+          "_id": "6abe908a59582f0d06639e91",
+          "name": "Haoyi Xiong",
+          "hidden": false
+        },
+        {
+          "_id": "6abe908a59582f0d06639e92",
+          "name": "Mengnan Du",
+          "hidden": false
+        }
+      ],
+      "mediaUrls": [
+        "https://cdn-uploads.huggingface.co/production/uploads/6852221cf1b12e7a7e41485a/F-T9onJM6dY4waDSUKivb.png"
+      ],
+      "publishedAt": "2026-09-26T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "BiasReducer: Adaptive Bias Mitigation for Reward Models",
+      "submittedOnDailyBy": {
+        "_id": "6852221cf1b12e7a7e41485a",
+        "avatarUrl": "/avatars/49ddf5a470020c0d3fa4004094bb071e.svg",
+        "isPro": false,
+        "fullname": "Shuang Liu",
+        "user": "Olivia121",
+        "type": "user",
+        "name": "Olivia121"
+      },
+      "summary": "Reward models score responses from large language models (LLMs) and guide LLM training toward human preferences. However, reward models can favor superficial attributes such as length or confidence, leading LLMs to produce higher-scoring but not more correct responses. Existing mitigation methods either retrain the reward model or apply a fixed correction to one known bias, such as a preference for longer responses. Retraining requires additional data and computational resources, while existing editing methods require the target bias to be specified in advance and use a fixed edit for that bias. To this end, we propose BiasReducer, a lightweight framework that edits only the linear reward head and selects the relevant edits for each new dataset. First, BiasReducer uses a sparse autoencoder (SAE)-style encoder to learn which attributes (e.g., length and confidence) the reward model is sensitive to. Second, it learns how to reduce the reward model's dependence on each attribute by determining which direction to adjust the reward head and how much to adjust it. Third, for a new dataset, it ranks the attributes by their influence on reward scores, selects the relevant ones, and edits the reward model accordingly. BiasReducer consistently improves reward-model robustness to biases toward superficial response attributes. Across five reward models, BiasReducer-M improves the three benchmarks by 8.3, 18.0, and 6.9 percentage points on average, outperforming the two training-based baselines. The gains transfer downstream, reducing unnecessary verbosity and sycophancy while maintaining comparable judged quality.",
+      "upvotes": 18,
+      "discussionId": "6abe908a59582f0d06639e93",
+      "githubRepo": "https://github.com/olivialiu121/BiasReducer-RM",
+      "githubRepoAddedBy": "user",
+      "githubStars": 1,
+      "organization": {
+        "_id": "691d9a1012cc4d473e1c862f",
+        "name": "CarnegieMellonU",
+        "fullname": "Carnegie Mellon University",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/6I146aJvxxlRCEbYFFAeQ.png"
+      }
+    },
+    "publishedAt": "2026-09-25T20:00:00.000Z",
+    "title": "BiasReducer: Adaptive Bias Mitigation for Reward Models",
+    "summary": "Reward models score responses from large language models (LLMs) and guide LLM training toward human preferences. However, reward models can favor superficial attributes such as length or confidence, leading LLMs to produce higher-scoring but not more correct responses. Existing mitigation methods either retrain the reward model or apply a fixed correction to one known bias, such as a preference for longer responses. Retraining requires additional data and computational resources, while existing editing methods require the target bias to be specified in advance and use a fixed edit for that bias. To this end, we propose BiasReducer, a lightweight framework that edits only the linear reward head and selects the relevant edits for each new dataset. First, BiasReducer uses a sparse autoencoder (SAE)-style encoder to learn which attributes (e.g., length and confidence) the reward model is sensitive to. Second, it learns how to reduce the reward model's dependence on each attribute by determining which direction to adjust the reward head and how much to adjust it. Third, for a new dataset, it ranks the attributes by their influence on reward scores, selects the relevant ones, and edits the reward model accordingly. BiasReducer consistently improves reward-model robustness to biases toward superficial response attributes. Across five reward models, BiasReducer-M improves the three benchmarks by 8.3, 18.0, and 6.9 percentage points on average, outperforming the two training-based baselines. The gains transfer downstream, reducing unnecessary verbosity and sycophancy while maintaining comparable judged quality.",
+    "mediaUrls": [
+      "https://cdn-uploads.huggingface.co/production/uploads/6852221cf1b12e7a7e41485a/F-T9onJM6dY4waDSUKivb.png"
+    ],
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.32720.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "6852221cf1b12e7a7e41485a",
+      "avatarUrl": "/avatars/49ddf5a470020c0d3fa4004094bb071e.svg",
+      "fullname": "Shuang Liu",
+      "name": "Olivia121",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "691d9a1012cc4d473e1c862f",
+      "name": "CarnegieMellonU",
+      "fullname": "Carnegie Mellon University",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/6I146aJvxxlRCEbYFFAeQ.png"
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.34274",
+      "authors": [
+        {
+          "_id": "6abb2fc09e8c2556a10257ab",
+          "user": {
+            "_id": "6360743c3605bd411c1b185b",
+            "avatarUrl": "/avatars/64e519e5aadf32e3e34489cd886f122f.svg",
+            "isPro": false,
+            "fullname": "Zixuan Pan",
+            "user": "NDPP",
+            "type": "user",
+            "name": "NDPP"
+          },
+          "name": "Zixuan Pan",
+          "status": "claimed_verified",
+          "statusLastChangedAt": "2026-10-01T08:45:05.354Z",
+          "hidden": false
+        },
+        {
+          "_id": "6abb2fc09e8c2556a10257ac",
+          "name": "Davide Panzeri",
+          "hidden": false
+        },
+        {
+          "_id": "6abb2fc09e8c2556a10257ad",
+          "name": "Lukas Johanns",
+          "hidden": false
+        },
+        {
+          "_id": "6abb2fc09e8c2556a10257ae",
+          "name": "Marilin Moor",
+          "hidden": false
+        },
+        {
+          "_id": "6abb2fc09e8c2556a10257af",
+          "name": "Yu Zhou",
+          "hidden": false
+        },
+        {
+          "_id": "6abb2fc09e8c2556a10257b0",
+          "name": "Hedi Peterson",
+          "hidden": false
+        },
+        {
+          "_id": "6abb2fc09e8c2556a10257b1",
+          "name": "Yiyu Shi",
+          "hidden": false
+        },
+        {
+          "_id": "6abb2fc09e8c2556a10257b2",
+          "name": "Jianxu Chen",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "BIABench: Evaluating AI agents on real-world bioimage analysis tasks",
+      "submittedOnDailyBy": {
+        "_id": "6360743c3605bd411c1b185b",
+        "avatarUrl": "/avatars/64e519e5aadf32e3e34489cd886f122f.svg",
+        "isPro": false,
+        "fullname": "Zixuan Pan",
+        "user": "NDPP",
+        "type": "user",
+        "name": "NDPP"
+      },
+      "summary": "Artificial-intelligence (AI) agents hold promise for automating bioimage analysis, yet no benchmark evaluates whether they can carry out real-world analyses end to end. Such analyses are hard for agents because 2D images, 3D volumes and time-lapse sequences are often too large to read as context, so an agent must choose and run an analysis through code, specialized software and rendered views. Published studies make this capability testable, because each pairs raw images with a peer-reviewed result. We introduce BIABench, a benchmark of 16 tasks reconstructed from published biological studies that retain their scientific questions, imaging data and ground truth. The tasks span eleven analysis subtasks and modalities from H&E histology to single-molecule localization microscopy. Each submission receives an outcome score, which compares the output files with the ground truth using field-standard metrics, and a process score, in which a vision-language model judges method choice and quality control against an expert-written rubric. We evaluated general-purpose and biology-specific agents across several language models, with repeated runs of every task. Routine two-dimensional tasks were solved well, but on some tasks that added a third dimension or a time axis no agent scored above 0.19. Neither biological specialization, stronger models nor detailed expert instructions closed this gap. The agents were also unreliable, with scores varying more between repeated runs of one agent than between different agents, and without ground truth a correct run could not be told from a wrong one by its process score or by the time spent. Released openly with its data and code, BIABench provides a verifiable framework for evaluating, and eventually training, agents for reliable long-horizon bioimage analysis.",
+      "upvotes": 4,
+      "discussionId": "6abb2fc19e8c2556a10257b3",
+      "projectPage": "https://biabench.github.io",
+      "githubRepo": "https://github.com/BIABench/BIABench",
+      "githubRepoAddedBy": "user",
+      "githubStars": 6,
+      "organization": {
+        "_id": "6356ef35fe4ffe942db2460b",
+        "name": "notredame",
+        "fullname": "University of Notre Dame",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/noauth/RJJ94XCJw7R0WkOyrvXIU.png"
+      }
+    },
+    "publishedAt": "2026-09-27T20:00:00.000Z",
+    "title": "BIABench: Evaluating AI agents on real-world bioimage analysis tasks",
+    "summary": "Artificial-intelligence (AI) agents hold promise for automating bioimage analysis, yet no benchmark evaluates whether they can carry out real-world analyses end to end. Such analyses are hard for agents because 2D images, 3D volumes and time-lapse sequences are often too large to read as context, so an agent must choose and run an analysis through code, specialized software and rendered views. Published studies make this capability testable, because each pairs raw images with a peer-reviewed result. We introduce BIABench, a benchmark of 16 tasks reconstructed from published biological studies that retain their scientific questions, imaging data and ground truth. The tasks span eleven analysis subtasks and modalities from H&E histology to single-molecule localization microscopy. Each submission receives an outcome score, which compares the output files with the ground truth using field-standard metrics, and a process score, in which a vision-language model judges method choice and quality control against an expert-written rubric. We evaluated general-purpose and biology-specific agents across several language models, with repeated runs of every task. Routine two-dimensional tasks were solved well, but on some tasks that added a third dimension or a time axis no agent scored above 0.19. Neither biological specialization, stronger models nor detailed expert instructions closed this gap. The agents were also unreliable, with scores varying more between repeated runs of one agent than between different agents, and without ground truth a correct run could not be told from a wrong one by its process score or by the time spent. Released openly with its data and code, BIABench provides a verifiable framework for evaluating, and eventually training, agents for reliable long-horizon bioimage analysis.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.34274.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "6360743c3605bd411c1b185b",
+      "avatarUrl": "/avatars/64e519e5aadf32e3e34489cd886f122f.svg",
+      "fullname": "Zixuan Pan",
+      "name": "NDPP",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "6356ef35fe4ffe942db2460b",
+      "name": "notredame",
+      "fullname": "University of Notre Dame",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/noauth/RJJ94XCJw7R0WkOyrvXIU.png"
+    },
+    "isAuthorParticipating": true
+  },
+  {
+    "paper": {
+      "id": "2609.39154",
+      "authors": [
+        {
+          "_id": "6abe8c8a59582f0d06639e63",
+          "user": {
+            "_id": "6abe865a8f95487b00521549",
+            "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/6abe865a8f95487b00521549/mK1sIIaiHLwgjjO1_4uBH.jpeg",
+            "isPro": false,
+            "fullname": "Hanwen Liu",
+            "user": "hanwenliu6825",
+            "type": "user",
+            "name": "hanwenliu6825"
+          },
+          "name": "Hanwen Liu",
+          "status": "claimed_verified",
+          "statusLastChangedAt": "2026-10-01T16:45:05.152Z",
+          "hidden": false
+        },
+        {
+          "_id": "6abe8c8a59582f0d06639e64",
+          "name": "Yuanfu Sun",
+          "hidden": false
+        },
+        {
+          "_id": "6abe8c8a59582f0d06639e65",
+          "name": "Qiaoyu Tan",
+          "hidden": false
+        }
+      ],
+      "mediaUrls": [
+        "https://cdn-uploads.huggingface.co/production/uploads/6abe865a8f95487b00521549/FwXBedZMMtZus73XyCTD0.jpeg"
+      ],
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "DAGent: Evaluate-then-Grow Planning for Deep Research Agents",
+      "submittedOnDailyBy": {
+        "_id": "6abe865a8f95487b00521549",
+        "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/6abe865a8f95487b00521549/mK1sIIaiHLwgjjO1_4uBH.jpeg",
+        "isPro": false,
+        "fullname": "Hanwen Liu",
+        "user": "hanwenliu6825",
+        "type": "user",
+        "name": "hanwenliu6825"
+      },
+      "summary": "Deep research tasks require agents to navigate large knowledge spaces, synthesize evidence across many sources, and adapt their plans as findings emerge. Directed acyclic graph (DAG)-based multi-agent systems suit this setting because they support parallel execution and isolate each sub-task within a focused dependency context. Yet existing DAG-based agents instantiate a task-level plan before execution and repair the graph only after failures or missing evidence are observed. This Plan-then-Patch strategy is brittle for deep research: the system commits most strongly when its evidence is weakest, and later revisions waste computation on branches that should not have been planned. We propose DAGent, a DAG-based multi-agent framework with Evaluate-then-Grow incremental planning: an Orchestrator grows the task graph one batch at a time, conditioning each expansion on confidence and uncertainty signals from completed nodes. A hierarchical context layer propagates compact QueryDocs by default while preserving full execution traces for on-demand recall. The recorded DAG topology admits structural RL signals that outcome-only recipes cannot define; DAGRPO, a GRPO adaptation, injects topology-conditioned credit on Executor rollouts and a structural compliance regularization on Orchestrator plans. Across BrowseComp-Plus, GAIA, and xbench-DeepSearch, DAGent surpasses the strongest open-source baseline by 5.3 / 5.8 / 2.0 points at the Qwen3-235B-A22B scale, and the lead replicates across four open-source backbones and extends to GPT-5 at 327K context. At the Qwen3-8B scale, DAGRPO improves over a same-budget outcome-only GRPO baseline by 3.0 average Pass@1 points. A same-architecture comparison shows that evidence-conditioned planning reaches higher accuracy at lower per-task token, tool-call, and step footprints than its Plan-then-Patch counterpart. Code: https://github.com/hanwenliu6825/DAGent",
+      "upvotes": 3,
+      "discussionId": "6abe8c8a59582f0d06639e66",
+      "githubRepo": "https://github.com/hanwenliu6825/DAGent",
+      "githubRepoAddedBy": "user",
+      "githubStars": 1,
+      "organization": {
+        "_id": "691d8e884bbe8df0d99462e2",
+        "name": "newyorkuniversity",
+        "fullname": "New York University",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/orNHmPzOQf2_F5UgXPsu5.png"
+      }
+    },
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "title": "DAGent: Evaluate-then-Grow Planning for Deep Research Agents",
+    "summary": "Deep research tasks require agents to navigate large knowledge spaces, synthesize evidence across many sources, and adapt their plans as findings emerge. Directed acyclic graph (DAG)-based multi-agent systems suit this setting because they support parallel execution and isolate each sub-task within a focused dependency context. Yet existing DAG-based agents instantiate a task-level plan before execution and repair the graph only after failures or missing evidence are observed. This Plan-then-Patch strategy is brittle for deep research: the system commits most strongly when its evidence is weakest, and later revisions waste computation on branches that should not have been planned. We propose DAGent, a DAG-based multi-agent framework with Evaluate-then-Grow incremental planning: an Orchestrator grows the task graph one batch at a time, conditioning each expansion on confidence and uncertainty signals from completed nodes. A hierarchical context layer propagates compact QueryDocs by default while preserving full execution traces for on-demand recall. The recorded DAG topology admits structural RL signals that outcome-only recipes cannot define; DAGRPO, a GRPO adaptation, injects topology-conditioned credit on Executor rollouts and a structural compliance regularization on Orchestrator plans. Across BrowseComp-Plus, GAIA, and xbench-DeepSearch, DAGent surpasses the strongest open-source baseline by 5.3 / 5.8 / 2.0 points at the Qwen3-235B-A22B scale, and the lead replicates across four open-source backbones and extends to GPT-5 at 327K context. At the Qwen3-8B scale, DAGRPO improves over a same-budget outcome-only GRPO baseline by 3.0 average Pass@1 points. A same-architecture comparison shows that evidence-conditioned planning reaches higher accuracy at lower per-task token, tool-call, and step footprints than its Plan-then-Patch counterpart. Code: https://github.com/hanwenliu6825/DAGent",
+    "mediaUrls": [
+      "https://cdn-uploads.huggingface.co/production/uploads/6abe865a8f95487b00521549/FwXBedZMMtZus73XyCTD0.jpeg"
+    ],
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.39154.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "6abe865a8f95487b00521549",
+      "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/6abe865a8f95487b00521549/mK1sIIaiHLwgjjO1_4uBH.jpeg",
+      "fullname": "Hanwen Liu",
+      "name": "hanwenliu6825",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "followerCount": 1,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "691d8e884bbe8df0d99462e2",
+      "name": "newyorkuniversity",
+      "fullname": "New York University",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/orNHmPzOQf2_F5UgXPsu5.png"
+    },
+    "isAuthorParticipating": true
+  },
+  {
+    "paper": {
+      "id": "2609.38349",
+      "authors": [
+        {
+          "_id": "6abdbc75e72b9347146b243a",
+          "user": {
+            "_id": "685321bec03f7291a4efd3b4",
+            "avatarUrl": "/avatars/fff4eb0671b5dbf2dc39cc7085e76d78.svg",
+            "isPro": false,
+            "fullname": "Prithwish Jana",
+            "user": "prithwish-jana",
+            "type": "user",
+            "name": "prithwish-jana"
+          },
+          "name": "Prithwish Jana",
+          "status": "claimed_verified",
+          "statusLastChangedAt": "2026-10-01T08:45:05.469Z",
+          "hidden": false
+        },
+        {
+          "_id": "6abdbc75e72b9347146b243b",
+          "name": "Mononito Goswami",
+          "hidden": false
+        },
+        {
+          "_id": "6abdbc75e72b9347146b243c",
+          "name": "Hao Liu",
+          "hidden": false
+        },
+        {
+          "_id": "6abdbc75e72b9347146b243d",
+          "name": "Xinyu Li",
+          "hidden": false
+        },
+        {
+          "_id": "6abdbc75e72b9347146b243e",
+          "name": "Langlin Huang",
+          "hidden": false
+        },
+        {
+          "_id": "6abdbc75e72b9347146b243f",
+          "name": "Zhehui Huang",
+          "hidden": false
+        },
+        {
+          "_id": "6abdbc75e72b9347146b2440",
+          "name": "Zhishen Huang",
+          "hidden": false
+        },
+        {
+          "_id": "6abdbc75e72b9347146b2441",
+          "name": "Patrick Blöbaum",
+          "hidden": false
+        },
+        {
+          "_id": "6abdbc75e72b9347146b2442",
+          "name": "Anoop Deoras",
+          "hidden": false
+        },
+        {
+          "_id": "6abdbc75e72b9347146b2443",
+          "name": "Purak Jain",
+          "hidden": false
+        },
+        {
+          "_id": "6abdbc75e72b9347146b2444",
+          "user": {
+            "_id": "679db0522657d47fb732864c",
+            "avatarUrl": "/avatars/0456a043c1023cff2d1e80c04ff0c8c3.svg",
+            "isPro": false,
+            "fullname": "Nikos Kanakaris",
+            "user": "nikosusc",
+            "type": "user",
+            "name": "nikosusc"
+          },
+          "name": "Nikos Kanakaris",
+          "status": "claimed_verified",
+          "statusLastChangedAt": "2026-10-01T08:45:05.460Z",
+          "hidden": false
+        },
+        {
+          "_id": "6abdbc75e72b9347146b2445",
+          "name": "Sahika Genc",
+          "hidden": false
+        }
+      ],
+      "mediaUrls": [
+        "https://cdn-uploads.huggingface.co/production/uploads/679db0522657d47fb732864c/fpe2HNrr12mDLeUECZiVD.gif"
+      ],
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "MILO: Automated Harness Discovery via Orchestrated Multi-Agent Evolution",
+      "submittedOnDailyBy": {
+        "_id": "679db0522657d47fb732864c",
+        "avatarUrl": "/avatars/0456a043c1023cff2d1e80c04ff0c8c3.svg",
+        "isPro": false,
+        "fullname": "Nikos Kanakaris",
+        "user": "nikosusc",
+        "type": "user",
+        "name": "nikosusc"
+      },
+      "summary": "Modern agentic systems combine an AI model with a harness that controls execution and environmental interactions. Harness design strongly affects long-horizon performance, yet its combinatorial search space demands substantial human effort that must be repeated as models change. Existing automated methods explore this space narrowly, optimizing only components such as prompts or skills or becoming trapped by fixed, exploitative search strategies. We introduce MILO (Meta-evolutionary Island Orchestration), a framework that co-evolves agent harnesses and the strategy used to discover them. MILO combines: (i) hierarchical lineage memory over island-based trees, using rejected mutations as negative evidence; (ii) per-island mutator agents that rewrite complete harnesses using global search history and parent-specific feedback; and (iii) an orchestrator that adapts search through lineage grafting and speciation, mutator reassignment and curriculum revision. Across Terminal-Bench 2.1, PaperBench, and DeepSWE, MILO-discovered harnesses outperform eight state-of-the-art harnesses and six search methods using frontier (Opus 4.8) and open-weight (gpt-oss-120b) models. With Opus 4.8, MILO improves resolution over its initial harness by +12.0%, +28.3%, and +10.3%, respectively, compared with best prior-search gains of +4.5%, +18.3%, and 0%. On Terminal-Bench 2.1, it achieves 86.1 pm 2.0%, exceeding the official leaderboard's top entry (83.8 pm 2.3%) while using 26\\% fewer tokens than its initial harness. On EinsteinArena open problems, MILO improves best-known upper bounds for Erdős minimum-overlap (0.3808586 to 0.3808568) and the first and third autocorrelation inequalities (1.50274365 to 1.50274360; 1.45081 to 1.44889).",
+      "upvotes": 15,
+      "discussionId": "6abdbc75e72b9347146b2446",
+      "projectPage": "https://jprithwish.github.io/MILO/",
+      "organization": {
+        "_id": "5ffdfbadbba2ae614d771970",
+        "name": "amazon",
+        "fullname": "Amazon",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/66f19ed428ae41c20c470792/8y7msN6A6W82LdQhQd85a.png"
+      }
+    },
+    "publishedAt": "2026-09-28T20:00:00.000Z",
+    "title": "MILO: Automated Harness Discovery via Orchestrated Multi-Agent Evolution",
+    "summary": "Modern agentic systems combine an AI model with a harness that controls execution and environmental interactions. Harness design strongly affects long-horizon performance, yet its combinatorial search space demands substantial human effort that must be repeated as models change. Existing automated methods explore this space narrowly, optimizing only components such as prompts or skills or becoming trapped by fixed, exploitative search strategies. We introduce MILO (Meta-evolutionary Island Orchestration), a framework that co-evolves agent harnesses and the strategy used to discover them. MILO combines: (i) hierarchical lineage memory over island-based trees, using rejected mutations as negative evidence; (ii) per-island mutator agents that rewrite complete harnesses using global search history and parent-specific feedback; and (iii) an orchestrator that adapts search through lineage grafting and speciation, mutator reassignment and curriculum revision. Across Terminal-Bench 2.1, PaperBench, and DeepSWE, MILO-discovered harnesses outperform eight state-of-the-art harnesses and six search methods using frontier (Opus 4.8) and open-weight (gpt-oss-120b) models. With Opus 4.8, MILO improves resolution over its initial harness by +12.0%, +28.3%, and +10.3%, respectively, compared with best prior-search gains of +4.5%, +18.3%, and 0%. On Terminal-Bench 2.1, it achieves 86.1 pm 2.0%, exceeding the official leaderboard's top entry (83.8 pm 2.3%) while using 26\\% fewer tokens than its initial harness. On EinsteinArena open problems, MILO improves best-known upper bounds for Erdős minimum-overlap (0.3808586 to 0.3808568) and the first and third autocorrelation inequalities (1.50274365 to 1.50274360; 1.45081 to 1.44889).",
+    "mediaUrls": [
+      "https://cdn-uploads.huggingface.co/production/uploads/679db0522657d47fb732864c/fpe2HNrr12mDLeUECZiVD.gif"
+    ],
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.38349.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "679db0522657d47fb732864c",
+      "avatarUrl": "/avatars/0456a043c1023cff2d1e80c04ff0c8c3.svg",
+      "fullname": "Nikos Kanakaris",
+      "name": "nikosusc",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "followerCount": 1,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "5ffdfbadbba2ae614d771970",
+      "name": "amazon",
+      "fullname": "Amazon",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/66f19ed428ae41c20c470792/8y7msN6A6W82LdQhQd85a.png"
+    },
+    "isAuthorParticipating": true
+  },
+  {
+    "paper": {
+      "id": "2609.35928",
+      "authors": [
+        {
+          "_id": "6abe6778ab9e64aaa80714b7",
+          "name": "Xavier Del Giudice",
+          "hidden": false
+        },
+        {
+          "_id": "6abe6778ab9e64aaa80714b8",
+          "user": {
+            "_id": "670fd695a6431df5cc1168f5",
+            "avatarUrl": "/avatars/b3cd1f7f6ea8e889dbba324f19957e80.svg",
+            "isPro": false,
+            "fullname": "Alessio Palma",
+            "user": "alesspalma",
+            "type": "user",
+            "name": "alesspalma"
+          },
+          "name": "Alessio Palma",
+          "status": "claimed_verified",
+          "statusLastChangedAt": "2026-10-01T14:13:44.238Z",
+          "hidden": false
+        },
+        {
+          "_id": "6abe6778ab9e64aaa80714b9",
+          "name": "Matteo Migliarini",
+          "hidden": false
+        },
+        {
+          "_id": "6abe6778ab9e64aaa80714ba",
+          "name": "Fabio Galasso",
+          "hidden": false
+        },
+        {
+          "_id": "6abe6778ab9e64aaa80714bb",
+          "name": "Indro Spinelli",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "Prompted Identity Degrades Cooperation in Multi-Agent LLM Systems",
+      "submittedOnDailyBy": {
+        "_id": "670fd695a6431df5cc1168f5",
+        "avatarUrl": "/avatars/b3cd1f7f6ea8e889dbba324f19957e80.svg",
+        "isPro": false,
+        "fullname": "Alessio Palma",
+        "user": "alesspalma",
+        "type": "user",
+        "name": "alesspalma"
+      },
+      "summary": "Multi-agent LLM systems increasingly mix models from several providers, yet exposing each agent's underlying model identity to its peers significantly impairs cooperation. We show that when agents are aware of each other's model family, the group splits into clusters, where agents prefer interacting with others carrying their same label, although nothing in the task rewards or asks for such a split. We argue that the label itself causes this split, which we define as factionalism. We show and measure this phenomenon in two cooperative games and on a reasoning benchmark, with nine to twenty-five agents drawn from up to five open-weight model families. We further show that when the announced families are shuffled, or replaced by arbitrary labels, the factions still follow this information; when the label is removed, this behavior disappears. In strictly cooperative tasks, labeled groups spend on average 30% more rounds and 55% more tokens to reach a decision, and their success rate drops from 96% to 81%. The effect replicates across tasks, group sizes and model families. Withholding identity labels from the agents is simple and effective mitigation.",
+      "upvotes": 3,
+      "discussionId": "6abe6779ab9e64aaa80714bc"
+    },
+    "publishedAt": "2026-09-27T20:00:00.000Z",
+    "title": "Prompted Identity Degrades Cooperation in Multi-Agent LLM Systems",
+    "summary": "Multi-agent LLM systems increasingly mix models from several providers, yet exposing each agent's underlying model identity to its peers significantly impairs cooperation. We show that when agents are aware of each other's model family, the group splits into clusters, where agents prefer interacting with others carrying their same label, although nothing in the task rewards or asks for such a split. We argue that the label itself causes this split, which we define as factionalism. We show and measure this phenomenon in two cooperative games and on a reasoning benchmark, with nine to twenty-five agents drawn from up to five open-weight model families. We further show that when the announced families are shuffled, or replaced by arbitrary labels, the factions still follow this information; when the label is removed, this behavior disappears. In strictly cooperative tasks, labeled groups spend on average 30% more rounds and 55% more tokens to reach a decision, and their success rate drops from 96% to 81%. The effect replicates across tasks, group sizes and model families. Withholding identity labels from the agents is simple and effective mitigation.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.35928.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "670fd695a6431df5cc1168f5",
+      "avatarUrl": "/avatars/b3cd1f7f6ea8e889dbba324f19957e80.svg",
+      "fullname": "Alessio Palma",
+      "name": "alesspalma",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "isAuthorParticipating": true
+  },
+  {
+    "paper": {
+      "id": "2609.35646",
+      "authors": [
+        {
+          "_id": "6abe87be59582f0d06639e39",
+          "name": "Milad Yazdani",
+          "hidden": false
+        },
+        {
+          "_id": "6abe87be59582f0d06639e3a",
+          "name": "Yaser Souri",
+          "hidden": false
+        },
+        {
+          "_id": "6abe87be59582f0d06639e3b",
+          "name": "Xiren Zhou",
+          "hidden": false
+        },
+        {
+          "_id": "6abe87be59582f0d06639e3c",
+          "name": "Pranit Chawla",
+          "hidden": false
+        },
+        {
+          "_id": "6abe87be59582f0d06639e3d",
+          "name": "Dena Shahriari",
+          "hidden": false
+        },
+        {
+          "_id": "6abe87be59582f0d06639e3e",
+          "name": "Subhojit Som",
+          "hidden": false
+        },
+        {
+          "_id": "6abe87be59582f0d06639e3f",
+          "name": "Xia Song",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "Rubric Rewards from Item Response Theory",
+      "submittedOnDailyBy": {
+        "_id": "624a82573571171191af5e60",
+        "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/tMIMn7oeSsDDpPuZ08co7.png",
+        "isPro": false,
+        "fullname": "Milad Yazdani",
+        "user": "Miladyz",
+        "type": "user",
+        "name": "Miladyz"
+      },
+      "summary": "Many language tasks have no single answer that can be checked automatically. Rubrics provide criteria for judging responses to these tasks. For reinforcement learning, the resulting verdicts must be combined into a scalar reward. A common approach sums the points assigned to satisfied criteria. Distinct verdict patterns can thus receive the same reward, and the fixed points encode how much each criterion should count, not how strongly its verdict distinguishes the current rollouts. Beyond this aggregation problem, judging the full rubric needs more judge requests as the criterion count grows. To address these limitations, Rubric Response Theory (RRT) measures quality and selects criteria when rubric criteria are monotone indicators of a shared target. Rather than adding assigned points, RRT uses a two parameter item response model that treats the verdict pattern as evidence about scalar quality specific to the rubric. Under this model, its likelihood score maximizes the local signal-to-noise ratio for quality. Its Response Parameter Network (RPN) reads the prompt and criterion text to predict criterion difficulty and discrimination. As the policy distribution changes during training, RRT uses online expectation maximization to update the RPN from current rollout verdicts. With Qwen3.5-4B as the policy, RRT's macro criterion score across Medical, Science, Rubrics as Rewards Science, and RubricBench is 1.7 points above that of group relative policy optimization (GRPO). On hard and very hard criteria in Medical and Science, RRT gains 2.8 to 5.6 points over GRPO. At half the criterion budget, adaptive Fisher selection with a frozen RPN keeps the macro criterion score across four datasets within 0.1 points of GRPO with full judging. These results show RRT can reduce judge requests while remaining competitive with GRPO.",
+      "upvotes": 10,
+      "discussionId": "6abe87bf59582f0d06639e40",
+      "githubRepo": "https://github.com/milad1378yz/rrt",
+      "githubRepoAddedBy": "user",
+      "githubStars": 4,
+      "organization": {
+        "_id": "5e6485f787403103f9f1055e",
+        "name": "microsoft",
+        "fullname": "Microsoft",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583646260758-5e64858c87403103f9f1055d.png"
+      }
+    },
+    "publishedAt": "2026-09-27T20:00:00.000Z",
+    "title": "Rubric Rewards from Item Response Theory",
+    "summary": "Many language tasks have no single answer that can be checked automatically. Rubrics provide criteria for judging responses to these tasks. For reinforcement learning, the resulting verdicts must be combined into a scalar reward. A common approach sums the points assigned to satisfied criteria. Distinct verdict patterns can thus receive the same reward, and the fixed points encode how much each criterion should count, not how strongly its verdict distinguishes the current rollouts. Beyond this aggregation problem, judging the full rubric needs more judge requests as the criterion count grows. To address these limitations, Rubric Response Theory (RRT) measures quality and selects criteria when rubric criteria are monotone indicators of a shared target. Rather than adding assigned points, RRT uses a two parameter item response model that treats the verdict pattern as evidence about scalar quality specific to the rubric. Under this model, its likelihood score maximizes the local signal-to-noise ratio for quality. Its Response Parameter Network (RPN) reads the prompt and criterion text to predict criterion difficulty and discrimination. As the policy distribution changes during training, RRT uses online expectation maximization to update the RPN from current rollout verdicts. With Qwen3.5-4B as the policy, RRT's macro criterion score across Medical, Science, Rubrics as Rewards Science, and RubricBench is 1.7 points above that of group relative policy optimization (GRPO). On hard and very hard criteria in Medical and Science, RRT gains 2.8 to 5.6 points over GRPO. At half the criterion budget, adaptive Fisher selection with a frozen RPN keeps the macro criterion score across four datasets within 0.1 points of GRPO with full judging. These results show RRT can reduce judge requests while remaining competitive with GRPO.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.35646.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "624a82573571171191af5e60",
+      "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/tMIMn7oeSsDDpPuZ08co7.png",
+      "fullname": "Milad Yazdani",
+      "name": "Miladyz",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "5e6485f787403103f9f1055e",
+      "name": "microsoft",
+      "fullname": "Microsoft",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583646260758-5e64858c87403103f9f1055d.png"
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.39344",
+      "authors": [
+        {
+          "_id": "6abe097ee72b9347146b2aa5",
+          "user": {
+            "_id": "68c2c971853b3c7764f2d79e",
+            "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/68c2c971853b3c7764f2d79e/pFQNy6h1TwLTLIV62JB3Q.jpeg",
+            "isPro": false,
+            "fullname": "Shantanu",
+            "user": "shancn7",
+            "type": "user",
+            "name": "shancn7"
+          },
+          "name": "Shantanu Vispute",
+          "status": "claimed_verified",
+          "statusLastChangedAt": "2026-10-01T13:44:34.619Z",
+          "hidden": false
+        },
+        {
+          "_id": "6abe097ee72b9347146b2aa6",
+          "name": "Aditya Mishra",
+          "hidden": false
+        },
+        {
+          "_id": "6abe097ee72b9347146b2aa7",
+          "name": "Siddhartha Saxena",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "Who Said What, and Will It Be Remembered? Evaluating Persistent Speaker Attribution Across Meetings",
+      "submittedOnDailyBy": {
+        "_id": "68c2c971853b3c7764f2d79e",
+        "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/68c2c971853b3c7764f2d79e/pFQNy6h1TwLTLIV62JB3Q.jpeg",
+        "isPro": false,
+        "fullname": "Shantanu",
+        "user": "shancn7",
+        "type": "user",
+        "name": "shancn7"
+      },
+      "summary": "Speech transcripts used as long-term memory must preserve both words and stable speaker identities. Existing meeting-transcription metrics either ignore speakers or remap anonymous speakers independently in each recording, so they cannot measure whether the same person retains one identity across meetings. We evaluate persistent speaker attribution with Speaker Identified cpWER (SI-cpWER), which scores a corpus under one global speaker-ID assignment. The benchmark covers five commercial diarize-then-identify cascades, two open academic baselines, and ThyVoice on the full 129-meeting CHiME-8 NOTSOFAR evaluation set in clean and noiseaugmented form, plus CHiME-6. ThyVoice is our end-to-end reference system; it repairs overlap and gates the evidence used to create and update voiceprints. Requiring persistent identity changes the commercial ranking: ThyVoice records lower SI-cpWER than every evaluated commercial cascade in all three conditions and the lowest mean in the full panel, 47.13 versus 54.75 for the next system. Complementary lexical, diarization, per-recording attribution, and speaker-clustering diagnostics characterize upstream error surfaces in the final attributed record. These results show why persistent attribution must be evaluated directly in systems that reuse conversations across time.",
+      "upvotes": 2,
+      "discussionId": "6abe097ee72b9347146b2aa8"
+    },
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "title": "Who Said What, and Will It Be Remembered? Evaluating Persistent Speaker Attribution Across Meetings",
+    "summary": "Speech transcripts used as long-term memory must preserve both words and stable speaker identities. Existing meeting-transcription metrics either ignore speakers or remap anonymous speakers independently in each recording, so they cannot measure whether the same person retains one identity across meetings. We evaluate persistent speaker attribution with Speaker Identified cpWER (SI-cpWER), which scores a corpus under one global speaker-ID assignment. The benchmark covers five commercial diarize-then-identify cascades, two open academic baselines, and ThyVoice on the full 129-meeting CHiME-8 NOTSOFAR evaluation set in clean and noiseaugmented form, plus CHiME-6. ThyVoice is our end-to-end reference system; it repairs overlap and gates the evidence used to create and update voiceprints. Requiring persistent identity changes the commercial ranking: ThyVoice records lower SI-cpWER than every evaluated commercial cascade in all three conditions and the lowest mean in the full panel, 47.13 versus 54.75 for the next system. Complementary lexical, diarization, per-recording attribution, and speaker-clustering diagnostics characterize upstream error surfaces in the final attributed record. These results show why persistent attribution must be evaluated directly in systems that reuse conversations across time.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.39344.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "68c2c971853b3c7764f2d79e",
+      "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/68c2c971853b3c7764f2d79e/pFQNy6h1TwLTLIV62JB3Q.jpeg",
+      "fullname": "Shantanu",
+      "name": "shancn7",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "isAuthorParticipating": true
+  },
+  {
+    "paper": {
+      "id": "2609.40195",
+      "authors": [
+        {
+          "_id": "6abe81de59582f0d06639e1d",
+          "user": {
+            "_id": "657e56d11e3e9c41a4a57d2c",
+            "avatarUrl": "/avatars/1a6e7cff2693e1523f87ad24f4529872.svg",
+            "isPro": false,
+            "fullname": "Guangzhi Xiong",
+            "user": "gzxiong",
+            "type": "user",
+            "name": "gzxiong"
+          },
+          "name": "Guangzhi Xiong",
+          "status": "claimed_verified",
+          "statusLastChangedAt": "2026-10-01T16:45:05.143Z",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e1e",
+          "name": "Xinyuan Zhang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e1f",
+          "name": "Xiao Yang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e20",
+          "name": "Hyokun Yun",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e21",
+          "name": "Kai Zhang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e22",
+          "name": "Shiun-Zu Kuo",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e23",
+          "name": "Hyeonjeong Ha",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e24",
+          "name": "Xilun Chen",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e25",
+          "name": "Kai Sun",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e26",
+          "name": "Lucas Liang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e27",
+          "name": "Guangqiang Dong",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e28",
+          "name": "Ejaz Ahmed",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e29",
+          "name": "Ahmed A Aly",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e2a",
+          "name": "Anuj Kumar",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e2b",
+          "name": "Raffay Hamid",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e2c",
+          "name": "Aidong Zhang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe81de59582f0d06639e2d",
+          "name": "Xin Luna Dong",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "MemLife: Curating and Reasoning over Long-Term Egocentric Video Memories",
+      "submittedOnDailyBy": {
+        "_id": "657e56d11e3e9c41a4a57d2c",
+        "avatarUrl": "/avatars/1a6e7cff2693e1523f87ad24f4529872.svg",
+        "isPro": false,
+        "fullname": "Guangzhi Xiong",
+        "user": "gzxiong",
+        "type": "user",
+        "name": "gzxiong"
+      },
+      "summary": "Long-term egocentric video enables personalized AI assistants to reason about daily life. However, as video histories grow to hundreds of hours spanning months or years, reprocessing raw clips for every query becomes computationally prohibitive. Memory systems offer a scalable alternative by compacting videos into text representations, but often fail on practical benchmarks: either the memory does not preserve key evidence, or the retriever fails to locate relevant entries due to retrieval competition in growing search spaces. To address these challenges, we introduce MemLife, a multimodal memory system that constructs entity-grounded, first-person text episodes and retrieves them via a time-indexed agentic reader. Without training or query-time video access, MemLife improves over the strongest training-free baseline by 4.6--12.0% across four long-horizon benchmarks. To further improve memory quality, we propose MemOpt, a reinforcement learning framework that optimizes the memory writer to produce faithful, informative, and retrievable memories. MemOpt consistently improves MemLife by 2.7--5.0% across different video and question distributions, with gains that generalize across writer and reader backbones and memory systems.",
+      "upvotes": 2,
+      "discussionId": "6abe81de59582f0d06639e2e",
+      "organization": {
+        "_id": "6a78cbce04f58391d2d7c93b",
+        "name": "meta",
+        "fullname": "Meta",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Yq_gbM7i78tR3nfEvcwSA.png"
+      }
+    },
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "title": "MemLife: Curating and Reasoning over Long-Term Egocentric Video Memories",
+    "summary": "Long-term egocentric video enables personalized AI assistants to reason about daily life. However, as video histories grow to hundreds of hours spanning months or years, reprocessing raw clips for every query becomes computationally prohibitive. Memory systems offer a scalable alternative by compacting videos into text representations, but often fail on practical benchmarks: either the memory does not preserve key evidence, or the retriever fails to locate relevant entries due to retrieval competition in growing search spaces. To address these challenges, we introduce MemLife, a multimodal memory system that constructs entity-grounded, first-person text episodes and retrieves them via a time-indexed agentic reader. Without training or query-time video access, MemLife improves over the strongest training-free baseline by 4.6--12.0% across four long-horizon benchmarks. To further improve memory quality, we propose MemOpt, a reinforcement learning framework that optimizes the memory writer to produce faithful, informative, and retrievable memories. MemOpt consistently improves MemLife by 2.7--5.0% across different video and question distributions, with gains that generalize across writer and reader backbones and memory systems.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.40195.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "657e56d11e3e9c41a4a57d2c",
+      "avatarUrl": "/avatars/1a6e7cff2693e1523f87ad24f4529872.svg",
+      "fullname": "Guangzhi Xiong",
+      "name": "gzxiong",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "6a78cbce04f58391d2d7c93b",
+      "name": "meta",
+      "fullname": "Meta",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Yq_gbM7i78tR3nfEvcwSA.png"
+    },
+    "isAuthorParticipating": true
+  },
+  {
+    "paper": {
+      "id": "2609.34736",
+      "authors": [
+        {
+          "_id": "6abe56faab9e64aaa807142d",
+          "name": "Vasilis Perifanis",
+          "hidden": false
+        },
+        {
+          "_id": "6abe56faab9e64aaa807142e",
+          "user": {
+            "_id": "64e8f202f09eea562e02c08d",
+            "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/uqKV1NhuLZX5Xk9cGVGex.png",
+            "isPro": false,
+            "fullname": "Nikolaos Pavlidis",
+            "user": "nikopavl",
+            "type": "user",
+            "name": "nikopavl"
+          },
+          "name": "Nikolaos Pavlidis",
+          "status": "claimed_verified",
+          "statusLastChangedAt": "2026-10-01T13:43:30.803Z",
+          "hidden": false
+        },
+        {
+          "_id": "6abe56faab9e64aaa807142f",
+          "name": "Symeon Symeonidis",
+          "hidden": false
+        }
+      ],
+      "mediaUrls": [
+        "https://cdn-uploads.huggingface.co/production/uploads/64e8f202f09eea562e02c08d/f8_22miX6HotdYwe21gJf.png"
+      ],
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "SeLMRoute: Probabilistic Semantic Evidence for Large Language Model Routing",
+      "submittedOnDailyBy": {
+        "_id": "64e8f202f09eea562e02c08d",
+        "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/uqKV1NhuLZX5Xk9cGVGex.png",
+        "isPro": false,
+        "fullname": "Nikolaos Pavlidis",
+        "user": "nikopavl",
+        "type": "user",
+        "name": "nikopavl"
+      },
+      "summary": "Large language model (LLM) routing aims to select the most suitable model for each incoming query. Most existing routers learn this decision directly from query embeddings, model representations, preference data, or clusters of similar examples. Such approaches can be effective, yet the representation used for routing rarely states what a query actually requires. We introduce SeLMRoute, a routing framework that separates the extraction of candidate-independent semantic evidence from the learning of candidate performance and the application of deployment objectives. A decision model first evaluates a set of interpretable questions about the query, such as its reasoning requirements and use of external knowledge, with each judgment retained as a probability distribution. The resulting probabilistic semantic state is used by a lightweight supervised router to estimate candidate model performance. Routing objectives are applied after performance estimation, which allows the same semantic state to support performance-oriented and cost-aware decisions. On the LLMRouterBench (15 datasets, 20 candidate models, 11,481 queries), SeLMRoute achieves an average accuracy of 72.08% pm 0.45, while grouped five-fold out-of-fold evaluation reaches 72.64%, compared with 69.23% for the strongest fixed candidate. The representation achieves the highest mean performance among the evaluated semantic, dense, lexical, and domain-level representations. In a separate 13-model performance-cost setting, SeLMRoute improves performance in all five grouped splits, with a mean PerfGain of 2.66%. Our code is available at https://github.com/Indigma-Innovations/SeLMRoute.",
+      "upvotes": 5,
+      "discussionId": "6abe56faab9e64aaa8071430",
+      "githubRepo": "https://github.com/Indigma-Innovations/SeLMRoute",
+      "githubRepoAddedBy": "user",
+      "githubStars": 0,
+      "organization": {
+        "_id": "6abe564c3f9019f9ca713a07",
+        "name": "Indigma",
+        "fullname": "Indigma Innovations",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64e8f202f09eea562e02c08d/fRSbUx-Hulu1KayHGHMjT.png"
+      }
+    },
+    "publishedAt": "2026-09-27T20:00:00.000Z",
+    "title": "SeLMRoute: Probabilistic Semantic Evidence for Large Language Model Routing",
+    "summary": "Large language model (LLM) routing aims to select the most suitable model for each incoming query. Most existing routers learn this decision directly from query embeddings, model representations, preference data, or clusters of similar examples. Such approaches can be effective, yet the representation used for routing rarely states what a query actually requires. We introduce SeLMRoute, a routing framework that separates the extraction of candidate-independent semantic evidence from the learning of candidate performance and the application of deployment objectives. A decision model first evaluates a set of interpretable questions about the query, such as its reasoning requirements and use of external knowledge, with each judgment retained as a probability distribution. The resulting probabilistic semantic state is used by a lightweight supervised router to estimate candidate model performance. Routing objectives are applied after performance estimation, which allows the same semantic state to support performance-oriented and cost-aware decisions. On the LLMRouterBench (15 datasets, 20 candidate models, 11,481 queries), SeLMRoute achieves an average accuracy of 72.08% pm 0.45, while grouped five-fold out-of-fold evaluation reaches 72.64%, compared with 69.23% for the strongest fixed candidate. The representation achieves the highest mean performance among the evaluated semantic, dense, lexical, and domain-level representations. In a separate 13-model performance-cost setting, SeLMRoute improves performance in all five grouped splits, with a mean PerfGain of 2.66%. Our code is available at https://github.com/Indigma-Innovations/SeLMRoute.",
+    "mediaUrls": [
+      "https://cdn-uploads.huggingface.co/production/uploads/64e8f202f09eea562e02c08d/f8_22miX6HotdYwe21gJf.png"
+    ],
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.34736.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "64e8f202f09eea562e02c08d",
+      "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/uqKV1NhuLZX5Xk9cGVGex.png",
+      "fullname": "Nikolaos Pavlidis",
+      "name": "nikopavl",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "followerCount": 1,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "6abe564c3f9019f9ca713a07",
+      "name": "Indigma",
+      "fullname": "Indigma Innovations",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64e8f202f09eea562e02c08d/fRSbUx-Hulu1KayHGHMjT.png"
+    },
+    "isAuthorParticipating": true
+  },
+  {
+    "paper": {
+      "id": "2609.38716",
+      "authors": [
+        {
+          "_id": "6abe7577ab9e64aaa8071522",
+          "name": "Rafi Ibn Sultan",
+          "hidden": false
+        },
+        {
+          "_id": "6abe7577ab9e64aaa8071523",
+          "name": "Xiangyu Zhou",
+          "hidden": false
+        },
+        {
+          "_id": "6abe7577ab9e64aaa8071524",
+          "name": "Md. Sajid Alam Chowdhury",
+          "hidden": false
+        },
+        {
+          "_id": "6abe7577ab9e64aaa8071525",
+          "name": "Chengyin Li",
+          "hidden": false
+        },
+        {
+          "_id": "6abe7577ab9e64aaa8071526",
+          "name": "Prashant Khanduri",
+          "hidden": false
+        },
+        {
+          "_id": "6abe7577ab9e64aaa8071527",
+          "name": "Marco Brocanelli",
+          "hidden": false
+        },
+        {
+          "_id": "6abe7577ab9e64aaa8071528",
+          "name": "Dongxiao Zhu",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "SpatialCORE: Confidence-Aware Grounded Spatial Reasoning in Large Vision--Language Models",
+      "submittedOnDailyBy": {
+        "_id": "667b160320887e69a0302748",
+        "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/MV0mW6ax-q8MzoIYt6FZk.png",
+        "isPro": false,
+        "fullname": "Rafi Ibn Sultan",
+        "user": "rafiibnsultan",
+        "type": "user",
+        "name": "rafiibnsultan"
+      },
+      "summary": "Large Vision-Language Models (LVLMs) have made remarkable progress across visual perception tasks, yet spatial reasoning remains a persistent weakness, especially for questions that require reasoning over visual space. Recent spatial-reasoning methods incorporate generated grounding, where models predict bounding boxes, masks, or other localization outputs for task-relevant objects as part of their reasoning trace. However, these approaches typically optimize final-answer correctness alone, allowing correct answers to be rewarded even when the model does not reason from confidently localized task-relevant objects. We introduce SpatialCORE (Spatially COnfident REasoning), a post-training framework that turns the model's own confidence in generated grounding into a learning signal for spatial reasoning. Its central idea is to reinforce grounding that is both accurate and confident, encouraging the model to reason from confidently localized task-relevant objects. SpatialCORE realizes this through a self-regulating spatial reward that weights each predicted bounding box's matching quality by its coordinate-token confidence. An answer gate further ties grounding optimization to final-answer correctness. SpatialCORE achieves state-of-the-art results among open-source and specialized spatial reasoning models across diverse benchmarks, and transfers effectively in zero-shot settings to unseen data distributions. The source code is available at https://github.com/rafiibnsultan/SpatialCORE.",
+      "upvotes": 3,
+      "discussionId": "6abe7577ab9e64aaa8071529",
+      "githubRepo": "https://github.com/rafiibnsultan/SpatialCORE",
+      "githubRepoAddedBy": "user",
+      "githubStars": 0
+    },
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "title": "SpatialCORE: Confidence-Aware Grounded Spatial Reasoning in Large Vision--Language Models",
+    "summary": "Large Vision-Language Models (LVLMs) have made remarkable progress across visual perception tasks, yet spatial reasoning remains a persistent weakness, especially for questions that require reasoning over visual space. Recent spatial-reasoning methods incorporate generated grounding, where models predict bounding boxes, masks, or other localization outputs for task-relevant objects as part of their reasoning trace. However, these approaches typically optimize final-answer correctness alone, allowing correct answers to be rewarded even when the model does not reason from confidently localized task-relevant objects. We introduce SpatialCORE (Spatially COnfident REasoning), a post-training framework that turns the model's own confidence in generated grounding into a learning signal for spatial reasoning. Its central idea is to reinforce grounding that is both accurate and confident, encouraging the model to reason from confidently localized task-relevant objects. SpatialCORE realizes this through a self-regulating spatial reward that weights each predicted bounding box's matching quality by its coordinate-token confidence. An answer gate further ties grounding optimization to final-answer correctness. SpatialCORE achieves state-of-the-art results among open-source and specialized spatial reasoning models across diverse benchmarks, and transfers effectively in zero-shot settings to unseen data distributions. The source code is available at https://github.com/rafiibnsultan/SpatialCORE.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.38716.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "667b160320887e69a0302748",
+      "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/MV0mW6ax-q8MzoIYt6FZk.png",
+      "fullname": "Rafi Ibn Sultan",
+      "name": "rafiibnsultan",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.38653",
+      "authors": [
+        {
+          "_id": "6abe7562ab9e64aaa807151b",
+          "name": "Merkourios Simos",
+          "hidden": false
+        },
+        {
+          "_id": "6abe7562ab9e64aaa807151c",
+          "name": "Chengkun Li",
+          "hidden": false
+        },
+        {
+          "_id": "6abe7562ab9e64aaa807151d",
+          "name": "Bianca Ziliotto",
+          "hidden": false
+        },
+        {
+          "_id": "6abe7562ab9e64aaa807151e",
+          "name": "Alexander Mathis",
+          "hidden": false
+        }
+      ],
+      "mediaUrls": [
+        "https://cdn-uploads.huggingface.co/production/uploads/64623812d9b49021880ebab1/_fwf-LzPVdDD45HZP7-2d.mp4"
+      ],
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "TERRA: Terrain-Aware Reconstruction, Retargeting and Control for Musculoskeletal Locomotion",
+      "submittedOnDailyBy": {
+        "_id": "64623812d9b49021880ebab1",
+        "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/64623812d9b49021880ebab1/iCGpUSxe5LmsuDTMn2LU_.jpeg",
+        "isPro": false,
+        "fullname": "Chengkun Li",
+        "user": "chengkunli",
+        "type": "user",
+        "name": "chengkunli"
+      },
+      "summary": "Recent advances in musculoskeletal modeling and reinforcement learning have enabled muscle-actuated agents to reproduce increasingly complex human motions. Yet these capabilities remain largely confined to flat ground, in part because motion datasets rarely include aligned terrain geometry and because retargeting terrain interactions to complex musculoskeletal bodies is challenging. We present TERRA, an end-to-end pipeline for terrain-aware retargeting and control of musculoskeletal locomotion. From kinematic trajectories alone, TERRA combines terrain priors, estimated contacts, and negative free-space evidence to recover task-relevant support geometry. TERRA further considers anatomical, tendon-continuity, and contact constraints during retargeting. Using the resulting motion-terrain pairs from five datasets, we successfully train a single muscle-actuated control policy on 9.4 hours of diverse locomotion. Across reconstruction, retargeting, and held-out tracking benchmarks, TERRA improves terrain accuracy, sharply reduces anatomical and interaction violations, and achieves the highest observed completion rate over supported terrain families. Overall, TERRA provides a practical route from scene-less motion data to muscle-actuated locomotion over diverse non-flat terrain. Project website: https://cnai.epfl.ch/terra/",
+      "upvotes": 30,
+      "discussionId": "6abe7562ab9e64aaa807151f",
+      "projectPage": "https://cnai.epfl.ch/terra/",
+      "githubRepo": "https://github.com/amathislab/terra",
+      "githubRepoAddedBy": "user",
+      "githubStars": 6,
+      "organization": {
+        "_id": "66473f1a3464de0c08a82ff9",
+        "name": "amathislab",
+        "fullname": "Mathis Group @ EPFL",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6291f83756fedc76e394493d/-4JZNZOUC88l6kpppZ31P.png"
+      }
+    },
+    "publishedAt": "2026-09-28T20:00:00.000Z",
+    "title": "TERRA: Terrain-Aware Reconstruction, Retargeting and Control for Musculoskeletal Locomotion",
+    "summary": "Recent advances in musculoskeletal modeling and reinforcement learning have enabled muscle-actuated agents to reproduce increasingly complex human motions. Yet these capabilities remain largely confined to flat ground, in part because motion datasets rarely include aligned terrain geometry and because retargeting terrain interactions to complex musculoskeletal bodies is challenging. We present TERRA, an end-to-end pipeline for terrain-aware retargeting and control of musculoskeletal locomotion. From kinematic trajectories alone, TERRA combines terrain priors, estimated contacts, and negative free-space evidence to recover task-relevant support geometry. TERRA further considers anatomical, tendon-continuity, and contact constraints during retargeting. Using the resulting motion-terrain pairs from five datasets, we successfully train a single muscle-actuated control policy on 9.4 hours of diverse locomotion. Across reconstruction, retargeting, and held-out tracking benchmarks, TERRA improves terrain accuracy, sharply reduces anatomical and interaction violations, and achieves the highest observed completion rate over supported terrain families. Overall, TERRA provides a practical route from scene-less motion data to muscle-actuated locomotion over diverse non-flat terrain. Project website: https://cnai.epfl.ch/terra/",
+    "mediaUrls": [
+      "https://cdn-uploads.huggingface.co/production/uploads/64623812d9b49021880ebab1/_fwf-LzPVdDD45HZP7-2d.mp4"
+    ],
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.38653.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "64623812d9b49021880ebab1",
+      "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/64623812d9b49021880ebab1/iCGpUSxe5LmsuDTMn2LU_.jpeg",
+      "fullname": "Chengkun Li",
+      "name": "chengkunli",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "followerCount": 9,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "66473f1a3464de0c08a82ff9",
+      "name": "amathislab",
+      "fullname": "Mathis Group @ EPFL",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6291f83756fedc76e394493d/-4JZNZOUC88l6kpppZ31P.png"
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.34563",
+      "authors": [
+        {
+          "_id": "6abe741fab9e64aaa807150b",
+          "name": "Xi Xiao",
+          "hidden": false
+        },
+        {
+          "_id": "6abe741fab9e64aaa807150c",
+          "name": "Tianchen Zhao",
+          "hidden": false
+        },
+        {
+          "_id": "6abe741fab9e64aaa807150d",
+          "name": "Youngeun Kim",
+          "hidden": false
+        },
+        {
+          "_id": "6abe741fab9e64aaa807150e",
+          "name": "Zhuowei Li",
+          "hidden": false
+        },
+        {
+          "_id": "6abe741fab9e64aaa807150f",
+          "name": "Linghan Xu",
+          "hidden": false
+        },
+        {
+          "_id": "6abe741fab9e64aaa8071510",
+          "name": "Jiaye Wu",
+          "hidden": false
+        },
+        {
+          "_id": "6abe741fab9e64aaa8071511",
+          "name": "Zheng Zhang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe741fab9e64aaa8071512",
+          "name": "Xiang Xu",
+          "hidden": false
+        },
+        {
+          "_id": "6abe741fab9e64aaa8071513",
+          "name": "Xuanbai Chen",
+          "hidden": false
+        },
+        {
+          "_id": "6abe741fab9e64aaa8071514",
+          "name": "Farhan Tejani",
+          "hidden": false
+        },
+        {
+          "_id": "6abe741fab9e64aaa8071515",
+          "name": "Jakub Zablocki",
+          "hidden": false
+        },
+        {
+          "_id": "6abe741fab9e64aaa8071516",
+          "name": "Julia Xu",
+          "hidden": false
+        },
+        {
+          "_id": "6abe741fab9e64aaa8071517",
+          "name": "Yifan Xing",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence",
+      "submittedOnDailyBy": {
+        "_id": "693a124abfa82959346806ba",
+        "avatarUrl": "/avatars/b63951ec4b5f442c82c84f5f1abee12a.svg",
+        "isPro": false,
+        "fullname": "Xi Xiao",
+        "user": "MarkShaw99",
+        "type": "user",
+        "name": "MarkShaw99"
+      },
+      "summary": "Latent visual reasoning (LVR) enables multimodal large language models (MLLMs) to perform intermediate computation in continuous latent tokens rather than expressing every reasoning step in words. However, unlike textual CoT, latent reasoning is not directly observable, making it difficult to supervise what latent tokens learn. In this work, we first conduct a thorough analysis of latent-token behavior and identify a latent evidence-credit gap: latent tokens respond only weakly to image perturbations that alter the correct answer. We hypothesize that this issue stems from the lack of explicit supervision during GRPO training. These findings suggest that a final-answer reward provides too little guidance on what visual evidence to preserve or how credit should be assigned across latent tokens. To bridge this gap, we propose ReaLVR, which brings visual-evidence supervision to the model's own free-running latent trajectories. ReaLVR contrasts correct and model-generated wrong answers to determine where stronger supervision is needed, and relevant and mismatched visual evidence to specify what to preserve. Across three model families, ReaLVR consistently outperforms evaluated LVR baselines, achieving the highest five-task average of 63.7% on Qwen2.5-VL-7B. Crucially, we are the first to scale visual reasoning in latent space, showing that our framework continues to deliver robust improvements at frontier model scales up to 235B. Further analyses show more question-sensitive latent-token positions, stronger alignment with relevant visual regions, and greater fixed-context dependence on the most attended latent tokens.",
+      "upvotes": 202,
+      "discussionId": "6abe741fab9e64aaa8071518",
+      "projectPage": "https://xixiaouab.github.io/projects/ReaLVR/",
+      "githubRepo": "https://github.com/xixiaouab/ReaLVR-code",
+      "githubRepoAddedBy": "user",
+      "githubStars": 7,
+      "organization": {
+        "_id": "5ffdfbadbba2ae614d771970",
+        "name": "amazon",
+        "fullname": "Amazon",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/66f19ed428ae41c20c470792/8y7msN6A6W82LdQhQd85a.png"
+      }
+    },
+    "publishedAt": "2026-09-27T20:00:00.000Z",
+    "title": "Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence",
+    "summary": "Latent visual reasoning (LVR) enables multimodal large language models (MLLMs) to perform intermediate computation in continuous latent tokens rather than expressing every reasoning step in words. However, unlike textual CoT, latent reasoning is not directly observable, making it difficult to supervise what latent tokens learn. In this work, we first conduct a thorough analysis of latent-token behavior and identify a latent evidence-credit gap: latent tokens respond only weakly to image perturbations that alter the correct answer. We hypothesize that this issue stems from the lack of explicit supervision during GRPO training. These findings suggest that a final-answer reward provides too little guidance on what visual evidence to preserve or how credit should be assigned across latent tokens. To bridge this gap, we propose ReaLVR, which brings visual-evidence supervision to the model's own free-running latent trajectories. ReaLVR contrasts correct and model-generated wrong answers to determine where stronger supervision is needed, and relevant and mismatched visual evidence to specify what to preserve. Across three model families, ReaLVR consistently outperforms evaluated LVR baselines, achieving the highest five-task average of 63.7% on Qwen2.5-VL-7B. Crucially, we are the first to scale visual reasoning in latent space, showing that our framework continues to deliver robust improvements at frontier model scales up to 235B. Further analyses show more question-sensitive latent-token positions, stronger alignment with relevant visual regions, and greater fixed-context dependence on the most attended latent tokens.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.34563.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "693a124abfa82959346806ba",
+      "avatarUrl": "/avatars/b63951ec4b5f442c82c84f5f1abee12a.svg",
+      "fullname": "Xi Xiao",
+      "name": "MarkShaw99",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "5ffdfbadbba2ae614d771970",
+      "name": "amazon",
+      "fullname": "Amazon",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/66f19ed428ae41c20c470792/8y7msN6A6W82LdQhQd85a.png"
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.38717",
+      "authors": [
+        {
+          "_id": "6abe6df7ab9e64aaa80714d7",
+          "name": "Rafi Ibn Sultan",
+          "hidden": false
+        },
+        {
+          "_id": "6abe6df7ab9e64aaa80714d8",
+          "name": "Md. Sajid Alam Chowdhury",
+          "hidden": false
+        },
+        {
+          "_id": "6abe6df7ab9e64aaa80714d9",
+          "name": "Saleh Zare Zade",
+          "hidden": false
+        },
+        {
+          "_id": "6abe6df7ab9e64aaa80714da",
+          "name": "Chengyin Li",
+          "hidden": false
+        },
+        {
+          "_id": "6abe6df7ab9e64aaa80714db",
+          "name": "Prashant Khanduri",
+          "hidden": false
+        },
+        {
+          "_id": "6abe6df7ab9e64aaa80714dc",
+          "name": "Marco Brocanelli",
+          "hidden": false
+        },
+        {
+          "_id": "6abe6df7ab9e64aaa80714dd",
+          "name": "Dongxiao Zhu",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "Soft Spatial Reasoning",
+      "submittedOnDailyBy": {
+        "_id": "667b160320887e69a0302748",
+        "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/MV0mW6ax-q8MzoIYt6FZk.png",
+        "isPro": false,
+        "fullname": "Rafi Ibn Sultan",
+        "user": "rafiibnsultan",
+        "type": "user",
+        "name": "rafiibnsultan"
+      },
+      "summary": "Large Vision-Language Models (LVLMs) commonly perform spatial reasoning through chain-of-thought (CoT), encoding intermediate reasoning as autoregressive sequences of discrete language tokens. Such hard thinking requires committing to a single token at each step, even when the correct spatial interpretation remains uncertain. This early commitment constitutes premature discretization: an incorrect token selection can propagate errors through subsequent reasoning. We propose Soft Spatial Reasoning, a post-training framework that introduces soft thinking for spatial tasks in LVLMs. At each intermediate reasoning step, the LVLM forms a continuous soft state by mixing token embeddings rather than selecting a single token, allowing multiple candidate continuations to influence the next step. The appropriate degree of softness, however, can vary across reasoning steps: retaining multiple candidates may preserve a useful spatial interpretation, but if those candidates imply conflicting spatial relations, mixing them may interfere with subsequent reasoning. At the core of Soft Spatial Reasoning is AdaptSoft, a controller that uses the current hidden state and predictive uncertainty to adapt the degree of softness at each reasoning step. To train AdaptSoft, we introduce a gradient-alignment learning objective that provides a step-specific learning signal for softness control without intermediate reasoning supervision. Across diverse spatial benchmarks, Soft Spatial Reasoning outperforms hard and fixed-soft CoT baselines using the same backbone, as well as a range of existing LVLMs. The source code is available at https://github.com/rafiibnsultan/Soft_Spatial_Reasoning",
+      "upvotes": 1,
+      "discussionId": "6abe6df7ab9e64aaa80714de",
+      "githubRepo": "https://github.com/rafiibnsultan/Soft_Spatial_Reasoning",
+      "githubRepoAddedBy": "user",
+      "githubStars": 0
+    },
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "title": "Soft Spatial Reasoning",
+    "summary": "Large Vision-Language Models (LVLMs) commonly perform spatial reasoning through chain-of-thought (CoT), encoding intermediate reasoning as autoregressive sequences of discrete language tokens. Such hard thinking requires committing to a single token at each step, even when the correct spatial interpretation remains uncertain. This early commitment constitutes premature discretization: an incorrect token selection can propagate errors through subsequent reasoning. We propose Soft Spatial Reasoning, a post-training framework that introduces soft thinking for spatial tasks in LVLMs. At each intermediate reasoning step, the LVLM forms a continuous soft state by mixing token embeddings rather than selecting a single token, allowing multiple candidate continuations to influence the next step. The appropriate degree of softness, however, can vary across reasoning steps: retaining multiple candidates may preserve a useful spatial interpretation, but if those candidates imply conflicting spatial relations, mixing them may interfere with subsequent reasoning. At the core of Soft Spatial Reasoning is AdaptSoft, a controller that uses the current hidden state and predictive uncertainty to adapt the degree of softness at each reasoning step. To train AdaptSoft, we introduce a gradient-alignment learning objective that provides a step-specific learning signal for softness control without intermediate reasoning supervision. Across diverse spatial benchmarks, Soft Spatial Reasoning outperforms hard and fixed-soft CoT baselines using the same backbone, as well as a range of existing LVLMs. The source code is available at https://github.com/rafiibnsultan/Soft_Spatial_Reasoning",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.38717.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "667b160320887e69a0302748",
+      "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/MV0mW6ax-q8MzoIYt6FZk.png",
+      "fullname": "Rafi Ibn Sultan",
+      "name": "rafiibnsultan",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.38854",
+      "authors": [
+        {
+          "_id": "6abe65f5ab9e64aaa80714b0",
+          "name": "Xu Wan",
+          "hidden": false
+        },
+        {
+          "_id": "6abe65f5ab9e64aaa80714b1",
+          "name": "Wenyue Xu",
+          "hidden": false
+        },
+        {
+          "_id": "6abe65f5ab9e64aaa80714b2",
+          "name": "Shengjie Zhao",
+          "hidden": false
+        },
+        {
+          "_id": "6abe65f5ab9e64aaa80714b3",
+          "name": "Mingyang Sun",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "Mitigating the Length-Scaling Tax with Online Distillation",
+      "submittedOnDailyBy": {
+        "_id": "66da6555c1b41db982739497",
+        "avatarUrl": "/avatars/eaa2ddd88924b29afcca92f78ba2fdaf.svg",
+        "isPro": false,
+        "fullname": "XuWan",
+        "user": "Wanux",
+        "type": "user",
+        "name": "Wanux"
+      },
+      "summary": "Length scaling during reinforcement-learning (RL) post-training is often viewed as a sign of improved reasoning ability, especially on difficult problems, but may also make responses to already-solved problems unnecessarily verbose. We quantify this side effect as the length-scaling tax (LST): excess response length on already-solved queries without a commensurate accuracy gain. To mitigate LST, we propose Length Self-Distillation (LSD), which routes solved prompts to on-policy distillation and retains the original RL objective for unsolved prompts. LSD uses an exponential moving average of the online policy as its teacher, requiring no external model. We find that LSD achieves comparable or better performance than RL across multiple variants, while substantially curbing response-length growth on easy queries. LSD reduces LST from 19.0% to -3.7% on single-turn reasoning and from 31.4% to 13.7% on multi-turn agentic tasks, demonstrating that LSD effectively preserves concise response patterns on easy queries while supporting efficient exploration on difficult queries during RL post-training.",
+      "upvotes": 2,
+      "discussionId": "6abe65f5ab9e64aaa80714b4"
+    },
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "title": "Mitigating the Length-Scaling Tax with Online Distillation",
+    "summary": "Length scaling during reinforcement-learning (RL) post-training is often viewed as a sign of improved reasoning ability, especially on difficult problems, but may also make responses to already-solved problems unnecessarily verbose. We quantify this side effect as the length-scaling tax (LST): excess response length on already-solved queries without a commensurate accuracy gain. To mitigate LST, we propose Length Self-Distillation (LSD), which routes solved prompts to on-policy distillation and retains the original RL objective for unsolved prompts. LSD uses an exponential moving average of the online policy as its teacher, requiring no external model. We find that LSD achieves comparable or better performance than RL across multiple variants, while substantially curbing response-length growth on easy queries. LSD reduces LST from 19.0% to -3.7% on single-turn reasoning and from 31.4% to 13.7% on multi-turn agentic tasks, demonstrating that LSD effectively preserves concise response patterns on easy queries while supporting efficient exploration on difficult queries during RL post-training.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.38854.png",
+    "numComments": 0,
+    "submittedBy": {
+      "_id": "66da6555c1b41db982739497",
+      "avatarUrl": "/avatars/eaa2ddd88924b29afcca92f78ba2fdaf.svg",
+      "fullname": "XuWan",
+      "name": "Wanux",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.40295",
+      "authors": [
+        {
+          "_id": "6abe5ce1ab9e64aaa8071482",
+          "name": "Jenna Russell",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5ce1ab9e64aaa8071483",
+          "name": "Ben Glickenhaus",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5ce1ab9e64aaa8071484",
+          "name": "Katherine Thai",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5ce1ab9e64aaa8071485",
+          "name": "John Wieting",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5ce1ab9e64aaa8071486",
+          "name": "Mohit Iyyer",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5ce1ab9e64aaa8071487",
+          "name": "Max Spero",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5ce1ab9e64aaa8071488",
+          "name": "Bradley Emi",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "How Much Is an AI Token Worth? Scaling Laws for Wild AI-Generated Web Text",
+      "submittedOnDailyBy": {
+        "_id": "637519809ef4e3b87a5e88fb",
+        "avatarUrl": "/avatars/4465c9194c17f9b5e5a5a5e88d4a4656.svg",
+        "isPro": false,
+        "fullname": "Jenna Russell",
+        "user": "jjrussell10",
+        "type": "user",
+        "name": "jjrussell10"
+      },
+      "summary": "Web text makes up the majority of pretraining data and is increasingly AI-generated. After applying FineWeb quality filtering, we find that 27.5% of tokens from June 2026 web data are labeled as AI-generated by Pangram, rising to 31.1% by August. Unlike synthetic data or model-collapse setups, this *wild* AI text comes from many models, is written for human readers, and arrives unlabeled in pretraining corpora. How does AI text in the wild affect language model pretraining? To answer this question, we pretrain 800 language models, varying the ratio of added AI tokens to human tokens, and fit scaling laws to held-out losses on both human and AI-generated text. For data-starved models, adding AI tokens to pretraining data initially lowers loss on human text, but the benefit saturates as more are added and quickly *reverses* into harm. For models trained on high budgets of human text, AI tokens raise loss almost immediately, while the same number of fresh human tokens keeps lowering it. Scaling laws such as Hoffman et al. (2022) fail to predict this behavior. We propose a new scaling law with separate benefit and harm terms that allows the value of an AI token to change sign while also reducing to Chinchilla in the absence of AI text. When fit on smaller models, our scaling law predicts the effect of AI text on held-out human-text loss for models up to 3.6x larger with 41% lower error than the best existing law over all AI ratios. We recommend filtering AI text when the target is human text, repeating human text before expanding the training dataset with AI-generated web text, and reporting validation loss on human and AI text separately AI text remains valuable when the target is AI text. We release WildAI, an 83B-token corpus with AI, topic, and format labels, all 800 models and code at https://github.com/pangramlabs/WildAI.",
+      "upvotes": 2,
+      "discussionId": "6abe5ce1ab9e64aaa8071489",
+      "githubRepo": "https://github.com/pangramlabs/WildAI",
+      "githubRepoAddedBy": "user",
+      "githubStars": 0,
+      "organization": {
+        "_id": "69026d30326c9a2698acf24a",
+        "name": "pangram",
+        "fullname": "Pangram",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/635b0bb0d4f39b8175f3f141/1BfV_QJy0siBfxO-pmSXX.png"
+      }
+    },
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "title": "How Much Is an AI Token Worth? Scaling Laws for Wild AI-Generated Web Text",
+    "summary": "Web text makes up the majority of pretraining data and is increasingly AI-generated. After applying FineWeb quality filtering, we find that 27.5% of tokens from June 2026 web data are labeled as AI-generated by Pangram, rising to 31.1% by August. Unlike synthetic data or model-collapse setups, this *wild* AI text comes from many models, is written for human readers, and arrives unlabeled in pretraining corpora. How does AI text in the wild affect language model pretraining? To answer this question, we pretrain 800 language models, varying the ratio of added AI tokens to human tokens, and fit scaling laws to held-out losses on both human and AI-generated text. For data-starved models, adding AI tokens to pretraining data initially lowers loss on human text, but the benefit saturates as more are added and quickly *reverses* into harm. For models trained on high budgets of human text, AI tokens raise loss almost immediately, while the same number of fresh human tokens keeps lowering it. Scaling laws such as Hoffman et al. (2022) fail to predict this behavior. We propose a new scaling law with separate benefit and harm terms that allows the value of an AI token to change sign while also reducing to Chinchilla in the absence of AI text. When fit on smaller models, our scaling law predicts the effect of AI text on held-out human-text loss for models up to 3.6x larger with 41% lower error than the best existing law over all AI ratios. We recommend filtering AI text when the target is human text, repeating human text before expanding the training dataset with AI-generated web text, and reporting validation loss on human and AI text separately AI text remains valuable when the target is AI text. We release WildAI, an 83B-token corpus with AI, topic, and format labels, all 800 models and code at https://github.com/pangramlabs/WildAI.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.40295.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "637519809ef4e3b87a5e88fb",
+      "avatarUrl": "/avatars/4465c9194c17f9b5e5a5a5e88d4a4656.svg",
+      "fullname": "Jenna Russell",
+      "name": "jjrussell10",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "followerCount": 2,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "69026d30326c9a2698acf24a",
+      "name": "pangram",
+      "fullname": "Pangram",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/635b0bb0d4f39b8175f3f141/1BfV_QJy0siBfxO-pmSXX.png"
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.39938",
+      "authors": [
+        {
+          "_id": "6abe5a44ab9e64aaa8071473",
+          "name": "Juyi Lin",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5a44ab9e64aaa8071474",
+          "name": "Zhiqiang Lao",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5a44ab9e64aaa8071475",
+          "name": "Jiali Cui",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5a44ab9e64aaa8071476",
+          "name": "Lin Zhao",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5a44ab9e64aaa8071477",
+          "name": "Pu Zhao",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5a44ab9e64aaa8071478",
+          "name": "Dichang Zhang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5a44ab9e64aaa8071479",
+          "name": "Arman Akbari",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5a44ab9e64aaa807147a",
+          "name": "Yu Qi",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5a44ab9e64aaa807147b",
+          "name": "Xinru Jiang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5a44ab9e64aaa807147c",
+          "name": "Yanzhi Wang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5a44ab9e64aaa807147d",
+          "name": "Heather Yu",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5a44ab9e64aaa807147e",
+          "name": "Liang Peng",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "LEAP: Learned Block-wise Evidence Retrieval for Long Audio-Video Perception",
+      "submittedOnDailyBy": {
+        "_id": "62c7d60937b9200d052489bd",
+        "avatarUrl": "/avatars/bd1e72f0dd841ab2f63f9975e757a8b7.svg",
+        "isPro": false,
+        "fullname": "juyi",
+        "user": "juyil",
+        "type": "user",
+        "name": "juyil"
+      },
+      "summary": "Hour-scale audio-visual question answering is constrained by a context dilemma: dense whole-recording encoding rapidly exhausts context limits, whereas uniform temporal compression severely dilutes fine-grained acoustic and visual evidence. We introduce LEAP, a framework where the model retrieves its own evidence without placing the whole recording in one context. LEAP divides a recording into fixed-duration blocks, applying a lightweight localization pass to each block to score short candidate windows. The highest-ranked windows are pooled and re-encoded in a single bounded answer pass. Consequently, the answer input and peak context remain independent of the recording duration. By decoupling evidence localization from reasoning, our framework can localize candidate temporal windows over pre-computed transcripts without decoding media frames, while preserving fine-grained visual and non-speech evidence by routing the final answering pass over raw audio-visual streams. LEAP trains both stages: a localization LoRA improves the selected windows, and an answer LoRA improves the answers read from the same windows. The block grid natively supports causal queries, enabling LEAP to support streaming inference without streaming-specific training. Across several AVQA benchmarks, LEAP improves over the Qwen3-Omni-30B-A3B baseline by 4.5-16.8%, and transfers to a second omni-modal backbone, MiniCPM-o 4.5, surpassing its published results by 3.1-13.0%.",
+      "upvotes": 2,
+      "discussionId": "6abe5a44ab9e64aaa807147f"
+    },
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "title": "LEAP: Learned Block-wise Evidence Retrieval for Long Audio-Video Perception",
+    "summary": "Hour-scale audio-visual question answering is constrained by a context dilemma: dense whole-recording encoding rapidly exhausts context limits, whereas uniform temporal compression severely dilutes fine-grained acoustic and visual evidence. We introduce LEAP, a framework where the model retrieves its own evidence without placing the whole recording in one context. LEAP divides a recording into fixed-duration blocks, applying a lightweight localization pass to each block to score short candidate windows. The highest-ranked windows are pooled and re-encoded in a single bounded answer pass. Consequently, the answer input and peak context remain independent of the recording duration. By decoupling evidence localization from reasoning, our framework can localize candidate temporal windows over pre-computed transcripts without decoding media frames, while preserving fine-grained visual and non-speech evidence by routing the final answering pass over raw audio-visual streams. LEAP trains both stages: a localization LoRA improves the selected windows, and an answer LoRA improves the answers read from the same windows. The block grid natively supports causal queries, enabling LEAP to support streaming inference without streaming-specific training. Across several AVQA benchmarks, LEAP improves over the Qwen3-Omni-30B-A3B baseline by 4.5-16.8%, and transfers to a second omni-modal backbone, MiniCPM-o 4.5, surpassing its published results by 3.1-13.0%.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.39938.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "62c7d60937b9200d052489bd",
+      "avatarUrl": "/avatars/bd1e72f0dd841ab2f63f9975e757a8b7.svg",
+      "fullname": "juyi",
+      "name": "juyil",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.34276",
+      "authors": [
+        {
+          "_id": "6abdc922e72b9347146b255d",
+          "user": {
+            "_id": "6959f60dbd6e6aa13a963083",
+            "avatarUrl": "/avatars/5912b53f4d77b7a2589419fb918cdfe7.svg",
+            "isPro": false,
+            "fullname": "Xunyi Zhao",
+            "user": "billzhao1030",
+            "type": "user",
+            "name": "billzhao1030"
+          },
+          "name": "Xunyi Zhao",
+          "status": "claimed_verified",
+          "statusLastChangedAt": "2026-10-01T08:45:05.598Z",
+          "hidden": false
+        },
+        {
+          "_id": "6abdc922e72b9347146b255e",
+          "name": "Jian Zhou",
+          "hidden": false
+        },
+        {
+          "_id": "6abdc922e72b9347146b255f",
+          "name": "Sihao Lin",
+          "hidden": false
+        },
+        {
+          "_id": "6abdc922e72b9347146b2560",
+          "name": "Gengze Zhou",
+          "hidden": false
+        },
+        {
+          "_id": "6abdc922e72b9347146b2561",
+          "name": "Zerui Li",
+          "hidden": false
+        },
+        {
+          "_id": "6abdc922e72b9347146b2562",
+          "name": "Xinyu Yan",
+          "hidden": false
+        },
+        {
+          "_id": "6abdc922e72b9347146b2563",
+          "name": "Jiajun Liu",
+          "hidden": false
+        },
+        {
+          "_id": "6abdc922e72b9347146b2564",
+          "name": "Anton van den Hengel",
+          "hidden": false
+        },
+        {
+          "_id": "6abdc922e72b9347146b2565",
+          "name": "Qi Wu",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "NavHarness: Towards Lifelong Embodied Navigation",
+      "submittedOnDailyBy": {
+        "_id": "6959f60dbd6e6aa13a963083",
+        "avatarUrl": "/avatars/5912b53f4d77b7a2589419fb918cdfe7.svg",
+        "isPro": false,
+        "fullname": "Xunyi Zhao",
+        "user": "billzhao1030",
+        "type": "user",
+        "name": "billzhao1030"
+      },
+      "summary": "Frontier models can now perform well on individual embodied navigation tasks through multi-round multimodal reasoning with simple tools. Across successive tasks, however, an agent must also rely on an evolving map and earlier search records, both of which may be incomplete or conflict with new observations. We present NavHarness, a training-free embodied harness towards lifelong navigation that makes memory processing part of the navigation loop. During navigation, its multi-round agentic session draws on maps, task records, and house knowledge, checking them against observations and recording corrections to guide its actions. NavHarness preserves this experience across fresh conversations for new tasks or recovery attempts, while outcome verification and run-end summaries support its later reuse. On GOAT-Bench, NavHarness improves s-SR over context-only independent sessions by 18.6 points with Astra and 22.6 with Opus 5. Using SLAM-estimated poses, NavHarness with GPT-6 Astra achieves state-of-the-art task success of 83.7 s-SR with 36.9 e-SR on GOAT-Bench and 85.9 s-SR on IR2R-CE. To understand these gains, we examine how experience is carried between sessions and find that structured recovery handovers outperform length-matched summaries. In extended deployments across houses, consolidation improves navigation beyond retaining maps and task records, with case studies showing how agents use earlier experience to interpret new goals, investigate unresolved questions, and resume failed searches. We suggest that progress towards lifelong navigation depends on how successive reasoning sessions build on prior experience, alongside improvements in single-task capability.",
+      "upvotes": 3,
+      "discussionId": "6abdc922e72b9347146b2566",
+      "projectPage": "https://billzhao1030.github.io/NavHarness/",
+      "githubRepo": "https://github.com/billzhao1030/NavHarness",
+      "githubRepoAddedBy": "user",
+      "githubStars": 6
+    },
+    "publishedAt": "2026-09-27T20:00:00.000Z",
+    "title": "NavHarness: Towards Lifelong Embodied Navigation",
+    "summary": "Frontier models can now perform well on individual embodied navigation tasks through multi-round multimodal reasoning with simple tools. Across successive tasks, however, an agent must also rely on an evolving map and earlier search records, both of which may be incomplete or conflict with new observations. We present NavHarness, a training-free embodied harness towards lifelong navigation that makes memory processing part of the navigation loop. During navigation, its multi-round agentic session draws on maps, task records, and house knowledge, checking them against observations and recording corrections to guide its actions. NavHarness preserves this experience across fresh conversations for new tasks or recovery attempts, while outcome verification and run-end summaries support its later reuse. On GOAT-Bench, NavHarness improves s-SR over context-only independent sessions by 18.6 points with Astra and 22.6 with Opus 5. Using SLAM-estimated poses, NavHarness with GPT-6 Astra achieves state-of-the-art task success of 83.7 s-SR with 36.9 e-SR on GOAT-Bench and 85.9 s-SR on IR2R-CE. To understand these gains, we examine how experience is carried between sessions and find that structured recovery handovers outperform length-matched summaries. In extended deployments across houses, consolidation improves navigation beyond retaining maps and task records, with case studies showing how agents use earlier experience to interpret new goals, investigate unresolved questions, and resume failed searches. We suggest that progress towards lifelong navigation depends on how successive reasoning sessions build on prior experience, alongside improvements in single-task capability.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.34276.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "6959f60dbd6e6aa13a963083",
+      "avatarUrl": "/avatars/5912b53f4d77b7a2589419fb918cdfe7.svg",
+      "fullname": "Xunyi Zhao",
+      "name": "billzhao1030",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "isAuthorParticipating": true
+  },
+  {
+    "paper": {
+      "id": "2609.40359",
+      "authors": [
+        {
+          "_id": "6abe56f6ab9e64aaa8071428",
+          "name": "Dulhan Jayalath",
+          "hidden": false
+        },
+        {
+          "_id": "6abe56f6ab9e64aaa8071429",
+          "name": "Oiwi Parker Jones",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+      "submittedOnDailyBy": {
+        "_id": "672b79e99380700b60cd5c71",
+        "avatarUrl": "/avatars/46f79c736a49b2d6ab4339871eea698d.svg",
+        "isPro": false,
+        "fullname": "Dulhan Jayalath",
+        "user": "latentdulhan",
+        "type": "user",
+        "name": "latentdulhan"
+      },
+      "summary": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time series of brain activity from subjects perceiving continuous speech are segmented into fixed-length windows starting at each word. A neural network then generates predictions for all of the words in a sentence together. Neighbouring windows partially overlap, implicitly revealing the interval between words. Since these intervals indicate the duration of the words spoken, and different words tend to have different durations - for example, \"the\" is much shorter than \"supercalifragilisticexpialidocious\" - the neural network can improve its predictions of words without relying on the underlying brain activity. Consistent with this, the method reaches 22.0% balanced accuracy on synthetic signals containing no brain information, compared with 22.3% on real brain recordings. To prevent the network from learning this shortcut, we make a single, simple change. Instead of jointly encoding all windows in a sentence, we process each independently. As a result, the neural network achieves better performance by learning underlying word-specific information from brain recordings. This makes two existing strategies become much more effective than before. Both aggregating predictions from distinct neural responses to the same word and using a pretrained LLM as a linguistic prior now substantially improve results. On our perceived speech benchmark, this simple recipe (SimpleB2T) achieves a word error rate of 36.6% with five observations per word, approaching past invasive speech decoding performance, albeit under different conditions. The results in this work expose an important shortcut in brain-to-text decoding and show that removing it leads to a simple and considerably more effective strategy.",
+      "upvotes": 4,
+      "discussionId": "6abe56f7ab9e64aaa807142a",
+      "githubRepo": "https://github.com/neural-processing-lab/SimpleB2T",
+      "githubRepoAddedBy": "user",
+      "githubStars": 0,
+      "organization": {
+        "_id": "67ab53f09cc9741800da0fba",
+        "name": "pnpl",
+        "fullname": "Parker Jones Neural Processing Lab (PNPL)",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/67643f6acf6b09fe21937f13/t0VJCh-B2rgcjiXbA2C3Q.png"
+      }
+    },
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+    "summary": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time series of brain activity from subjects perceiving continuous speech are segmented into fixed-length windows starting at each word. A neural network then generates predictions for all of the words in a sentence together. Neighbouring windows partially overlap, implicitly revealing the interval between words. Since these intervals indicate the duration of the words spoken, and different words tend to have different durations - for example, \"the\" is much shorter than \"supercalifragilisticexpialidocious\" - the neural network can improve its predictions of words without relying on the underlying brain activity. Consistent with this, the method reaches 22.0% balanced accuracy on synthetic signals containing no brain information, compared with 22.3% on real brain recordings. To prevent the network from learning this shortcut, we make a single, simple change. Instead of jointly encoding all windows in a sentence, we process each independently. As a result, the neural network achieves better performance by learning underlying word-specific information from brain recordings. This makes two existing strategies become much more effective than before. Both aggregating predictions from distinct neural responses to the same word and using a pretrained LLM as a linguistic prior now substantially improve results. On our perceived speech benchmark, this simple recipe (SimpleB2T) achieves a word error rate of 36.6% with five observations per word, approaching past invasive speech decoding performance, albeit under different conditions. The results in this work expose an important shortcut in brain-to-text decoding and show that removing it leads to a simple and considerably more effective strategy.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.40359.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "672b79e99380700b60cd5c71",
+      "avatarUrl": "/avatars/46f79c736a49b2d6ab4339871eea698d.svg",
+      "fullname": "Dulhan Jayalath",
+      "name": "latentdulhan",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "followerCount": 3,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "67ab53f09cc9741800da0fba",
+      "name": "pnpl",
+      "fullname": "Parker Jones Neural Processing Lab (PNPL)",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/67643f6acf6b09fe21937f13/t0VJCh-B2rgcjiXbA2C3Q.png"
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.37539",
+      "authors": [
+        {
+          "_id": "6abe52ebab9e64aaa8071412",
+          "name": "Renxi Wang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe52ebab9e64aaa8071413",
+          "name": "Mingshan Hee",
+          "hidden": false
+        },
+        {
+          "_id": "6abe52ebab9e64aaa8071414",
+          "name": "Fajri Koto",
+          "hidden": false
+        },
+        {
+          "_id": "6abe52ebab9e64aaa8071415",
+          "name": "Timothy Baldwin",
+          "hidden": false
+        },
+        {
+          "_id": "6abe52ebab9e64aaa8071416",
+          "name": "Haonan Li",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "SkillGym: Training Skill-Use Agents with Automatic Verifiable Environment Generation",
+      "submittedOnDailyBy": {
+        "_id": "62dcbf282a419e78f6d2ff27",
+        "avatarUrl": "/avatars/ded9ae2b3362d6796b2c1403b6e3100b.svg",
+        "isPro": true,
+        "fullname": "renxiwang",
+        "user": "reasonwang",
+        "type": "user",
+        "name": "reasonwang"
+      },
+      "summary": "Skills equip LLM agents with professional knowledge and guidance to complete long-horizon and complex tasks. Although skills have been widely adopted in recent agent paradigms and harnesses, how to synthesize reliable training data and how to train agents for skill use remain underexplored. In this work, we propose SkillGym, an automatic pipeline to build verifiable environments, collect trajectories, and train skill-use agents. SkillGym first crawls a large volume of skills from the internet, then keeps those whose workflows can run reproducibly offline. A builder-reviewer pipeline is used to construct difficulty-controlled tasks, spanning four task types, each with a reference solution and an executable verifier. With this pipeline, we build 6.8k environments and collect 19k verified successful trajectories for supervised finetuning. Finetuning on these trajectories improves LLMs of different families and sizes, from 2B to 122B parameters across four skill-use benchmarks; Our Qwen3.5-9B SFT model outperforms the 397B untrained model on two of them. Further analysis shows that training teaches agents to invoke skills, raising the rate of reading the relevant skill from 28% to 96%, and that the gains hold across reasoning structures, extending to task types that form a minority of the training data and to skills held out from training",
+      "upvotes": 4,
+      "discussionId": "6abe52ebab9e64aaa8071417",
+      "githubRepo": "https://github.com/Reason-Wang/SkillGym",
+      "githubRepoAddedBy": "user",
+      "githubStars": 1
+    },
+    "publishedAt": "2026-09-28T20:00:00.000Z",
+    "title": "SkillGym: Training Skill-Use Agents with Automatic Verifiable Environment Generation",
+    "summary": "Skills equip LLM agents with professional knowledge and guidance to complete long-horizon and complex tasks. Although skills have been widely adopted in recent agent paradigms and harnesses, how to synthesize reliable training data and how to train agents for skill use remain underexplored. In this work, we propose SkillGym, an automatic pipeline to build verifiable environments, collect trajectories, and train skill-use agents. SkillGym first crawls a large volume of skills from the internet, then keeps those whose workflows can run reproducibly offline. A builder-reviewer pipeline is used to construct difficulty-controlled tasks, spanning four task types, each with a reference solution and an executable verifier. With this pipeline, we build 6.8k environments and collect 19k verified successful trajectories for supervised finetuning. Finetuning on these trajectories improves LLMs of different families and sizes, from 2B to 122B parameters across four skill-use benchmarks; Our Qwen3.5-9B SFT model outperforms the 397B untrained model on two of them. Further analysis shows that training teaches agents to invoke skills, raising the rate of reading the relevant skill from 28% to 96%, and that the gains hold across reasoning structures, extending to task types that form a minority of the training data and to skills held out from training",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.37539.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "62dcbf282a419e78f6d2ff27",
+      "avatarUrl": "/avatars/ded9ae2b3362d6796b2c1403b6e3100b.svg",
+      "fullname": "renxiwang",
+      "name": "reasonwang",
+      "type": "user",
+      "isPro": true,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "followerCount": 8,
+      "isUserFollowing": false
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.18587",
+      "authors": [
+        {
+          "_id": "6abe5550ab9e64aaa807141a",
+          "name": "Naveen Vakada",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5550ab9e64aaa807141b",
+          "name": "Mingyuan Li",
+          "hidden": false
+        },
+        {
+          "_id": "6abe5550ab9e64aaa807141c",
+          "user": {
+            "_id": "617a92e16f37340367d5d791",
+            "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/617a92e16f37340367d5d791/omgyzmaF90KBLa3YgFxhS.png",
+            "isPro": false,
+            "fullname": "Shaoxiong",
+            "user": "jisx",
+            "type": "user",
+            "name": "jisx"
+          },
+          "name": "Shaoxiong Ji",
+          "status": "claimed_verified",
+          "statusLastChangedAt": "2026-10-01T13:43:32.890Z",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "Label-free steering: Compressing test-time reinforcement learning into bias-only subspaces",
+      "submittedOnDailyBy": {
+        "_id": "617a92e16f37340367d5d791",
+        "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/617a92e16f37340367d5d791/omgyzmaF90KBLa3YgFxhS.png",
+        "isPro": false,
+        "fullname": "Shaoxiong",
+        "user": "jisx",
+        "type": "user",
+        "name": "jisx"
+      },
+      "summary": "Test-time reinforcement learning (TTRL) enables models to improve their reasoning without relying on labeled training data, but existing approaches typically optimize a large fraction of the model parameters. This raises a natural question: can effective test-time adaptation emerge when both the reward signal and the optimization space are severely restricted? We answer this question with label-free bias-only TTRL, which uses majority-vote pseudolabels as rewards and optimizes only ~100K bias parameters while keeping the pretrained backbone frozen. On MATH-500, our approach reaches 76.67% accuracy with Qwen2.5-7B, slightly exceeding our own labeled bias-steering reproduction while optimizing 76,000x fewer parameters than full-parameter TTRL. The same training procedure improves performance across vision-language and audio reasoning tasks, including MathVista, AI2D, LogicVista, and MMAU. We further show that the learned steering vectors transfer to 4,500 held-out MATH problems, indicating that the adaptation is not limited to the problems used during test-time optimization. Finally, we analyze why this highly restricted adaptation can work, showing that majority-vote reliability improves with rollout consensus and that bias subspaces with greater accessible gradient energy exhibit stronger downstream trainability. These results demonstrate that substantial test-time adaptation can emerge from optimizing a tiny bias-only subspace using entirely label-free rewards.",
+      "upvotes": 3,
+      "discussionId": "6abe5550ab9e64aaa807141d",
+      "projectPage": "https://www.OLAResearch.org/LabelFreeSteering",
+      "githubRepo": "https://github.com/OLAResearch/LabelFreeSteering",
+      "githubRepoAddedBy": "user",
+      "githubStars": 0,
+      "organization": {
+        "_id": "6a1ffda6310029dbc8ac9adc",
+        "name": "OLAResearchX",
+        "fullname": "Omni Language AI Research",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/617a92e16f37340367d5d791/dMU_WZq7clwnvUTMragYe.png"
+      }
+    },
+    "publishedAt": "2026-09-27T20:00:00.000Z",
+    "title": "Label-free steering: Compressing test-time reinforcement learning into bias-only subspaces",
+    "summary": "Test-time reinforcement learning (TTRL) enables models to improve their reasoning without relying on labeled training data, but existing approaches typically optimize a large fraction of the model parameters. This raises a natural question: can effective test-time adaptation emerge when both the reward signal and the optimization space are severely restricted? We answer this question with label-free bias-only TTRL, which uses majority-vote pseudolabels as rewards and optimizes only ~100K bias parameters while keeping the pretrained backbone frozen. On MATH-500, our approach reaches 76.67% accuracy with Qwen2.5-7B, slightly exceeding our own labeled bias-steering reproduction while optimizing 76,000x fewer parameters than full-parameter TTRL. The same training procedure improves performance across vision-language and audio reasoning tasks, including MathVista, AI2D, LogicVista, and MMAU. We further show that the learned steering vectors transfer to 4,500 held-out MATH problems, indicating that the adaptation is not limited to the problems used during test-time optimization. Finally, we analyze why this highly restricted adaptation can work, showing that majority-vote reliability improves with rollout consensus and that bias subspaces with greater accessible gradient energy exhibit stronger downstream trainability. These results demonstrate that substantial test-time adaptation can emerge from optimizing a tiny bias-only subspace using entirely label-free rewards.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.18587.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "617a92e16f37340367d5d791",
+      "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/617a92e16f37340367d5d791/omgyzmaF90KBLa3YgFxhS.png",
+      "fullname": "Shaoxiong",
+      "name": "jisx",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "followerCount": 13,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "6a1ffda6310029dbc8ac9adc",
+      "name": "OLAResearchX",
+      "fullname": "Omni Language AI Research",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/617a92e16f37340367d5d791/dMU_WZq7clwnvUTMragYe.png"
+    },
+    "isAuthorParticipating": true
+  },
+  {
+    "paper": {
+      "id": "2609.32600",
+      "authors": [
+        {
+          "_id": "6abe31f45ca92987a111a334",
+          "name": "Prince Zizhuang Wang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe31f45ca92987a111a335",
+          "name": "Chenhao Liang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe31f45ca92987a111a336",
+          "name": "Zelong Xu",
+          "hidden": false
+        },
+        {
+          "_id": "6abe31f45ca92987a111a337",
+          "name": "Aojie Yuan",
+          "hidden": false
+        },
+        {
+          "_id": "6abe31f45ca92987a111a338",
+          "name": "Xiaolin Zhou",
+          "hidden": false
+        },
+        {
+          "_id": "6abe31f45ca92987a111a339",
+          "name": "Haiyue Zhang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe31f45ca92987a111a33a",
+          "name": "Yue Zhao",
+          "hidden": false
+        },
+        {
+          "_id": "6abe31f45ca92987a111a33b",
+          "name": "Xiyang Hu",
+          "hidden": false
+        },
+        {
+          "_id": "6abe31f45ca92987a111a33c",
+          "name": "Shuli Jiang",
+          "hidden": false
+        }
+      ],
+      "mediaUrls": [
+        "https://cdn-uploads.huggingface.co/production/uploads/6525f282a754153bd4cb93b1/HOLhCL7HaPOnuP4in_s0d.jpeg",
+        "https://cdn-uploads.huggingface.co/production/uploads/6525f282a754153bd4cb93b1/watA0IpyWJzDsEVuPh6rf.mp4"
+      ],
+      "publishedAt": "2026-09-26T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "CUA-SWE: When Computer-Use Agents Meet Visual Software Engineering",
+      "submittedOnDailyBy": {
+        "_id": "6525f282a754153bd4cb93b1",
+        "avatarUrl": "/avatars/81a80414fe6b82f79e019f18acf6f19b.svg",
+        "isPro": false,
+        "fullname": "Prince Wang",
+        "user": "kingofspace0wzz",
+        "type": "user",
+        "name": "kingofspace0wzz"
+      },
+      "summary": "Software development requires more than editing code: developers repeatedly run software, interact with its interfaces, visually inspect its behavior, and use these observations to decide what to change next and whether a change works. Existing coding agents and computer-use agents are largely studied in isolation, leaving this integrated development process underexplored. Diagnosing a runtime interaction failure requires agents to connect visual observations with the responsible code, then use the application again to verify the repair. We introduce CUA-SWE, a benchmark, environment, and evaluation pipeline for software engineering with computer use. Beyond studying how GUI feedback supports diagnosis and repair, we ask whether agents can complete software engineering tasks when required specification or operational information is available only through the running application's visual interface. CUA-SWE spans four software engineering domains and requires agents to modify code and configuration, execute commands, interact with running software, and inspect visual feedback within the same task. Each task includes deterministic, task-specific tests that verify whether the resulting software satisfies the requirements and preserves specified behavior. Our evaluation characterizes how frontier agents combine source-level execution with application screenshots and graphical interaction to produce verified software changes. We examine performance across domains and task information requirements, alongside the development behaviors associated with successful repairs. CUA-SWE provides a unified testbed for studying how agents use visual feedback and interaction to guide software engineering, with executable correctness criteria for the resulting software.",
+      "upvotes": 13,
+      "discussionId": "6abe31f45ca92987a111a33d",
+      "projectPage": "https://zelongxueric.github.io/cua-swe-website/",
+      "githubRepo": "https://github.com/kingofspace0wzz/cua-swe",
+      "githubRepoAddedBy": "user",
+      "githubStars": 6,
+      "organization": {
+        "_id": "691d9a1012cc4d473e1c862f",
+        "name": "CarnegieMellonU",
+        "fullname": "Carnegie Mellon University",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/6I146aJvxxlRCEbYFFAeQ.png"
+      }
+    },
+    "publishedAt": "2026-09-25T20:00:00.000Z",
+    "title": "CUA-SWE: When Computer-Use Agents Meet Visual Software Engineering",
+    "summary": "Software development requires more than editing code: developers repeatedly run software, interact with its interfaces, visually inspect its behavior, and use these observations to decide what to change next and whether a change works. Existing coding agents and computer-use agents are largely studied in isolation, leaving this integrated development process underexplored. Diagnosing a runtime interaction failure requires agents to connect visual observations with the responsible code, then use the application again to verify the repair. We introduce CUA-SWE, a benchmark, environment, and evaluation pipeline for software engineering with computer use. Beyond studying how GUI feedback supports diagnosis and repair, we ask whether agents can complete software engineering tasks when required specification or operational information is available only through the running application's visual interface. CUA-SWE spans four software engineering domains and requires agents to modify code and configuration, execute commands, interact with running software, and inspect visual feedback within the same task. Each task includes deterministic, task-specific tests that verify whether the resulting software satisfies the requirements and preserves specified behavior. Our evaluation characterizes how frontier agents combine source-level execution with application screenshots and graphical interaction to produce verified software changes. We examine performance across domains and task information requirements, alongside the development behaviors associated with successful repairs. CUA-SWE provides a unified testbed for studying how agents use visual feedback and interaction to guide software engineering, with executable correctness criteria for the resulting software.",
+    "mediaUrls": [
+      "https://cdn-uploads.huggingface.co/production/uploads/6525f282a754153bd4cb93b1/HOLhCL7HaPOnuP4in_s0d.jpeg",
+      "https://cdn-uploads.huggingface.co/production/uploads/6525f282a754153bd4cb93b1/watA0IpyWJzDsEVuPh6rf.mp4"
+    ],
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.32600.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "6525f282a754153bd4cb93b1",
+      "avatarUrl": "/avatars/81a80414fe6b82f79e019f18acf6f19b.svg",
+      "fullname": "Prince Wang",
+      "name": "kingofspace0wzz",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "691d9a1012cc4d473e1c862f",
+      "name": "CarnegieMellonU",
+      "fullname": "Carnegie Mellon University",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68e396f2b5bb631e9b2fac9a/6I146aJvxxlRCEbYFFAeQ.png"
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.39166",
+      "authors": [
+        {
+          "_id": "6abe3f005ca92987a111a376",
+          "name": "Mingjian Gao",
+          "hidden": false
+        },
+        {
+          "_id": "6abe3f005ca92987a111a377",
+          "name": "Zhaocheng Li",
+          "hidden": false
+        },
+        {
+          "_id": "6abe3f005ca92987a111a378",
+          "name": "Haoyang Huang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe3f005ca92987a111a379",
+          "name": "Wenqiao Zhang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe3f005ca92987a111a37a",
+          "name": "Yingjie Niu",
+          "hidden": false
+        },
+        {
+          "_id": "6abe3f005ca92987a111a37b",
+          "name": "Hao Zhou",
+          "hidden": false
+        },
+        {
+          "_id": "6abe3f005ca92987a111a37c",
+          "name": "Chao Li",
+          "hidden": false
+        },
+        {
+          "_id": "6abe3f005ca92987a111a37d",
+          "name": "Juncheng Li",
+          "hidden": false
+        },
+        {
+          "_id": "6abe3f005ca92987a111a37e",
+          "name": "Siliang Tang",
+          "hidden": false
+        },
+        {
+          "_id": "6abe3f005ca92987a111a37f",
+          "name": "Yueting Zhuang",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "Beyond the Remembered World: Predictive 4D Belief for Persistent Navigation in Evolving Worlds",
+      "submittedOnDailyBy": {
+        "_id": "6764e0e96be739a31929270f",
+        "avatarUrl": "/avatars/70e043a90f3838de0cbc3b456f08c95e.svg",
+        "isPro": false,
+        "fullname": "Mingjian Gao",
+        "user": "fengnian1678",
+        "type": "user",
+        "name": "fengnian1678"
+      },
+      "summary": "Persistent spatial memory enables embodied agents to navigate familiar environments across repeated visits. However, targets may move while unobserved, including during navigation, making remembered locations unreliable by the time an agent arrives. Despite advances in memory retrieval and state prediction, accounting for continued hidden world evolution and revising beliefs under limited visibility remain challenging. We study Evolving-World Navigation, where agents infer target locations from intermittent observations, predict their states at inspection time, and revise beliefs using visual evidence. We propose EvolvingNav, which constructs a time-indexed belief from timestamped 3D object histories through a structured persistence-relocation model. The belief distinguishes persistence at the last observed location from relocation to alternative locations and retains probability mass outside the known candidate set. An event-driven filter propagates the current belief as time elapses, forecasts target occupancy at candidate inspection times, and incorporates new RGB-D evidence. Negative observations downweight location hypotheses according to calibrated, visibility-conditioned detection probabilities, while evidence tracking prevents repeated use of the same observations. A frozen, zero-shot vision-language controller uses the updated belief to choose actions and replan. We further introduce EvoWorld-Bench, a benchmark grounded in human activity traces, comprising 54 scenes and 803,680 tasks with controlled changes before and during navigation. In simulation and real-robot experiments, EvolvingNav improves navigation success and search efficiency over the evaluated baselines. Paired experiments show the clearest gains under learnable temporal patterns, while ablations demonstrate the value of preserving uncertainty and incorporating visibility-aware evidence.",
+      "upvotes": 4,
+      "discussionId": "6abe3f005ca92987a111a380",
+      "projectPage": "https://zju4embodiedai.github.io/EvolvingNav/",
+      "githubRepo": "https://github.com/ZJU4EmbodiedAI/EvolvingNav",
+      "githubRepoAddedBy": "user",
+      "githubStars": 0,
+      "organization": {
+        "_id": "6abcca4a1c472817d0dc7a37",
+        "name": "ZJU4EmbodiedAI",
+        "fullname": "ZJU4EmbodiedAI",
+        "avatar": "https://www.gravatar.com/avatar/a56dcd89cb2c55c9270ba87cdf0aed32?d=retro&size=100"
+      }
+    },
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "title": "Beyond the Remembered World: Predictive 4D Belief for Persistent Navigation in Evolving Worlds",
+    "summary": "Persistent spatial memory enables embodied agents to navigate familiar environments across repeated visits. However, targets may move while unobserved, including during navigation, making remembered locations unreliable by the time an agent arrives. Despite advances in memory retrieval and state prediction, accounting for continued hidden world evolution and revising beliefs under limited visibility remain challenging. We study Evolving-World Navigation, where agents infer target locations from intermittent observations, predict their states at inspection time, and revise beliefs using visual evidence. We propose EvolvingNav, which constructs a time-indexed belief from timestamped 3D object histories through a structured persistence-relocation model. The belief distinguishes persistence at the last observed location from relocation to alternative locations and retains probability mass outside the known candidate set. An event-driven filter propagates the current belief as time elapses, forecasts target occupancy at candidate inspection times, and incorporates new RGB-D evidence. Negative observations downweight location hypotheses according to calibrated, visibility-conditioned detection probabilities, while evidence tracking prevents repeated use of the same observations. A frozen, zero-shot vision-language controller uses the updated belief to choose actions and replan. We further introduce EvoWorld-Bench, a benchmark grounded in human activity traces, comprising 54 scenes and 803,680 tasks with controlled changes before and during navigation. In simulation and real-robot experiments, EvolvingNav improves navigation success and search efficiency over the evaluated baselines. Paired experiments show the clearest gains under learnable temporal patterns, while ablations demonstrate the value of preserving uncertainty and incorporating visibility-aware evidence.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.39166.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "6764e0e96be739a31929270f",
+      "avatarUrl": "/avatars/70e043a90f3838de0cbc3b456f08c95e.svg",
+      "fullname": "Mingjian Gao",
+      "name": "fengnian1678",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "6abcca4a1c472817d0dc7a37",
+      "name": "ZJU4EmbodiedAI",
+      "fullname": "ZJU4EmbodiedAI",
+      "avatar": "https://www.gravatar.com/avatar/a56dcd89cb2c55c9270ba87cdf0aed32?d=retro&size=100"
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.37501",
+      "authors": [
+        {
+          "_id": "6abe39485ca92987a111a355",
+          "user": {
+            "_id": "63ac5701c21e60a3e9b58aa7",
+            "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/63ac5701c21e60a3e9b58aa7/g6EX7diOpuA94R2ab-rZC.png",
+            "isPro": true,
+            "fullname": "Dipankar Sarkar",
+            "user": "dipankarsarkar",
+            "type": "user",
+            "name": "dipankarsarkar"
+          },
+          "name": "Dipankar Sarkar",
+          "status": "claimed_verified",
+          "statusLastChangedAt": "2026-10-01T13:43:51.420Z",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "Evaluating Bounded Autonomy in Regulated Agentic AI: A Diagnostic Harness with Constitutional Rewards, Escalation Labels, and Runtime Governance",
+      "submittedOnDailyBy": {
+        "_id": "63ac5701c21e60a3e9b58aa7",
+        "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/63ac5701c21e60a3e9b58aa7/g6EX7diOpuA94R2ab-rZC.png",
+        "isPro": true,
+        "fullname": "Dipankar Sarkar",
+        "user": "dipankarsarkar",
+        "type": "user",
+        "name": "dipankarsarkar"
+      },
+      "summary": "We propose RegLLM, a diagnostic harness for bounded autonomy in regulated agentic workflows. It instruments six trustworthiness signals: citation validity, source grounding, schema compliance, escalation correctness, constitutional alignment, and unsafe-action rate. Signals are distinguished by their source of supervision: programmatic verifiers, task-level escalation labels, or AI-judge scores. A deterministic runtime supervisor blocks ungrounded answers and forces escalation, logging interventions. The same domain constitution informs evaluation, training rewards, and serving guardrails. Task-level should-escalate labels make the act-versus-defer decision a measurable training signal. We demonstrate the harness at smoke scale. An offline reference run (n=12) lifts escalation recall from 0 to 0.67 and reduces unsafe-action rate from 0.33 to 0.08 when governance is enabled. Two single-GPU Qwen2.5-3B LoRA/DPO pilots (n=8, same seed and evaluation split) expose substantial variation: nominally identical RL-base configurations yield task success of 0.25 versus 0.12 and escalation recall of 1.0 versus 0.5. An answer-quality adapter changes recall from 1.0 to 0.5 in Run A, but from 0.5 to 1.0 in Run B. An escalation-aware variant produces no measurable change in Run B. These small pilots do not establish reliable adapter effects or production readiness. Their contribution is diagnostic: configuration variance can overwhelm apparent tuning effects on bounded-autonomy metrics, motivating larger evaluation sets and repeated runs.",
+      "upvotes": 3,
+      "discussionId": "6abe39495ca92987a111a356"
+    },
+    "publishedAt": "2026-09-27T20:00:00.000Z",
+    "title": "Evaluating Bounded Autonomy in Regulated Agentic AI: A Diagnostic Harness with Constitutional Rewards, Escalation Labels, and Runtime Governance",
+    "summary": "We propose RegLLM, a diagnostic harness for bounded autonomy in regulated agentic workflows. It instruments six trustworthiness signals: citation validity, source grounding, schema compliance, escalation correctness, constitutional alignment, and unsafe-action rate. Signals are distinguished by their source of supervision: programmatic verifiers, task-level escalation labels, or AI-judge scores. A deterministic runtime supervisor blocks ungrounded answers and forces escalation, logging interventions. The same domain constitution informs evaluation, training rewards, and serving guardrails. Task-level should-escalate labels make the act-versus-defer decision a measurable training signal. We demonstrate the harness at smoke scale. An offline reference run (n=12) lifts escalation recall from 0 to 0.67 and reduces unsafe-action rate from 0.33 to 0.08 when governance is enabled. Two single-GPU Qwen2.5-3B LoRA/DPO pilots (n=8, same seed and evaluation split) expose substantial variation: nominally identical RL-base configurations yield task success of 0.25 versus 0.12 and escalation recall of 1.0 versus 0.5. An answer-quality adapter changes recall from 1.0 to 0.5 in Run A, but from 0.5 to 1.0 in Run B. An escalation-aware variant produces no measurable change in Run B. These small pilots do not establish reliable adapter effects or production readiness. Their contribution is diagnostic: configuration variance can overwhelm apparent tuning effects on bounded-autonomy metrics, motivating larger evaluation sets and repeated runs.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.37501.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "63ac5701c21e60a3e9b58aa7",
+      "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/63ac5701c21e60a3e9b58aa7/g6EX7diOpuA94R2ab-rZC.png",
+      "fullname": "Dipankar Sarkar",
+      "name": "dipankarsarkar",
+      "type": "user",
+      "isPro": true,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "followerCount": 111,
+      "isUserFollowing": false
+    },
+    "isAuthorParticipating": true
+  },
+  {
+    "paper": {
+      "id": "2609.24555",
+      "authors": [
+        {
+          "_id": "6ab3d37abf93a1a9ceb44e32",
+          "user": {
+            "_id": "66fb22cfbe8e88e382df5bb7",
+            "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/66fb22cfbe8e88e382df5bb7/VczQQJuxAyTVA3O4jc7mr.png",
+            "isPro": false,
+            "fullname": "Muhan Zhang",
+            "user": "Muhansp",
+            "type": "user",
+            "name": "Muhansp"
+          },
+          "name": "Muhan Zhang",
+          "status": "claimed_verified",
+          "statusLastChangedAt": "2026-09-23T16:45:05.685Z",
+          "hidden": false
+        }
+      ],
+      "mediaUrls": [
+        "https://cdn-uploads.huggingface.co/production/uploads/66fb22cfbe8e88e382df5bb7/Mt9xfyofp8gxLWOkVmloW.png",
+        "https://cdn-uploads.huggingface.co/production/uploads/66fb22cfbe8e88e382df5bb7/Q0sej1URZ3-Z8beWx9K3J.png"
+      ],
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "The Endless Exam: Mathematical Constructions from Today's Models toward Superintelligence",
+      "submittedOnDailyBy": {
+        "_id": "66fb22cfbe8e88e382df5bb7",
+        "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/66fb22cfbe8e88e382df5bb7/VczQQJuxAyTVA3O4jc7mr.png",
+        "isPro": false,
+        "fullname": "Muhan Zhang",
+        "user": "Muhansp",
+        "type": "user",
+        "name": "Muhansp"
+      },
+      "summary": "We introduce the Endless Exam, a benchmark spanning fourteen parameterised families of mathematical construction problems, with verifiable scores that distinguish progress before and beyond published mathematical frontiers. Each submitted object is checked automatically for validity and assigned a relative quality score against a published frontier or construction baseline, without capping improvements at 1. The benchmark draws long-term challenges from open mathematical problems and generates larger instances by varying their parameters. Compact certificates allow large constructions to be verified without listing every element. Across nine models evaluated on 69 distinct instances, continuous quality scores distinguish performance even though none of the 30 published-frontier references is surpassed. Size-quality curves show how construction quality changes as problem size increases. We release the generators, verifiers, references, model responses and analysis to support continued measurement before and beyond human frontiers.",
+      "upvotes": 2,
+      "discussionId": "6ab3d37abf93a1a9ceb44e33",
+      "projectPage": "https://ricolalemon.github.io/endless-exam/",
+      "githubRepo": "https://github.com/ricolalemon/endless-exam",
+      "githubRepoAddedBy": "user",
+      "githubStars": 0
+    },
+    "publishedAt": "2026-09-27T20:00:00.000Z",
+    "title": "The Endless Exam: Mathematical Constructions from Today's Models toward Superintelligence",
+    "summary": "We introduce the Endless Exam, a benchmark spanning fourteen parameterised families of mathematical construction problems, with verifiable scores that distinguish progress before and beyond published mathematical frontiers. Each submitted object is checked automatically for validity and assigned a relative quality score against a published frontier or construction baseline, without capping improvements at 1. The benchmark draws long-term challenges from open mathematical problems and generates larger instances by varying their parameters. Compact certificates allow large constructions to be verified without listing every element. Across nine models evaluated on 69 distinct instances, continuous quality scores distinguish performance even though none of the 30 published-frontier references is surpassed. Size-quality curves show how construction quality changes as problem size increases. We release the generators, verifiers, references, model responses and analysis to support continued measurement before and beyond human frontiers.",
+    "mediaUrls": [
+      "https://cdn-uploads.huggingface.co/production/uploads/66fb22cfbe8e88e382df5bb7/Mt9xfyofp8gxLWOkVmloW.png",
+      "https://cdn-uploads.huggingface.co/production/uploads/66fb22cfbe8e88e382df5bb7/Q0sej1URZ3-Z8beWx9K3J.png"
+    ],
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24555.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "66fb22cfbe8e88e382df5bb7",
+      "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/66fb22cfbe8e88e382df5bb7/VczQQJuxAyTVA3O4jc7mr.png",
+      "fullname": "Muhan Zhang",
+      "name": "Muhansp",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "isUserFollowing": false
+    },
+    "isAuthorParticipating": true
+  },
+  {
+    "paper": {
+      "id": "2609.37863",
+      "authors": [
+        {
+          "_id": "6abe2f485ca92987a111a318",
+          "user": {
+            "_id": "6995cfd70f9c4f0aebdebc51",
+            "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/a9OVt11nTWAXafft1XW0L.png",
+            "isPro": false,
+            "fullname": "Nagham Omar",
+            "user": "naghamo",
+            "type": "user",
+            "name": "naghamo"
+          },
+          "name": "Nagham Omar",
+          "status": "claimed_verified",
+          "statusLastChangedAt": "2026-10-01T13:43:55.927Z",
+          "hidden": false
+        },
+        {
+          "_id": "6abe2f485ca92987a111a319",
+          "name": "Mahmoud Jabarin",
+          "hidden": false
+        },
+        {
+          "_id": "6abe2f485ca92987a111a31a",
+          "name": "Kinan Ibraheem",
+          "hidden": false
+        },
+        {
+          "_id": "6abe2f485ca92987a111a31b",
+          "name": "Lotem Peled-Cohen",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "It's Not What the Image Shows: Irrelevant Context Destabilises VLM Judges Without Informing Them",
+      "submittedOnDailyBy": {
+        "_id": "6995cfd70f9c4f0aebdebc51",
+        "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/a9OVt11nTWAXafft1XW0L.png",
+        "isPro": false,
+        "fullname": "Nagham Omar",
+        "user": "naghamo",
+        "type": "user",
+        "name": "naghamo"
+      },
+      "summary": "Vision-language models (VLMs) are increasingly used in place of human annotators, making it important that substitutability tests reflect the model rather than incidental evaluation conditions. We introduce MIST, the Misleading-Image Stress Test: 200 English sentences, each built around a phrase readable either figuratively or literally and shown with an aligned image depicting its reading, a misleading image depicting the opposite, or no image at all. The guidelines require the label to be decided from the sentence alone, so no image should change any answer. We expected each image to pull a judge's labels toward the sense it depicts, and neither kind did. Across thirteen VLM judges, an aligned image changed 20.5% of labels and a misleading one 19.4%, close for every judge and both above the 11.6% produced by deleting the ignore-the-image instruction with the image left in place. Yet only 37% of the labels that differ between the two images moved toward the sense shown, and agreement with our human annotators is unchanged whether the image is absent, aligned or misleading. The effect is smaller in the seven judges that pass the alt-test than in the six that never do, but present in all of them: what moves a judge is that an image is there, not which of the two it is, so a substitutability verdict describes a configuration as much as a model.",
+      "upvotes": 35,
+      "discussionId": "6abe2f485ca92987a111a31c",
+      "organization": {
+        "_id": "6393322be2364bc1eea56e45",
+        "name": "Technion",
+        "fullname": "Technion Israel institute of technology",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1670591001944-63926124526c29d5b5011374.jpeg"
+      }
+    },
+    "publishedAt": "2026-09-28T20:00:00.000Z",
+    "title": "It's Not What the Image Shows: Irrelevant Context Destabilises VLM Judges Without Informing Them",
+    "summary": "Vision-language models (VLMs) are increasingly used in place of human annotators, making it important that substitutability tests reflect the model rather than incidental evaluation conditions. We introduce MIST, the Misleading-Image Stress Test: 200 English sentences, each built around a phrase readable either figuratively or literally and shown with an aligned image depicting its reading, a misleading image depicting the opposite, or no image at all. The guidelines require the label to be decided from the sentence alone, so no image should change any answer. We expected each image to pull a judge's labels toward the sense it depicts, and neither kind did. Across thirteen VLM judges, an aligned image changed 20.5% of labels and a misleading one 19.4%, close for every judge and both above the 11.6% produced by deleting the ignore-the-image instruction with the image left in place. Yet only 37% of the labels that differ between the two images moved toward the sense shown, and agreement with our human annotators is unchanged whether the image is absent, aligned or misleading. The effect is smaller in the seven judges that pass the alt-test than in the six that never do, but present in all of them: what moves a judge is that an image is there, not which of the two it is, so a substitutability verdict describes a configuration as much as a model.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.37863.png",
+    "numComments": 1,
+    "submittedBy": {
+      "_id": "6995cfd70f9c4f0aebdebc51",
+      "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/no-auth/a9OVt11nTWAXafft1XW0L.png",
+      "fullname": "Nagham Omar",
+      "name": "naghamo",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "followerCount": 1,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "6393322be2364bc1eea56e45",
+      "name": "Technion",
+      "fullname": "Technion Israel institute of technology",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1670591001944-63926124526c29d5b5011374.jpeg"
+    },
+    "isAuthorParticipating": false
+  },
+  {
+    "paper": {
+      "id": "2609.39788",
+      "authors": [
+        {
+          "_id": "6abe26115ca92987a111a2f9",
+          "user": {
+            "_id": "640f5f2406c3b5ca8840eb69",
+            "avatarUrl": "/avatars/a590d30d1bb4503c6f7251522b8d19c3.svg",
+            "isPro": false,
+            "fullname": "Muhammad Huzaifa",
+            "user": "Huxaifa",
+            "type": "user",
+            "name": "Huxaifa"
+          },
+          "name": "Muhammad Huzaifa",
+          "status": "claimed_verified",
+          "statusLastChangedAt": "2026-10-01T13:44:00.610Z",
+          "hidden": false
+        },
+        {
+          "_id": "6abe26115ca92987a111a2fa",
+          "name": "Sina Mavali",
+          "hidden": false
+        },
+        {
+          "_id": "6abe26115ca92987a111a2fb",
+          "name": "Thorsten Eisenhofer",
+          "hidden": false
+        }
+      ],
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "submittedOnDailyAt": "2026-10-01T00:00:00.000Z",
+      "title": "Safety of Latent Communication in Multi-Agent Systems",
+      "submittedOnDailyBy": {
+        "_id": "640f5f2406c3b5ca8840eb69",
+        "avatarUrl": "/avatars/a590d30d1bb4503c6f7251522b8d19c3.svg",
+        "isPro": false,
+        "fullname": "Muhammad Huzaifa",
+        "user": "Huxaifa",
+        "type": "user",
+        "name": "Huxaifa"
+      },
+      "summary": "Latent communication enables multi-agent systems to exchange information directly in internal representation space, reducing the token, computation, and latency overhead of text-based communication. To this end, lightweight trainable links are introduced to map the sender's representations into the receiver's input space. In this work, we show that even benign link training can increase harmful compliance relative to text-based communication while the underlying safety-aligned agents remain unchanged. An attacker can amplify this effect by optimizing the links on harmful query--response pairs or poisoning otherwise benign training data. We further develop a reinforcement-learning attack that rewards harmful compliance alongside benign task performance without requiring harmful target responses. Across three communication topologies and four safety benchmarks, this attack raises the mean harmful-compliance score from 27.9 with benignly trained links to 76.9. Compared with direct supervised optimization, it also achieves higher average accuracy on two benign utility benchmarks. Adapting the rewards toward safer behavior also enables repair of compromised links, substantially reducing harmful compliance across all evaluated attacks without updating the agents. Overall, our results show that safety alignment requires considering the multi-agent system as a whole.",
+      "upvotes": 6,
+      "discussionId": "6abe26125ca92987a111a2fc",
+      "githubRepo": "https://github.com/Muhammad-Huzaifaa/latent-safety",
+      "githubRepoAddedBy": "user",
+      "githubStars": 1,
+      "organization": {
+        "_id": "67dd72da2f518d95cb9167a5",
+        "name": "cispa",
+        "fullname": "CISPA – Helmholtz-Zentrum für Informationssicherheit gGmbH",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/67dd7236e36b0a6729a1db2a/4iUzqLI7LtKCAUfZXuHSH.png"
+      }
+    },
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "title": "Safety of Latent Communication in Multi-Agent Systems",
+    "summary": "Latent communication enables multi-agent systems to exchange information directly in internal representation space, reducing the token, computation, and latency overhead of text-based communication. To this end, lightweight trainable links are introduced to map the sender's representations into the receiver's input space. In this work, we show that even benign link training can increase harmful compliance relative to text-based communication while the underlying safety-aligned agents remain unchanged. An attacker can amplify this effect by optimizing the links on harmful query--response pairs or poisoning otherwise benign training data. We further develop a reinforcement-learning attack that rewards harmful compliance alongside benign task performance without requiring harmful target responses. Across three communication topologies and four safety benchmarks, this attack raises the mean harmful-compliance score from 27.9 with benignly trained links to 76.9. Compared with direct supervised optimization, it also achieves higher average accuracy on two benign utility benchmarks. Adapting the rewards toward safer behavior also enables repair of compromised links, substantially reducing harmful compliance across all evaluated attacks without updating the agents. Overall, our results show that safety alignment requires considering the multi-agent system as a whole.",
+    "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.39788.png",
+    "numComments": 2,
+    "submittedBy": {
+      "_id": "640f5f2406c3b5ca8840eb69",
+      "avatarUrl": "/avatars/a590d30d1bb4503c6f7251522b8d19c3.svg",
+      "fullname": "Muhammad Huzaifa",
+      "name": "Huxaifa",
+      "type": "user",
+      "isPro": false,
+      "isHf": false,
+      "isHfAdmin": false,
+      "isMod": false,
+      "followerCount": 1,
+      "isUserFollowing": false
+    },
+    "organization": {
+      "_id": "67dd72da2f518d95cb9167a5",
+      "name": "cispa",
+      "fullname": "CISPA – Helmholtz-Zentrum für Informationssicherheit gGmbH",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/67dd7236e36b0a6729a1db2a/4iUzqLI7LtKCAUfZXuHSH.png"
+    },
+    "isAuthorParticipating": true
+  }
+]
