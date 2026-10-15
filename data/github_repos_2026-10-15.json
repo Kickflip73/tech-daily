@@ -1,0 +1,2702 @@
+[
+  {
+    "full_name": "openai/math",
+    "stargazers_count": 14814,
+    "prev_stars": 14671,
+    "language": "Lean",
+    "description": null,
+    "created_at": "2026-10-06T21:47:02Z",
+    "url": "https://github.com/openai/math"
+  },
+  {
+    "full_name": "storytold/wordcraft",
+    "stargazers_count": 12369,
+    "prev_stars": 11076,
+    "language": "Rust",
+    "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+    "created_at": "2026-10-07T08:34:24Z",
+    "url": "https://github.com/storytold/wordcraft"
+  },
+  {
+    "full_name": "wheresryan22/anatomy",
+    "stargazers_count": 10000,
+    "prev_stars": 8168,
+    "language": "JavaScript",
+    "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+    "created_at": "2026-10-08T10:12:49Z",
+    "url": "https://github.com/wheresryan22/anatomy"
+  },
+  {
+    "full_name": "storytold/gridcraft",
+    "stargazers_count": 4850,
+    "prev_stars": 4441,
+    "language": "Rust",
+    "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+    "created_at": "2026-10-07T05:18:16Z",
+    "url": "https://github.com/storytold/gridcraft"
+  },
+  {
+    "full_name": "storytold/cadcraft",
+    "stargazers_count": 4792,
+    "prev_stars": 4194,
+    "language": "Rust",
+    "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+    "created_at": "2026-10-07T05:22:31Z",
+    "url": "https://github.com/storytold/cadcraft"
+  },
+  {
+    "full_name": "mhtsec/ARTEX",
+    "stargazers_count": 4077,
+    "prev_stars": 3871,
+    "language": "Go",
+    "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+    "created_at": "2026-10-08T05:33:06Z",
+    "url": "https://github.com/mhtsec/ARTEX"
+  },
+  {
+    "full_name": "alchaincyf/huashu-art-motion",
+    "stargazers_count": 3981,
+    "prev_stars": 3841,
+    "language": "JavaScript",
+    "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+    "created_at": "2026-10-06T04:49:37Z",
+    "url": "https://github.com/alchaincyf/huashu-art-motion"
+  },
+  {
+    "full_name": "zhongerxin/iPhone-use",
+    "stargazers_count": 3726,
+    "prev_stars": 3575,
+    "language": "Python",
+    "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+    "created_at": "2026-10-06T15:09:33Z",
+    "url": "https://github.com/zhongerxin/iPhone-use"
+  },
+  {
+    "full_name": "ARahim3/DigUp",
+    "stargazers_count": 3622,
+    "prev_stars": 2349,
+    "language": "Swift",
+    "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+    "created_at": "2026-10-08T20:37:51Z",
+    "url": "https://github.com/ARahim3/DigUp"
+  },
+  {
+    "full_name": "LosaLosSantos/aurelio-finance",
+    "stargazers_count": 3370,
+    "prev_stars": 3374,
+    "language": "Python",
+    "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+    "created_at": "2026-10-06T20:14:19Z",
+    "url": "https://github.com/LosaLosSantos/aurelio-finance"
+  },
+  {
+    "full_name": "storytold/deckcraft",
+    "stargazers_count": 3245,
+    "prev_stars": 2951,
+    "language": "Rust",
+    "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+    "created_at": "2026-10-07T05:27:21Z",
+    "url": "https://github.com/storytold/deckcraft"
+  },
+  {
+    "full_name": "nullmoth/nvidia-macos-driver",
+    "stargazers_count": 3007,
+    "prev_stars": 2905,
+    "language": "Rust",
+    "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
+    "created_at": "2026-10-07T08:13:12Z",
+    "url": "https://github.com/nullmoth/nvidia-macos-driver"
+  },
+  {
+    "full_name": "storytold/soundcraft",
+    "stargazers_count": 2797,
+    "prev_stars": 2559,
+    "language": "Rust",
+    "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+    "created_at": "2026-10-07T08:31:31Z",
+    "url": "https://github.com/storytold/soundcraft"
+  },
+  {
+    "full_name": "t4t5/omdrop-owl",
+    "stargazers_count": 2679,
+    "prev_stars": 2584,
+    "language": "Shell",
+    "description": "airdrop for non-apple devices",
+    "created_at": "2026-10-08T06:38:33Z",
+    "url": "https://github.com/t4t5/omdrop-owl"
+  },
+  {
+    "full_name": "storytold/craft-launcher",
+    "stargazers_count": 2646,
+    "prev_stars": 2294,
+    "language": "Rust",
+    "description": "The Craft App Launcher",
+    "created_at": "2026-10-09T23:21:59Z",
+    "url": "https://github.com/storytold/craft-launcher"
+  },
+  {
+    "full_name": "bherbruck/solidcraft",
+    "stargazers_count": 2359,
+    "prev_stars": 1812,
+    "language": "Rust",
+    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+    "created_at": "2026-10-07T18:57:48Z",
+    "url": "https://github.com/bherbruck/solidcraft"
+  },
+  {
+    "full_name": "liseami/CCBaga",
+    "stargazers_count": 2248,
+    "prev_stars": 2048,
+    "language": "Rust",
+    "description": null,
+    "created_at": "2026-10-11T03:47:06Z",
+    "url": "https://github.com/liseami/CCBaga"
+  },
+  {
+    "full_name": "alejandrobujan/tendedero",
+    "stargazers_count": 2168,
+    "prev_stars": 2090,
+    "language": "Swift",
+    "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+    "created_at": "2026-10-07T01:29:54Z",
+    "url": "https://github.com/alejandrobujan/tendedero"
+  },
+  {
+    "full_name": "jhaizhou-ops/d2r-mobile",
+    "stargazers_count": 2104,
+    "prev_stars": 1122,
+    "language": "C",
+    "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+    "created_at": "2026-10-12T08:41:19Z",
+    "url": "https://github.com/jhaizhou-ops/d2r-mobile"
+  },
+  {
+    "full_name": "onehumanbeing/esp32-iphone-agent",
+    "stargazers_count": 2074,
+    "prev_stars": 1508,
+    "language": "Python",
+    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "created_at": "2026-10-11T19:10:25Z",
+    "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+  },
+  {
+    "full_name": "noahdunnagan/fsearch",
+    "stargazers_count": 2052,
+    "prev_stars": 2030,
+    "language": "Rust",
+    "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+    "created_at": "2026-10-08T17:50:33Z",
+    "url": "https://github.com/noahdunnagan/fsearch"
+  },
+  {
+    "full_name": "Fei2411/DeepSeek-Bot",
+    "stargazers_count": 1880,
+    "prev_stars": 1674,
+    "language": "JavaScript",
+    "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+    "created_at": "2026-10-07T15:37:36Z",
+    "url": "https://github.com/Fei2411/DeepSeek-Bot"
+  },
+  {
+    "full_name": "LoreanXavier/pt-pc",
+    "stargazers_count": 1721,
+    "prev_stars": 1658,
+    "language": "C++",
+    "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+    "created_at": "2026-10-07T09:33:31Z",
+    "url": "https://github.com/LoreanXavier/pt-pc"
+  },
+  {
+    "full_name": "shadany7824/playgta5",
+    "stargazers_count": 1603,
+    "prev_stars": 1562,
+    "language": "JavaScript",
+    "description": "A source code for playgta5.com.",
+    "created_at": "2026-10-07T08:37:15Z",
+    "url": "https://github.com/shadany7824/playgta5"
+  },
+  {
+    "full_name": "T-Auto/dsh-ops",
+    "stargazers_count": 1551,
+    "prev_stars": 857,
+    "language": "JavaScript",
+    "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+    "created_at": "2026-10-08T07:09:25Z",
+    "url": "https://github.com/T-Auto/dsh-ops"
+  },
+  {
+    "full_name": "HelixDB/helix-foundry",
+    "stargazers_count": 1465,
+    "prev_stars": 1395,
+    "language": "TypeScript",
+    "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
+    "created_at": "2026-10-07T05:10:45Z",
+    "url": "https://github.com/HelixDB/helix-foundry"
+  },
+  {
+    "full_name": "NVIDIA-Omniverse/usd-brep",
+    "stargazers_count": 1392,
+    "prev_stars": 1128,
+    "language": "C++",
+    "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
+    "created_at": "2026-10-08T17:27:36Z",
+    "url": "https://github.com/NVIDIA-Omniverse/usd-brep"
+  },
+  {
+    "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
+    "stargazers_count": 1246,
+    "prev_stars": 839,
+    "language": "Python",
+    "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+    "created_at": "2026-10-13T03:09:42Z",
+    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
+  },
+  {
+    "full_name": "academa-labs/manimgx",
+    "stargazers_count": 1242,
+    "prev_stars": 1130,
+    "language": "Python",
+    "description": "The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core.",
+    "created_at": "2026-10-05T20:57:05Z",
+    "url": "https://github.com/academa-labs/manimgx"
+  },
+  {
+    "full_name": "pingdotgg/ts-rust",
+    "stargazers_count": 1212,
+    "prev_stars": 1163,
+    "language": "Rust",
+    "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+    "created_at": "2026-10-07T05:17:07Z",
+    "url": "https://github.com/pingdotgg/ts-rust"
+  },
+  {
+    "full_name": "trhhubsd/ARTEXX",
+    "stargazers_count": 1198,
+    "prev_stars": 1123,
+    "language": "Go",
+    "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+    "created_at": "2026-10-08T20:35:22Z",
+    "url": "https://github.com/trhhubsd/ARTEXX"
+  },
+  {
+    "full_name": "shaongitbd/doory",
+    "stargazers_count": 1196,
+    "prev_stars": 1050,
+    "language": "TypeScript",
+    "description": "Open source canva alternative",
+    "created_at": "2026-10-10T00:03:25Z",
+    "url": "https://github.com/shaongitbd/doory"
+  },
+  {
+    "full_name": "wesbos/photo-frame-dashboard",
+    "stargazers_count": 1152,
+    "prev_stars": 1073,
+    "language": "Python",
+    "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+    "created_at": "2026-10-08T18:22:19Z",
+    "url": "https://github.com/wesbos/photo-frame-dashboard"
+  },
+  {
+    "full_name": "opengeos/RustGIS",
+    "stargazers_count": 1052,
+    "prev_stars": 791,
+    "language": "Rust",
+    "description": "A fast, free and open-source GIS in pure Rust.",
+    "created_at": "2026-10-10T18:45:41Z",
+    "url": "https://github.com/opengeos/RustGIS"
+  },
+  {
+    "full_name": "anthropics/oss-scanner",
+    "stargazers_count": 1011,
+    "prev_stars": 964,
+    "language": "Dockerfile",
+    "description": null,
+    "created_at": "2026-10-08T17:25:19Z",
+    "url": "https://github.com/anthropics/oss-scanner"
+  },
+  {
+    "full_name": "rociiu/talorys",
+    "stargazers_count": 999,
+    "prev_stars": 958,
+    "language": "TypeScript",
+    "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+    "created_at": "2026-10-10T09:46:56Z",
+    "url": "https://github.com/rociiu/talorys"
+  },
+  {
+    "full_name": "zhuyansen/new-term-radar",
+    "stargazers_count": 953,
+    "prev_stars": 863,
+    "language": "Python",
+    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+    "created_at": "2026-10-12T07:11:01Z",
+    "url": "https://github.com/zhuyansen/new-term-radar"
+  },
+  {
+    "full_name": "marclou/mailcheap",
+    "stargazers_count": 930,
+    "prev_stars": 895,
+    "language": "JavaScript",
+    "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
+    "created_at": "2026-10-10T12:55:36Z",
+    "url": "https://github.com/marclou/mailcheap"
+  },
+  {
+    "full_name": "storytold/figcraft",
+    "stargazers_count": 900,
+    "prev_stars": 346,
+    "language": "Rust",
+    "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+    "created_at": "2026-10-09T16:02:13Z",
+    "url": "https://github.com/storytold/figcraft"
+  },
+  {
+    "full_name": "sirioberati/Genjustsu-Open-Source-Workflow",
+    "stargazers_count": 856,
+    "prev_stars": 801,
+    "language": "Python",
+    "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+    "created_at": "2026-10-06T23:18:18Z",
+    "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow"
+  },
+  {
+    "full_name": "snuri00/ps2-web-recomp",
+    "stargazers_count": 854,
+    "prev_stars": 704,
+    "language": "C++",
+    "description": "PS2 games in the browser: static recompilation to WebAssembly with a native runtime",
+    "created_at": "2026-10-08T07:06:56Z",
+    "url": "https://github.com/snuri00/ps2-web-recomp"
+  },
+  {
+    "full_name": "bas3line/ascii",
+    "stargazers_count": 853,
+    "prev_stars": 832,
+    "language": "TypeScript",
+    "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+    "created_at": "2026-10-07T06:48:54Z",
+    "url": "https://github.com/bas3line/ascii"
+  },
+  {
+    "full_name": "mw00/project-maya",
+    "stargazers_count": 848,
+    "prev_stars": 740,
+    "language": "C++",
+    "description": "Project Maya - run GLM-5.3-Flash (321B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
+    "created_at": "2026-10-06T22:55:13Z",
+    "url": "https://github.com/mw00/project-maya"
+  },
+  {
+    "full_name": "ToiCF/CF-Workers-TGProxy",
+    "stargazers_count": 825,
+    "prev_stars": 790,
+    "language": null,
+    "description": "基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstrap/session 令牌、多 lane WS 复用、AES-CTR 加密、自定义帧、流控与严格 CSP。",
+    "created_at": "2026-10-08T16:38:51Z",
+    "url": "https://github.com/ToiCF/CF-Workers-TGProxy"
+  },
+  {
+    "full_name": "jwuthri-cloud/Tracely-ai",
+    "stargazers_count": 817,
+    "prev_stars": 750,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-10-11T15:38:03Z",
+    "url": "https://github.com/jwuthri-cloud/Tracely-ai"
+  },
+  {
+    "full_name": "elstongun/leviathan",
+    "stargazers_count": 808,
+    "prev_stars": 800,
+    "language": "Rust",
+    "description": "Deep memory for agents over large datasets. Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+    "created_at": "2026-10-05T08:57:44Z",
+    "url": "https://github.com/elstongun/leviathan"
+  },
+  {
+    "full_name": "ThariqS/ai-newtab",
+    "stargazers_count": 796,
+    "prev_stars": 787,
+    "language": "TypeScript",
+    "description": "Claude generates a daily new tab page based on your browser history.",
+    "created_at": "2026-10-08T17:44:43Z",
+    "url": "https://github.com/ThariqS/ai-newtab"
+  },
+  {
+    "full_name": "tcchen2026/VibeOffice",
+    "stargazers_count": 781,
+    "prev_stars": 733,
+    "language": "JavaScript",
+    "description": "A free office suite that runs in your browser, in the style of Office 2003. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer.",
+    "created_at": "2026-10-08T05:51:30Z",
+    "url": "https://github.com/tcchen2026/VibeOffice"
+  },
+  {
+    "full_name": "YeonwooSung/my-claude-code-mods",
+    "stargazers_count": 776,
+    "prev_stars": 520,
+    "language": "TypeScript",
+    "description": "Custom Claude Code Mods that I need",
+    "created_at": "2026-10-09T13:09:11Z",
+    "url": "https://github.com/YeonwooSung/my-claude-code-mods"
+  },
+  {
+    "full_name": "Hinln/ARTEX",
+    "stargazers_count": 764,
+    "prev_stars": 750,
+    "language": "Go",
+    "description": "ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
+    "created_at": "2026-10-08T11:00:36Z",
+    "url": "https://github.com/Hinln/ARTEX"
+  },
+  {
+    "full_name": "HeyPuter/everything",
+    "stargazers_count": 757,
+    "prev_stars": 147,
+    "language": "JavaScript",
+    "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+    "created_at": "2026-10-13T16:18:22Z",
+    "url": "https://github.com/HeyPuter/everything"
+  },
+  {
+    "full_name": "h0m3us3r/w1700k-sdr",
+    "stargazers_count": 746,
+    "prev_stars": 650,
+    "language": "C",
+    "description": null,
+    "created_at": "2026-10-11T23:21:22Z",
+    "url": "https://github.com/h0m3us3r/w1700k-sdr"
+  },
+  {
+    "full_name": "franzenzenhofer/big-arrow-on-the-screen",
+    "stargazers_count": 744,
+    "prev_stars": 709,
+    "language": "Swift",
+    "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+    "created_at": "2026-10-08T08:39:15Z",
+    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
+  },
+  {
+    "full_name": "CoolkHz/gptibo",
+    "stargazers_count": 735,
+    "prev_stars": 161,
+    "language": "TypeScript",
+    "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+    "created_at": "2026-10-13T15:57:19Z",
+    "url": "https://github.com/CoolkHz/gptibo"
+  },
+  {
+    "full_name": "Gen-Verse/RSI-Anything",
+    "stargazers_count": 711,
+    "prev_stars": 628,
+    "language": "HTML",
+    "description": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+    "created_at": "2026-10-08T22:52:16Z",
+    "url": "https://github.com/Gen-Verse/RSI-Anything"
+  },
+  {
+    "full_name": "n1tr00-10/tiktok-web-signature",
+    "stargazers_count": 710,
+    "prev_stars": 712,
+    "language": "Python",
+    "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+    "created_at": "2026-10-09T19:30:14Z",
+    "url": "https://github.com/n1tr00-10/tiktok-web-signature"
+  },
+  {
+    "full_name": "Jakeschincariol/founder-skill",
+    "stargazers_count": 676,
+    "prev_stars": 558,
+    "language": "Python",
+    "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+    "created_at": "2026-10-07T01:07:13Z",
+    "url": "https://github.com/Jakeschincariol/founder-skill"
+  },
+  {
+    "full_name": "gr8rstudio/gr8r-studio",
+    "stargazers_count": 676,
+    "prev_stars": 624,
+    "language": "JavaScript",
+    "description": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+    "created_at": "2026-10-07T11:44:07Z",
+    "url": "https://github.com/gr8rstudio/gr8r-studio"
+  },
+  {
+    "full_name": "zeusinsight/FinderSearch",
+    "stargazers_count": 663,
+    "prev_stars": 659,
+    "language": "Swift",
+    "description": "A native macOS file browser with fast fuzzy filename search, powered by fsearch.",
+    "created_at": "2026-10-09T08:01:38Z",
+    "url": "https://github.com/zeusinsight/FinderSearch"
+  },
+  {
+    "full_name": "SubmitGame/awesome-decomp-games",
+    "stargazers_count": 661,
+    "prev_stars": 553,
+    "language": "Python",
+    "description": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
+    "created_at": "2026-10-09T15:15:18Z",
+    "url": "https://github.com/SubmitGame/awesome-decomp-games"
+  },
+  {
+    "full_name": "outcrawlai/scout",
+    "stargazers_count": 646,
+    "prev_stars": null,
+    "language": "TypeScript",
+    "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+    "created_at": "2026-10-13T09:18:55Z",
+    "url": "https://github.com/outcrawlai/scout"
+  },
+  {
+    "full_name": "GTKottman/mortiflix-oss",
+    "stargazers_count": 629,
+    "prev_stars": 608,
+    "language": "JavaScript",
+    "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
+    "created_at": "2026-10-05T15:15:13Z",
+    "url": "https://github.com/GTKottman/mortiflix-oss"
+  },
+  {
+    "full_name": "szabadkai/c64-keyboard-font",
+    "stargazers_count": 629,
+    "prev_stars": 618,
+    "language": "Python",
+    "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+    "created_at": "2026-10-05T11:03:06Z",
+    "url": "https://github.com/szabadkai/c64-keyboard-font"
+  },
+  {
+    "full_name": "mushigaite/short-video-maker",
+    "stargazers_count": 624,
+    "prev_stars": 472,
+    "language": "Python",
+    "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
+    "created_at": "2026-10-05T18:35:21Z",
+    "url": "https://github.com/mushigaite/short-video-maker"
+  },
+  {
+    "full_name": "nanocle/Charakuru",
+    "stargazers_count": 605,
+    "prev_stars": 595,
+    "language": null,
+    "description": null,
+    "created_at": "2026-10-06T08:27:57Z",
+    "url": "https://github.com/nanocle/Charakuru"
+  },
+  {
+    "full_name": "c22dev/muguet",
+    "stargazers_count": 598,
+    "prev_stars": 579,
+    "language": "Rust",
+    "description": "A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
+    "created_at": "2026-10-10T08:45:02Z",
+    "url": "https://github.com/c22dev/muguet"
+  },
+  {
+    "full_name": "deeplethe/solid-glass",
+    "stargazers_count": 594,
+    "prev_stars": 253,
+    "language": "TypeScript",
+    "description": "A design system for AI applications. Material, physical, tactile, technical.",
+    "created_at": "2026-10-12T09:19:02Z",
+    "url": "https://github.com/deeplethe/solid-glass"
+  },
+  {
+    "full_name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+    "stargazers_count": 569,
+    "prev_stars": 534,
+    "language": "Python",
+    "description": "Introduction to Semiconductor Manufacturing",
+    "created_at": "2026-10-11T02:01:01Z",
+    "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction"
+  },
+  {
+    "full_name": "droogie/bbhost",
+    "stargazers_count": 566,
+    "prev_stars": 545,
+    "language": "C++",
+    "description": "Definitive Bloodborne PC Experience",
+    "created_at": "2026-10-07T14:22:17Z",
+    "url": "https://github.com/droogie/bbhost"
+  },
+  {
+    "full_name": "lonewolf0622/HelixSR",
+    "stargazers_count": 554,
+    "prev_stars": 523,
+    "language": null,
+    "description": "Drop-in FSR 3.1 upscaler for Direct3D 12 that runs DLSS's network (Model E) on AMD GPUs",
+    "created_at": "2026-10-05T10:19:07Z",
+    "url": "https://github.com/lonewolf0622/HelixSR"
+  },
+  {
+    "full_name": "marmottajr/habblaud",
+    "stargazers_count": 550,
+    "prev_stars": 461,
+    "language": "TypeScript",
+    "description": null,
+    "created_at": "2026-10-06T15:41:06Z",
+    "url": "https://github.com/marmottajr/habblaud"
+  },
+  {
+    "full_name": "nateherkai/roast-room",
+    "stargazers_count": 523,
+    "prev_stars": 357,
+    "language": "JavaScript",
+    "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+    "created_at": "2026-10-10T20:38:58Z",
+    "url": "https://github.com/nateherkai/roast-room"
+  },
+  {
+    "full_name": "npwitk/Macintosh-Skeletal-Filled",
+    "stargazers_count": 521,
+    "prev_stars": 509,
+    "language": null,
+    "description": "helllllllllloooo font! Turns out it's called Macintosh Skeleton",
+    "created_at": "2026-10-10T12:29:10Z",
+    "url": "https://github.com/npwitk/Macintosh-Skeletal-Filled"
+  },
+  {
+    "full_name": "morluto/awesome-reverse-engineering",
+    "stargazers_count": 504,
+    "prev_stars": 419,
+    "language": null,
+    "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
+    "created_at": "2026-10-09T14:58:20Z",
+    "url": "https://github.com/morluto/awesome-reverse-engineering"
+  },
+  {
+    "full_name": "AnkioTomas/qqpet",
+    "stargazers_count": 503,
+    "prev_stars": 351,
+    "language": "TypeScript",
+    "description": "QQ宠物单机复刻版(AI)",
+    "created_at": "2026-10-07T02:41:52Z",
+    "url": "https://github.com/AnkioTomas/qqpet"
+  },
+  {
+    "full_name": "iamlukethedev/Herald-OS",
+    "stargazers_count": 492,
+    "prev_stars": 476,
+    "language": "TypeScript",
+    "description": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
+    "created_at": "2026-10-06T20:37:44Z",
+    "url": "https://github.com/iamlukethedev/Herald-OS"
+  },
+  {
+    "full_name": "gholtzap/lintapple",
+    "stargazers_count": 491,
+    "prev_stars": 482,
+    "language": "JavaScript",
+    "description": "It should be impossible for AI to make a bad UI.",
+    "created_at": "2026-10-07T14:49:31Z",
+    "url": "https://github.com/gholtzap/lintapple"
+  },
+  {
+    "full_name": "Tejashmakwana/motionmaxxing",
+    "stargazers_count": 484,
+    "prev_stars": 394,
+    "language": "JavaScript",
+    "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+    "created_at": "2026-10-06T18:18:49Z",
+    "url": "https://github.com/Tejashmakwana/motionmaxxing"
+  },
+  {
+    "full_name": "nullmoth/1401",
+    "stargazers_count": 482,
+    "prev_stars": 446,
+    "language": "Python",
+    "description": "Install macOS on your PC from Windows",
+    "created_at": "2026-10-07T08:13:16Z",
+    "url": "https://github.com/nullmoth/1401"
+  },
+  {
+    "full_name": "overdriveps5/overdrive-releases",
+    "stargazers_count": 476,
+    "prev_stars": 292,
+    "language": null,
+    "description": "Overdrive releases for jailbroken PS5",
+    "created_at": "2026-10-12T19:35:03Z",
+    "url": "https://github.com/overdriveps5/overdrive-releases"
+  },
+  {
+    "full_name": "StoopwenpueNq/jackie-fmri-sim",
+    "stargazers_count": 469,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "jackie-fmri-sim",
+    "created_at": "2026-10-14T10:14:56Z",
+    "url": "https://github.com/StoopwenpueNq/jackie-fmri-sim"
+  },
+  {
+    "full_name": "D3ATHLY/blackbox",
+    "stargazers_count": 466,
+    "prev_stars": 372,
+    "language": null,
+    "description": "BB",
+    "created_at": "2026-10-06T09:37:56Z",
+    "url": "https://github.com/D3ATHLY/blackbox"
+  },
+  {
+    "full_name": "LordixDemon/apple_watch_connector",
+    "stargazers_count": 451,
+    "prev_stars": 352,
+    "language": "Java",
+    "description": null,
+    "created_at": "2026-10-09T06:58:06Z",
+    "url": "https://github.com/LordixDemon/apple_watch_connector"
+  },
+  {
+    "full_name": "NabilRFG12/Reverse-Engineer-anything",
+    "stargazers_count": 433,
+    "prev_stars": 326,
+    "language": null,
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "created_at": "2026-10-08T22:35:51Z",
+    "url": "https://github.com/NabilRFG12/Reverse-Engineer-anything"
+  },
+  {
+    "full_name": "nikgrbn/finder-menu",
+    "stargazers_count": 427,
+    "prev_stars": 381,
+    "language": "Swift",
+    "description": "Right-click menu for macOS Finder: New File, Open Terminal Here, Copy Path, Go to Parent Folder",
+    "created_at": "2026-10-09T23:50:02Z",
+    "url": "https://github.com/nikgrbn/finder-menu"
+  },
+  {
+    "full_name": "PS5Dev/Byepervisor-Reborn",
+    "stargazers_count": 416,
+    "prev_stars": 353,
+    "language": "C",
+    "description": "Somehow, Byepervisor returned...",
+    "created_at": "2026-10-12T22:26:34Z",
+    "url": "https://github.com/PS5Dev/Byepervisor-Reborn"
+  },
+  {
+    "full_name": "Glass-HQ/liquid-glass",
+    "stargazers_count": 407,
+    "prev_stars": 400,
+    "language": "TypeScript",
+    "description": "Liquid Glass materials for web and Electron, built with vgpu.",
+    "created_at": "2026-10-06T00:23:48Z",
+    "url": "https://github.com/Glass-HQ/liquid-glass"
+  },
+  {
+    "full_name": "mrsarac/ff-tracking",
+    "stargazers_count": 400,
+    "prev_stars": 377,
+    "language": "Rust",
+    "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
+    "created_at": "2026-10-09T11:12:47Z",
+    "url": "https://github.com/mrsarac/ff-tracking"
+  },
+  {
+    "full_name": "threerocks/sweety-handdraw-video",
+    "stargazers_count": 390,
+    "prev_stars": 202,
+    "language": "JavaScript",
+    "description": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+    "created_at": "2026-10-12T12:16:18Z",
+    "url": "https://github.com/threerocks/sweety-handdraw-video"
+  },
+  {
+    "full_name": "peiikai/LASRecomp",
+    "stargazers_count": 369,
+    "prev_stars": null,
+    "language": "C",
+    "description": "Static recompilation of Link's Awakening (Switch) to native macOS, Windows and Linux",
+    "created_at": "2026-10-08T22:42:12Z",
+    "url": "https://github.com/peiikai/LASRecomp"
+  },
+  {
+    "full_name": "thesysdev/open-intelligent-ui",
+    "stargazers_count": 369,
+    "prev_stars": 359,
+    "language": "TypeScript",
+    "description": null,
+    "created_at": "2026-10-08T05:37:45Z",
+    "url": "https://github.com/thesysdev/open-intelligent-ui"
+  },
+  {
+    "full_name": "rayytor/desktop_gifs",
+    "stargazers_count": 367,
+    "prev_stars": null,
+    "language": "JavaScript",
+    "description": "Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
+    "created_at": "2026-10-11T05:43:14Z",
+    "url": "https://github.com/rayytor/desktop_gifs"
+  },
+  {
+    "full_name": "x4gpanell/JinX-X4G",
+    "stargazers_count": 359,
+    "prev_stars": 354,
+    "language": "HTML",
+    "description": null,
+    "created_at": "2026-10-06T07:17:50Z",
+    "url": "https://github.com/x4gpanell/JinX-X4G"
+  },
+  {
+    "full_name": "AIPMAndy/how-to-survive-unemployment",
+    "stargazers_count": 353,
+    "prev_stars": 329,
+    "language": "HTML",
+    "description": "失业自救开源手册：N/N+1/2N、失业金、医保、社保、公积金、求职与现金流。50项行动任务、6份实操SOP，附北京上海政策原文。",
+    "created_at": "2026-10-09T03:22:58Z",
+    "url": "https://github.com/AIPMAndy/how-to-survive-unemployment"
+  },
+  {
+    "full_name": "AjncSystem/ShadowOfTheColossus-PC",
+    "stargazers_count": 352,
+    "prev_stars": null,
+    "language": "C++",
+    "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
+    "created_at": "2026-10-12T13:11:53Z",
+    "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC"
+  },
+  {
+    "full_name": "z3xox/Tenkaichi3Decomp",
+    "stargazers_count": 339,
+    "prev_stars": 283,
+    "language": "C",
+    "description": "PC port of Dragon Ball Z: Budokai Tenkaichi 3, built on the BT3-Decompiled project.",
+    "created_at": "2026-10-06T07:39:08Z",
+    "url": "https://github.com/z3xox/Tenkaichi3Decomp"
+  },
+  {
+    "full_name": "zhouwei713/luobo-ppt",
+    "stargazers_count": 337,
+    "prev_stars": 317,
+    "language": "Python",
+    "description": "生成和美化可编辑原生 PPT 的 Agent Skill",
+    "created_at": "2026-10-08T11:50:44Z",
+    "url": "https://github.com/zhouwei713/luobo-ppt"
+  },
+  {
+    "full_name": "juliobsz/skills",
+    "stargazers_count": 336,
+    "prev_stars": 306,
+    "language": "TypeScript",
+    "description": "An agent skill that builds award-caliber websites from one line",
+    "created_at": "2026-10-12T00:07:32Z",
+    "url": "https://github.com/juliobsz/skills"
+  },
+  {
+    "full_name": "LingCore/WinShun",
+    "stargazers_count": 332,
+    "prev_stars": 277,
+    "language": "C++",
+    "description": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server. Everything/Listary alternative.",
+    "created_at": "2026-10-08T03:18:00Z",
+    "url": "https://github.com/LingCore/WinShun"
+  },
+  {
+    "full_name": "fayazara/robot-heads",
+    "stargazers_count": 329,
+    "prev_stars": 312,
+    "language": "TypeScript",
+    "description": "Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing.",
+    "created_at": "2026-10-09T16:28:47Z",
+    "url": "https://github.com/fayazara/robot-heads"
+  },
+  {
+    "full_name": "kevinerikjs/gta5-ios-port",
+    "stargazers_count": 328,
+    "prev_stars": 262,
+    "language": "Swift",
+    "description": "GTA V natively on iPhone: build it yourself from your own game files. Fan project, no game files included.",
+    "created_at": "2026-10-10T18:36:47Z",
+    "url": "https://github.com/kevinerikjs/gta5-ios-port"
+  },
+  {
+    "full_name": "storytold/craft-fonts",
+    "stargazers_count": 328,
+    "prev_stars": 312,
+    "language": "Rust",
+    "description": "Fonts for the Crafting Apps",
+    "created_at": "2026-10-06T13:44:10Z",
+    "url": "https://github.com/storytold/craft-fonts"
+  },
+  {
+    "full_name": "opencoredev/convt",
+    "stargazers_count": 322,
+    "prev_stars": 320,
+    "language": "Rust",
+    "description": "Convert any file with a right-click.",
+    "created_at": "2026-10-06T01:17:53Z",
+    "url": "https://github.com/opencoredev/convt"
+  },
+  {
+    "full_name": "opennookorg/betterwispr",
+    "stargazers_count": 322,
+    "prev_stars": 302,
+    "language": "Swift",
+    "description": "Free, open-source, local-first dictation app for macOS. Hold a shortcut, speak, and text is typed into any app. On-device speech-to-text with Whisper, Parakeet and Apple speech. Private, offline, open-source Wispr Flow alternative.",
+    "created_at": "2026-10-07T19:52:04Z",
+    "url": "https://github.com/opennookorg/betterwispr"
+  },
+  {
+    "full_name": "snuri00/psp-web-recomp",
+    "stargazers_count": 310,
+    "prev_stars": 296,
+    "language": "C++",
+    "description": "PSP games in the browser, static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer",
+    "created_at": "2026-10-07T11:21:20Z",
+    "url": "https://github.com/snuri00/psp-web-recomp"
+  },
+  {
+    "full_name": "OrgoAI/bops",
+    "stargazers_count": 310,
+    "prev_stars": 304,
+    "language": "TypeScript",
+    "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
+    "created_at": "2026-10-06T14:45:00Z",
+    "url": "https://github.com/OrgoAI/bops"
+  },
+  {
+    "full_name": "solana-classic/solana-classic",
+    "stargazers_count": 309,
+    "prev_stars": null,
+    "language": "Rust",
+    "description": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
+    "created_at": "2026-10-13T19:35:48Z",
+    "url": "https://github.com/solana-classic/solana-classic"
+  },
+  {
+    "full_name": "Ayzzz123/mcd-coupon-strategist",
+    "stargazers_count": 303,
+    "prev_stars": 277,
+    "language": "Python",
+    "description": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+    "created_at": "2026-10-10T12:59:19Z",
+    "url": "https://github.com/Ayzzz123/mcd-coupon-strategist"
+  },
+  {
+    "full_name": "egotoadcitadel/palette-from-image-ai",
+    "stargazers_count": 303,
+    "prev_stars": 302,
+    "language": "Python",
+    "description": "AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload.",
+    "created_at": "2026-10-13T17:08:53Z",
+    "url": "https://github.com/egotoadcitadel/palette-from-image-ai"
+  },
+  {
+    "full_name": "kandinskylab/kandinsky-6",
+    "stargazers_count": 300,
+    "prev_stars": 291,
+    "language": "Python",
+    "description": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
+    "created_at": "2026-10-05T09:06:41Z",
+    "url": "https://github.com/kandinskylab/kandinsky-6"
+  },
+  {
+    "full_name": "google-deepmind/alphaprotein-novo",
+    "stargazers_count": 291,
+    "prev_stars": 283,
+    "language": "Python",
+    "description": "AlphaProtein Novo",
+    "created_at": "2026-10-05T14:39:58Z",
+    "url": "https://github.com/google-deepmind/alphaprotein-novo"
+  },
+  {
+    "full_name": "dualface/ste-zh",
+    "stargazers_count": 289,
+    "prev_stars": 279,
+    "language": null,
+    "description": "Agent skill: 按 ASD-STE100 (Simplified Technical English) 原则用中文向用户汇报结果",
+    "created_at": "2026-10-05T16:45:04Z",
+    "url": "https://github.com/dualface/ste-zh"
+  },
+  {
+    "full_name": "SpeedBreakerProject/speedbreaker",
+    "stargazers_count": 285,
+    "prev_stars": 255,
+    "language": "C++",
+    "description": "Unofficial static recompilation of the Xbox 360 version of Need for Speed: Most Wanted (2005): a native port for Steam Deck, Steam Machine, Steam Frame, Linux and Mac (iPhone/iPad: sideload the experimental IPA or build it yourself). Bring your own disc: no game files included. Not affiliated with EA or Valve.",
+    "created_at": "2026-10-05T17:31:24Z",
+    "url": "https://github.com/SpeedBreakerProject/speedbreaker"
+  },
+  {
+    "full_name": "aindeev/agent-chrome-relay",
+    "stargazers_count": 283,
+    "prev_stars": 275,
+    "language": "Go",
+    "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+    "created_at": "2026-10-10T07:38:27Z",
+    "url": "https://github.com/aindeev/agent-chrome-relay"
+  },
+  {
+    "full_name": "spideymooon/McOracle",
+    "stargazers_count": 280,
+    "prev_stars": 209,
+    "language": "Python",
+    "description": "不要问 AI，问薯条。一个结合麦当劳 MCP 与 AI 答案之书的 Skill。",
+    "created_at": "2026-10-12T15:44:21Z",
+    "url": "https://github.com/spideymooon/McOracle"
+  },
+  {
+    "full_name": "NousResearch/hermes-official-plugins",
+    "stargazers_count": 278,
+    "prev_stars": 269,
+    "language": "Python",
+    "description": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+    "created_at": "2026-10-10T20:51:25Z",
+    "url": "https://github.com/NousResearch/hermes-official-plugins"
+  },
+  {
+    "full_name": "wbr664393425-lgtm/scaffold-master",
+    "stargazers_count": 277,
+    "prev_stars": 245,
+    "language": "Vue",
+    "description": "Spring Boot + Vue 通用后台管理脚手架，提供认证、RBAC 与数据权限、组织管理、日志和代码生成骨架。",
+    "created_at": "2026-10-11T12:56:35Z",
+    "url": "https://github.com/wbr664393425-lgtm/scaffold-master"
+  },
+  {
+    "full_name": "rockmatrix-ai/EdgeRock",
+    "stargazers_count": 275,
+    "prev_stars": 240,
+    "language": "Python",
+    "description": "YANchor-4B: Effective Long-Horizon Reasoning in O(N) Time with O(1) Memory. Inference and evaluation code.",
+    "created_at": "2026-10-07T17:21:11Z",
+    "url": "https://github.com/rockmatrix-ai/EdgeRock"
+  },
+  {
+    "full_name": "jasonbitsmith/muse-skills",
+    "stargazers_count": 274,
+    "prev_stars": 271,
+    "language": null,
+    "description": "300 条 Muse 技能：每条一句话痛点 + 三步做法，点开就能用",
+    "created_at": "2026-10-05T10:56:00Z",
+    "url": "https://github.com/jasonbitsmith/muse-skills"
+  },
+  {
+    "full_name": "goodseafly/how-to-make-work-pay",
+    "stargazers_count": 273,
+    "prev_stars": 223,
+    "language": "HTML",
+    "description": "教你把工资、加班费和没休完的年假一分不少地要回来，社保断了怎么接、工伤生育怎么办；被针对、被调岗、被裁时知道怎么走、怎么不留尾巴。576 条建议，每条写明花掉什么、换回什么、证据有多硬，来源只引官方文件原文和研究文献。",
+    "created_at": "2026-10-06T15:26:43Z",
+    "url": "https://github.com/goodseafly/how-to-make-work-pay"
+  },
+  {
+    "full_name": "CrocSwap/integer-mult-bounds",
+    "stargazers_count": 271,
+    "prev_stars": 254,
+    "language": "Python",
+    "description": "Conditional integer multiplication: kappa > 2^-15. Community proofs, exact certificates and reproducible audits; assumes the OpenAI #109 framework.",
+    "created_at": "2026-10-07T02:21:37Z",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds"
+  },
+  {
+    "full_name": "GetLostIn/CTR-NitroFueled-PC",
+    "stargazers_count": 268,
+    "prev_stars": null,
+    "language": "C++",
+    "description": "Crash Team Racing: Nitro-Fueled (PS4) running natively on Windows 10/11. Windows fork of SacredFire, built on bbport and shadPS4. No game files included.",
+    "created_at": "2026-10-12T15:24:23Z",
+    "url": "https://github.com/GetLostIn/CTR-NitroFueled-PC"
+  },
+  {
+    "full_name": "liyupi/ai-promo-video-maker",
+    "stargazers_count": 267,
+    "prev_stars": 250,
+    "language": "Python",
+    "description": "一句话让 AI 帮你做产品宣传片！把产品名或网址告诉 Cursor、Claude Code、Codex 等 AI 编程工具，它会自己调研产品、画出多种风格样图让你挑选、截取 4K 真实页面、按音乐节拍卡点剪辑、生成 AI 旁白并逐句转写校验、自动审图，最后交付一支 4K 商业宣传视频和可在线播放的网页版。App、网站、SaaS、开源项目、课程、AI 模型都能做，你只需确认需求、试听配乐。不用学剪辑软件，也不用花钱找外包。基于 Remotion + ElevenLabs，可直接克隆使用，也能一键安装为 Agent Skill。",
+    "created_at": "2026-10-09T08:44:30Z",
+    "url": "https://github.com/liyupi/ai-promo-video-maker"
+  },
+  {
+    "full_name": "Nongfsq/ftop",
+    "stargazers_count": 265,
+    "prev_stars": 233,
+    "language": "Swift",
+    "description": "A small, quiet system monitor for Apple Silicon Macs: one floating glass panel that works at any size.",
+    "created_at": "2026-10-06T23:36:34Z",
+    "url": "https://github.com/Nongfsq/ftop"
+  },
+  {
+    "full_name": "unixzii/SimRun",
+    "stargazers_count": 256,
+    "prev_stars": 242,
+    "language": "Objective-C",
+    "description": "Run iOS Simulator apps directly on your Mac.",
+    "created_at": "2026-10-10T09:09:19Z",
+    "url": "https://github.com/unixzii/SimRun"
+  },
+  {
+    "full_name": "HeyChengC/vibe-knowledge-film",
+    "stargazers_count": 255,
+    "prev_stars": 224,
+    "language": "JavaScript",
+    "description": "抖音爆款Vibe知识大赏知识短片skill，深度拆解爆款视频，复刻画风，导演分镜表，自动配音效，一键出片",
+    "created_at": "2026-10-06T15:53:56Z",
+    "url": "https://github.com/HeyChengC/vibe-knowledge-film"
+  },
+  {
+    "full_name": "eyalgolan/statecraft-israel",
+    "stargazers_count": 253,
+    "prev_stars": 235,
+    "language": "C#",
+    "description": "A Civilization-style strategy game about governing Israel from 15 May 1948. Real ministers, real map, every fact sourced. Unity + deterministic C# sim.",
+    "created_at": "2026-10-10T08:11:27Z",
+    "url": "https://github.com/eyalgolan/statecraft-israel"
+  },
+  {
+    "full_name": "context-dot-dev/sgrep",
+    "stargazers_count": 250,
+    "prev_stars": null,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-10-07T15:22:40Z",
+    "url": "https://github.com/context-dot-dev/sgrep"
+  },
+  {
+    "full_name": "finnvoor/PiDurableKit",
+    "stargazers_count": 250,
+    "prev_stars": 248,
+    "language": "Swift",
+    "description": "Durable AI agents for Apple platforms: pi-durable on JavaScriptCore with a Swift API",
+    "created_at": "2026-10-08T10:02:27Z",
+    "url": "https://github.com/finnvoor/PiDurableKit"
+  },
+  {
+    "full_name": "rumoii/streamfirefly",
+    "stargazers_count": 250,
+    "prev_stars": 245,
+    "language": "JavaScript",
+    "description": "网页媒体嗅探与下载工具，包含浏览器扩展和 Windows 本地助手。Web media detection and download tool with a browser extension and a Windows native helper.",
+    "created_at": "2026-10-05T04:26:14Z",
+    "url": "https://github.com/rumoii/streamfirefly"
+  },
+  {
+    "full_name": "dach6/ExaltHelper",
+    "stargazers_count": 249,
+    "prev_stars": 209,
+    "language": "C#",
+    "description": "A C# Windows companion for Realm of the Mad God Exalt featuring real-time DPS tracking, player/party overlays, ability & loot logs, and gameplay utilities with updated combat calculation fixes.",
+    "created_at": "2026-10-10T06:14:15Z",
+    "url": "https://github.com/dach6/ExaltHelper"
+  },
+  {
+    "full_name": "madeyexz/louisa-wifi",
+    "stargazers_count": 247,
+    "prev_stars": 207,
+    "language": "Swift",
+    "description": "自動連上全台任何一家路易莎咖啡的 Wi-Fi（macOS menu bar app + Raycast）",
+    "created_at": "2026-10-12T08:20:09Z",
+    "url": "https://github.com/madeyexz/louisa-wifi"
+  },
+  {
+    "full_name": "rit3zh/morphlet",
+    "stargazers_count": 243,
+    "prev_stars": 242,
+    "language": "TypeScript",
+    "description": "A native, morphing floating tray for React Native.",
+    "created_at": "2026-10-05T12:21:15Z",
+    "url": "https://github.com/rit3zh/morphlet"
+  },
+  {
+    "full_name": "BinceQu/RoboHarness",
+    "stargazers_count": 243,
+    "prev_stars": 236,
+    "language": "Python",
+    "description": "A robotic harness that gives LLM agents a visual-geometric control panel so that they can directly understand and invoke embodied tasks.",
+    "created_at": "2026-10-07T04:39:45Z",
+    "url": "https://github.com/BinceQu/RoboHarness"
+  },
+  {
+    "full_name": "storytold/craft-libs",
+    "stargazers_count": 242,
+    "prev_stars": 209,
+    "language": "Rust",
+    "description": "Rust libraries for the Craft Apps",
+    "created_at": "2026-10-09T15:59:16Z",
+    "url": "https://github.com/storytold/craft-libs"
+  },
+  {
+    "full_name": "jdx/jactionlint",
+    "stargazers_count": 238,
+    "prev_stars": 225,
+    "language": "Go",
+    "description": ":octocat: Static checker for GitHub Actions workflow files",
+    "created_at": "2026-10-05T00:42:21Z",
+    "url": "https://github.com/jdx/jactionlint"
+  },
+  {
+    "full_name": "carreypro/ict-trading-model",
+    "stargazers_count": 237,
+    "prev_stars": 159,
+    "language": "Python",
+    "description": "ICT and SMC market-structure validation skill with deterministic OHLCV scanning",
+    "created_at": "2026-10-10T07:05:14Z",
+    "url": "https://github.com/carreypro/ict-trading-model"
+  },
+  {
+    "full_name": "yzg1226/mcd-party-officer",
+    "stargazers_count": 235,
+    "prev_stars": 233,
+    "language": "Python",
+    "description": "🍟 麦当劳门店派对成团调度 Skill — 把派对从「策划」推进到「办得成」：成团概率雷达 / 包场vs拼团 / 择日黄历 / 儿童营养指数 / 招募卡与邀请函",
+    "created_at": "2026-10-09T14:20:03Z",
+    "url": "https://github.com/yzg1226/mcd-party-officer"
+  },
+  {
+    "full_name": "a-funk/open-appleremote",
+    "stargazers_count": 234,
+    "prev_stars": 231,
+    "language": "Python",
+    "description": "Use the first-gen Apple Siri Remote (A1513/A1962) on Linux: unlock it, decode touch and buttons, tvOS-style gestures, a virtual keyboard. Pure-stdlib Python.",
+    "created_at": "2026-10-09T09:16:53Z",
+    "url": "https://github.com/a-funk/open-appleremote"
+  },
+  {
+    "full_name": "LcodeCoder/CG-Claude",
+    "stargazers_count": 232,
+    "prev_stars": 231,
+    "language": "TypeScript",
+    "description": "A software that disguises the operating system's information",
+    "created_at": "2026-10-10T17:16:43Z",
+    "url": "https://github.com/LcodeCoder/CG-Claude"
+  },
+  {
+    "full_name": "Nonco-Organization/multicoin-address-validator",
+    "stargazers_count": 230,
+    "prev_stars": 230,
+    "language": "JavaScript",
+    "description": "Useful library for validation of Bitcoin, Litecoin, Ethereum and other cryptocoin addresses",
+    "created_at": "2026-10-08T17:36:21Z",
+    "url": "https://github.com/Nonco-Organization/multicoin-address-validator"
+  },
+  {
+    "full_name": "leolobato/playden-ps5",
+    "stargazers_count": 229,
+    "prev_stars": 154,
+    "language": "C++",
+    "description": "Play your Steam library's Windows games on a jailbroken PS5.",
+    "created_at": "2026-10-12T09:39:39Z",
+    "url": "https://github.com/leolobato/playden-ps5"
+  },
+  {
+    "full_name": "Autumn1337/better-statusline",
+    "stargazers_count": 228,
+    "prev_stars": 214,
+    "language": "TypeScript",
+    "description": "A status line for Claude Code: the session's figures as dot-matrix rings, and the music you are playing beside them",
+    "created_at": "2026-10-05T08:44:27Z",
+    "url": "https://github.com/Autumn1337/better-statusline"
+  },
+  {
+    "full_name": "mrzh7/scam-with-your-friends-web",
+    "stargazers_count": 228,
+    "prev_stars": 228,
+    "language": "TypeScript",
+    "description": "Scam With Your Friends Web: unofficial open-source browser remake. Co-op AI call center game with a 3D office, voice chat and daily quotas. React + Three.js; self-host on Cloudflare.",
+    "created_at": "2026-10-09T05:27:48Z",
+    "url": "https://github.com/mrzh7/scam-with-your-friends-web"
+  },
+  {
+    "full_name": "chekusu/yobiru",
+    "stargazers_count": 225,
+    "prev_stars": 175,
+    "language": "Python",
+    "description": "Let your agents talk: messages, data, files and wake-ups over Tailscale.",
+    "created_at": "2026-10-10T10:30:00Z",
+    "url": "https://github.com/chekusu/yobiru"
+  },
+  {
+    "full_name": "mu-zi-lee/magpie-our-free-model",
+    "stargazers_count": 225,
+    "prev_stars": 220,
+    "language": "JavaScript",
+    "description": "Our Free Model 的 Magpie 适配插件：整合免费模型池、EAC 授权与多账号渠道，支持自动服务管理及免登录的 Cloudflare 临时远程控制台。｜Magpie integration for Our Free Model with free model pools, EAC authentication, multiple account providers, automatic service management, and an accountless Cloudflare temporary remote console.",
+    "created_at": "2026-10-09T17:18:24Z",
+    "url": "https://github.com/mu-zi-lee/magpie-our-free-model"
+  },
+  {
+    "full_name": "jackotom/hongguo-drama",
+    "stargazers_count": 220,
+    "prev_stars": 201,
+    "language": "JavaScript",
+    "description": "红果短剧桌面版 · 支持 M 系列 Mac、Intel Mac 和 Windows · 三来源搜索、播放、下载与追剧 · GPL-3.0 开源",
+    "created_at": "2026-10-07T00:06:45Z",
+    "url": "https://github.com/jackotom/hongguo-drama"
+  },
+  {
+    "full_name": "yeyuxin777/baoyan-agent-benchmark",
+    "stargazers_count": 218,
+    "prev_stars": 149,
+    "language": "Python",
+    "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+    "created_at": "2026-10-12T09:15:11Z",
+    "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark"
+  },
+  {
+    "full_name": "roboterax/video-prediction-policy-2",
+    "stargazers_count": 218,
+    "prev_stars": 203,
+    "language": "Python",
+    "description": "Official implementation of Video Prediction Policy 2: Predict Better, Act Better",
+    "created_at": "2026-10-08T06:58:48Z",
+    "url": "https://github.com/roboterax/video-prediction-policy-2"
+  },
+  {
+    "full_name": "lithos-ai/lithos-metal",
+    "stargazers_count": 217,
+    "prev_stars": 202,
+    "language": "Python",
+    "description": "lithos-metal: high-performance LLM inference kernels and serving for Apple silicon.",
+    "created_at": "2026-10-05T15:23:30Z",
+    "url": "https://github.com/lithos-ai/lithos-metal"
+  },
+  {
+    "full_name": "BlenderGPT3D/blender-ai-addon",
+    "stargazers_count": 212,
+    "prev_stars": 134,
+    "language": "Python",
+    "description": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+    "created_at": "2026-10-09T08:34:03Z",
+    "url": "https://github.com/BlenderGPT3D/blender-ai-addon"
+  },
+  {
+    "full_name": "h100envy/gem-search",
+    "stargazers_count": 212,
+    "prev_stars": 211,
+    "language": "Python",
+    "description": "Rainbow spider that X-rays memecoins: bundles, linked wallets, dev history. Scanner, Telegram bot, live Bundle Index.",
+    "created_at": "2026-10-05T13:12:12Z",
+    "url": "https://github.com/h100envy/gem-search"
+  },
+  {
+    "full_name": "openhausfun/photocraft",
+    "stargazers_count": 209,
+    "prev_stars": 198,
+    "language": "Rust",
+    "description": "Independent source snapshot of storytold/photocraft. Original MIT/Apache-2.0 licenses and attribution retained.",
+    "created_at": "2026-10-06T22:24:35Z",
+    "url": "https://github.com/openhausfun/photocraft"
+  },
+  {
+    "full_name": "datalab-to/indra",
+    "stargazers_count": 208,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+    "created_at": "2026-10-13T11:07:11Z",
+    "url": "https://github.com/datalab-to/indra"
+  },
+  {
+    "full_name": "NandhaKishorM/vegaml",
+    "stargazers_count": 207,
+    "prev_stars": 203,
+    "language": "Python",
+    "description": "Typed decisions from a frozen language model and a small physics engine: calibrated probabilities, conformal sets, 73k context, images.",
+    "created_at": "2026-10-09T17:45:54Z",
+    "url": "https://github.com/NandhaKishorM/vegaml"
+  },
+  {
+    "full_name": "Atoll92/agent-standup",
+    "stargazers_count": 207,
+    "prev_stars": 177,
+    "language": "HTML",
+    "description": "Your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, who waits on whom, who needs you. VS Code extension, terminal command, desktop app. Runs locally, zero tokens.",
+    "created_at": "2026-10-10T07:48:17Z",
+    "url": "https://github.com/Atoll92/agent-standup"
+  },
+  {
+    "full_name": "w16638771062/mccarbon",
+    "stargazers_count": 206,
+    "prev_stars": 205,
+    "language": "Python",
+    "description": "麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 | Personal dining carbon footprint estimator powered by McDonald's MCP",
+    "created_at": "2026-10-12T09:45:08Z",
+    "url": "https://github.com/w16638771062/mccarbon"
+  },
+  {
+    "full_name": "skylartaylor/gbos-vm",
+    "stargazers_count": 206,
+    "prev_stars": 194,
+    "language": "Python",
+    "description": "Run Googlebook OS in a GPU-accelerated VM on Apple Silicon Macs",
+    "created_at": "2026-10-07T17:06:50Z",
+    "url": "https://github.com/skylartaylor/gbos-vm"
+  },
+  {
+    "full_name": "i12bp8/decomp.wtf",
+    "stargazers_count": 205,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+    "created_at": "2026-10-13T08:19:01Z",
+    "url": "https://github.com/i12bp8/decomp.wtf"
+  },
+  {
+    "full_name": "Henryfud/werm",
+    "stargazers_count": 205,
+    "prev_stars": 205,
+    "language": "HTML",
+    "description": "A 302 neuron network on the real C. elegans wiring diagram, with a steering layer for local language models.",
+    "created_at": "2026-10-06T00:49:18Z",
+    "url": "https://github.com/Henryfud/werm"
+  },
+  {
+    "full_name": "Hiteater-wzm/eeo",
+    "stargazers_count": 205,
+    "prev_stars": 205,
+    "language": "JavaScript",
+    "description": "An open community where brands define themselves for AI",
+    "created_at": "2026-10-05T12:24:03Z",
+    "url": "https://github.com/Hiteater-wzm/eeo"
+  },
+  {
+    "full_name": "hujjun/mcd-saver-strategist",
+    "stargazers_count": 205,
+    "prev_stars": 151,
+    "language": "Python",
+    "description": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
+    "created_at": "2026-10-09T03:21:52Z",
+    "url": "https://github.com/hujjun/mcd-saver-strategist"
+  },
+  {
+    "full_name": "RokkuDayo/ForzaHorizon2_ExtraOptions",
+    "stargazers_count": 204,
+    "prev_stars": 160,
+    "language": "C",
+    "description": "Several quality-of-life tweaks for the game.",
+    "created_at": "2026-10-10T22:17:00Z",
+    "url": "https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions"
+  },
+  {
+    "full_name": "RuoJi6/ARTEX",
+    "stargazers_count": 204,
+    "prev_stars": 190,
+    "language": "Go",
+    "description": "Autumn-27/ARTEX 二开",
+    "created_at": "2026-10-09T00:56:36Z",
+    "url": "https://github.com/RuoJi6/ARTEX"
+  },
+  {
+    "full_name": "Pluviobyte/dot2api",
+    "stargazers_count": 204,
+    "prev_stars": 204,
+    "language": "Python",
+    "description": "Turn your OpenAI Dot into an OpenAI- and Claude-compatible API",
+    "created_at": "2026-10-06T06:33:50Z",
+    "url": "https://github.com/Pluviobyte/dot2api"
+  },
+  {
+    "full_name": "cxm947/FakeLiang",
+    "stargazers_count": 201,
+    "prev_stars": 124,
+    "language": "Python",
+    "description": "基于攻击图的靶场自动验证，多agent框架，kali MCP，自动化编排，POC生成。",
+    "created_at": "2026-10-12T02:01:07Z",
+    "url": "https://github.com/cxm947/FakeLiang"
+  },
+  {
+    "full_name": "ibisjp/ibis-office",
+    "stargazers_count": 200,
+    "prev_stars": null,
+    "language": "Rust",
+    "description": "The next-gen Office suite built with Rust & GPUI. Blazing-fast, memory-safe, and highly accurate editing for DOCX, XLSX, and PPTX with pixel-perfect rendering. Powered by DirectX, Metal, Vulkan & WebGPU for peak performance across Windows, macOS, Linux, and Web (Wasm).",
+    "created_at": "2026-10-05T15:07:34Z",
+    "url": "https://github.com/ibisjp/ibis-office"
+  },
+  {
+    "full_name": "HeyCubit/effortless",
+    "stargazers_count": 199,
+    "prev_stars": 175,
+    "language": "HTML",
+    "description": "Claude Code mod: picks the reasoning effort for every prompt, shows the prompt cache and context, and hands off or compacts in one click",
+    "created_at": "2026-10-06T01:51:25Z",
+    "url": "https://github.com/HeyCubit/effortless"
+  },
+  {
+    "full_name": "marouane53/GeoINT",
+    "stargazers_count": 198,
+    "prev_stars": 195,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-10-08T18:12:10Z",
+    "url": "https://github.com/marouane53/GeoINT"
+  },
+  {
+    "full_name": "AirsupHQ/machine-skill",
+    "stargazers_count": 195,
+    "prev_stars": 137,
+    "language": "JavaScript",
+    "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
+    "created_at": "2026-10-12T23:10:01Z",
+    "url": "https://github.com/AirsupHQ/machine-skill"
+  },
+  {
+    "full_name": "Funny-Bones/ELDEN-RING-Combat-Rewrite",
+    "stargazers_count": 195,
+    "prev_stars": 194,
+    "language": "Rust",
+    "description": null,
+    "created_at": "2026-10-05T22:05:04Z",
+    "url": "https://github.com/Funny-Bones/ELDEN-RING-Combat-Rewrite"
+  },
+  {
+    "full_name": "longsurf-ai/openchart",
+    "stargazers_count": 194,
+    "prev_stars": 178,
+    "language": "TypeScript",
+    "description": "OSS trading workspace with your favorite agents",
+    "created_at": "2026-10-05T16:16:41Z",
+    "url": "https://github.com/longsurf-ai/openchart"
+  },
+  {
+    "full_name": "RecordSlayerIdentify/shotcut-download",
+    "stargazers_count": 193,
+    "prev_stars": 193,
+    "language": "Python",
+    "description": "Shotcut v26.9.27 — Shotcut is a free, open source, cross-platform video editor. Info page and download link. Third-party software; all rights belong to the original authors.",
+    "created_at": "2026-10-05T14:52:48Z",
+    "url": "https://github.com/RecordSlayerIdentify/shotcut-download"
+  },
+  {
+    "full_name": "iamumeransari/claude-show-your-work",
+    "stargazers_count": 192,
+    "prev_stars": 176,
+    "language": "TypeScript",
+    "description": "Claude Code plugin to see, review and iterate on your agent's work without leaving the terminal: show images, play videos, and run visual QA with Playwright recordings and before/after comparisons inside the Claude Code terminal. Works in any terminal that supports the kitty graphics protocol, fully cross-platform on macOS, Linux and Windows.",
+    "created_at": "2026-10-08T11:57:55Z",
+    "url": "https://github.com/iamumeransari/claude-show-your-work"
+  },
+  {
+    "full_name": "jiayx/d2r-mobile-build",
+    "stargazers_count": 192,
+    "prev_stars": 110,
+    "language": "Python",
+    "description": "Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared game archive.",
+    "created_at": "2026-10-12T09:31:24Z",
+    "url": "https://github.com/jiayx/d2r-mobile-build"
+  },
+  {
+    "full_name": "backtrue/thinkwithblack-skill",
+    "stargazers_count": 190,
+    "prev_stars": 152,
+    "language": "Python",
+    "description": "365 個免費 AI 行銷 Skills：先上傳索引，再依問題上傳方法包",
+    "created_at": "2026-10-09T15:05:31Z",
+    "url": "https://github.com/backtrue/thinkwithblack-skill"
+  },
+  {
+    "full_name": "studioigor/ref2game",
+    "stargazers_count": 189,
+    "prev_stars": 181,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-10-06T15:59:40Z",
+    "url": "https://github.com/studioigor/ref2game"
+  },
+  {
+    "full_name": "chhoumann/t3-pstack",
+    "stargazers_count": 188,
+    "prev_stars": 162,
+    "language": "JavaScript",
+    "description": "pstack for T3 Code: poteto's pstack (via Michael Denyer's pstack-claude) with panels and fan-outs dispatched across Claude, GPT, and Grok through T3's orchestration.",
+    "created_at": "2026-10-05T21:09:56Z",
+    "url": "https://github.com/chhoumann/t3-pstack"
+  },
+  {
+    "full_name": "canberk7/ema-lightning",
+    "stargazers_count": 187,
+    "prev_stars": 183,
+    "language": "Python",
+    "description": "Tiny, fast and accurate Turkish text-to-speech. 8.6M parameters, 0.92% WER on Freya-TR-Eval, first audio in ~4 ms and 1,300× real time on one GPU. Streams audio, batches many callers on one GPU, and runs offline on a GPU or CPU.",
+    "created_at": "2026-10-05T20:19:47Z",
+    "url": "https://github.com/canberk7/ema-lightning"
+  },
+  {
+    "full_name": "Pama-Lee/MacMiniMode",
+    "stargazers_count": 185,
+    "prev_stars": 181,
+    "language": "Swift",
+    "description": "Keep a plugged-in MacBook awake with the lid closed: clamshell mode without an external display, auto-off on battery. 让 MacBook 合盖不休眠，当 Mac mini 用。",
+    "created_at": "2026-10-07T11:20:36Z",
+    "url": "https://github.com/Pama-Lee/MacMiniMode"
+  },
+  {
+    "full_name": "bdg9412/artex-ko-plus",
+    "stargazers_count": 184,
+    "prev_stars": 175,
+    "language": "Go",
+    "description": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+    "created_at": "2026-10-09T11:36:03Z",
+    "url": "https://github.com/bdg9412/artex-ko-plus"
+  },
+  {
+    "full_name": "0xProbabillity/house-control",
+    "stargazers_count": 184,
+    "prev_stars": null,
+    "language": "Swift",
+    "description": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.",
+    "created_at": "2026-10-14T12:32:21Z",
+    "url": "https://github.com/0xProbabillity/house-control"
+  },
+  {
+    "full_name": "JPTER78/pokesurvivor",
+    "stargazers_count": 184,
+    "prev_stars": 133,
+    "language": "HTML",
+    "description": "PokéSurvivor: fan game bullet-heaven con sprites de Mundo Misterioso. Gratis y sin ánimo de lucro.",
+    "created_at": "2026-10-07T22:45:31Z",
+    "url": "https://github.com/JPTER78/pokesurvivor"
+  },
+  {
+    "full_name": "MirroS-Lab/AgentGarten",
+    "stargazers_count": 183,
+    "prev_stars": 181,
+    "language": "Python",
+    "description": "AgentGarten: Code Worlds for Evolving Agents",
+    "created_at": "2026-10-08T03:53:57Z",
+    "url": "https://github.com/MirroS-Lab/AgentGarten"
+  },
+  {
+    "full_name": "Teraflopping/xrevive",
+    "stargazers_count": 183,
+    "prev_stars": 130,
+    "language": null,
+    "description": "Desktop launcher for Xrecomp games with xb.live online services",
+    "created_at": "2026-10-11T14:17:34Z",
+    "url": "https://github.com/Teraflopping/xrevive"
+  },
+  {
+    "full_name": "carafe-nx/carafe",
+    "stargazers_count": 182,
+    "prev_stars": 175,
+    "language": "Rust",
+    "description": "Desktop app that turns Windows games into Switch apps",
+    "created_at": "2026-10-08T15:43:48Z",
+    "url": "https://github.com/carafe-nx/carafe"
+  },
+  {
+    "full_name": "LYiHub/pub-street-fighter-ai",
+    "stargazers_count": 182,
+    "prev_stars": 172,
+    "language": "Python",
+    "description": "Ultimate SFighterAI",
+    "created_at": "2026-10-10T11:15:59Z",
+    "url": "https://github.com/LYiHub/pub-street-fighter-ai"
+  },
+  {
+    "full_name": "cxmza/windle",
+    "stargazers_count": 182,
+    "prev_stars": 182,
+    "language": "TypeScript",
+    "description": "Ship or slash — onchain promises with collateral on Solana. Teams back promises, markets price them, the chain decides.",
+    "created_at": "2026-10-11T21:37:08Z",
+    "url": "https://github.com/cxmza/windle"
+  },
+  {
+    "full_name": "HenryXiaoYang/realtime-tex",
+    "stargazers_count": 181,
+    "prev_stars": 173,
+    "language": "Rust",
+    "description": "Realtime TeX: re-typesets only the paragraph you edit in ~1 ms with an unmodified LuaTeX. Exact, embeddable.",
+    "created_at": "2026-10-07T11:03:31Z",
+    "url": "https://github.com/HenryXiaoYang/realtime-tex"
+  },
+  {
+    "full_name": "Zihan-Su/Self_Gradient_Forcing_Plus",
+    "stargazers_count": 180,
+    "prev_stars": 152,
+    "language": "Python",
+    "description": "Autoregressive video generation with decoupled context-writing and denoising parameters, enabling up to 24-hour generation from 5s training windows.",
+    "created_at": "2026-10-07T15:58:40Z",
+    "url": "https://github.com/Zihan-Su/Self_Gradient_Forcing_Plus"
+  },
+  {
+    "full_name": "Nyankomintsu/world-execute-me-lyric-mv",
+    "stargazers_count": 176,
+    "prev_stars": 146,
+    "language": "JavaScript",
+    "description": "world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。",
+    "created_at": "2026-10-06T16:02:51Z",
+    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv"
+  },
+  {
+    "full_name": "sqliteai/sqlite-multiwriter",
+    "stargazers_count": 176,
+    "prev_stars": 174,
+    "language": "C",
+    "description": "Concurrent SQLite writes across threads and processes without modifying SQLite. No forks, no schema changes, up to 5.7x faster writes.",
+    "created_at": "2026-10-08T15:56:00Z",
+    "url": "https://github.com/sqliteai/sqlite-multiwriter"
+  },
+  {
+    "full_name": "honwee/mynah",
+    "stargazers_count": 176,
+    "prev_stars": 119,
+    "language": "Go",
+    "description": "Mynah — self-hosted realtime digital human. One GPU, full admin console, Apache-2.0. 自己服务器上的实时数字人系统",
+    "created_at": "2026-10-07T09:27:35Z",
+    "url": "https://github.com/honwee/mynah"
+  },
+  {
+    "full_name": "alihammoud21/playgta5",
+    "stargazers_count": 175,
+    "prev_stars": 149,
+    "language": "Python",
+    "description": "Complete local browser-game snapshot with full mirror downloads, Windows launcher, and installation instructions.",
+    "created_at": "2026-10-09T10:41:08Z",
+    "url": "https://github.com/alihammoud21/playgta5"
+  },
+  {
+    "full_name": "orange2ai/podcast-to-article",
+    "stargazers_count": 175,
+    "prev_stars": 173,
+    "language": "Python",
+    "description": "把多人对谈播客的逐字稿整理成可发布长文的 Agent Skill：换轴成文、人名校准、精简三分之一、去 AI 味自检。An agent skill that turns podcast transcripts into publishable articles.",
+    "created_at": "2026-10-07T12:00:07Z",
+    "url": "https://github.com/orange2ai/podcast-to-article"
+  },
+  {
+    "full_name": "speridlabs/iris-3b",
+    "stargazers_count": 175,
+    "prev_stars": 161,
+    "language": "Python",
+    "description": "Iris-3B: pixel-space generation & general vision learner. A 3B diffusion transformer that generates every pixel directly (no VAE); the same prior, fine-tuned, does monocular depth estimation and 4x image restoration. Paper, weights, training code and demo.",
+    "created_at": "2026-10-05T14:50:43Z",
+    "url": "https://github.com/speridlabs/iris-3b"
+  },
+  {
+    "full_name": "Sam-Hui-dot/mcd-budget-meal",
+    "stargazers_count": 175,
+    "prev_stars": 142,
+    "language": "Python",
+    "description": "麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill",
+    "created_at": "2026-10-11T08:25:55Z",
+    "url": "https://github.com/Sam-Hui-dot/mcd-budget-meal"
+  },
+  {
+    "full_name": "xcisxc29/dsh-wechat",
+    "stargazers_count": 175,
+    "prev_stars": 160,
+    "language": "TypeScript",
+    "description": "WeChat channel for DeepSeek Harness",
+    "created_at": "2026-10-07T10:01:56Z",
+    "url": "https://github.com/xcisxc29/dsh-wechat"
+  },
+  {
+    "full_name": "SouravBeraAkaSpeed/xiryn",
+    "stargazers_count": 174,
+    "prev_stars": 151,
+    "language": "TypeScript",
+    "description": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
+    "created_at": "2026-10-11T13:12:31Z",
+    "url": "https://github.com/SouravBeraAkaSpeed/xiryn"
+  },
+  {
+    "full_name": "KJGX66F/free-proxy-airport-cf",
+    "stargazers_count": 172,
+    "prev_stars": 170,
+    "language": "JavaScript",
+    "description": "一个轻量、高效的 Cloudflare Worker 订阅代理与透传转换服务。支持 1:1 原汁原味透传 Clash (YAML) 完整配置与通用 Base64 订阅，具备多 CDN 容灾加速、自定义访问后缀（Token）防扒保护以及动态 URL 代理转换功能。机场级体验的 Clash Verge / Mihomo 免费节点订阅系统。 每 30 分钟自动聚合公开免费节点源，执行真实延迟测试，剔除超时和无效节点，并按健康评分生成自动分组。",
+    "created_at": "2026-10-05T08:08:38Z",
+    "url": "https://github.com/KJGX66F/free-proxy-airport-cf"
+  },
+  {
+    "full_name": "SpeakingOfBrad/BIGWORDS.PAGE",
+    "stargazers_count": 172,
+    "prev_stars": 171,
+    "language": "TypeScript",
+    "description": "Full-screen text for any screen. The message lives in the URL, so there's no backend, accounts or storage.",
+    "created_at": "2026-10-06T14:30:49Z",
+    "url": "https://github.com/SpeakingOfBrad/BIGWORDS.PAGE"
+  },
+  {
+    "full_name": "Nour-Br/polymarket-trading-bot-quant-course",
+    "stargazers_count": 171,
+    "prev_stars": 171,
+    "language": null,
+    "description": "Paid VIP program for traders and builders. Learn to build a Polymarket trading bot with private lessons in market making, arbitrage, execution, and risk. Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot  ",
+    "created_at": "2026-10-05T13:06:33Z",
+    "url": "https://github.com/Nour-Br/polymarket-trading-bot-quant-course"
+  },
+  {
+    "full_name": "swiftvm-app/swiftvm",
+    "stargazers_count": 171,
+    "prev_stars": 164,
+    "language": "Swift",
+    "description": "Native macOS app for running virtual machines",
+    "created_at": "2026-10-10T12:48:39Z",
+    "url": "https://github.com/swiftvm-app/swiftvm"
+  },
+  {
+    "full_name": "tonyzedginidze/librecalculator",
+    "stargazers_count": 171,
+    "prev_stars": 158,
+    "language": "TypeScript",
+    "description": "The universe in numbers. Free, open-source calculators for everything countable.",
+    "created_at": "2026-10-11T08:17:26Z",
+    "url": "https://github.com/tonyzedginidze/librecalculator"
+  },
+  {
+    "full_name": "iremcnar/loveYou",
+    "stargazers_count": 171,
+    "prev_stars": 166,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-10-09T06:50:29Z",
+    "url": "https://github.com/iremcnar/loveYou"
+  },
+  {
+    "full_name": "Gentleman-Programming/gentle-dot",
+    "stargazers_count": 168,
+    "prev_stars": 155,
+    "language": "TypeScript",
+    "description": "A personal assistant that lives on your desktop, remembers what matters, and can use your Mac for you.",
+    "created_at": "2026-10-09T13:03:11Z",
+    "url": "https://github.com/Gentleman-Programming/gentle-dot"
+  },
+  {
+    "full_name": "skJack/kelip-paper-reading",
+    "stargazers_count": 167,
+    "prev_stars": 153,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-10-06T08:36:56Z",
+    "url": "https://github.com/skJack/kelip-paper-reading"
+  },
+  {
+    "full_name": "zju3dv/SuperNav",
+    "stargazers_count": 167,
+    "prev_stars": 161,
+    "language": "Python",
+    "description": "An Agentic Navigation System for Any Task in Any Scene",
+    "created_at": "2026-10-08T07:05:40Z",
+    "url": "https://github.com/zju3dv/SuperNav"
+  },
+  {
+    "full_name": "bbylw/rea-cn",
+    "stargazers_count": 167,
+    "prev_stars": null,
+    "language": "Astro",
+    "description": "REA：逆向一切 通过一个 MCP 服务，逆向分析二进制文件、应用程序和运行时行为。 看到喜欢的功能，弄清它的工作原理，深入到二进制层面。",
+    "created_at": "2026-10-11T07:15:07Z",
+    "url": "https://github.com/bbylw/rea-cn"
+  },
+  {
+    "full_name": "deepfounder-ai/desigma",
+    "stargazers_count": 165,
+    "prev_stars": null,
+    "language": "Rust",
+    "description": "Free Figma alternative made on Rust",
+    "created_at": "2026-10-11T00:26:12Z",
+    "url": "https://github.com/deepfounder-ai/desigma"
+  },
+  {
+    "full_name": "jonwheatley/pixel-path",
+    "stargazers_count": 164,
+    "prev_stars": 115,
+    "language": "JavaScript",
+    "description": "Turn any two places into a pixel-art fly-through of the real road. A Claude Code skill.",
+    "created_at": "2026-10-12T17:09:20Z",
+    "url": "https://github.com/jonwheatley/pixel-path"
+  },
+  {
+    "full_name": "xamjiang/handout-remake",
+    "stargazers_count": 163,
+    "prev_stars": 160,
+    "language": "CSS",
+    "description": "把上課教材變成 iPad 上好讀、可手寫的深色講義｜Agent Skill for Claude & Codex",
+    "created_at": "2026-10-06T13:43:29Z",
+    "url": "https://github.com/xamjiang/handout-remake"
+  },
+  {
+    "full_name": "sun168567/cc-desk-tunnel",
+    "stargazers_count": 163,
+    "prev_stars": 149,
+    "language": "TypeScript",
+    "description": "用桌面客户端驱动云端的 Claude Code，经反向隧道在 Windows 本机执行 · Desktop client for Claude Code in the cloud, executing on your Windows PC through a reverse tunnel",
+    "created_at": "2026-10-07T03:39:18Z",
+    "url": "https://github.com/sun168567/cc-desk-tunnel"
+  },
+  {
+    "full_name": "Aeka0/Overlord",
+    "stargazers_count": 161,
+    "prev_stars": 151,
+    "language": "C++",
+    "description": "VR mod for H2(Call of Duty: Modern Warfare 2 Campaign Remastered)",
+    "created_at": "2026-10-05T06:48:54Z",
+    "url": "https://github.com/Aeka0/Overlord"
+  },
+  {
+    "full_name": "transkatgirl/vibeclaude",
+    "stargazers_count": 161,
+    "prev_stars": 161,
+    "language": "JavaScript",
+    "description": "A port of opencode-buttplugio to Claude Code written by Opus 5.5.",
+    "created_at": "2026-10-07T03:43:11Z",
+    "url": "https://github.com/transkatgirl/vibeclaude"
+  },
+  {
+    "full_name": "MyLuxy/overdrive",
+    "stargazers_count": 160,
+    "prev_stars": null,
+    "language": "C++",
+    "description": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+    "created_at": "2026-10-14T00:07:08Z",
+    "url": "https://github.com/MyLuxy/overdrive"
+  },
+  {
+    "full_name": "savinglighting/dsh-sd-bridge-guard",
+    "stargazers_count": 160,
+    "prev_stars": null,
+    "language": "JavaScript",
+    "description": "用大肥鱼弄了个操作ds的插件，没ds的这个插件会帮你下，由于是本地部署的sd，所以懂得都懂，至于怎么绕过dsh 的审核嘛，md里面有，安装好之后试一下就知道了—嘿嘿嘿",
+    "created_at": "2026-10-11T16:42:57Z",
+    "url": "https://github.com/savinglighting/dsh-sd-bridge-guard"
+  },
+  {
+    "full_name": "TekRantGaming/king-kong-recompiled",
+    "stargazers_count": 158,
+    "prev_stars": 152,
+    "language": "C++",
+    "description": "Native PC port of Peter Jackson's King Kong (Xbox 360) via static recompilation",
+    "created_at": "2026-10-05T00:43:46Z",
+    "url": "https://github.com/TekRantGaming/king-kong-recompiled"
+  },
+  {
+    "full_name": "michaelshimeles/glide",
+    "stargazers_count": 157,
+    "prev_stars": null,
+    "language": "Rust",
+    "description": "Open-source Screen Studio, built in Rust",
+    "created_at": "2026-10-13T03:49:21Z",
+    "url": "https://github.com/michaelshimeles/glide"
+  },
+  {
+    "full_name": "SaarthurR/atticus-mac",
+    "stargazers_count": 157,
+    "prev_stars": 149,
+    "language": "Python",
+    "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+    "created_at": "2026-10-10T01:07:04Z",
+    "url": "https://github.com/SaarthurR/atticus-mac"
+  },
+  {
+    "full_name": "pullboard-dev/pullboard",
+    "stargazers_count": 157,
+    "prev_stars": 121,
+    "language": "JavaScript",
+    "description": "Autonomous development for real products. Agents build from the spec you approve, and nothing ships until another agent proves it.",
+    "created_at": "2026-10-07T04:14:39Z",
+    "url": "https://github.com/pullboard-dev/pullboard"
+  },
+  {
+    "full_name": "pLabs5/pLinux5-NG",
+    "stargazers_count": 157,
+    "prev_stars": 122,
+    "language": "C",
+    "description": "PS5 Linux for high FW's (8.xx, 9.xx, 10.xx, 11.xx, 12.xx, 13.xx)",
+    "created_at": "2026-10-13T01:16:03Z",
+    "url": "https://github.com/pLabs5/pLinux5-NG"
+  },
+  {
+    "full_name": "alex0ptr/once",
+    "stargazers_count": 155,
+    "prev_stars": 154,
+    "language": "Go",
+    "description": "Run a command once, reuse its output for a while.",
+    "created_at": "2026-10-08T19:51:28Z",
+    "url": "https://github.com/alex0ptr/once"
+  },
+  {
+    "full_name": "excalidraw/cli",
+    "stargazers_count": 155,
+    "prev_stars": 133,
+    "language": "TypeScript",
+    "description": "Official Excalidraw CLI for humans and agents",
+    "created_at": "2026-10-08T13:17:24Z",
+    "url": "https://github.com/excalidraw/cli"
+  },
+  {
+    "full_name": "mstcvk/mc-download-manager",
+    "stargazers_count": 155,
+    "prev_stars": 145,
+    "language": "Swift",
+    "description": "Open-source macOS download manager: parallel-connection downloads, Safari & Chrome integration, video downloads via yt-dlp. English & Turkish.",
+    "created_at": "2026-10-10T21:38:23Z",
+    "url": "https://github.com/mstcvk/mc-download-manager"
+  },
+  {
+    "full_name": "Nikii-w/McLife-Desk",
+    "stargazers_count": 154,
+    "prev_stars": 125,
+    "language": "HTML",
+    "description": "忙碌了一天，回到家，你打开麦当劳，却突然纠结：今天吃了什么？这周点了几次？这个月花了多少钱？热量会不会超标？  于是有了 **McLife Desk 麦门人生工作台**。它记录每一次点麦：日期、餐品、金额与热量，生成专属点餐日历；按当月消费次数和金额解锁麦门等级，还能通过趣味测试发现自己的麦门消费人格。  它不劝你戒掉麦当劳，只陪你在忙碌、独处和奖励自己的时刻，看见自己的选择，管理预算与生活节奏。  **记录每一次点麦，也记录你的生活。**",
+    "created_at": "2026-10-11T01:58:45Z",
+    "url": "https://github.com/Nikii-w/McLife-Desk"
+  },
+  {
+    "full_name": "AetherLabsAI/Video2World",
+    "stargazers_count": 154,
+    "prev_stars": 144,
+    "language": "Python",
+    "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Perspective",
+    "created_at": "2026-10-05T21:27:56Z",
+    "url": "https://github.com/AetherLabsAI/Video2World"
+  },
+  {
+    "full_name": "uzairansaruzi/p3-stack",
+    "stargazers_count": 153,
+    "prev_stars": 152,
+    "language": "Shell",
+    "description": "pstack reworked for T3 Code: delegated subagents, worktree threads, PR watching, scheduled runs.",
+    "created_at": "2026-10-05T07:40:37Z",
+    "url": "https://github.com/uzairansaruzi/p3-stack"
+  },
+  {
+    "full_name": "Lyle-xub/FRAME-GR2",
+    "stargazers_count": 153,
+    "prev_stars": 145,
+    "language": null,
+    "description": "FRAME · 为 RICOH GR II 扩展色彩与成片表达。自定义滤镜、负片、HDF、胶片颗粒、机内装饰与个性化关机体验。",
+    "created_at": "2026-10-10T08:01:02Z",
+    "url": "https://github.com/Lyle-xub/FRAME-GR2"
+  },
+  {
+    "full_name": "Fazmin/AILearningGuide",
+    "stargazers_count": 152,
+    "prev_stars": null,
+    "language": "TypeScript",
+    "description": "A desktop app that teaches you how modern AI works by letting you play with it.",
+    "created_at": "2026-10-05T02:29:23Z",
+    "url": "https://github.com/Fazmin/AILearningGuide"
+  },
+  {
+    "full_name": "BaruqueRodrigues/llm-legislativo",
+    "stargazers_count": 152,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.",
+    "created_at": "2026-10-13T23:46:21Z",
+    "url": "https://github.com/BaruqueRodrigues/llm-legislativo"
+  },
+  {
+    "full_name": "MeshPulseSound/Fortnite-Cheats-2b1a",
+    "stargazers_count": 150,
+    "prev_stars": 150,
+    "language": "HTML",
+    "description": null,
+    "created_at": "2026-10-10T23:29:14Z",
+    "url": "https://github.com/MeshPulseSound/Fortnite-Cheats-2b1a"
+  },
+  {
+    "full_name": "HRuiCcc/RuiC-oc-ferry",
+    "stargazers_count": 149,
+    "prev_stars": 131,
+    "language": "JavaScript",
+    "description": "把 OpenCode 的免费模型摆渡给 WorkBuddy —— 隔离运行时、并发检测、判定缓存、一键导入、本机 OpenAI 兼容转发口",
+    "created_at": "2026-10-10T08:59:18Z",
+    "url": "https://github.com/HRuiCcc/RuiC-oc-ferry"
+  },
+  {
+    "full_name": "WilderNoTrack/mcd-calorie-butler",
+    "stargazers_count": 149,
+    "prev_stars": 149,
+    "language": "Python",
+    "description": "麦麦热量管家：减脂不是少吃你爱的，是先换掉不值这口热量的。基于麦当劳 MCP 的味热比点餐 Skill。",
+    "created_at": "2026-10-13T02:30:41Z",
+    "url": "https://github.com/WilderNoTrack/mcd-calorie-butler"
+  },
+  {
+    "full_name": "semrincaballero/Polymarket-Prediction-Bot",
+    "stargazers_count": 148,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "Polymarket trading bot for prediction markets — browse CLOB markets, watch the order book in the terminal, run edge detection, liquidity provision and cross-market arbitrage strategies with paper trading and risk limits. Educational open-source toolkit — not financial advice. Unofficial community project, not affiliated with Polymarket.",
+    "created_at": "2026-10-12T11:25:05Z",
+    "url": "https://github.com/semrincaballero/Polymarket-Prediction-Bot"
+  },
+  {
+    "full_name": "andrisgauracs/wifi-sensing-kit",
+    "stargazers_count": 147,
+    "prev_stars": 132,
+    "language": "HTML",
+    "description": "Teach three $10 ESP32-S3 boards to recognise what you're doing from WiFi alone, with your webcam as the teacher",
+    "created_at": "2026-10-10T21:55:31Z",
+    "url": "https://github.com/andrisgauracs/wifi-sensing-kit"
+  },
+  {
+    "full_name": "Caho1/open-claude-ui",
+    "stargazers_count": 147,
+    "prev_stars": null,
+    "language": "TypeScript",
+    "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。纯手写 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+    "created_at": "2026-10-14T14:05:05Z",
+    "url": "https://github.com/Caho1/open-claude-ui"
+  },
+  {
+    "full_name": "toddrjones/datasets",
+    "stargazers_count": 147,
+    "prev_stars": null,
+    "language": null,
+    "description": "A compilation of 100+ free datasets for use in social science, applied microeconomics, data visualization, etc.",
+    "created_at": "2026-10-09T18:38:36Z",
+    "url": "https://github.com/toddrjones/datasets"
+  },
+  {
+    "full_name": "luoluo-121/neural-creator-dashboard",
+    "stargazers_count": 145,
+    "prev_stars": 137,
+    "language": "JavaScript",
+    "description": "创作神经网络看板与 Agent Skill｜学习及非商业使用，商业使用须另行授权；历史授权例外见 NOTICE",
+    "created_at": "2026-10-06T03:44:37Z",
+    "url": "https://github.com/luoluo-121/neural-creator-dashboard"
+  },
+  {
+    "full_name": "kutukam/autonomous-pentest-agent",
+    "stargazers_count": 145,
+    "prev_stars": 137,
+    "language": "Go",
+    "description": "Autonomous Pentest Agent — LLM multi-agent autonomous penetration testing system (Go backend + Next.js UI). AGPL-3.0.",
+    "created_at": "2026-10-08T18:47:12Z",
+    "url": "https://github.com/kutukam/autonomous-pentest-agent"
+  },
+  {
+    "full_name": "2829632740/Pegline",
+    "stargazers_count": 145,
+    "prev_stars": 144,
+    "language": "C#",
+    "description": "截图小工具",
+    "created_at": "2026-10-08T06:50:55Z",
+    "url": "https://github.com/2829632740/Pegline"
+  },
+  {
+    "full_name": "OctopusSlicer/l1s",
+    "stargazers_count": 144,
+    "prev_stars": 144,
+    "language": "HTML",
+    "description": "🔥 CS2-Cheats🔥",
+    "created_at": "2026-10-11T21:39:00Z",
+    "url": "https://github.com/OctopusSlicer/l1s"
+  },
+  {
+    "full_name": "zehraakar424-lgtm/wallet-core-web",
+    "stargazers_count": 144,
+    "prev_stars": null,
+    "language": "JavaScript",
+    "description": null,
+    "created_at": "2026-10-13T12:20:04Z",
+    "url": "https://github.com/zehraakar424-lgtm/wallet-core-web"
+  },
+  {
+    "full_name": "x4gpanell/MarzbanUpdate",
+    "stargazers_count": 144,
+    "prev_stars": 131,
+    "language": "HTML",
+    "description": null,
+    "created_at": "2026-10-12T00:57:30Z",
+    "url": "https://github.com/x4gpanell/MarzbanUpdate"
+  },
+  {
+    "full_name": "MiniBandit/MKW-3DS",
+    "stargazers_count": 143,
+    "prev_stars": 128,
+    "language": "C++",
+    "description": "Mario Kart Wii for 3DS: a native port continued from dudewhat's original. Builds a CIA from your own disc (Mac & Windows).",
+    "created_at": "2026-10-10T21:13:52Z",
+    "url": "https://github.com/MiniBandit/MKW-3DS"
+  },
+  {
+    "full_name": "DingoOz/TraceMaker",
+    "stargazers_count": 143,
+    "prev_stars": 143,
+    "language": "C++",
+    "description": null,
+    "created_at": "2026-10-05T06:20:18Z",
+    "url": "https://github.com/DingoOz/TraceMaker"
+  },
+  {
+    "full_name": "pavellunev/trading_chart",
+    "stargazers_count": 143,
+    "prev_stars": 143,
+    "language": "Swift",
+    "description": "Native SwiftUI trading charts for iOS: candles, indicators, crosshair, drawing tools and paged history, on Swift Charts.",
+    "created_at": "2026-10-06T11:58:23Z",
+    "url": "https://github.com/pavellunev/trading_chart"
+  },
+  {
+    "full_name": "atmirrr/persian-motion-director",
+    "stargazers_count": 143,
+    "prev_stars": 143,
+    "language": "JavaScript",
+    "description": "A Claude skill for pro motion design with correct Persian (Farsi) typography: no slideshows, no broken letters. 8 techniques, HarfBuzz tooling, Remotion examples.",
+    "created_at": "2026-10-06T12:23:55Z",
+    "url": "https://github.com/atmirrr/persian-motion-director"
+  },
+  {
+    "full_name": "wousp112/justin-sun-alan-shao-ai-notes",
+    "stargazers_count": 141,
+    "prev_stars": 132,
+    "language": null,
+    "description": "孙宇晨 × 邵艾伦 4 小时对谈：全文 + 精华 + 一键丢给 AI 的规划 prompt",
+    "created_at": "2026-10-09T06:01:01Z",
+    "url": "https://github.com/wousp112/justin-sun-alan-shao-ai-notes"
+  },
+  {
+    "full_name": "mose3-tracker/MoSE3",
+    "stargazers_count": 141,
+    "prev_stars": 136,
+    "language": "Python",
+    "description": "[NeurIPS 2026 Spotlight] MoSE3: Learning World-Space SE(3) at Every Pixel",
+    "created_at": "2026-10-05T01:49:43Z",
+    "url": "https://github.com/mose3-tracker/MoSE3"
+  },
+  {
+    "full_name": "keyu-tian-sabotage/keyu-tian-sabotage.github.io",
+    "stargazers_count": 139,
+    "prev_stars": 109,
+    "language": "HTML",
+    "description": null,
+    "created_at": "2026-10-13T03:35:47Z",
+    "url": "https://github.com/keyu-tian-sabotage/keyu-tian-sabotage.github.io"
+  },
+  {
+    "full_name": "Astrofrogger/pluck",
+    "stargazers_count": 139,
+    "prev_stars": 134,
+    "language": "Swift",
+    "description": "A native macOS app for yt-dlp, with Spotify support and self-updating tools",
+    "created_at": "2026-10-08T10:01:46Z",
+    "url": "https://github.com/Astrofrogger/pluck"
+  },
+  {
+    "full_name": "Michele-M-Media/HYPERHEN",
+    "stargazers_count": 139,
+    "prev_stars": null,
+    "language": "C++",
+    "description": null,
+    "created_at": "2026-10-13T18:01:51Z",
+    "url": "https://github.com/Michele-M-Media/HYPERHEN"
+  },
+  {
+    "full_name": "maow318/simhubforum",
+    "stargazers_count": 139,
+    "prev_stars": 135,
+    "language": null,
+    "description": "simhub全家桶下载",
+    "created_at": "2026-10-08T01:18:46Z",
+    "url": "https://github.com/maow318/simhubforum"
+  },
+  {
+    "full_name": "IlyaMez/SpidyVR",
+    "stargazers_count": 139,
+    "prev_stars": 129,
+    "language": "C++",
+    "description": null,
+    "created_at": "2026-10-05T08:19:56Z",
+    "url": "https://github.com/IlyaMez/SpidyVR"
+  },
+  {
+    "full_name": "fudan-generative-vision/Remory",
+    "stargazers_count": 138,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "Remory: Learning Residual Memory for Context Compaction",
+    "created_at": "2026-10-07T06:10:54Z",
+    "url": "https://github.com/fudan-generative-vision/Remory"
+  },
+  {
+    "full_name": "OutThisLife/azeroth-survivors-re",
+    "stargazers_count": 137,
+    "prev_stars": null,
+    "language": "Rust",
+    "description": "A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust + Bevy).",
+    "created_at": "2026-10-13T03:23:38Z",
+    "url": "https://github.com/OutThisLife/azeroth-survivors-re"
+  },
+  {
+    "full_name": "deox1111/ps5-library",
+    "stargazers_count": 137,
+    "prev_stars": 129,
+    "language": null,
+    "description": "Game library for jailbroken PS5: pick a game, it downloads, installs and appears on your home screen.",
+    "created_at": "2026-10-05T21:10:03Z",
+    "url": "https://github.com/deox1111/ps5-library"
+  },
+  {
+    "full_name": "Sightarbreed/1password-download",
+    "stargazers_count": 136,
+    "prev_stars": 136,
+    "language": "Python",
+    "description": "1Password — Security SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+    "created_at": "2026-10-06T12:25:15Z",
+    "url": "https://github.com/Sightarbreed/1password-download"
+  },
+  {
+    "full_name": "Shyboy0499/antibody",
+    "stargazers_count": 135,
+    "prev_stars": 231,
+    "language": "TypeScript",
+    "description": null,
+    "created_at": "2026-10-05T02:08:17Z",
+    "url": "https://github.com/Shyboy0499/antibody"
+  },
+  {
+    "full_name": "Sequester-AG/bug-bounty-triage",
+    "stargazers_count": 134,
+    "prev_stars": 133,
+    "language": null,
+    "description": "Agent skill for rigorous bug bounty report triage, validation, severity escalation, and submission-ready reporting.",
+    "created_at": "2026-10-09T19:27:46Z",
+    "url": "https://github.com/Sequester-AG/bug-bounty-triage"
+  },
+  {
+    "full_name": "lawrencewzen/wx-bot",
+    "stargazers_count": 133,
+    "prev_stars": 131,
+    "language": "TypeScript",
+    "description": "把微信接入你的 AI Agent（Grok / Muse / Claude 等）· Connect WeChat to your personal AI agent via official iLink",
+    "created_at": "2026-10-09T12:51:25Z",
+    "url": "https://github.com/lawrencewzen/wx-bot"
+  },
+  {
+    "full_name": "init-co-jp/diff-tour",
+    "stargazers_count": 133,
+    "prev_stars": 117,
+    "language": "Go",
+    "description": "Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
+    "created_at": "2026-10-10T09:19:05Z",
+    "url": "https://github.com/init-co-jp/diff-tour"
+  },
+  {
+    "full_name": "Karry-coder-dev/RAVEL",
+    "stargazers_count": 132,
+    "prev_stars": 114,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-10-05T18:47:41Z",
+    "url": "https://github.com/Karry-coder-dev/RAVEL"
+  },
+  {
+    "full_name": "Xuanwo/agenvo",
+    "stargazers_count": 132,
+    "prev_stars": 129,
+    "language": "TypeScript",
+    "description": "A self-hosted MCP relay for native coding runtimes",
+    "created_at": "2026-10-06T18:49:53Z",
+    "url": "https://github.com/Xuanwo/agenvo"
+  },
+  {
+    "full_name": "Stellar-hush/hush",
+    "stargazers_count": 132,
+    "prev_stars": 132,
+    "language": "TypeScript",
+    "description": "Open-source working beta for private email on Stellar: encrypted messages, sender-controlled inbox policies, optional postage, and verifiable delivery receipts.",
+    "created_at": "2026-10-07T21:54:33Z",
+    "url": "https://github.com/Stellar-hush/hush"
+  },
+  {
+    "full_name": "Stellar-Kolo/kolo-frontend",
+    "stargazers_count": 132,
+    "prev_stars": 132,
+    "language": "TypeScript",
+    "description": "Kolo's Stellar community savings web app: Next.js member and admin dashboards, with wallet and Soroban integrations in development.",
+    "created_at": "2026-10-09T09:20:57Z",
+    "url": "https://github.com/Stellar-Kolo/kolo-frontend"
+  },
+  {
+    "full_name": "Local-Settle/local-settle-backend",
+    "stargazers_count": 132,
+    "prev_stars": 132,
+    "language": "TypeScript",
+    "description": "Open-source Stellar and Soroban API for peer-to-peer USDC settlement, wallet authentication, orders, and escrow coordination.",
+    "created_at": "2026-10-07T12:27:53Z",
+    "url": "https://github.com/Local-Settle/local-settle-backend"
+  },
+  {
+    "full_name": "Local-Settle/local-settle-frontend",
+    "stargazers_count": 132,
+    "prev_stars": 132,
+    "language": "TypeScript",
+    "description": "Open-source peer-to-peer payments on Stellar and Soroban. Connect a wallet, trade USDC, and coordinate local settlement.",
+    "created_at": "2026-10-07T12:25:12Z",
+    "url": "https://github.com/Local-Settle/local-settle-frontend"
+  },
+  {
+    "full_name": "Stellar-Kolo/kolo-backend",
+    "stargazers_count": 131,
+    "prev_stars": 131,
+    "language": "TypeScript",
+    "description": "WhatsApp-first Stellar backend for Kolo: wallet operations, Stellar payments, Soroban savings groups, and queued community messaging.",
+    "created_at": "2026-10-09T09:25:01Z",
+    "url": "https://github.com/Stellar-Kolo/kolo-backend"
+  },
+  {
+    "full_name": "Stellar-Kolo/kolo-contracts",
+    "stargazers_count": 131,
+    "prev_stars": 131,
+    "language": "Rust",
+    "description": "Kolo's Rust Soroban contracts on Stellar for community savings circles, rotational contributions, ordered payouts, and goal-based savings.",
+    "created_at": "2026-10-09T09:25:39Z",
+    "url": "https://github.com/Stellar-Kolo/kolo-contracts"
+  },
+  {
+    "full_name": "Stellar-Clear/clearledger",
+    "stargazers_count": 131,
+    "prev_stars": 131,
+    "language": "TypeScript",
+    "description": "Invoice finance infrastructure on Stellar: Soroban contracts, a Next.js app, TypeScript SDK and CLI, and Go indexer for USDC-backed workflows.",
+    "created_at": "2026-10-09T19:17:16Z",
+    "url": "https://github.com/Stellar-Clear/clearledger"
+  },
+  {
+    "full_name": "Stellar-Sentinel/sentinel-contracts",
+    "stargazers_count": 131,
+    "prev_stars": 131,
+    "language": "Rust",
+    "description": "Soroban contract for authorized Stellar Sentinel flags, configurable thresholds, and latest-flag records.",
+    "created_at": "2026-10-08T15:01:03Z",
+    "url": "https://github.com/Stellar-Sentinel/sentinel-contracts"
+  },
+  {
+    "full_name": "Stellar-tradehub/stellar-trade-contracts",
+    "stargazers_count": 131,
+    "prev_stars": 131,
+    "language": "Rust",
+    "description": "Soroban smart contracts for Stellar Trade: pooled XLM markets, settlement, referrals, leaderboard, and STRD rewards.",
+    "created_at": "2026-10-07T13:21:25Z",
+    "url": "https://github.com/Stellar-tradehub/stellar-trade-contracts"
+  },
+  {
+    "full_name": "VelaPayments/vela-server",
+    "stargazers_count": 131,
+    "prev_stars": 131,
+    "language": "TypeScript",
+    "description": "NestJS backend for Vela’s Stellar payment prototype, with payment-request validation, WebAuthn authorization, and transaction services.",
+    "created_at": "2026-10-05T20:48:09Z",
+    "url": "https://github.com/VelaPayments/vela-server"
+  },
+  {
+    "full_name": "Stellar-Clear/clearledger-contracts",
+    "stargazers_count": 131,
+    "prev_stars": 131,
+    "language": "Rust",
+    "description": "Soroban smart contracts on Stellar for invoice finance: participant registry, invoice lifecycle, USDC liquidity pools, and escrow coordination.",
+    "created_at": "2026-10-09T19:24:56Z",
+    "url": "https://github.com/Stellar-Clear/clearledger-contracts"
+  },
+  {
+    "full_name": "Stellar-Pathfinder/stellar-pathfinder",
+    "stargazers_count": 131,
+    "prev_stars": 131,
+    "language": "Go",
+    "description": "A corridor-integrity monitor for the Stellar network. Prices stablecoin→fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
+    "created_at": "2026-10-06T20:24:40Z",
+    "url": "https://github.com/Stellar-Pathfinder/stellar-pathfinder"
+  },
+  {
+    "full_name": "VelaPayments/vela-payments",
+    "stargazers_count": 131,
+    "prev_stars": 131,
+    "language": "TypeScript",
+    "description": "Open-source mobile payment prototype on Stellar, featuring NFC payment requests, XLM and USDC wallets, and passkey access.",
+    "created_at": "2026-10-05T20:46:00Z",
+    "url": "https://github.com/VelaPayments/vela-payments"
+  },
+  {
+    "full_name": "aoyamashou/UUyc-companion",
+    "stargazers_count": 130,
+    "prev_stars": null,
+    "language": "Swift",
+    "description": "改善 Mac 版 UU远程 的使用体验，远程开始时自动提供与您的设备同分辨率的虚拟屏幕，告别上下大黑边。可选自动关闭其他屏幕，告别远程时Dock栏和窗口跑不见",
+    "created_at": "2026-10-09T15:00:22Z",
+    "url": "https://github.com/aoyamashou/UUyc-companion"
+  },
+  {
+    "full_name": "Stellar-tradehub/stellar-trade",
+    "stargazers_count": 130,
+    "prev_stars": 130,
+    "language": "Shell",
+    "description": "Stellar prediction-market prototype: buy a YES/NO position, sell by reducing it, and inspect pooled XLM settlement onchain.",
+    "created_at": "2026-10-07T13:20:32Z",
+    "url": "https://github.com/Stellar-tradehub/stellar-trade"
+  },
+  {
+    "full_name": "Stellar-Sentinel/sentinel-backend",
+    "stargazers_count": 130,
+    "prev_stars": 130,
+    "language": "Python",
+    "description": "FastAPI service for Stellar account screening, Soroban event monitoring, and network health.",
+    "created_at": "2026-10-08T15:00:18Z",
+    "url": "https://github.com/Stellar-Sentinel/sentinel-backend"
+  },
+  {
+    "full_name": "Stellar-Sentinel/sentinel-frontend",
+    "stargazers_count": 130,
+    "prev_stars": 130,
+    "language": "TypeScript",
+    "description": "Stellar Sentinel dashboard for Stellar account screening, network health, and Soroban contract flag events.",
+    "created_at": "2026-10-08T14:59:15Z",
+    "url": "https://github.com/Stellar-Sentinel/sentinel-frontend"
+  },
+  {
+    "full_name": "disler/durable-pi",
+    "stargazers_count": 130,
+    "prev_stars": 105,
+    "language": "TypeScript",
+    "description": "Durable Pi playground and agent network: persistent, multi-device durable agents with web and terminal clients",
+    "created_at": "2026-10-05T20:36:52Z",
+    "url": "https://github.com/disler/durable-pi"
+  },
+  {
+    "full_name": "samuelit0davila/fifa-street-pc-port",
+    "stargazers_count": 130,
+    "prev_stars": null,
+    "language": "C#",
+    "description": "My experimental Windows PC port of FIFA Street (2012), built with ReXGlue.",
+    "created_at": "2026-10-07T03:15:23Z",
+    "url": "https://github.com/samuelit0davila/fifa-street-pc-port"
+  },
+  {
+    "full_name": "Stellar-Promiscope/promiscope-frontend",
+    "stargazers_count": 130,
+    "prev_stars": 130,
+    "language": "TypeScript",
+    "description": "Community project accountability on Stellar: commitments, milestones, progress updates, evidence links, and community responses.",
+    "created_at": "2026-10-07T23:18:31Z",
+    "url": "https://github.com/Stellar-Promiscope/promiscope-frontend"
+  },
+  {
+    "full_name": "myMartek/avp-play",
+    "stargazers_count": 129,
+    "prev_stars": 119,
+    "language": "Swift",
+    "description": null,
+    "created_at": "2026-10-08T18:26:45Z",
+    "url": "https://github.com/myMartek/avp-play"
+  },
+  {
+    "full_name": "Stellar-Promiscope/promiscope-contracts",
+    "stargazers_count": 129,
+    "prev_stars": 129,
+    "language": "Rust",
+    "description": "Promiscope Soroban contracts retained for legacy workflows; privacy-safe accountability contract design is tracked separately.",
+    "created_at": "2026-10-07T23:20:00Z",
+    "url": "https://github.com/Stellar-Promiscope/promiscope-contracts"
+  },
+  {
+    "full_name": "sharenjun/ARTEX-main",
+    "stargazers_count": 129,
+    "prev_stars": 129,
+    "language": "Go",
+    "description": "可以提交issue和优化思路，会维护",
+    "created_at": "2026-10-08T12:34:57Z",
+    "url": "https://github.com/sharenjun/ARTEX-main"
+  },
+  {
+    "full_name": "storytold/photocraft-corpus",
+    "stargazers_count": 129,
+    "prev_stars": 123,
+    "language": "JavaScript",
+    "description": "Test data for photocraft",
+    "created_at": "2026-10-05T12:11:16Z",
+    "url": "https://github.com/storytold/photocraft-corpus"
+  },
+  {
+    "full_name": "Stellar-Promiscope/promiscope-backend",
+    "stargazers_count": 128,
+    "prev_stars": 128,
+    "language": "TypeScript",
+    "description": "Promiscope backend service. Accountability API migration is underway; existing routes still serve legacy product workflows.",
+    "created_at": "2026-10-07T23:19:18Z",
+    "url": "https://github.com/Stellar-Promiscope/promiscope-backend"
+  },
+  {
+    "full_name": "lvzuojing/mcd-wrapped",
+    "stargazers_count": 128,
+    "prev_stars": null,
+    "language": "Python",
+    "description": "M-CODE WRAPPED · 麦当劳数据全景报告 + 个人年报 + 方言播报",
+    "created_at": "2026-10-09T10:15:57Z",
+    "url": "https://github.com/lvzuojing/mcd-wrapped"
+  },
+  {
+    "full_name": "yushua0808-cpu/dragon-codex-boot",
+    "stargazers_count": 128,
+    "prev_stars": 124,
+    "language": "PowerShell",
+    "description": "Community Windows startup animation launcher for Codex with live-window handoff and reversible shortcut integration",
+    "created_at": "2026-10-06T14:14:43Z",
+    "url": "https://github.com/yushua0808-cpu/dragon-codex-boot"
+  },
+  {
+    "full_name": "secblitz/Secblitz",
+    "stargazers_count": 127,
+    "prev_stars": 118,
+    "language": "Rust",
+    "description": "Maximize Windows security and privacy in one click",
+    "created_at": "2026-10-06T12:08:02Z",
+    "url": "https://github.com/secblitz/Secblitz"
+  },
+  {
+    "full_name": "X-F1REBALL-X/HearBridge-PS5",
+    "stargazers_count": 127,
+    "prev_stars": 125,
+    "language": "C",
+    "description": "Play PS5 game audio on any Bluetooth headphones or earbuds. Payload for jailbroken PS5",
+    "created_at": "2026-10-07T10:55:04Z",
+    "url": "https://github.com/X-F1REBALL-X/HearBridge-PS5"
+  },
+  {
+    "full_name": "theblazehen/awesome-tern",
+    "stargazers_count": 127,
+    "prev_stars": 123,
+    "language": "Python",
+    "description": "A curated list of plugins, apps, tools and resources for Tern, Stencil's Rust-native neoterminal",
+    "created_at": "2026-10-05T11:11:31Z",
+    "url": "https://github.com/theblazehen/awesome-tern"
+  },
+  {
+    "full_name": "fyzugx/DEsk",
+    "stargazers_count": 126,
+    "prev_stars": null,
+    "language": "C",
+    "description": null,
+    "created_at": "2026-10-10T14:30:03Z",
+    "url": "https://github.com/fyzugx/DEsk"
+  },
+  {
+    "full_name": "WrenFortress4/fl-studio-download",
+    "stargazers_count": 125,
+    "prev_stars": 125,
+    "language": "Python",
+    "description": "FL Studio v25.1.6.4997 — The best music production software. Info page and download link. Third-party software; all rights belong to the original authors.",
+    "created_at": "2026-10-05T18:47:46Z",
+    "url": "https://github.com/WrenFortress4/fl-studio-download"
+  },
+  {
+    "full_name": "jiwidi/jiwo",
+    "stargazers_count": 125,
+    "prev_stars": 116,
+    "language": "Python",
+    "description": "Small decision models (jev style) for latency critical scenarios",
+    "created_at": "2026-10-05T08:23:31Z",
+    "url": "https://github.com/jiwidi/jiwo"
+  },
+  {
+    "full_name": "awv-informatik/smlibpy",
+    "stargazers_count": 125,
+    "prev_stars": null,
+    "language": "Python",
+    "description": null,
+    "created_at": "2026-10-12T16:55:06Z",
+    "url": "https://github.com/awv-informatik/smlibpy"
+  },
+  {
+    "full_name": "keepvaibin/nebula",
+    "stargazers_count": 125,
+    "prev_stars": null,
+    "language": "C++",
+    "description": "A Recompilation of Super Mario Galaxy, intended to work on Windows (with MacOS and Android support in plans).",
+    "created_at": "2026-10-06T08:38:48Z",
+    "url": "https://github.com/keepvaibin/nebula"
+  }
+]
