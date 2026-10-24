@@ -1,0 +1,374 @@
+[
+ {
+  "id": "2610.04184",
+  "title": "EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?",
+  "upvotes": 0,
+  "authors": [
+   "Yaolun Zhang",
+   "Tianyi Xu",
+   "Yujie Zhao",
+   "Jishen Zhao",
+   "Qingyun Wu"
+  ],
+  "url": "https://huggingface.co/papers/2610.04184"
+ },
+ {
+  "id": "2610.25835",
+  "title": "Diffusion Language Models Change Speed Across Tasks and Languages",
+  "upvotes": 1,
+  "authors": [
+   "Mohsen Fayyaz",
+   "Ali Modarressi",
+   "Daniel Israel",
+   "Lucas Bandarkar",
+   "Nanyun Peng"
+  ],
+  "url": "https://huggingface.co/papers/2610.25835"
+ },
+ {
+  "id": "2610.31198",
+  "title": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models",
+  "upvotes": 4,
+  "authors": [
+   "Ofek Avivi",
+   "Eliron Rahimi",
+   "Avi Mendelson",
+   "Chaim Baskin"
+  ],
+  "url": "https://huggingface.co/papers/2610.31198"
+ },
+ {
+  "id": "2610.24385",
+  "title": "Bridging Exploration and Persona: Information-Directed Dueling for Test-Time Agent Personalization",
+  "upvotes": 1,
+  "authors": [
+   "Jie Mao",
+   "Pingchen Lu",
+   "Xiangyi Wang",
+   "Hengquan Huang",
+   "Shuang Qiu"
+  ],
+  "url": "https://huggingface.co/papers/2610.24385"
+ },
+ {
+  "id": "2610.24383",
+  "title": "IF-MAP: Influence-Function-Inspired Agent Prioritization in Multi-Agent Systems",
+  "upvotes": 2,
+  "authors": [
+   "Jie Mao",
+   "Pingchen Lu",
+   "Zikun Qu",
+   "Jiahang Sun",
+   "Xiangyi Wang"
+  ],
+  "url": "https://huggingface.co/papers/2610.24383"
+ },
+ {
+  "id": "2610.30418",
+  "title": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
+  "upvotes": 11,
+  "authors": [
+   "Daniel Ruiz",
+   "Luca Luceri",
+   "Emilio Ferrara"
+  ],
+  "url": "https://huggingface.co/papers/2610.30418"
+ },
+ {
+  "id": "2610.28950",
+  "title": "HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second",
+  "upvotes": 1,
+  "authors": [
+   "Jonas Eschmann",
+   "Giuseppe Loianno"
+  ],
+  "url": "https://huggingface.co/papers/2610.28950"
+ },
+ {
+  "id": "2610.31651",
+  "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
+  "upvotes": 3,
+  "authors": [
+   "Ava Pun",
+   "Kevin Dai",
+   "Sally Chen",
+   "Maxwell Jones",
+   "Ruixuan Liu"
+  ],
+  "url": "https://huggingface.co/papers/2610.31651"
+ },
+ {
+  "id": "2610.27148",
+  "title": "Who Takes the Lead? Model Ability and Task-Conditioned Collaboration with Humans",
+  "upvotes": 4,
+  "authors": [
+   "Weien Li",
+   "Haochen Liu",
+   "Zeyu Li",
+   "Rui Song",
+   "Zixuan Dong"
+  ],
+  "url": "https://huggingface.co/papers/2610.27148"
+ },
+ {
+  "id": "2610.30753",
+  "title": "FilmFlow: Agentic System for 3D Virtual Film Cinematography",
+  "upvotes": 13,
+  "authors": [
+   "Yiming Zhang",
+   "Jiarui Guo",
+   "Haojia Wei",
+   "Yifei Liu",
+   "Yifan Yang"
+  ],
+  "url": "https://huggingface.co/papers/2610.30753"
+ },
+ {
+  "id": "2610.31372",
+  "title": "RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention",
+  "upvotes": 6,
+  "authors": [
+   "Jiening Siow",
+   "Amy Xin",
+   "Junjie Wang",
+   "Ziyu Tang",
+   "Zijun Yao"
+  ],
+  "url": "https://huggingface.co/papers/2610.31372"
+ },
+ {
+  "id": "2610.12586",
+  "title": "Realism VS Accuracy: Event Sequence Forecasting from a Generative Modeling Perspective",
+  "upvotes": 1,
+  "authors": [
+   "Dmitry Osin",
+   "Egor Surkov",
+   "Petr Mokrov",
+   "Igor Udovichenko",
+   "Ivan Karpukhin"
+  ],
+  "url": "https://huggingface.co/papers/2610.12586"
+ },
+ {
+  "id": "2610.22951",
+  "title": "MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models",
+  "upvotes": 3,
+  "authors": [
+   "Khuyen Pham",
+   "Tran Nguyen Le",
+   "Edoardo Fazzari",
+   "Cesare Stefanini"
+  ],
+  "url": "https://huggingface.co/papers/2610.22951"
+ },
+ {
+  "id": "2610.30468",
+  "title": "SplatLab: Autonomous Scientific Discovery for 3DGS Research",
+  "upvotes": 2,
+  "authors": [
+   "Seemandhar Jain",
+   "Manmohan Chandraker"
+  ],
+  "url": "https://huggingface.co/papers/2610.30468"
+ },
+ {
+  "id": "2610.20091",
+  "title": "RTAformer: Relation-Transition-Aware Transformer for Video Scene Graph Generation",
+  "upvotes": 12,
+  "authors": [
+   "Jaeyeon Heo",
+   "Geuntaek Lim",
+   "Yukyung Choi"
+  ],
+  "url": "https://huggingface.co/papers/2610.20091"
+ },
+ {
+  "id": "2610.30949",
+  "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
+  "upvotes": 54,
+  "authors": [
+   "A. Jian Yang",
+   "An Huang",
+   "Bo Dan",
+   "Chen Mu",
+   "Chengran Yang"
+  ],
+  "url": "https://huggingface.co/papers/2610.30949"
+ },
+ {
+  "id": "2610.31329",
+  "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
+  "upvotes": 221,
+  "authors": [
+   "Tianming Liang",
+   "Junyi Pan",
+   "Yuxi Li",
+   "Canmiao Fu",
+   "Zhipeng Huang"
+  ],
+  "url": "https://huggingface.co/papers/2610.31329"
+ },
+ {
+  "id": "2610.23987",
+  "title": "What Generation Knows: Unlocking Fine-Grained Understanding in Unified Multimodal Models",
+  "upvotes": 32,
+  "authors": [
+   "Tengju Ru",
+   "Weitong Lian",
+   "Zecong Tang",
+   "Zhiheng Liu",
+   "Lingyi Meng"
+  ],
+  "url": "https://huggingface.co/papers/2610.23987"
+ },
+ {
+  "id": "2610.31576",
+  "title": "What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models",
+  "upvotes": 5,
+  "authors": [
+   "Jinya Sakurai",
+   "Xun Xu",
+   "Jaehong Yoon"
+  ],
+  "url": "https://huggingface.co/papers/2610.31576"
+ },
+ {
+  "id": "2610.27712",
+  "title": "RLSplat: Resource-Linear Budget Control for Feed-forward 3D Gaussian Splatting",
+  "upvotes": 15,
+  "authors": [
+   "Injae Kim",
+   "Minseok Joo",
+   "Jihwan Park",
+   "Sehyung Kim",
+   "Minseong Bae"
+  ],
+  "url": "https://huggingface.co/papers/2610.27712"
+ },
+ {
+  "id": "2610.25376",
+  "title": "TILDE: Teacher-in-the-Loop Distillation from Embodied Foundation Models",
+  "upvotes": 2,
+  "authors": [
+   "Yuxiang Lu",
+   "Yantong Liu",
+   "Jinghua Hou",
+   "Xueli Sun",
+   "Ruihua Han"
+  ],
+  "url": "https://huggingface.co/papers/2610.25376"
+ },
+ {
+  "id": "2610.19705",
+  "title": "RouteWeaver: Weaving Mode Selection and Execution into Unified LLM Routing",
+  "upvotes": 17,
+  "authors": [
+   "Xiaohan Wang",
+   "Haozhen Zhang",
+   "Qingyuan Liu",
+   "Tao Feng",
+   "Wenya Wang"
+  ],
+  "url": "https://huggingface.co/papers/2610.19705"
+ },
+ {
+  "id": "2610.26233",
+  "title": "Heartbeat Thinking: Speculative Reasoning and Tool Execution While Listening in Realtime Voice Agents",
+  "upvotes": 18,
+  "authors": [
+   "Zhenyu Zhang",
+   "Kewei Fu",
+   "Yongqi Tong",
+   "Chenzhi Zheng",
+   "Wei Wu"
+  ],
+  "url": "https://huggingface.co/papers/2610.26233"
+ },
+ {
+  "id": "2610.24738",
+  "title": "Editing Images into Reusable Layers via Compositional Edit-Prior Distillation",
+  "upvotes": 73,
+  "authors": [
+   "Wen Xue",
+   "Yong Liu",
+   "Xueheng Li",
+   "Si Wu",
+   "Yong Xu"
+  ],
+  "url": "https://huggingface.co/papers/2610.24738"
+ },
+ {
+  "id": "2610.31623",
+  "title": "F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation",
+  "upvotes": 5,
+  "authors": [
+   "Jinyu Zhang",
+   "Haitao Lin",
+   "Jiashu Hou",
+   "Xiangyang Xue",
+   "Yanwei Fu"
+  ],
+  "url": "https://huggingface.co/papers/2610.31623"
+ },
+ {
+  "id": "2610.30320",
+  "title": "Self-Distilling Future Video Representations for World Action Models",
+  "upvotes": 23,
+  "authors": [
+   "Huiwon Jang",
+   "Suhyeok Jang",
+   "Hyeonmo Kang",
+   "Seungku Kim",
+   "Jinwoo Shin"
+  ],
+  "url": "https://huggingface.co/papers/2610.30320"
+ },
+ {
+  "id": "2610.31466",
+  "title": "AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark",
+  "upvotes": 11,
+  "authors": [
+   "Ruicong Liu",
+   "Liangyang Ouyang",
+   "Fengbo Lan",
+   "Zhixiang Wang",
+   "Kaipeng Zhang"
+  ],
+  "url": "https://huggingface.co/papers/2610.31466"
+ },
+ {
+  "id": "2610.29677",
+  "title": "Toward Recursive Self-Improvement in Physical AI",
+  "upvotes": 46,
+  "authors": [
+   "Meng Luo",
+   "Zechen Bai",
+   "Shanqing Xu",
+   "Yanlin Li",
+   "Kaixin Li"
+  ],
+  "url": "https://huggingface.co/papers/2610.29677"
+ },
+ {
+  "id": "2610.20459",
+  "title": "MolLean: A Process-Verifiable Language for Chemical Reasoning",
+  "upvotes": 8,
+  "authors": [
+   "Jiatong Li",
+   "Yatao Bian"
+  ],
+  "url": "https://huggingface.co/papers/2610.20459"
+ },
+ {
+  "id": "2610.26252",
+  "title": "SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS",
+  "upvotes": 2,
+  "authors": [
+   "Walaa Othman",
+   "Baher Mohammad",
+   "Stamatios Lefkimmiatis",
+   "Ammar Ali"
+  ],
+  "url": "https://huggingface.co/papers/2610.26252"
+ }
+]

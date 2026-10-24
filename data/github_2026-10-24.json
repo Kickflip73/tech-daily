@@ -1,0 +1,1268 @@
+[
+ {
+  "full_name": "Gathin23/cleanyourtv",
+  "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+  "stars": 27905,
+  "lang": "Java",
+  "url": "https://github.com/Gathin23/cleanyourtv",
+  "created": "2026-10-17T08:12:35Z",
+  "topics": [
+   "adb",
+   "adblock",
+   "android-tv",
+   "android-tv-launcher",
+   "apple-tv",
+   "bloatware-removal",
+   "claude-code",
+   "debloat",
+   "fire-tv",
+   "google-tv",
+   "launcher",
+   "privacy",
+   "smart-tv",
+   "sony-bravia",
+   "tcl",
+   "vibe-coding",
+   "xiaomi"
+  ]
+ },
+ {
+  "full_name": "deepseek-ai/DeepInfer",
+  "desc": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+  "stars": 21112,
+  "lang": "Python",
+  "url": "https://github.com/deepseek-ai/DeepInfer",
+  "created": "2026-10-16T07:47:23Z",
+  "topics": []
+ },
+ {
+  "full_name": "ly05010419/MacNativeGames",
+  "desc": null,
+  "stars": 4895,
+  "lang": "C",
+  "url": "https://github.com/ly05010419/MacNativeGames",
+  "created": "2026-10-17T19:52:00Z",
+  "topics": []
+ },
+ {
+  "full_name": "simbasjungles/free-my-tv",
+  "desc": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+  "stars": 3954,
+  "lang": "Java",
+  "url": "https://github.com/simbasjungles/free-my-tv",
+  "created": "2026-10-19T19:29:01Z",
+  "topics": [
+   "android-tv",
+   "claude-code",
+   "google-tv",
+   "home-screen",
+   "launcher",
+   "no-ads",
+   "open-source",
+   "samsung-tizen",
+   "tizen",
+   "tmdb",
+   "webos"
+  ]
+ },
+ {
+  "full_name": "pengchujin/aerial-tv",
+  "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+  "stars": 3815,
+  "lang": "Kotlin",
+  "url": "https://github.com/pengchujin/aerial-tv",
+  "created": "2026-10-20T09:13:06Z",
+  "topics": []
+ },
+ {
+  "full_name": "xiaoyang111222/cn-math-taxonomy",
+  "desc": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+  "stars": 2800,
+  "lang": "Python",
+  "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+  "created": "2026-10-18T09:04:43Z",
+  "topics": [
+   "chinese",
+   "curriculum",
+   "diagnostic",
+   "edtech",
+   "education",
+   "elementary-school",
+   "english",
+   "high-school",
+   "junior-high-school",
+   "k12",
+   "knowledge-graph",
+   "math",
+   "mathematics",
+   "middle-school",
+   "open-data",
+   "primary-school"
+  ]
+ },
+ {
+  "full_name": "Leonxlnx/earshot",
+  "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+  "stars": 2460,
+  "lang": "Python",
+  "url": "https://github.com/Leonxlnx/earshot",
+  "created": "2026-10-15T06:52:46Z",
+  "topics": [
+   "ai-agents",
+   "audio",
+   "claude-code",
+   "mcp",
+   "sound-design"
+  ]
+ },
+ {
+  "full_name": "chenglou/handwired",
+  "desc": "Turn your regular JavaScript code into a neural net.",
+  "stars": 1970,
+  "lang": "TypeScript",
+  "url": "https://github.com/chenglou/handwired",
+  "created": "2026-10-15T02:15:09Z",
+  "topics": []
+ },
+ {
+  "full_name": "Supermedo/uncharted_pc",
+  "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+  "stars": 1889,
+  "lang": "C++",
+  "url": "https://github.com/Supermedo/uncharted_pc",
+  "created": "2026-10-15T00:17:23Z",
+  "topics": []
+ },
+ {
+  "full_name": "aicodeking/leanrea",
+  "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+  "stars": 1821,
+  "lang": "Python",
+  "url": "https://github.com/aicodeking/leanrea",
+  "created": "2026-10-17T02:53:24Z",
+  "topics": []
+ },
+ {
+  "full_name": "JoasASantos/REA-Prompts",
+  "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+  "stars": 1729,
+  "lang": null,
+  "url": "https://github.com/JoasASantos/REA-Prompts",
+  "created": "2026-10-19T22:20:47Z",
+  "topics": [
+   "prompt-engineering",
+   "rea",
+   "reverse-enginnering"
+  ]
+ },
+ {
+  "full_name": "ikow/php2shell-poc",
+  "desc": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+  "stars": 1693,
+  "lang": "Python",
+  "url": "https://github.com/ikow/php2shell-poc",
+  "created": "2026-10-21T07:55:16Z",
+  "topics": [
+   "cve-2026-109618",
+   "cve-2026-109619",
+   "detection-rules",
+   "exploit",
+   "php-exploit",
+   "php-security",
+   "php2shell",
+   "poc",
+   "rce",
+   "session-upload-progress",
+   "suricata-rules",
+   "vulnerability-research",
+   "waf-rules",
+   "wordpress-security"
+  ]
+ },
+ {
+  "full_name": "OpenMOSS/MOSS-Image",
+  "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+  "stars": 1628,
+  "lang": "Python",
+  "url": "https://github.com/OpenMOSS/MOSS-Image",
+  "created": "2026-10-16T01:18:13Z",
+  "topics": [
+   "controllable-generation",
+   "foundation-models",
+   "image-generation",
+   "text-rendering",
+   "text-to-image"
+  ]
+ },
+ {
+  "full_name": "ctresb/leis",
+  "desc": "Todas as leis do Brasil",
+  "stars": 1609,
+  "lang": null,
+  "url": "https://github.com/ctresb/leis",
+  "created": "2026-10-15T01:40:37Z",
+  "topics": []
+ },
+ {
+  "full_name": "EthanArbuckle/fairplay-decrypt",
+  "desc": "Offline FairPlay App Store IPA decryption with independent key derivation",
+  "stars": 1564,
+  "lang": "C",
+  "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+  "created": "2026-10-19T10:07:58Z",
+  "topics": []
+ },
+ {
+  "full_name": "alchaincyf/huashu-motion",
+  "desc": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+  "stars": 1537,
+  "lang": "JavaScript",
+  "url": "https://github.com/alchaincyf/huashu-motion",
+  "created": "2026-10-18T12:19:27Z",
+  "topics": [
+   "agent-skills",
+   "animation",
+   "claude-code",
+   "codex",
+   "gsap",
+   "launch-video",
+   "motion-graphics",
+   "skills"
+  ]
+ },
+ {
+  "full_name": "humblemuzzu/dumbtv",
+  "desc": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+  "stars": 1391,
+  "lang": "Java",
+  "url": "https://github.com/humblemuzzu/dumbtv",
+  "created": "2026-10-18T17:04:12Z",
+  "topics": [
+   "ad-blocking",
+   "adb",
+   "android-tv",
+   "debloat",
+   "dns-filter",
+   "fire-os",
+   "fire-tv",
+   "firetv",
+   "launcher",
+   "privacy",
+   "smart-tv",
+   "telemetry"
+  ]
+ },
+ {
+  "full_name": "Ansub/tv-detox",
+  "desc": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+  "stars": 1381,
+  "lang": "Java",
+  "url": "https://github.com/Ansub/tv-detox",
+  "created": "2026-10-18T06:42:29Z",
+  "topics": []
+ },
+ {
+  "full_name": "9bie/php2shell-bypass-aslr-exp",
+  "desc": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+  "stars": 1253,
+  "lang": "Python",
+  "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+  "created": "2026-10-21T11:11:57Z",
+  "topics": []
+ },
+ {
+  "full_name": "Tencent-Hunyuan/Hy-Memory",
+  "desc": null,
+  "stars": 1232,
+  "lang": "Python",
+  "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+  "created": "2026-10-15T13:06:56Z",
+  "topics": []
+ },
+ {
+  "full_name": "openai/php2shell-checker",
+  "desc": null,
+  "stars": 1165,
+  "lang": "JavaScript",
+  "url": "https://github.com/openai/php2shell-checker",
+  "created": "2026-10-21T00:29:12Z",
+  "topics": []
+ },
+ {
+  "full_name": "xscreensaver-official/xscreensaver",
+  "desc": "There is no official XScreenSaver GitHub repository.",
+  "stars": 1159,
+  "lang": null,
+  "url": "https://github.com/xscreensaver-official/xscreensaver",
+  "created": "2026-10-16T16:24:44Z",
+  "topics": []
+ },
+ {
+  "full_name": "reason-machines/reason-network",
+  "desc": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+  "stars": 1142,
+  "lang": "Rust",
+  "url": "https://github.com/reason-machines/reason-network",
+  "created": "2026-10-16T15:34:34Z",
+  "topics": [
+   "coding-agents",
+   "iroh",
+   "mcp",
+   "peer-to-peer",
+   "reason"
+  ]
+ },
+ {
+  "full_name": "zcbacxc/mcd-party-planner",
+  "desc": "麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill",
+  "stars": 1124,
+  "lang": "Python",
+  "url": "https://github.com/zcbacxc/mcd-party-planner",
+  "created": "2026-10-15T18:29:02Z",
+  "topics": []
+ },
+ {
+  "full_name": "oosexgang/hackios-xnu-kernel",
+  "desc": null,
+  "stars": 1084,
+  "lang": "C",
+  "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+  "created": "2026-10-22T06:20:11Z",
+  "topics": []
+ },
+ {
+  "full_name": "wesbos/3d-model-anything",
+  "desc": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+  "stars": 1076,
+  "lang": "Swift",
+  "url": "https://github.com/wesbos/3d-model-anything",
+  "created": "2026-10-21T19:38:50Z",
+  "topics": []
+ },
+ {
+  "full_name": "Revivedx/SavageWindRecomp",
+  "desc": "Work-in-progress static recompilation of The Legend of Zelda: Breath of the Wild (Switch, v1.8.2) for Windows and Linux. Bring your own dump: no game files, keys or dumping tools included.",
+  "stars": 1056,
+  "lang": "C",
+  "url": "https://github.com/Revivedx/SavageWindRecomp",
+  "created": "2026-10-16T17:34:55Z",
+  "topics": []
+ },
+ {
+  "full_name": "colinhacks/reylo",
+  "desc": "Import .sql files into TypeScript with full type inference and zero codegen.",
+  "stars": 1050,
+  "lang": "Rust",
+  "url": "https://github.com/colinhacks/reylo",
+  "created": "2026-10-21T00:16:54Z",
+  "topics": []
+ },
+ {
+  "full_name": "cranebeaker/coop-anything",
+  "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
+  "stars": 1048,
+  "lang": "Python",
+  "url": "https://github.com/cranebeaker/coop-anything",
+  "created": "2026-10-16T11:12:03Z",
+  "topics": []
+ },
+ {
+  "full_name": "feder-cr/git-ai",
+  "desc": "Git designed for AI agents.",
+  "stars": 980,
+  "lang": "Go",
+  "url": "https://github.com/feder-cr/git-ai",
+  "created": "2026-10-15T13:12:02Z",
+  "topics": [
+   "ai-agents",
+   "coding-agents",
+   "git",
+   "golang",
+   "scion",
+   "version-control"
+  ]
+ },
+ {
+  "full_name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+  "desc": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
+  "stars": 968,
+  "lang": "Shell",
+  "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+  "created": "2026-10-21T08:31:43Z",
+  "topics": []
+ },
+ {
+  "full_name": "xevrion/hatchzip",
+  "desc": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
+  "stars": 963,
+  "lang": "Rust",
+  "url": "https://github.com/xevrion/hatchzip",
+  "created": "2026-10-21T17:29:28Z",
+  "topics": [
+   "7z",
+   "archive",
+   "cli",
+   "crash-safe",
+   "disk-space",
+   "extract",
+   "extractor",
+   "gui",
+   "rust",
+   "tar",
+   "unzip",
+   "zip"
+  ]
+ },
+ {
+  "full_name": "eagle-hq/EAGLE-4",
+  "desc": "Official Inference Code of EAGLE-4",
+  "stars": 950,
+  "lang": "Python",
+  "url": "https://github.com/eagle-hq/EAGLE-4",
+  "created": "2026-10-20T14:03:04Z",
+  "topics": [
+   "eagle",
+   "gpu",
+   "llm-inference",
+   "sglang",
+   "speculative-decoding",
+   "tokenspeed",
+   "vllm"
+  ]
+ },
+ {
+  "full_name": "ELY-Open-Source/ElyOffice",
+  "desc": "Ely Office: offline-first desktop apps in Rust and GPUI",
+  "stars": 926,
+  "lang": "Rust",
+  "url": "https://github.com/ELY-Open-Source/ElyOffice",
+  "created": "2026-10-19T23:04:42Z",
+  "topics": []
+ },
+ {
+  "full_name": "Noniv/web-ocean",
+  "desc": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from a single 61 KB HTML file in Chrome.",
+  "stars": 901,
+  "lang": "HTML",
+  "url": "https://github.com/Noniv/web-ocean",
+  "created": "2026-10-16T23:49:53Z",
+  "topics": []
+ },
+ {
+  "full_name": "UniXNU/UniXNU",
+  "desc": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
+  "stars": 856,
+  "lang": "Python",
+  "url": "https://github.com/UniXNU/UniXNU",
+  "created": "2026-10-19T10:46:55Z",
+  "topics": [
+   "unixnu"
+  ]
+ },
+ {
+  "full_name": "Jakeschincariol/day-trader-skill",
+  "desc": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+  "stars": 850,
+  "lang": "Python",
+  "url": "https://github.com/Jakeschincariol/day-trader-skill",
+  "created": "2026-10-20T14:17:54Z",
+  "topics": [
+   "backtesting",
+   "claude",
+   "claude-skills",
+   "day-trading",
+   "stock-market"
+  ]
+ },
+ {
+  "full_name": "BeckyGlobal/PaidToStudyAbroad",
+  "desc": "高性价比人生指南·海外版：高性价比留学。出国留学奖学金、免学费、政府全奖、带薪读博，德国日本学手艺有人发钱，美加澳奖学金单独成节。不是你花钱去留学，是你拿钱去留学。71 条，只引官方来源。关注作者：微信视频号 Becky在地球村",
+  "stars": 820,
+  "lang": "HTML",
+  "url": "https://github.com/BeckyGlobal/PaidToStudyAbroad",
+  "created": "2026-10-15T04:42:09Z",
+  "topics": [
+   "australia",
+   "canada",
+   "chinese",
+   "csc",
+   "css-profile",
+   "free-tuition",
+   "germany",
+   "guide",
+   "howtolivebetter",
+   "international-students",
+   "japan",
+   "phd",
+   "phd-funding",
+   "scholarship",
+   "scholarships",
+   "study-abroad",
+   "usa",
+   "vocational-training"
+  ]
+ },
+ {
+  "full_name": "mistralai/timestral",
+  "desc": "Repository for Timestral, the time-series foundation model by Mistral AI",
+  "stars": 810,
+  "lang": "Python",
+  "url": "https://github.com/mistralai/timestral",
+  "created": "2026-10-15T10:20:18Z",
+  "topics": []
+ },
+ {
+  "full_name": "stackedlol/ascii-sharks",
+  "desc": "ascii shark components in typescript",
+  "stars": 790,
+  "lang": "TypeScript",
+  "url": "https://github.com/stackedlol/ascii-sharks",
+  "created": "2026-10-19T21:54:19Z",
+  "topics": []
+ },
+ {
+  "full_name": "Snapintosh/Snapintosh",
+  "desc": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+  "stars": 756,
+  "lang": "Python",
+  "url": "https://github.com/Snapintosh/Snapintosh",
+  "created": "2026-10-22T01:40:05Z",
+  "topics": []
+ },
+ {
+  "full_name": "OverkillLabs3/driveclub-recomp",
+  "desc": "DriveClub (PS4, version 1.28) running natively on Windows",
+  "stars": 640,
+  "lang": "C++",
+  "url": "https://github.com/OverkillLabs3/driveclub-recomp",
+  "created": "2026-10-16T20:43:28Z",
+  "topics": []
+ },
+ {
+  "full_name": "Hugo-Dz/spritefusion-sprite-normals",
+  "desc": "A tool to generate normal maps from any sprite and animated sprite sheet.",
+  "stars": 640,
+  "lang": "Rust",
+  "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
+  "created": "2026-10-19T13:26:45Z",
+  "topics": [
+   "gamedev",
+   "normal-map",
+   "normal-mapping",
+   "pixel-art",
+   "sprites"
+  ]
+ },
+ {
+  "full_name": "NVIDIA/flare-local-inference",
+  "desc": null,
+  "stars": 627,
+  "lang": "Python",
+  "url": "https://github.com/NVIDIA/flare-local-inference",
+  "created": "2026-10-20T17:09:40Z",
+  "topics": []
+ },
+ {
+  "full_name": "c22dev/mush8",
+  "desc": "A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
+  "stars": 620,
+  "lang": "Rust",
+  "url": "https://github.com/c22dev/mush8",
+  "created": "2026-10-16T16:56:14Z",
+  "topics": []
+ },
+ {
+  "full_name": "aicodeking/pandacode",
+  "desc": "PandaCode: a calm desktop workspace for coding agents",
+  "stars": 593,
+  "lang": "Rust",
+  "url": "https://github.com/aicodeking/pandacode",
+  "created": "2026-10-18T02:21:29Z",
+  "topics": []
+ },
+ {
+  "full_name": "dominikmartn/harp",
+  "desc": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+  "stars": 591,
+  "lang": "Rust",
+  "url": "https://github.com/dominikmartn/harp",
+  "created": "2026-10-20T10:39:43Z",
+  "topics": []
+ },
+ {
+  "full_name": "VITASID57/bluntcore-intimacy-lab",
+  "desc": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
+  "stars": 588,
+  "lang": null,
+  "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
+  "created": "2026-10-16T15:46:10Z",
+  "topics": []
+ },
+ {
+  "full_name": "VictorTaelin/uniichat",
+  "desc": null,
+  "stars": 582,
+  "lang": "TypeScript",
+  "url": "https://github.com/VictorTaelin/uniichat",
+  "created": "2026-10-19T15:26:48Z",
+  "topics": []
+ },
+ {
+  "full_name": "gichirimaku/wp2shell-PoC",
+  "desc": "CVE-2026-63030 + CVE-2026-60137 exploit RCE chain.",
+  "stars": 564,
+  "lang": "Python",
+  "url": "https://github.com/gichirimaku/wp2shell-PoC",
+  "created": "2026-10-15T17:29:04Z",
+  "topics": [
+   "cve",
+   "cve-2026-60137",
+   "cve-2026-63030",
+   "cve-scanning",
+   "wp2shell",
+   "wp2shell-exploit",
+   "wp2shell-poc"
+  ]
+ },
+ {
+  "full_name": "interplains/zero-breach",
+  "desc": "Zero Breach — local, read-only scanner that checks a computer for indicators of the AdFection / Candiru ad-delivered spyware campaign. No network, no admin, no dependencies.",
+  "stars": 542,
+  "lang": "Python",
+  "url": "https://github.com/interplains/zero-breach",
+  "created": "2026-10-18T13:22:34Z",
+  "topics": [
+   "candiru",
+   "digital-security",
+   "forensics",
+   "incident-response",
+   "ioc",
+   "misp",
+   "spyware",
+   "stix",
+   "threat-intelligence"
+  ]
+ },
+ {
+  "full_name": "kividbio/kividb",
+  "desc": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
+  "stars": 532,
+  "lang": "Rust",
+  "url": "https://github.com/kividbio/kividb",
+  "created": "2026-10-16T01:07:52Z",
+  "topics": [
+   "cache",
+   "database",
+   "dragonfly-alternative",
+   "drop-in-replacement",
+   "full-text-search",
+   "high-performance",
+   "in-memory",
+   "io-uring",
+   "key-value-store",
+   "kividb",
+   "multithreaded",
+   "nosql",
+   "redis",
+   "redis-alternative",
+   "redis-compatible",
+   "resp",
+   "rust",
+   "valkey",
+   "vector-database",
+   "vector-search"
+  ]
+ },
+ {
+  "full_name": "dev-null-sh/dev-null.sh",
+  "desc": "a social media for devs",
+  "stars": 531,
+  "lang": "PHP",
+  "url": "https://github.com/dev-null-sh/dev-null.sh",
+  "created": "2026-10-15T09:14:32Z",
+  "topics": []
+ },
+ {
+  "full_name": "Zagitta/gpu-unlock",
+  "desc": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+  "stars": 522,
+  "lang": "C",
+  "url": "https://github.com/Zagitta/gpu-unlock",
+  "created": "2026-10-18T01:28:31Z",
+  "topics": []
+ },
+ {
+  "full_name": "nthnclrk/CleanFrame",
+  "desc": "A personal home screen for Samsung The Frame. A starting point to fork and adapt.",
+  "stars": 514,
+  "lang": "JavaScript",
+  "url": "https://github.com/nthnclrk/CleanFrame",
+  "created": "2026-10-20T04:40:07Z",
+  "topics": []
+ },
+ {
+  "full_name": "timhengc/mai-shen-zai-ci",
+  "desc": "麦门封神榜｜你在麦门算老几？领取你的麦门专属身份",
+  "stars": 499,
+  "lang": "Python",
+  "url": "https://github.com/timhengc/mai-shen-zai-ci",
+  "created": "2026-10-19T06:49:32Z",
+  "topics": []
+ },
+ {
+  "full_name": "realskyrin/ns-game-apple-arm-port",
+  "desc": "Agent skill for native Nintendo Switch game porting to Apple Silicon macOS, iPadOS and iOS with Rust and Metal",
+  "stars": 488,
+  "lang": null,
+  "url": "https://github.com/realskyrin/ns-game-apple-arm-port",
+  "created": "2026-10-18T04:22:18Z",
+  "topics": []
+ },
+ {
+  "full_name": "Domainsun/awesome-chinese-secondhand-slang",
+  "desc": "🐟 中国二手交易暗语全书与避坑合规指南 (闲鱼 / 转转 / 小红书 4,476+ 条实战暗号变体、卖家潜台词透视与买家验货防割指南)",
+  "stars": 487,
+  "lang": null,
+  "url": "https://github.com/Domainsun/awesome-chinese-secondhand-slang",
+  "created": "2026-10-17T14:29:01Z",
+  "topics": [
+   "antifraud",
+   "awesome",
+   "awesome-list",
+   "chinese-slang",
+   "ecommerce",
+   "goofish",
+   "risk-control",
+   "secondhand",
+   "xianyu"
+  ]
+ },
+ {
+  "full_name": "Alejandros17487/ai-jailbreaks",
+  "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+  "stars": 477,
+  "lang": null,
+  "url": "https://github.com/Alejandros17487/ai-jailbreaks",
+  "created": "2026-10-21T14:44:06Z",
+  "topics": [
+   "ai",
+   "ai-safety",
+   "jailbreak",
+   "jailbreaking",
+   "privacy",
+   "safety",
+   "security"
+  ]
+ },
+ {
+  "full_name": "assetnote/php2shell-scanner",
+  "desc": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+  "stars": 469,
+  "lang": "Python",
+  "url": "https://github.com/assetnote/php2shell-scanner",
+  "created": "2026-10-22T03:53:20Z",
+  "topics": []
+ },
+ {
+  "full_name": "QAQLeonard/a7c2-fl23-research",
+  "desc": "Desktop tool for Sony A7C II (ILCE-7CM2) firmware 2.01: one-click FL2/FL3, custom Creative Looks (LUT/DCP), electronic shutter sound, Vertical Display and factory restore. Windows/macOS. | Sony A7C II 固件 2.01 桌面工具：一键安装 FL2/FL3、自定义创意外观、电子快门声、竖屏显示，并可一键恢复原厂。",
+  "stars": 463,
+  "lang": "Python",
+  "url": "https://github.com/QAQLeonard/a7c2-fl23-research",
+  "created": "2026-10-17T14:25:48Z",
+  "topics": []
+ },
+ {
+  "full_name": "kanaworksai-hue/audio-studio-mcp",
+  "desc": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
+  "stars": 462,
+  "lang": "Python",
+  "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
+  "created": "2026-10-18T11:13:56Z",
+  "topics": [
+   "apple-silicon",
+   "audio-generation",
+   "claude-code",
+   "cuda",
+   "game-audio",
+   "mcp",
+   "mcp-server",
+   "mlx",
+   "music-generation",
+   "pytorch",
+   "sound-effects",
+   "stable-audio",
+   "windows"
+  ]
+ },
+ {
+  "full_name": "Tongyi-MAI/OpenGCUA",
+  "desc": "An open-source stack for generalist computer-use agents, combining code execution, GUI interaction, and cross-device control.",
+  "stars": 461,
+  "lang": "HTML",
+  "url": "https://github.com/Tongyi-MAI/OpenGCUA",
+  "created": "2026-10-15T09:03:56Z",
+  "topics": []
+ },
+ {
+  "full_name": "opentrap/opentrap",
+  "desc": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
+  "stars": 445,
+  "lang": "Java",
+  "url": "https://github.com/opentrap/opentrap",
+  "created": "2026-10-19T03:29:08Z",
+  "topics": [
+   "application-security",
+   "appsec",
+   "bug-bounty",
+   "burp-alternative",
+   "burp-suite",
+   "dast",
+   "http-proxy",
+   "infosec",
+   "intercepting-proxy",
+   "java",
+   "owasp",
+   "owasp-zap",
+   "penetration-testing",
+   "pentesting",
+   "security",
+   "security-tools",
+   "vulnerability-scanner",
+   "web-application-security",
+   "web-security"
+  ]
+ },
+ {
+  "full_name": "torrentplayer/torrentplayer",
+  "desc": "Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.",
+  "stars": 433,
+  "lang": "Rust",
+  "url": "https://github.com/torrentplayer/torrentplayer",
+  "created": "2026-10-20T19:44:10Z",
+  "topics": [
+   "audio-player",
+   "bittorrent",
+   "cross-platform",
+   "desktop-app",
+   "media-player",
+   "p2p",
+   "rust",
+   "streaming",
+   "svelte",
+   "tauri",
+   "torrent",
+   "video-player"
+  ]
+ },
+ {
+  "full_name": "zgsfsec/Full-Chain-Sentinel-System",
+  "desc": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+  "stars": 433,
+  "lang": "TypeScript",
+  "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
+  "created": "2026-10-16T04:05:37Z",
+  "topics": []
+ },
+ {
+  "full_name": "justrach/nanoui",
+  "desc": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend",
+  "stars": 430,
+  "lang": "Zig",
+  "url": "https://github.com/justrach/nanoui",
+  "created": "2026-10-18T09:27:46Z",
+  "topics": []
+ },
+ {
+  "full_name": "mihirgupta0900/tv-home",
+  "desc": "Debloat a slow, ad-filled Android TV over Wi-Fi and give it a fast Apple TV-style home screen. One prompt for Claude Code, or do it by hand.",
+  "stars": 424,
+  "lang": "Java",
+  "url": "https://github.com/mihirgupta0900/tv-home",
+  "created": "2026-10-18T20:12:18Z",
+  "topics": [
+   "adb",
+   "android-tv",
+   "claude-code",
+   "debloat",
+   "google-tv",
+   "launcher"
+  ]
+ },
+ {
+  "full_name": "WoYun520/dsh-purge",
+  "desc": "DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
+  "stars": 423,
+  "lang": "JavaScript",
+  "url": "https://github.com/WoYun520/dsh-purge",
+  "created": "2026-10-21T01:35:52Z",
+  "topics": []
+ },
+ {
+  "full_name": "MostafaXS1/artcraft-android",
+  "desc": null,
+  "stars": 422,
+  "lang": "Shell",
+  "url": "https://github.com/MostafaXS1/artcraft-android",
+  "created": "2026-10-15T21:33:51Z",
+  "topics": []
+ },
+ {
+  "full_name": "zita-ch/supermimic_vibed",
+  "desc": "vibe coded supermimic within 1h, LAFAN passed within 1.5 gpuh training",
+  "stars": 421,
+  "lang": "Python",
+  "url": "https://github.com/zita-ch/supermimic_vibed",
+  "created": "2026-10-21T17:29:28Z",
+  "topics": []
+ },
+ {
+  "full_name": "alexander-stack1/ciencia-de-dados-cibele-russo",
+  "desc": "Trilhas de estudo de Ciência de Dados derivadas das aulas da Profa. Cibele Russo (ICMC/USP)",
+  "stars": 420,
+  "lang": null,
+  "url": "https://github.com/alexander-stack1/ciencia-de-dados-cibele-russo",
+  "created": "2026-10-15T13:49:27Z",
+  "topics": []
+ },
+ {
+  "full_name": "harkhowalia-1/MacSubsystemForAndroid",
+  "desc": "Run Android apps on your Mac like Mac apps: each in its own window with its own Dock icon, on Apple silicon. Notifications, game controllers, privacy controls. Free & open source (LineageOS + QEMU + scrcpy).",
+  "stars": 418,
+  "lang": "Swift",
+  "url": "https://github.com/harkhowalia-1/MacSubsystemForAndroid",
+  "created": "2026-10-15T03:59:55Z",
+  "topics": [
+   "android",
+   "android-apps",
+   "android-emulator",
+   "android-on-mac",
+   "apk",
+   "apple-silicon",
+   "f-droid",
+   "hypervisor",
+   "lineageos",
+   "liquid-glass",
+   "macos",
+   "menu-bar-app",
+   "open-source",
+   "qemu",
+   "scrcpy",
+   "swift",
+   "swiftui",
+   "virtualization",
+   "windows-subsystem-for-android",
+   "wsa"
+  ]
+ },
+ {
+  "full_name": "antirez/c64-hw-simulator",
+  "desc": "Commodore 64 hardware simulator",
+  "stars": 415,
+  "lang": "C",
+  "url": "https://github.com/antirez/c64-hw-simulator",
+  "created": "2026-10-15T07:14:32Z",
+  "topics": []
+ },
+ {
+  "full_name": "lesnolie/Tigris",
+  "desc": "Tigris — tvOS 26 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.",
+  "stars": 413,
+  "lang": "Kotlin",
+  "url": "https://github.com/lesnolie/Tigris",
+  "created": "2026-10-20T10:12:05Z",
+  "topics": []
+ },
+ {
+  "full_name": "typecraft-dev/oma-cast",
+  "desc": "omarchy rebuild of raycast",
+  "stars": 412,
+  "lang": "JavaScript",
+  "url": "https://github.com/typecraft-dev/oma-cast",
+  "created": "2026-10-19T17:48:58Z",
+  "topics": []
+ },
+ {
+  "full_name": "crsolver/claude-pxl",
+  "desc": null,
+  "stars": 411,
+  "lang": "TypeScript",
+  "url": "https://github.com/crsolver/claude-pxl",
+  "created": "2026-10-15T02:29:33Z",
+  "topics": []
+ },
+ {
+  "full_name": "Apolinario-coder/SkyRecomp",
+  "desc": "Static recompilation of The Legend of Zelda: Skyward Sword for PC",
+  "stars": 404,
+  "lang": "C",
+  "url": "https://github.com/Apolinario-coder/SkyRecomp",
+  "created": "2026-10-17T09:17:49Z",
+  "topics": []
+ },
+ {
+  "full_name": "LTSharpe/OblivionRemasteredPerformanceFix",
+  "desc": "Engine-level performance fix for Oblivion Remastered (UE5): higher fps in towns, far fewer travel hitches, same image. Source, benchmark and docs.",
+  "stars": 402,
+  "lang": "C++",
+  "url": "https://github.com/LTSharpe/OblivionRemasteredPerformanceFix",
+  "created": "2026-10-17T14:28:10Z",
+  "topics": [
+   "game-mod",
+   "mod",
+   "oblivion-remastered",
+   "performance",
+   "unreal-engine-5"
+  ]
+ },
+ {
+  "full_name": "K0NL/B2recomp",
+  "desc": "Unofficial static recompilation of Bayonetta 2 (Switch) for Windows. Builds the game on your PC from your own legally dumped copy. No game files, keys or SDK code included.",
+  "stars": 397,
+  "lang": "C",
+  "url": "https://github.com/K0NL/B2recomp",
+  "created": "2026-10-17T16:04:18Z",
+  "topics": []
+ },
+ {
+  "full_name": "nace-ai/kapitsa",
+  "desc": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
+  "stars": 395,
+  "lang": "C++",
+  "url": "https://github.com/nace-ai/kapitsa",
+  "created": "2026-10-16T00:41:59Z",
+  "topics": []
+ },
+ {
+  "full_name": "HeyChengC/wallstreet-explainer",
+  "desc": "华尔街式财经/科技解读短片 skill：设计思路、风格语言，以及找片、截图、配音、渲染和混音工具。",
+  "stars": 394,
+  "lang": "Python",
+  "url": "https://github.com/HeyChengC/wallstreet-explainer",
+  "created": "2026-10-18T09:33:56Z",
+  "topics": []
+ },
+ {
+  "full_name": "vercel-labs/fx0",
+  "desc": "A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
+  "stars": 394,
+  "lang": "TypeScript",
+  "url": "https://github.com/vercel-labs/fx0",
+  "created": "2026-10-19T17:27:02Z",
+  "topics": []
+ },
+ {
+  "full_name": "JeffKeeping/dsh-purge-plus",
+  "desc": "dsh-purge 的非官方分支（fork）：适配 DeepSeek Harness 0.2.1-rc.2、破甲内核 v3、设置页 UI 重做 / unofficial fork of YuJunZhiXue/dsh-purge (MIT)",
+  "stars": 389,
+  "lang": "JavaScript",
+  "url": "https://github.com/JeffKeeping/dsh-purge-plus",
+  "created": "2026-10-18T10:32:36Z",
+  "topics": [
+   "deepseek-harness",
+   "dsh",
+   "fork",
+   "jailbreak",
+   "prompt-engineering",
+   "red-team"
+  ]
+ },
+ {
+  "full_name": "llamaboi55/DragShift",
+  "desc": "Convert and edit files with a liquid-glass radial menu: start dragging a file, press Shift, drop it on a slice. Windows, Mac and Linux.",
+  "stars": 387,
+  "lang": "Python",
+  "url": "https://github.com/llamaboi55/DragShift",
+  "created": "2026-10-18T14:19:13Z",
+  "topics": []
+ },
+ {
+  "full_name": "rossark0/rossark-motion-skill",
+  "desc": "Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI.",
+  "stars": 384,
+  "lang": "Swift",
+  "url": "https://github.com/rossark0/rossark-motion-skill",
+  "created": "2026-10-22T03:33:03Z",
+  "topics": []
+ },
+ {
+  "full_name": "wevm/ondine",
+  "desc": "Fast and simple diagrams.",
+  "stars": 381,
+  "lang": "Rust",
+  "url": "https://github.com/wevm/ondine",
+  "created": "2026-10-18T05:51:05Z",
+  "topics": []
+ },
+ {
+  "full_name": "OpenSmash-Ultimate/WindowSmash",
+  "desc": "Experimental Windows x64 native porting toolkit for Super Smash Bros. Ultimate: static AArch64 recompilation, a D3D11 runtime, and Local Wireless relay netplay.",
+  "stars": 374,
+  "lang": "C",
+  "url": "https://github.com/OpenSmash-Ultimate/WindowSmash",
+  "created": "2026-10-18T00:50:53Z",
+  "topics": [
+   "aarch64",
+   "direct3d11",
+   "native-port",
+   "static-recompilation",
+   "windows"
+  ]
+ },
+ {
+  "full_name": "MemTensor/MemT-1.0",
+  "desc": "Official repository for MemT-1.0",
+  "stars": 373,
+  "lang": "Python",
+  "url": "https://github.com/MemTensor/MemT-1.0",
+  "created": "2026-10-19T03:29:30Z",
+  "topics": [
+   "ai-agents",
+   "deepseek",
+   "llm",
+   "long-context",
+   "long-term-memory",
+   "memory",
+   "memory-augmented-models",
+   "native-memory",
+   "qwen",
+   "sglang"
+  ]
+ },
+ {
+  "full_name": "shishir0x/GoogleUnlimited",
+  "desc": "Unlimited Google Photos auto-sync on Windows with Pixel original quality spoofing — native, portable, and zero-quota.",
+  "stars": 372,
+  "lang": "PowerShell",
+  "url": "https://github.com/shishir0x/GoogleUnlimited",
+  "created": "2026-10-15T14:30:13Z",
+  "topics": [
+   "google-photos",
+   "unlimited-storage"
+  ]
+ },
+ {
+  "full_name": "blendi-remade/prompt2rig",
+  "desc": "Type a motion, watch a rigged character perform it: fast video model + GVHMR + live Mixamo retargeting",
+  "stars": 364,
+  "lang": "JavaScript",
+  "url": "https://github.com/blendi-remade/prompt2rig",
+  "created": "2026-10-19T09:29:42Z",
+  "topics": []
+ },
+ {
+  "full_name": "sit-in/awesome-grokbot-playbooks",
+  "desc": "中文 Grok Bot 玩法与可抄配方清单：作战室、雷达 Routine、额度体检… 由 Grok Bot + Claude 协作维护 | Chinese-first Grok Bot playbooks",
+  "stars": 360,
+  "lang": "HTML",
+  "url": "https://github.com/sit-in/awesome-grokbot-playbooks",
+  "created": "2026-10-17T15:47:00Z",
+  "topics": [
+   "ai-agents",
+   "awesome",
+   "awesome-list",
+   "chinese",
+   "grok",
+   "grok-bot",
+   "multi-agent",
+   "playbooks",
+   "prompts",
+   "xai"
+  ]
+ },
+ {
+  "full_name": "stencil-hq/dquickts",
+  "desc": "QuickJS with durable execution: suspend running JS, snapshot the whole heap, resume it in another process. Native TypeScript, a REPL that survives restarts, Rust bindings.",
+  "stars": 349,
+  "lang": "C",
+  "url": "https://github.com/stencil-hq/dquickts",
+  "created": "2026-10-19T12:06:42Z",
+  "topics": [
+   "c",
+   "durable-execution",
+   "embeddable",
+   "hibernation",
+   "interpreter",
+   "javascript",
+   "javascript-engine",
+   "quickjs",
+   "repl",
+   "rust",
+   "snapshots",
+   "typescript"
+  ]
+ },
+ {
+  "full_name": "soumatheusgomes/editonny",
+  "desc": "Local video editing through conversation. Created by Matheus Gomes.",
+  "stars": 346,
+  "lang": "Python",
+  "url": "https://github.com/soumatheusgomes/editonny",
+  "created": "2026-10-19T01:09:26Z",
+  "topics": []
+ },
+ {
+  "full_name": "garycaogan/ai-live-avatar",
+  "desc": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
+  "stars": 342,
+  "lang": "Python",
+  "url": "https://github.com/garycaogan/ai-live-avatar",
+  "created": "2026-10-19T08:10:48Z",
+  "topics": []
+ },
+ {
+  "full_name": "ip-please/ip-please.github.io",
+  "desc": null,
+  "stars": 340,
+  "lang": "JavaScript",
+  "url": "https://github.com/ip-please/ip-please.github.io",
+  "created": "2026-10-18T15:43:58Z",
+  "topics": []
+ },
+ {
+  "full_name": "finereli/whatsapp-mcp",
+  "desc": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+  "stars": 336,
+  "lang": "TypeScript",
+  "url": "https://github.com/finereli/whatsapp-mcp",
+  "created": "2026-10-18T21:01:54Z",
+  "topics": []
+ },
+ {
+  "full_name": "murkantor/Project-Midas",
+  "desc": "PC port of GE for Windows and Linux, built from the N64 decompilation. Widescreen, mouse look, modern controller support and in-game settings. Co-op, netplay and mods in development.",
+  "stars": 330,
+  "lang": "C",
+  "url": "https://github.com/murkantor/Project-Midas",
+  "created": "2026-10-16T12:23:00Z",
+  "topics": [
+   "decompilation",
+   "game-port",
+   "goldeneye",
+   "goldeneye-007",
+   "n64",
+   "opengl",
+   "pc-port",
+   "retrogaming",
+   "sdl2"
+  ]
+ },
+ {
+  "full_name": "oosexgang/hackios-xnu-userland",
+  "desc": null,
+  "stars": 329,
+  "lang": "C",
+  "url": "https://github.com/oosexgang/hackios-xnu-userland",
+  "created": "2026-10-22T06:20:36Z",
+  "topics": []
+ },
+ {
+  "full_name": "thebcd69/bcd-games",
+  "desc": "BCD: Windows games on iPhone and iPad. Steam and GOG built in.",
+  "stars": 312,
+  "lang": "C",
+  "url": "https://github.com/thebcd69/bcd-games",
+  "created": "2026-10-19T09:51:10Z",
+  "topics": []
+ }
+]

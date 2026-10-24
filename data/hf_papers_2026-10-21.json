@@ -1,0 +1,182 @@
+[
+ {
+  "title": "MemT-1.0: Towards Memory-Native Evolution",
+  "paperId": null,
+  "upvotes": 146,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "RoboValue: A Fine-Grained Sim-and-Real Benchmark for Unified Evaluation of Robotic Value Models",
+  "paperId": null,
+  "upvotes": 23,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "FineSplat: Fine Patches, Local Groups, Detailed Splats",
+  "paperId": null,
+  "upvotes": 17,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
+  "paperId": null,
+  "upvotes": 16,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning",
+  "paperId": null,
+  "upvotes": 11,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Harnessing Textual Refusal Directions for Multimodal Safety",
+  "paperId": null,
+  "upvotes": 11,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Policy Is Not Capability: Some Safety Benchmarks Measure Which Definition of \"Unsafe\" You Trained On",
+  "paperId": null,
+  "upvotes": 8,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "StopLoss: Teaching Agents to Predict Failure and Stop Early",
+  "paperId": null,
+  "upvotes": 7,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Progress-Aware Distillation for Mitigating Stagnation in Small Language Model Agents",
+  "paperId": null,
+  "upvotes": 7,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "A Conditional No-Hair Theorem for Transformers: How Language Models Forget Their Prompt",
+  "paperId": null,
+  "upvotes": 7,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "UniAVC: Unified Audio-Video Creation via Progressive Training and Asymmetric Scheduling",
+  "paperId": null,
+  "upvotes": 7,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "N-Gram Memories at Two Bits: Quantizing Lookup Tables in Large Language Models",
+  "paperId": null,
+  "upvotes": 6,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Predicting Privileged Information Effectiveness for On-Policy Self-Distillation",
+  "paperId": null,
+  "upvotes": 5,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
+  "paperId": null,
+  "upvotes": 5,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Heterogeneous Agentic Coevolution",
+  "paperId": null,
+  "upvotes": 4,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Training Reasoning Models to Generate Diverse Scientific Ideas",
+  "paperId": null,
+  "upvotes": 4,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "ActionRoPE: action as coordinates for spatially consistent control in planar-camera game world models",
+  "paperId": null,
+  "upvotes": 4,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "HERA: Harness-Environment Co-Evolution for Reliable Agentic Abstention",
+  "paperId": null,
+  "upvotes": 3,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Beyond Maliciousness: Static and Runtime Attack-Surface Profiling of Agent Skills",
+  "paperId": null,
+  "upvotes": 3,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Token-Set Choice Confounds POPE: A Systematic Audit of Yes/No Extraction in VLM Hallucination Evaluation",
+  "paperId": null,
+  "upvotes": 3,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "A Language-Informed Loss for Visual Generation",
+  "paperId": null,
+  "upvotes": 2,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Measuring Mechanistic Uncertainty in Large Language Models via Causal Robustness",
+  "paperId": null,
+  "upvotes": 2,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale",
+  "paperId": null,
+  "upvotes": 2,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning",
+  "paperId": null,
+  "upvotes": 1,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Harness-Delta Attribution: Dissecting Gains From Harness Evolution",
+  "paperId": null,
+  "upvotes": 1,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Legal Guidance in the Wild: How Users Seek Legal Help in Real-World LLM Conversations",
+  "paperId": null,
+  "upvotes": 1,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "RealityBench: Simulated Environments to Evaluate a Vision Language Model's Ability to Document Human Physical Work",
+  "paperId": null,
+  "upvotes": 1,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Vision as Proprioception: Estimating Humanoid Robot Pose from Video",
+  "paperId": null,
+  "upvotes": null,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "First Passage Attention",
+  "paperId": null,
+  "upvotes": null,
+  "url": "https://huggingface.co/papers/None"
+ },
+ {
+  "title": "Competence-Based Evaluation of Logical Reasoning in Large Language Models",
+  "paperId": null,
+  "upvotes": null,
+  "url": "https://huggingface.co/papers/None"
+ }
+]
