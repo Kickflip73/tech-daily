@@ -1,0 +1,2102 @@
+[
+ {
+  "full_name": "deepseek-ai/dsh-superagent-prototype",
+  "stars": 20815,
+  "description": "Towards a More Autonomous Agent System",
+  "created_at": "2026-10-31T09:32:46Z",
+  "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+ },
+ {
+  "full_name": "storytold/craft-anything",
+  "stars": 20561,
+  "description": "Craft Anything: understand how any software works, and craft your own.",
+  "created_at": "2026-10-31T14:50:00Z",
+  "html_url": "https://github.com/storytold/craft-anything"
+ },
+ {
+  "full_name": "heydamir/unslop",
+  "stars": 11357,
+  "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+  "created_at": "2026-10-29T15:41:21Z",
+  "html_url": "https://github.com/heydamir/unslop"
+ },
+ {
+  "full_name": "wangzan101/Mika",
+  "stars": 7607,
+  "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+  "created_at": "2026-10-29T14:34:07Z",
+  "html_url": "https://github.com/wangzan101/Mika"
+ },
+ {
+  "full_name": "anhao/ai-pose-gallery-zh",
+  "stars": 6365,
+  "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+  "created_at": "2026-10-27T12:24:37Z",
+  "html_url": "https://github.com/anhao/ai-pose-gallery-zh"
+ },
+ {
+  "full_name": "patch-gg/pixelfx",
+  "stars": 5827,
+  "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+  "created_at": "2026-10-30T06:43:25Z",
+  "html_url": "https://github.com/patch-gg/pixelfx"
+ },
+ {
+  "full_name": "valentderah/totk-pc-recomp",
+  "stars": 5683,
+  "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+  "created_at": "2026-10-29T12:32:46Z",
+  "html_url": "https://github.com/valentderah/totk-pc-recomp"
+ },
+ {
+  "full_name": "zortos293/Lichii",
+  "stars": 5561,
+  "description": "VERY experimental Nintendo Switch 2 emulator",
+  "created_at": "2026-10-31T14:17:26Z",
+  "html_url": "https://github.com/zortos293/Lichii"
+ },
+ {
+  "full_name": "Djihads80/Eglantine",
+  "stars": 5199,
+  "description": "VERY experimental Nintendo Switch 2 emulator",
+  "created_at": "2026-10-29T00:25:18Z",
+  "html_url": "https://github.com/Djihads80/Eglantine"
+ },
+ {
+  "full_name": "BryceYuuu/RUN",
+  "stars": 4177,
+  "description": "RUN · 润：中国护照持有人的海外移居手册。欧洲 36 国 110 条移民路线 + 13 个主要移民地区：数字游民签证、欧盟蓝卡、技术移民、留学转工作、创业自雇、投资居留，每条附官方来源，持续更新。",
+  "created_at": "2026-10-29T11:28:43Z",
+  "html_url": "https://github.com/BryceYuuu/RUN"
+ },
+ {
+  "full_name": "KKKKhazix/agent-autoloop",
+  "stars": 3951,
+  "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+  "created_at": "2026-11-03T08:02:11Z",
+  "html_url": "https://github.com/KKKKhazix/agent-autoloop"
+ },
+ {
+  "full_name": "JuneYaooo/rea-video",
+  "stars": 3668,
+  "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
+  "created_at": "2026-10-29T16:15:01Z",
+  "html_url": "https://github.com/JuneYaooo/rea-video"
+ },
+ {
+  "full_name": "haydenschmitty/floorplan",
+  "stars": 3173,
+  "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+  "created_at": "2026-10-27T12:03:01Z",
+  "html_url": "https://github.com/haydenschmitty/floorplan"
+ },
+ {
+  "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+  "stars": 3054,
+  "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+  "created_at": "2026-11-04T14:54:56Z",
+  "html_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+ },
+ {
+  "full_name": "Verlintas/NOIR",
+  "stars": 2911,
+  "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+  "created_at": "2026-10-31T21:34:39Z",
+  "html_url": "https://github.com/Verlintas/NOIR"
+ },
+ {
+  "full_name": "modelflare-ai/AnyModelBot",
+  "stars": 2734,
+  "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+  "created_at": "2026-10-27T08:51:18Z",
+  "html_url": "https://github.com/modelflare-ai/AnyModelBot"
+ },
+ {
+  "full_name": "elvarofficial/teardown",
+  "stars": 2549,
+  "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+  "created_at": "2026-10-30T09:29:01Z",
+  "html_url": "https://github.com/elvarofficial/teardown"
+ },
+ {
+  "full_name": "benjitaylor/skills",
+  "stars": 2475,
+  "description": "Skills for AI coding agents.",
+  "created_at": "2026-10-26T06:08:56Z",
+  "html_url": "https://github.com/benjitaylor/skills"
+ },
+ {
+  "full_name": "paipiange/nvzhuang",
+  "stars": 2302,
+  "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+  "created_at": "2026-10-29T06:08:00Z",
+  "html_url": "https://github.com/paipiange/nvzhuang"
+ },
+ {
+  "full_name": "Minireel/HGhub",
+  "stars": 2292,
+  "description": "YellowFruit third-party client",
+  "created_at": "2026-11-03T14:04:27Z",
+  "html_url": "https://github.com/Minireel/HGhub"
+ },
+ {
+  "full_name": "govijr/terminal-mac",
+  "stars": 2241,
+  "description": "Entire MacOS running in your terminal.",
+  "created_at": "2026-11-03T03:22:56Z",
+  "html_url": "https://github.com/govijr/terminal-mac"
+ },
+ {
+  "full_name": "mromidev/claude-animated-shorts",
+  "stars": 2224,
+  "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+  "created_at": "2026-11-01T05:50:38Z",
+  "html_url": "https://github.com/mromidev/claude-animated-shorts"
+ },
+ {
+  "full_name": "caru-ini/stack-diagram",
+  "stars": 2069,
+  "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+  "created_at": "2026-11-01T05:35:12Z",
+  "html_url": "https://github.com/caru-ini/stack-diagram"
+ },
+ {
+  "full_name": "physicsdolphin/nv-uefi-unlocker",
+  "stars": 2051,
+  "description": "UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verified on most RTX 20 30 40 Series.",
+  "created_at": "2026-10-26T06:22:24Z",
+  "html_url": "https://github.com/physicsdolphin/nv-uefi-unlocker"
+ },
+ {
+  "full_name": "D3voz/openjutsu",
+  "stars": 1910,
+  "description": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
+  "created_at": "2026-10-26T13:48:11Z",
+  "html_url": "https://github.com/D3voz/openjutsu"
+ },
+ {
+  "full_name": "andyhuo520/digital-human-koubo",
+  "stars": 1858,
+  "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+  "created_at": "2026-10-26T04:34:09Z",
+  "html_url": "https://github.com/andyhuo520/digital-human-koubo"
+ },
+ {
+  "full_name": "lexifina/global-law",
+  "stars": 1852,
+  "description": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
+  "created_at": "2026-10-28T13:34:16Z",
+  "html_url": "https://github.com/lexifina/global-law"
+ },
+ {
+  "full_name": "aschmelyun/print-my-profile-pic",
+  "stars": 1815,
+  "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+  "created_at": "2026-10-27T20:40:05Z",
+  "html_url": "https://github.com/aschmelyun/print-my-profile-pic"
+ },
+ {
+  "full_name": "NotRexed/Hookshot",
+  "stars": 1807,
+  "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+  "created_at": "2026-11-05T12:18:58Z",
+  "html_url": "https://github.com/NotRexed/Hookshot"
+ },
+ {
+  "full_name": "Motionsites-AI/claude-skill",
+  "stars": 1800,
+  "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+  "created_at": "2026-10-26T06:58:45Z",
+  "html_url": "https://github.com/Motionsites-AI/claude-skill"
+ },
+ {
+  "full_name": "smithjohn78390/tongjiang-lab",
+  "stars": 1668,
+  "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+  "created_at": "2026-10-28T04:29:29Z",
+  "html_url": "https://github.com/smithjohn78390/tongjiang-lab"
+ },
+ {
+  "full_name": "JenkinWoo/sheeridVerify",
+  "stars": 1654,
+  "description": null,
+  "created_at": "2026-11-06T09:28:09Z",
+  "html_url": "https://github.com/JenkinWoo/sheeridVerify"
+ },
+ {
+  "full_name": "wquguru/cicada",
+  "stars": 1622,
+  "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+  "created_at": "2026-11-01T05:41:23Z",
+  "html_url": "https://github.com/wquguru/cicada"
+ },
+ {
+  "full_name": "Arjun-Ingole/hop",
+  "stars": 1598,
+  "description": "Install Linux next to Windows without a USB stick",
+  "created_at": "2026-10-30T19:40:45Z",
+  "html_url": "https://github.com/Arjun-Ingole/hop"
+ },
+ {
+  "full_name": "AhmadHassan-BTed/RainGeneratorPy",
+  "stars": 1596,
+  "description": "This repository will be used to develop a rain generator, actually it use white noises to simulate wind and have an integrated thunderstorm simulator.",
+  "created_at": "2026-10-27T07:07:03Z",
+  "html_url": "https://github.com/AhmadHassan-BTed/RainGeneratorPy"
+ },
+ {
+  "full_name": "kevinraymond/florilegium",
+  "stars": 1569,
+  "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX",
+  "created_at": "2026-10-30T07:49:05Z",
+  "html_url": "https://github.com/kevinraymond/florilegium"
+ },
+ {
+  "full_name": "N1nEmAn/sapper-v2",
+  "stars": 1529,
+  "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+  "created_at": "2026-10-30T15:12:35Z",
+  "html_url": "https://github.com/N1nEmAn/sapper-v2"
+ },
+ {
+  "full_name": "jacke-pp/open-yoki",
+  "stars": 1461,
+  "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+  "created_at": "2026-10-28T08:58:27Z",
+  "html_url": "https://github.com/jacke-pp/open-yoki"
+ },
+ {
+  "full_name": "Pika-Labs/Pika-H3-Flex",
+  "stars": 1441,
+  "description": "Pika H3 Flex: video and audio generation inference",
+  "created_at": "2026-10-29T17:08:59Z",
+  "html_url": "https://github.com/Pika-Labs/Pika-H3-Flex"
+ },
+ {
+  "full_name": "BookracyFOS/bookracy",
+  "stars": 1408,
+  "description": "Free, open-source book search, reader and library.",
+  "created_at": "2026-10-26T14:02:02Z",
+  "html_url": "https://github.com/BookracyFOS/bookracy"
+ },
+ {
+  "full_name": "HRuiCcc/RuiC-PoseAtlas",
+  "stars": 1388,
+  "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+  "created_at": "2026-10-28T07:00:53Z",
+  "html_url": "https://github.com/HRuiCcc/RuiC-PoseAtlas"
+ },
+ {
+  "full_name": "NiazMorshed2007/reanimate",
+  "stars": 1374,
+  "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+  "created_at": "2026-10-29T06:20:59Z",
+  "html_url": "https://github.com/NiazMorshed2007/reanimate"
+ },
+ {
+  "full_name": "s1dashu/quiet-md",
+  "stars": 1267,
+  "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
+  "created_at": "2026-11-01T14:22:53Z",
+  "html_url": "https://github.com/s1dashu/quiet-md"
+ },
+ {
+  "full_name": "livliv-dev/player",
+  "stars": 1197,
+  "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+  "created_at": "2026-11-04T03:28:33Z",
+  "html_url": "https://github.com/livliv-dev/player"
+ },
+ {
+  "full_name": "mmdoctor/google-pro-helper",
+  "stars": 1136,
+  "description": null,
+  "created_at": "2026-11-05T04:52:28Z",
+  "html_url": "https://github.com/mmdoctor/google-pro-helper"
+ },
+ {
+  "full_name": "deepopen-com/deepopen-3d-webs",
+  "stars": 1120,
+  "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+  "created_at": "2026-10-26T12:13:47Z",
+  "html_url": "https://github.com/deepopen-com/deepopen-3d-webs"
+ },
+ {
+  "full_name": "RikiyaT/lm_understand-logs",
+  "stars": 1104,
+  "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
+  "created_at": "2026-10-29T04:17:30Z",
+  "html_url": "https://github.com/RikiyaT/lm_understand-logs"
+ },
+ {
+  "full_name": "Sandflow-ai/sand3d",
+  "stars": 1048,
+  "description": "3D modeling in Python, built for LLMs.",
+  "created_at": "2026-11-03T08:23:03Z",
+  "html_url": "https://github.com/Sandflow-ai/sand3d"
+ },
+ {
+  "full_name": "anthropics/FlashProve",
+  "stars": 957,
+  "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
+  "created_at": "2026-10-30T19:29:59Z",
+  "html_url": "https://github.com/anthropics/FlashProve"
+ },
+ {
+  "full_name": "cutetailbud/ff-ruyijs",
+  "stars": 891,
+  "description": "This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios",
+  "created_at": "2026-10-28T11:31:41Z",
+  "html_url": "https://github.com/cutetailbud/ff-ruyijs"
+ },
+ {
+  "full_name": "speridlabs/idol-sdk",
+  "stars": 888,
+  "description": "Idol: a single image to 3D Gaussians. Inference SDK and demo.",
+  "created_at": "2026-10-28T19:44:27Z",
+  "html_url": "https://github.com/speridlabs/idol-sdk"
+ },
+ {
+  "full_name": "toyxyz/toyxyz_RGBMocap",
+  "stars": 878,
+  "description": "Native Windows video motion capture with ExMR, FlowHMR and GVHMR, contact correction, humanoid retargeting, and FBX/VMD export.",
+  "created_at": "2026-10-26T22:26:28Z",
+  "html_url": "https://github.com/toyxyz/toyxyz_RGBMocap"
+ },
+ {
+  "full_name": "voyager-so/vork",
+  "stars": 871,
+  "description": "Headless 3D and VFX engine for agents. Research preview.",
+  "created_at": "2026-11-05T22:37:07Z",
+  "html_url": "https://github.com/voyager-so/vork"
+ },
+ {
+  "full_name": "jackwener/DSH-Android",
+  "stars": 867,
+  "description": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+  "created_at": "2026-10-27T19:26:12Z",
+  "html_url": "https://github.com/jackwener/DSH-Android"
+ },
+ {
+  "full_name": "hyz317/HairDeck",
+  "stars": 864,
+  "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+  "created_at": "2026-10-29T17:16:13Z",
+  "html_url": "https://github.com/hyz317/HairDeck"
+ },
+ {
+  "full_name": "kargulstudio/calender-app-design",
+  "stars": 858,
+  "description": null,
+  "created_at": "2026-10-26T18:38:56Z",
+  "html_url": "https://github.com/kargulstudio/calender-app-design"
+ },
+ {
+  "full_name": "OpenBMB/MiniCPM-OCR",
+  "stars": 846,
+  "description": "Fast, accurate OCR with correctness assessment.",
+  "created_at": "2026-10-27T13:22:00Z",
+  "html_url": "https://github.com/OpenBMB/MiniCPM-OCR"
+ },
+ {
+  "full_name": "rerun-build/rerun",
+  "stars": 838,
+  "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+  "created_at": "2026-10-29T16:09:54Z",
+  "html_url": "https://github.com/rerun-build/rerun"
+ },
+ {
+  "full_name": "chadyi/StudyOnTV",
+  "stars": 838,
+  "description": "StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions from the LAN. Learn first. Watch later.",
+  "created_at": "2026-11-01T15:31:22Z",
+  "html_url": "https://github.com/chadyi/StudyOnTV"
+ },
+ {
+  "full_name": "libracoder/kiri",
+  "stars": 827,
+  "description": "A small, fast container runtime for macOS, Windows and Linux",
+  "created_at": "2026-11-02T16:11:30Z",
+  "html_url": "https://github.com/libracoder/kiri"
+ },
+ {
+  "full_name": "yaojingang/GEOInflow",
+  "stars": 814,
+  "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+  "created_at": "2026-10-26T03:12:45Z",
+  "html_url": "https://github.com/yaojingang/GEOInflow"
+ },
+ {
+  "full_name": "ramenvr/autopilot",
+  "stars": 810,
+  "description": "Play any game",
+  "created_at": "2026-10-30T03:47:28Z",
+  "html_url": "https://github.com/ramenvr/autopilot"
+ },
+ {
+  "full_name": "konlu/story-studio",
+  "stars": 805,
+  "description": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
+  "created_at": "2026-10-26T09:20:06Z",
+  "html_url": "https://github.com/konlu/story-studio"
+ },
+ {
+  "full_name": "AssassinCreator/steam-stash-value-report-card",
+  "stars": 791,
+  "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+  "created_at": "2026-11-02T00:40:47Z",
+  "html_url": "https://github.com/AssassinCreator/steam-stash-value-report-card"
+ },
+ {
+  "full_name": "joeblau/subvox",
+  "stars": 785,
+  "description": null,
+  "created_at": "2026-10-31T01:48:19Z",
+  "html_url": "https://github.com/joeblau/subvox"
+ },
+ {
+  "full_name": "sostenesfreitas/ocarina-recomp",
+  "stars": 775,
+  "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+  "created_at": "2026-11-06T22:24:03Z",
+  "html_url": "https://github.com/sostenesfreitas/ocarina-recomp"
+ },
+ {
+  "full_name": "sarpstar/cinecode",
+  "stars": 775,
+  "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+  "created_at": "2026-11-03T10:08:16Z",
+  "html_url": "https://github.com/sarpstar/cinecode"
+ },
+ {
+  "full_name": "Leviidev/Henge",
+  "stars": 772,
+  "description": "Emulate macOS on iOS and iPadOS",
+  "created_at": "2026-11-02T01:13:51Z",
+  "html_url": "https://github.com/Leviidev/Henge"
+ },
+ {
+  "full_name": "Fractal-Compute-Orchestrations/.github",
+  "stars": 767,
+  "description": null,
+  "created_at": "2026-10-26T06:04:48Z",
+  "html_url": "https://github.com/Fractal-Compute-Orchestrations/.github"
+ },
+ {
+  "full_name": "XiaoyeCodes/code-animation-prompts",
+  "stars": 767,
+  "description": "341 种代码动画风格提示词、196 张参考静帧与离线挑选器，封装为 Claude Code / Codex Skill，支持一键导入与 HTML 视频渲染。",
+  "created_at": "2026-10-29T10:45:47Z",
+  "html_url": "https://github.com/XiaoyeCodes/code-animation-prompts"
+ },
+ {
+  "full_name": "tang1693/KIKUmap",
+  "stars": 759,
+  "description": "A mind map for your Claude/ChatGPT chats — macOS menu-bar app",
+  "created_at": "2026-10-28T05:38:50Z",
+  "html_url": "https://github.com/tang1693/KIKUmap"
+ },
+ {
+  "full_name": "egoist/mygo-music",
+  "stars": 751,
+  "description": "A native music player you extend with plugins",
+  "created_at": "2026-11-04T13:27:14Z",
+  "html_url": "https://github.com/egoist/mygo-music"
+ },
+ {
+  "full_name": "Minglink/dsh-jailbreak-workflow",
+  "stars": 746,
+  "description": "DSH 破甲词制作作工作流 ",
+  "created_at": "2026-11-01T04:50:41Z",
+  "html_url": "https://github.com/Minglink/dsh-jailbreak-workflow"
+ },
+ {
+  "full_name": "hongye007/open-pose-costume",
+  "stars": 743,
+  "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
+  "created_at": "2026-10-29T22:05:35Z",
+  "html_url": "https://github.com/hongye007/open-pose-costume"
+ },
+ {
+  "full_name": "sqlpxc/airhand",
+  "stars": 742,
+  "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+  "created_at": "2026-10-31T13:33:04Z",
+  "html_url": "https://github.com/sqlpxc/airhand"
+ },
+ {
+  "full_name": "sleepy-zone/ai-ref-library-cn",
+  "stars": 733,
+  "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+  "created_at": "2026-10-29T15:28:16Z",
+  "html_url": "https://github.com/sleepy-zone/ai-ref-library-cn"
+ },
+ {
+  "full_name": "wzc520pyfm/gen-ai-pose-image",
+  "stars": 718,
+  "description": "澜姿：从姿势线稿和衣装集给社区鲸鱼娘大肥鱼模特出图，调整姿势加变装，也可装进 DeepSeek Harness。Lanpose generates images of the community whale-girl Dafeiyu from pose sketches and costumes, and installs into DeepSeek Harness.",
+  "created_at": "2026-10-29T08:20:20Z",
+  "html_url": "https://github.com/wzc520pyfm/gen-ai-pose-image"
+ },
+ {
+  "full_name": "CzJam/gjgjxweb",
+  "stars": 715,
+  "description": "《搞机工具箱》Web移植版",
+  "created_at": "2026-11-03T02:00:54Z",
+  "html_url": "https://github.com/CzJam/gjgjxweb"
+ },
+ {
+  "full_name": "alchaincyf/huashu-bird-sticker",
+  "stars": 706,
+  "description": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
+  "created_at": "2026-10-30T05:19:33Z",
+  "html_url": "https://github.com/alchaincyf/huashu-bird-sticker"
+ },
+ {
+  "full_name": "chris124567/cfsolve",
+  "stars": 679,
+  "description": "Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)",
+  "created_at": "2026-10-26T02:31:21Z",
+  "html_url": "https://github.com/chris124567/cfsolve"
+ },
+ {
+  "full_name": "jiuyang5354/bilibili-margin",
+  "stars": 671,
+  "description": "映间 MARGIN · 重新设计 B 站首页与视频播放页预览版 (Chrome / Edge 扩展) | A Chrome/Edge extension that redesigns Bilibili home, video and search pages with liquid glass controls and shader backgrounds.",
+  "created_at": "2026-10-27T06:04:43Z",
+  "html_url": "https://github.com/jiuyang5354/bilibili-margin"
+ },
+ {
+  "full_name": "Gezine/CivSwitch",
+  "stars": 644,
+  "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
+  "created_at": "2026-11-01T13:30:59Z",
+  "html_url": "https://github.com/Gezine/CivSwitch"
+ },
+ {
+  "full_name": "Humpalumps/Ultra-Water",
+  "stars": 643,
+  "description": "Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, caustics, underwater rendering and buoyancy at 170–300 fps",
+  "created_at": "2026-10-28T16:27:44Z",
+  "html_url": "https://github.com/Humpalumps/Ultra-Water"
+ },
+ {
+  "full_name": "jyotipmahes/ML-Interview-Prep",
+  "stars": 640,
+  "description": null,
+  "created_at": "2026-10-31T21:25:37Z",
+  "html_url": "https://github.com/jyotipmahes/ML-Interview-Prep"
+ },
+ {
+  "full_name": "blakeandersonw/ai-app-playbook",
+  "stars": 638,
+  "description": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+  "created_at": "2026-10-26T16:07:05Z",
+  "html_url": "https://github.com/blakeandersonw/ai-app-playbook"
+ },
+ {
+  "full_name": "yalongwastaken/git-koi",
+  "stars": 628,
+  "description": "Draw a pixel-art koi from a GitHub account's public activity, as a looping GIF for a profile README.",
+  "created_at": "2026-10-26T00:08:44Z",
+  "html_url": "https://github.com/yalongwastaken/git-koi"
+ },
+ {
+  "full_name": "WoYun520/gif-factory",
+  "stars": 623,
+  "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+  "created_at": "2026-11-05T04:08:24Z",
+  "html_url": "https://github.com/WoYun520/gif-factory"
+ },
+ {
+  "full_name": "arpanjot-coding/AVault",
+  "stars": 620,
+  "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
+  "created_at": "2026-10-31T19:21:27Z",
+  "html_url": "https://github.com/arpanjot-coding/AVault"
+ },
+ {
+  "full_name": "zhanghao123vip/ai-manju-skills",
+  "stars": 618,
+  "description": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+  "created_at": "2026-10-31T03:22:12Z",
+  "html_url": "https://github.com/zhanghao123vip/ai-manju-skills"
+ },
+ {
+  "full_name": "robertnisipeanu/mgu-store",
+  "stars": 597,
+  "description": "App store for BMW iDrive 7 / iDrive 8 head units: install and update apps from GitHub repos, URLs and USB sticks",
+  "created_at": "2026-10-27T06:44:26Z",
+  "html_url": "https://github.com/robertnisipeanu/mgu-store"
+ },
+ {
+  "full_name": "stubbi/asm",
+  "stars": 595,
+  "description": "The package registry and command-line tool for assembly projects.",
+  "created_at": "2026-10-31T23:22:41Z",
+  "html_url": "https://github.com/stubbi/asm"
+ },
+ {
+  "full_name": "op7418/dsh-guizang-design",
+  "stars": 592,
+  "description": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
+  "created_at": "2026-10-30T14:45:30Z",
+  "html_url": "https://github.com/op7418/dsh-guizang-design"
+ },
+ {
+  "full_name": "Lee-xeo/Claude-Cage",
+  "stars": 578,
+  "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
+  "created_at": "2026-10-31T15:07:08Z",
+  "html_url": "https://github.com/Lee-xeo/Claude-Cage"
+ },
+ {
+  "full_name": "Mieksido/surfcore",
+  "stars": 573,
+  "description": null,
+  "created_at": "2026-10-26T01:39:21Z",
+  "html_url": "https://github.com/Mieksido/surfcore"
+ },
+ {
+  "full_name": "andyhuo520/vibe-knowledge",
+  "stars": 562,
+  "description": "Vibe 知识大赏：一个知识点 → 一条有旁白、每句有出处的精品知识短片（Claude Code skill · 44 套风格 · 代码逐帧成片）",
+  "created_at": "2026-10-28T09:37:45Z",
+  "html_url": "https://github.com/andyhuo520/vibe-knowledge"
+ },
+ {
+  "full_name": "setube/github-chinese",
+  "stars": 558,
+  "description": "把 GitHub 界面翻译成简体中文、繁体中文的浏览器扩展，支持企业版站点；附带下载加速、搜索净化、自动加载、图片预览、新标签页打开、下载文件夹（Chrome、Edge、Firefox、Safari）",
+  "created_at": "2026-10-26T03:29:51Z",
+  "html_url": "https://github.com/setube/github-chinese"
+ },
+ {
+  "full_name": "patch-gg/anymove",
+  "stars": 557,
+  "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
+  "created_at": "2026-10-27T08:00:42Z",
+  "html_url": "https://github.com/patch-gg/anymove"
+ },
+ {
+  "full_name": "MarkBlah/smsofdeath",
+  "stars": 552,
+  "description": "remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writeup.",
+  "created_at": "2026-10-29T05:20:26Z",
+  "html_url": "https://github.com/MarkBlah/smsofdeath"
+ },
+ {
+  "full_name": "MiniMax-AI/mcode-stack",
+  "stars": 545,
+  "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
+  "created_at": "2026-10-28T02:17:41Z",
+  "html_url": "https://github.com/MiniMax-AI/mcode-stack"
+ },
+ {
+  "full_name": "kevintngo/looseleaf",
+  "stars": 541,
+  "description": "shadcn/ui, drawn by hand: 123 accessible React components that look drawn on paper, with a shadcn registry.",
+  "created_at": "2026-11-01T05:16:00Z",
+  "html_url": "https://github.com/kevintngo/looseleaf"
+ },
+ {
+  "full_name": "changhaoting1998-star/manufacturing-wechat-miniapp-starter",
+  "stars": 535,
+  "description": "Privacy-first WeChat Mini Program starter for manufacturing employee self-service and auditable MES integration.",
+  "created_at": "2026-10-27T05:41:15Z",
+  "html_url": "https://github.com/changhaoting1998-star/manufacturing-wechat-miniapp-starter"
+ },
+ {
+  "full_name": "miao-org/awesome-supermimic",
+  "stars": 534,
+  "description": "A curated collection of SuperMimic implementations, extensions, demos, and resources.",
+  "created_at": "2026-10-26T02:49:01Z",
+  "html_url": "https://github.com/miao-org/awesome-supermimic"
+ },
+ {
+  "full_name": "schematrix/HAS_Prepper_Disk",
+  "stars": 526,
+  "description": "Raspberry Pi 5 üzerinde çevrimdışı bilgi arşivi: Wikipedia, haritalar ve hayatta kalma kaynakları kendi Wi-Fi ağı üzerinden sunulur, internet gerekmez. Internet-in-a-Box tabanlıdır.Offline knowledge archive on Raspberry Pi 5: Wikipedia, maps and survival resources served over its own Wi-Fi hotspot, no internet required. Built on Internet-in-a-Box.",
+  "created_at": "2026-10-27T21:37:16Z",
+  "html_url": "https://github.com/schematrix/HAS_Prepper_Disk"
+ },
+ {
+  "full_name": "smarkyie/NSP-Box",
+  "stars": 525,
+  "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+  "created_at": "2026-10-31T15:00:55Z",
+  "html_url": "https://github.com/smarkyie/NSP-Box"
+ },
+ {
+  "full_name": "JaceThings/DiaTweaks",
+  "stars": 524,
+  "description": "Unofficial tweaks for the Dia browser, kept in place across updates",
+  "created_at": "2026-10-30T19:04:54Z",
+  "html_url": "https://github.com/JaceThings/DiaTweaks"
+ },
+ {
+  "full_name": "NotRexed/SkyboundTotk",
+  "stars": 522,
+  "description": null,
+  "created_at": "2026-10-27T23:23:07Z",
+  "html_url": "https://github.com/NotRexed/SkyboundTotk"
+ },
+ {
+  "full_name": "shanselman/gputaskman",
+  "stars": 515,
+  "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+  "created_at": "2026-11-03T00:49:34Z",
+  "html_url": "https://github.com/shanselman/gputaskman"
+ },
+ {
+  "full_name": "gothamor/gta-vcs-recomp",
+  "stars": 513,
+  "description": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++",
+  "created_at": "2026-10-30T03:46:44Z",
+  "html_url": "https://github.com/gothamor/gta-vcs-recomp"
+ },
+ {
+  "full_name": "wanghao-SunSky/cs329z-chinese",
+  "stars": 506,
+  "description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
+  "created_at": "2026-10-28T18:18:24Z",
+  "html_url": "https://github.com/wanghao-SunSky/cs329z-chinese"
+ },
+ {
+  "full_name": "zeekk0/OpenAmika",
+  "stars": 504,
+  "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
+  "created_at": "2026-11-03T17:47:08Z",
+  "html_url": "https://github.com/zeekk0/OpenAmika"
+ },
+ {
+  "full_name": "majorminorlabs/hermes-voice",
+  "stars": 504,
+  "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
+  "created_at": "2026-11-05T05:28:37Z",
+  "html_url": "https://github.com/majorminorlabs/hermes-voice"
+ },
+ {
+  "full_name": "JosssphZhou/poki",
+  "stars": 502,
+  "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+  "created_at": "2026-11-05T15:04:31Z",
+  "html_url": "https://github.com/JosssphZhou/poki"
+ },
+ {
+  "full_name": "parallelpan/hongguo-downloader",
+  "stars": 499,
+  "description": "红果短剧解析工具：红果短剧 / 红果免费短剧 分享链接解析、全集批量下载与整剧打包 ZIP，粘贴链接即云端处理、按集取件，免安装网页版。Hongguo short drama parser & downloader — paste a link, resolve every episode online, batch download, pay per episode, no install.",
+  "created_at": "2026-10-31T07:48:17Z",
+  "html_url": "https://github.com/parallelpan/hongguo-downloader"
+ },
+ {
+  "full_name": "Pilipala9919/MarcoMovie",
+  "stars": 497,
+  "description": "由 Pilipala 开发的 Android 电视播放器。仅提供工具，不含影视资源；内容和配置由用户自行合法获取。",
+  "created_at": "2026-10-26T12:40:21Z",
+  "html_url": "https://github.com/Pilipala9919/MarcoMovie"
+ },
+ {
+  "full_name": "ashayas/icloud-s3",
+  "stars": 497,
+  "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
+  "created_at": "2026-10-30T23:54:20Z",
+  "html_url": "https://github.com/ashayas/icloud-s3"
+ },
+ {
+  "full_name": "piermark/omarchytv",
+  "stars": 495,
+  "description": "Omarchy-styled tiling launcher ecosystem for Android TV, Google TV, LG webOS, Android Mobile & Linux/macOS/Omarchy PCs",
+  "created_at": "2026-10-26T08:48:20Z",
+  "html_url": "https://github.com/piermark/omarchytv"
+ },
+ {
+  "full_name": "lovisdotio/video-to-game",
+  "stars": 495,
+  "description": null,
+  "created_at": "2026-10-29T03:46:38Z",
+  "html_url": "https://github.com/lovisdotio/video-to-game"
+ },
+ {
+  "full_name": "WANGXIN-567/weread-book-exporter",
+  "stars": 492,
+  "description": "📚 微信读书无损全书导出工具 — 一键导出双字体精排 PDF / EPUB / 纯 Markdown 笔记（适配 Obsidian & Notion），攻克网页端翻页漏字问题。",
+  "created_at": "2026-10-31T13:23:10Z",
+  "html_url": "https://github.com/WANGXIN-567/weread-book-exporter"
+ },
+ {
+  "full_name": "drakolordx7/switch2-recomp",
+  "stars": 491,
+  "description": "Nintendo Switch 2 games recompiled to run natively on PC.",
+  "created_at": "2026-11-02T03:10:30Z",
+  "html_url": "https://github.com/drakolordx7/switch2-recomp"
+ },
+ {
+  "full_name": "artemnovitckii/claude-animation-skills",
+  "stars": 485,
+  "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+  "created_at": "2026-11-01T02:53:31Z",
+  "html_url": "https://github.com/artemnovitckii/claude-animation-skills"
+ },
+ {
+  "full_name": "0xCodez/DuoDesk",
+  "stars": 474,
+  "description": "All your computers and your phone, working as one desk. Aurora redesign of TwinDesk. GPL-3.0",
+  "created_at": "2026-10-30T17:00:28Z",
+  "html_url": "https://github.com/0xCodez/DuoDesk"
+ },
+ {
+  "full_name": "riyadhHDA/wichforks",
+  "stars": 473,
+  "description": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
+  "created_at": "2026-11-05T14:47:29Z",
+  "html_url": "https://github.com/riyadhHDA/wichforks"
+ },
+ {
+  "full_name": "Renly1994/xiaotang-daozai",
+  "stars": 472,
+  "description": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
+  "created_at": "2026-11-03T04:25:22Z",
+  "html_url": "https://github.com/Renly1994/xiaotang-daozai"
+ },
+ {
+  "full_name": "mhfed/vn-law-check",
+  "stars": 471,
+  "description": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
+  "created_at": "2026-11-02T09:22:02Z",
+  "html_url": "https://github.com/mhfed/vn-law-check"
+ },
+ {
+  "full_name": "yetone/alma-relay",
+  "stars": 471,
+  "description": "Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
+  "created_at": "2026-10-31T13:30:34Z",
+  "html_url": "https://github.com/yetone/alma-relay"
+ },
+ {
+  "full_name": "wquguru/shisei",
+  "stars": 463,
+  "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
+  "created_at": "2026-10-29T01:23:06Z",
+  "html_url": "https://github.com/wquguru/shisei"
+ },
+ {
+  "full_name": "SAOS-3624/dsh-see-now",
+  "stars": 462,
+  "description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+  "created_at": "2026-11-01T13:32:34Z",
+  "html_url": "https://github.com/SAOS-3624/dsh-see-now"
+ },
+ {
+  "full_name": "SAOS-3624/dsh-video-storyboard",
+  "stars": 460,
+  "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packed into ONE image (384 tokens). Two tools: video_storyboard and video_zoom.",
+  "created_at": "2026-10-26T22:00:04Z",
+  "html_url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+ },
+ {
+  "full_name": "chutingyean/Agent-Cockpit",
+  "stars": 453,
+  "description": "Evidence-chain whiteboard + MCP server for AI research agents: every claim traces back to the run and code that produced it. 讓 AI agent 做研究時，每個結論都能追到產生它的程式碼。Claude Code · Codex · Cursor · Gemini CLI",
+  "created_at": "2026-10-26T18:44:46Z",
+  "html_url": "https://github.com/chutingyean/Agent-Cockpit"
+ },
+ {
+  "full_name": "oxnw/ai-phone",
+  "stars": 449,
+  "description": "A SIP phone daemon with local speech and language models on Apple Silicon.",
+  "created_at": "2026-10-27T19:17:56Z",
+  "html_url": "https://github.com/oxnw/ai-phone"
+ },
+ {
+  "full_name": "pan8664716/HGTV",
+  "stars": 443,
+  "description": "短剧客户端（Android TV / 手机 / 平板）",
+  "created_at": "2026-10-26T11:52:54Z",
+  "html_url": "https://github.com/pan8664716/HGTV"
+ },
+ {
+  "full_name": "mofan6/Moect",
+  "stars": 438,
+  "description": "Windows 微信 4.x 聊天记录导出、备份与离线归档工具 · WeChat chat history exporter & backup. 支持好友/群聊、头像、图片、GIF 表情、音视频、文件、链接、小程序、引用回复和合并转发；支持 HTML、JSON、JSONL、TXT、CSV、Markdown 导出、批量任务、消息搜索及时间筛选，提供一键安装包。",
+  "created_at": "2026-10-31T10:45:53Z",
+  "html_url": "https://github.com/mofan6/Moect"
+ },
+ {
+  "full_name": "amirmushichge/pixel-plays",
+  "stars": 435,
+  "description": "Small browser games as isometric pixel dioramas. No build step, no dependencies.",
+  "created_at": "2026-10-31T12:09:29Z",
+  "html_url": "https://github.com/amirmushichge/pixel-plays"
+ },
+ {
+  "full_name": "woniuniuniu/dsh-media-desk",
+  "stars": 433,
+  "description": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
+  "created_at": "2026-11-02T04:49:29Z",
+  "html_url": "https://github.com/woniuniuniu/dsh-media-desk"
+ },
+ {
+  "full_name": "Prefrontal-AI/latent-sparse-attention",
+  "stars": 431,
+  "description": "Code for Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+  "created_at": "2026-10-27T09:52:28Z",
+  "html_url": "https://github.com/Prefrontal-AI/latent-sparse-attention"
+ },
+ {
+  "full_name": "TagPhaseArcade/tiktok-uploader",
+  "stars": 430,
+  "description": "Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
+  "created_at": "2026-11-05T06:48:59Z",
+  "html_url": "https://github.com/TagPhaseArcade/tiktok-uploader"
+ },
+ {
+  "full_name": "dragonwolfshovel/youtube-uploader",
+  "stars": 429,
+  "description": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first",
+  "created_at": "2026-11-05T05:16:01Z",
+  "html_url": "https://github.com/dragonwolfshovel/youtube-uploader"
+ },
+ {
+  "full_name": "HerdBuilderEstimate/roblox-studio-mcp",
+  "stars": 427,
+  "description": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
+  "created_at": "2026-11-06T06:16:35Z",
+  "html_url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp"
+ },
+ {
+  "full_name": "PulverizeLink/roblox-performance-tool",
+  "stars": 426,
+  "description": "Lightweight performance utility for Roblox on Windows. Boosts FPS, fixes stutter, reduces input lag, and allows custom frame limits. Safe, offline, and open-source",
+  "created_at": "2026-11-06T08:03:46Z",
+  "html_url": "https://github.com/PulverizeLink/roblox-performance-tool"
+ },
+ {
+  "full_name": "Lowbetweentrim/crypto-portfolio-tracker",
+  "stars": 426,
+  "description": "Self-hosted, privacy-first crypto portfolio tracker. Import transactions via CSV, track real-time PnL, and manage your assets locally. No cloud, no subscriptions. Open-source",
+  "created_at": "2026-11-06T09:58:59Z",
+  "html_url": "https://github.com/Lowbetweentrim/crypto-portfolio-tracker"
+ },
+ {
+  "full_name": "Lostuaexpand/windows-animated-wallpapers",
+  "stars": 426,
+  "description": "High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS animations, low CPU usage, 4K support. Open-source and portable",
+  "created_at": "2026-11-04T04:53:31Z",
+  "html_url": "https://github.com/Lostuaexpand/windows-animated-wallpapers"
+ },
+ {
+  "full_name": "fjordostrichhose/Steam-Points-Tools-2026",
+  "stars": 426,
+  "description": "Professional desktop application for Steam users. Smart tools for points management, community engagement, activity tracking and profile optimization. Clean interface, regularly updated.",
+  "created_at": "2026-11-04T17:10:56Z",
+  "html_url": "https://github.com/fjordostrichhose/Steam-Points-Tools-2026"
+ },
+ {
+  "full_name": "Poltergeistlunagrid/Steam-Idler",
+  "stars": 425,
+  "description": "Steam Idler, Card Farmer & Playtime Booster. Idle multiple games to farm trading cards, boost playtime hours, and manage multiple accounts. Lightweight, open-source, and easy to use.",
+  "created_at": "2026-11-07T20:26:32Z",
+  "html_url": "https://github.com/Poltergeistlunagrid/Steam-Idler"
+ },
+ {
+  "full_name": "phaseboulderfetter/discord-quest-completer",
+  "stars": 425,
+  "description": "Auto-complete Discord Quests without installing games. Supports all 5 quest types: game, video, stream, activity, and achievement. Built-in dashboard, safe timing, and privacy-first. Open-source",
+  "created_at": "2026-11-06T12:01:51Z",
+  "html_url": "https://github.com/phaseboulderfetter/discord-quest-completer"
+ },
+ {
+  "full_name": "sentinelsoldierprize/Minecraft-AFK-Bot",
+  "stars": 425,
+  "description": "Lightweight Minecraft Anti-AFK bot with a web dashboard. Keeps your account online 24/7, simulates activity to avoid kicks, and supports auto-reconnect. Perfect for Aternos and survival servers.",
+  "created_at": "2026-11-07T18:07:44Z",
+  "html_url": "https://github.com/sentinelsoldierprize/Minecraft-AFK-Bot"
+ },
+ {
+  "full_name": "wideeyededi/uncensored-nsfw-ai-video-api",
+  "stars": 424,
+  "description": "Uncensored NSFW API for AI video generation — Seedance Spicy & Wan NSFW docs: 18+ text-to-video / image-to-video, async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分计费、接入指南。",
+  "created_at": "2026-11-02T02:15:29Z",
+  "html_url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api"
+ },
+ {
+  "full_name": "Shagg88/COGBox",
+  "stars": 424,
+  "description": "This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series. All 4 games have been personally recompiled for use with a fully native renderer by me.",
+  "created_at": "2026-10-27T04:28:46Z",
+  "html_url": "https://github.com/Shagg88/COGBox"
+ },
+ {
+  "full_name": "1337isnot1337/DOPPLERGEIST",
+  "stars": 420,
+  "description": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
+  "created_at": "2026-11-02T23:54:01Z",
+  "html_url": "https://github.com/1337isnot1337/DOPPLERGEIST"
+ },
+ {
+  "full_name": "AtomIllusionistDwell/watson-username-footprint-finder",
+  "stars": 413,
+  "description": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+  "created_at": "2026-11-05T05:20:24Z",
+  "html_url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder"
+ },
+ {
+  "full_name": "Th0rgal/satmux",
+  "stars": 411,
+  "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+  "created_at": "2026-11-07T16:09:41Z",
+  "html_url": "https://github.com/Th0rgal/satmux"
+ },
+ {
+  "full_name": "aa1143/NamiAgent",
+  "stars": 411,
+  "description": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
+  "created_at": "2026-10-30T11:03:30Z",
+  "html_url": "https://github.com/aa1143/NamiAgent"
+ },
+ {
+  "full_name": "Pluviobyte/douyin-comments",
+  "stars": 411,
+  "description": "抓取抖音单条视频完整评论区（一级 + 楼中楼）的 Agent Skill：在已登录的 Chrome 里照抄页面真实请求，签名交给页面 SDK",
+  "created_at": "2026-10-30T15:47:16Z",
+  "html_url": "https://github.com/Pluviobyte/douyin-comments"
+ },
+ {
+  "full_name": "anefzaoui/misterdownloadmanager",
+  "stars": 410,
+  "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+  "created_at": "2026-10-29T01:25:19Z",
+  "html_url": "https://github.com/anefzaoui/misterdownloadmanager"
+ },
+ {
+  "full_name": "xFractals/pokopia-native",
+  "stars": 409,
+  "description": "Build Pokémon Pokopia (Switch 2) into a native Windows app, Mac app, and iPhone app from your own dump. Tools only; With multiplayer and cross-device saves!",
+  "created_at": "2026-11-02T10:31:12Z",
+  "html_url": "https://github.com/xFractals/pokopia-native"
+ },
+ {
+  "full_name": "DeltaProviderGuide/auto-auction-bot-wow-forever",
+  "stars": 405,
+  "description": "A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
+  "created_at": "2026-11-04T05:41:32Z",
+  "html_url": "https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever"
+ },
+ {
+  "full_name": "Wallbycontact/java-mod-rust-port-tool",
+  "stars": 395,
+  "description": "Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
+  "created_at": "2026-11-05T06:15:39Z",
+  "html_url": "https://github.com/Wallbycontact/java-mod-rust-port-tool"
+ },
+ {
+  "full_name": "nathanliow/atlas-of-physics",
+  "stars": 395,
+  "description": "An interactive 3D textbook for AP Physics 1 and AP Physics C",
+  "created_at": "2026-10-28T22:54:22Z",
+  "html_url": "https://github.com/nathanliow/atlas-of-physics"
+ },
+ {
+  "full_name": "kyy-logs/code-review-skill",
+  "stars": 394,
+  "description": "Auditable code review skill for Claude Code and Codex: four independent probes, evidence-backed findings, and a JSON-derived merge gate.",
+  "created_at": "2026-10-29T07:57:07Z",
+  "html_url": "https://github.com/kyy-logs/code-review-skill"
+ },
+ {
+  "full_name": "MythicHokageRepel/steam-inventory-value-desktop",
+  "stars": 394,
+  "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+  "created_at": "2026-11-05T05:32:56Z",
+  "html_url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop"
+ },
+ {
+  "full_name": "Nebularotunnel/Token-Sniper",
+  "stars": 392,
+  "description": "Advanced desktop analyzer for DEX activity. Monitors new liquidity pair creation, applies smart filters to detect potential scam and rugpull patterns, and provides real-time alerts. Clean interface, regularly updated",
+  "created_at": "2026-11-05T16:15:17Z",
+  "html_url": "https://github.com/Nebularotunnel/Token-Sniper"
+ },
+ {
+  "full_name": "win4r/video-director",
+  "stars": 389,
+  "description": "A Claude skill for directing, building and verifying code-rendered videos (HTML/Canvas → MP4): principles, gated workflow, QA scripts and evals.",
+  "created_at": "2026-10-28T03:35:27Z",
+  "html_url": "https://github.com/win4r/video-director"
+ },
+ {
+  "full_name": "PatchBuilderAmplify/stolen-crypto-tracer",
+  "stars": 389,
+  "description": "Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
+  "created_at": "2026-11-03T17:08:02Z",
+  "html_url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer"
+ },
+ {
+  "full_name": "jmanico/grim-prompter",
+  "stars": 387,
+  "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
+  "created_at": "2026-10-28T12:09:26Z",
+  "html_url": "https://github.com/jmanico/grim-prompter"
+ },
+ {
+  "full_name": "Forward-Future/folio",
+  "stars": 387,
+  "description": "Folio — a simple, clean, open-source PDF reader and editor",
+  "created_at": "2026-10-26T21:02:24Z",
+  "html_url": "https://github.com/Forward-Future/folio"
+ },
+ {
+  "full_name": "justrach/nanolight",
+  "stars": 387,
+  "description": "A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X",
+  "created_at": "2026-11-02T02:52:08Z",
+  "html_url": "https://github.com/justrach/nanolight"
+ },
+ {
+  "full_name": "v1ktorrr0x/antigravity-filter-bypass",
+  "stars": 382,
+  "description": null,
+  "created_at": "2026-11-05T09:05:21Z",
+  "html_url": "https://github.com/v1ktorrr0x/antigravity-filter-bypass"
+ },
+ {
+  "full_name": "Tropicaldrescoop/discord-id-osint-checker",
+  "stars": 381,
+  "description": "Free OSINT app for Discord IDs: paste a user, server or invite and see when it was made and who it copies.",
+  "created_at": "2026-11-06T08:59:05Z",
+  "html_url": "https://github.com/Tropicaldrescoop/discord-id-osint-checker"
+ },
+ {
+  "full_name": "Interactive-Active-AI/NextTransformer",
+  "stars": 379,
+  "description": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers/LLM, with compute-matched benchmarking and a platform for autonomous architecture research.",
+  "created_at": "2026-10-31T07:46:13Z",
+  "html_url": "https://github.com/Interactive-Active-AI/NextTransformer"
+ },
+ {
+  "full_name": "0xCodez/cleanly",
+  "stars": 376,
+  "description": "Cleanly — a stylish, safe PC cleaner for Windows and macOS",
+  "created_at": "2026-10-29T14:31:45Z",
+  "html_url": "https://github.com/0xCodez/cleanly"
+ },
+ {
+  "full_name": "momusdigital/fnv_decomp",
+  "stars": 375,
+  "description": null,
+  "created_at": "2026-10-31T00:41:27Z",
+  "html_url": "https://github.com/momusdigital/fnv_decomp"
+ },
+ {
+  "full_name": "beilunyang/openhongguo",
+  "stars": 372,
+  "description": "红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
+  "created_at": "2026-10-26T13:47:23Z",
+  "html_url": "https://github.com/beilunyang/openhongguo"
+ },
+ {
+  "full_name": "free-dam-man/agent-deploy-memory-muse",
+  "stars": 371,
+  "description": "全球破甲记忆 · muse 版：免卡部署加密节点方法论（无密钥）",
+  "created_at": "2026-11-05T05:09:29Z",
+  "html_url": "https://github.com/free-dam-man/agent-deploy-memory-muse"
+ },
+ {
+  "full_name": "sleepy-zone/char-db-cn",
+  "stars": 368,
+  "description": "二次元角色换装库 · 中文版（发型 / 服装 / 姿势 / 组装）",
+  "created_at": "2026-11-01T12:24:11Z",
+  "html_url": "https://github.com/sleepy-zone/char-db-cn"
+ },
+ {
+  "full_name": "5151561/Trackr",
+  "stars": 364,
+  "description": "公交实时到站查询与动态追踪",
+  "created_at": "2026-10-29T19:41:43Z",
+  "html_url": "https://github.com/5151561/Trackr"
+ },
+ {
+  "full_name": "brainstormity/LightPost",
+  "stars": 364,
+  "description": "A lightweight system to automate posting to all of your socials from one dashboard",
+  "created_at": "2026-10-28T00:19:12Z",
+  "html_url": "https://github.com/brainstormity/LightPost"
+ },
+ {
+  "full_name": "MagoStudio/MagoStudio",
+  "stars": 363,
+  "description": "MagoStudio application",
+  "created_at": "2026-11-02T16:03:10Z",
+  "html_url": "https://github.com/MagoStudio/MagoStudio"
+ },
+ {
+  "full_name": "10291124jcjc-dotcom/ai-anime-series",
+  "stars": 362,
+  "description": "AI 动画单元剧：固定原创角色，一句话出一集。角色设定图 + 宫格故事板 + 即梦 Seedance 一次生成。Claude Skill.",
+  "created_at": "2026-10-28T14:31:38Z",
+  "html_url": "https://github.com/10291124jcjc-dotcom/ai-anime-series"
+ },
+ {
+  "full_name": "nilbuild/tinyhand",
+  "stars": 361,
+  "description": "A tiny hand on a stick that points at things on your Mac screen.",
+  "created_at": "2026-10-29T00:18:31Z",
+  "html_url": "https://github.com/nilbuild/tinyhand"
+ },
+ {
+  "full_name": "andrew-babo/muse4ai",
+  "stars": 360,
+  "description": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+  "created_at": "2026-11-03T17:45:18Z",
+  "html_url": "https://github.com/andrew-babo/muse4ai"
+ },
+ {
+  "full_name": "imraywang/ray-sticker-shop",
+  "stars": 359,
+  "description": "一张照片或角色图，生成一整套形象一致的动态表情包和微信投稿素材（Claude Code / Codex skill）",
+  "created_at": "2026-11-05T13:09:01Z",
+  "html_url": "https://github.com/imraywang/ray-sticker-shop"
+ },
+ {
+  "full_name": "shipwords-dev/shipwords",
+  "stars": 358,
+  "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+  "created_at": "2026-10-28T06:35:51Z",
+  "html_url": "https://github.com/shipwords-dev/shipwords"
+ },
+ {
+  "full_name": "devvmhq/devvm",
+  "stars": 358,
+  "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+  "created_at": "2026-11-06T07:02:30Z",
+  "html_url": "https://github.com/devvmhq/devvm"
+ },
+ {
+  "full_name": "mylea1/phongent",
+  "stars": 354,
+  "description": "基于 Mika 的 iOS / Android 多设备 agent 主控与安卓执行端",
+  "created_at": "2026-11-01T04:40:37Z",
+  "html_url": "https://github.com/mylea1/phongent"
+ },
+ {
+  "full_name": "mille-okws/pestinha",
+  "stars": 354,
+  "description": "Pestinha é um pet virtual de desktop para Windows, com rede neural pulsada, emoções e personalidade que evolui com o usuário. Ele aprende com carinho e consequências, faz travessuras, brinca, trabalha e reage ao ambiente. Tudo funciona localmente, sem depender da nuvem.",
+  "created_at": "2026-11-01T19:26:16Z",
+  "html_url": "https://github.com/mille-okws/pestinha"
+ },
+ {
+  "full_name": "ZSeven-W/dsh-game-studio",
+  "stars": 352,
+  "description": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, export one HTML file.",
+  "created_at": "2026-11-05T08:18:29Z",
+  "html_url": "https://github.com/ZSeven-W/dsh-game-studio"
+ },
+ {
+  "full_name": "dawgyg/AppleResearch",
+  "stars": 350,
+  "description": "A raw dump of my Apple MacOS research. Some likely can be ported over to other Apple OSes. Alot of this should likely be patched, but I did not report many of these as they didnt meet the bar for a bounty.",
+  "created_at": "2026-10-29T00:52:08Z",
+  "html_url": "https://github.com/dawgyg/AppleResearch"
+ },
+ {
+  "full_name": "soimy/c3rb3r-rescue",
+  "stars": 348,
+  "description": "Evidence-based DSM ransomware recovery: preservation, RAM key recovery, copy decryption, and GitLab validation.",
+  "created_at": "2026-10-29T02:19:17Z",
+  "html_url": "https://github.com/soimy/c3rb3r-rescue"
+ },
+ {
+  "full_name": "JunWan666/astrbot-for-android",
+  "stars": 347,
+  "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
+  "created_at": "2026-10-26T05:13:32Z",
+  "html_url": "https://github.com/JunWan666/astrbot-for-android"
+ },
+ {
+  "full_name": "mrhlaingbwardev/agentic-hacking-skills",
+  "stars": 346,
+  "description": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
+  "created_at": "2026-11-01T04:00:04Z",
+  "html_url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills"
+ },
+ {
+  "full_name": "moonoops/Droy",
+  "stars": 345,
+  "description": "An Android AI Agent built on DeepSeek Harness, with Android Use tools, voice and a cat companion.",
+  "created_at": "2026-10-26T18:03:20Z",
+  "html_url": "https://github.com/moonoops/Droy"
+ },
+ {
+  "full_name": "a55uka/nup",
+  "stars": 337,
+  "description": "NUP is a clean-room container format for unencrypted NX (Nintendo Switch 1/2) game dumps.",
+  "created_at": "2026-11-01T16:35:40Z",
+  "html_url": "https://github.com/a55uka/nup"
+ },
+ {
+  "full_name": "ilikechocopies/sideload-jiostb",
+  "stars": 336,
+  "description": "Clean, step-by-step Windows 11 guide to enable ADB on Jio STB (JMSC200Av2 & JMSB200A) via local DNS spoofing & Docker containers. Tested on firmwares 22.1.09, 24.1.39, 25.1.9, and older builds (excludes JHS models). Includes foolproof network isolation steps, fallback troubleshooting, and Wi-Fi reset fixes for smooth sideloading.",
+  "created_at": "2026-10-31T02:17:57Z",
+  "html_url": "https://github.com/ilikechocopies/sideload-jiostb"
+ },
+ {
+  "full_name": "techgenius1/tvOS-Launcher",
+  "stars": 335,
+  "description": "A fast, lightweight tvOS 26 & macOS–inspired launcher for Android TV with a Liquid Glass dock, rotating depth scenes, universal Control Panel overlay, Recent Apps switcher, 1x/2x/3x button mapper, and one-tap local ADB setup.",
+  "created_at": "2026-10-28T22:41:35Z",
+  "html_url": "https://github.com/techgenius1/tvOS-Launcher"
+ },
+ {
+  "full_name": "MythosOfs/Orchid",
+  "stars": 333,
+  "description": "VERY experimental Nintendo Switch 2 emulator",
+  "created_at": "2026-11-01T16:47:34Z",
+  "html_url": "https://github.com/MythosOfs/Orchid"
+ },
+ {
+  "full_name": "didi/helixharness",
+  "stars": 328,
+  "description": "HelixHarness 提供完整的 AI Coding 工程化基础能力，还支持不同企业和团队结合自身的业务知识、工程规范和研发流程，持续构建和演进属于自己的专属 Harness",
+  "created_at": "2026-10-27T08:14:08Z",
+  "html_url": "https://github.com/didi/helixharness"
+ },
+ {
+  "full_name": "apekshik/anyscene",
+  "stars": 326,
+  "description": "Photoreal Blender scenes from a one-paragraph brief, built by AI agents: image→3D props on fal, scripted layout, lighting, camera and grade.",
+  "created_at": "2026-10-30T18:39:04Z",
+  "html_url": "https://github.com/apekshik/anyscene"
+ },
+ {
+  "full_name": "StormSkinkGrip/game-ping-multipath-router",
+  "stars": 325,
+  "description": "Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
+  "created_at": "2026-11-03T16:37:49Z",
+  "html_url": "https://github.com/StormSkinkGrip/game-ping-multipath-router"
+ },
+ {
+  "full_name": "earendil-works/djs",
+  "stars": 324,
+  "description": null,
+  "created_at": "2026-11-01T11:56:35Z",
+  "html_url": "https://github.com/earendil-works/djs"
+ },
+ {
+  "full_name": "andriu-kun/-wildrig-multi",
+  "stars": 324,
+  "description": "multi algo miner for AMD, NVIDIA and Intel gpu's wildrig-multi",
+  "created_at": "2026-10-26T00:08:30Z",
+  "html_url": "https://github.com/andriu-kun/-wildrig-multi"
+ },
+ {
+  "full_name": "rudderlabs/devbox",
+  "stars": 322,
+  "description": "Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside.",
+  "created_at": "2026-10-27T06:17:39Z",
+  "html_url": "https://github.com/rudderlabs/devbox"
+ },
+ {
+  "full_name": "Weft-Rust/Weft",
+  "stars": 322,
+  "description": null,
+  "created_at": "2026-10-29T22:57:18Z",
+  "html_url": "https://github.com/Weft-Rust/Weft"
+ },
+ {
+  "full_name": "polyend/tracker-ce",
+  "stars": 321,
+  "description": "Official Polyend Tracker Community Editon for all Polyend Tracker devices.",
+  "created_at": "2026-10-26T08:09:30Z",
+  "html_url": "https://github.com/polyend/tracker-ce"
+ },
+ {
+  "full_name": "NyxFoundation/nyxis",
+  "stars": 320,
+  "description": "A Lean backend framework whose authorization safety is formally proven. The developer writes only a Cedar schema and policies; handlers are built on Supabase Auth and PostgreSQL.",
+  "created_at": "2026-10-26T04:26:18Z",
+  "html_url": "https://github.com/NyxFoundation/nyxis"
+ },
+ {
+  "full_name": "Banan1cee/whale_girl",
+  "stars": 319,
+  "description": "鲸鲸 · 让 DeepSeek 用你的微信账号陪聊（Windows 桌面端 + WPF 启动器）。WeChat chat bot powered by DeepSeek/Qwen.",
+  "created_at": "2026-10-26T09:17:35Z",
+  "html_url": "https://github.com/Banan1cee/whale_girl"
+ },
+ {
+  "full_name": "StewdioAI/blank-page",
+  "stars": 318,
+  "description": "A repository for expand-motion",
+  "created_at": "2026-11-03T13:47:27Z",
+  "html_url": "https://github.com/StewdioAI/blank-page"
+ },
+ {
+  "full_name": "zklmiao/prompt-vault",
+  "stars": 317,
+  "description": "本地优先的 Prompt 收藏桌面工具 · Tauri 2 + React 19 + TypeScript · Local-first prompt vault for Windows",
+  "created_at": "2026-10-28T04:07:24Z",
+  "html_url": "https://github.com/zklmiao/prompt-vault"
+ },
+ {
+  "full_name": "lucas-martinic/polyfork-catalog",
+  "stars": 317,
+  "description": "Free low-poly 3D models for three.js and the web: 3,077 GLB models and 28 themed kits, CC BY 4.0. The public index of polyfork.dev.",
+  "created_at": "2026-11-02T01:09:22Z",
+  "html_url": "https://github.com/lucas-martinic/polyfork-catalog"
+ },
+ {
+  "full_name": "Lucas-blip-png/dkb-pc-recomp",
+  "stars": 312,
+  "description": "Static recompilation of Donkey Kong Bananza (Switch 2) to native Windows with Vulkan. The 3D tutorial renders; not playable yet. No game files included.",
+  "created_at": "2026-11-01T15:03:52Z",
+  "html_url": "https://github.com/Lucas-blip-png/dkb-pc-recomp"
+ },
+ {
+  "full_name": "Xpropel/Pi-Remote",
+  "stars": 312,
+  "description": "Remote control for your pi coding agent. Pi-Remote mirrors live pi terminal sessions to any browser, so you can watch runs, answer prompts, and send commands from your phone — end-to-end encrypted over a self-hosted relay.",
+  "created_at": "2026-10-28T10:46:22Z",
+  "html_url": "https://github.com/Xpropel/Pi-Remote"
+ },
+ {
+  "full_name": "duyunzhoudyz/dyz-med-paper-skills",
+  "stars": 311,
+  "description": "医学论文写作与科研助手：面向中国医生和医学研究生的 32 个 Agent Skills，适用于 Claude Code、Codex，覆盖选题、PubMed 文献检索、中英写作、选刊投稿与审稿修回。Medical writing & research skills.",
+  "created_at": "2026-11-01T14:57:55Z",
+  "html_url": "https://github.com/duyunzhoudyz/dyz-med-paper-skills"
+ },
+ {
+  "full_name": "vibe-motion/sound",
+  "stars": 311,
+  "description": "Studio-grade sound effects for agents: search Pixabay, Freesound, Mixkit and Kenney, ranked by human feedback",
+  "created_at": "2026-10-28T09:44:52Z",
+  "html_url": "https://github.com/vibe-motion/sound"
+ },
+ {
+  "full_name": "JGRFW/comfyui-aicg3d-PoseSwap",
+  "stars": 311,
+  "description": "ComfyUI 一键换脸 + 换姿势 + 换服装！1499 头像 + 1439 姿势 + 1407 服装自由组合",
+  "created_at": "2026-10-30T04:50:54Z",
+  "html_url": "https://github.com/JGRFW/comfyui-aicg3d-PoseSwap"
+ },
+ {
+  "full_name": "maluramichael/awesome-reverse-engineer-anything",
+  "stars": 310,
+  "description": "Trending open projects that reverse engineered apps, games, consoles, protocols and devices, plus the tools they used. Star trends refreshed daily.",
+  "created_at": "2026-11-02T10:42:04Z",
+  "html_url": "https://github.com/maluramichael/awesome-reverse-engineer-anything"
+ },
+ {
+  "full_name": "muaaz9329/cheap-ag",
+  "stars": 310,
+  "description": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex.",
+  "created_at": "2026-10-28T22:26:18Z",
+  "html_url": "https://github.com/muaaz9329/cheap-ag"
+ },
+ {
+  "full_name": "lexifina/romania-law",
+  "stars": 307,
+  "description": "Romania: law history, one commit per law taking effect (sources so far)",
+  "created_at": "2026-10-28T16:02:00Z",
+  "html_url": "https://github.com/lexifina/romania-law"
+ },
+ {
+  "full_name": "yooma1/qufz",
+  "stars": 305,
+  "description": "防止骚扰",
+  "created_at": "2026-11-04T05:34:30Z",
+  "html_url": "https://github.com/yooma1/qufz"
+ },
+ {
+  "full_name": "Badgenyamultiplexer/pc-game-fps-doctor",
+  "stars": 305,
+  "description": "One button: why the game stutters, why it lags and why it won't start. Pitstop measures with PresentMon, explains in plain words, fixes Windows only, and undoes every change in one click.",
+  "created_at": "2026-11-03T15:01:49Z",
+  "html_url": "https://github.com/Badgenyamultiplexer/pc-game-fps-doctor"
+ },
+ {
+  "full_name": "daniel-madrid-07/weeping-of-the-empire",
+  "stars": 303,
+  "description": "Zelda: Tears of the Kingdom (TotK) 1.0.0 recompiled to native Windows and Vulkan. Frame cap up to 240, DLSS option, mouse and keyboard. Open source, mostly written by AI agents. You build it from your own dump; no game files included. Measured on one PC so far.",
+  "created_at": "2026-10-30T23:58:29Z",
+  "html_url": "https://github.com/daniel-madrid-07/weeping-of-the-empire"
+ },
+ {
+  "full_name": "QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026",
+  "stars": 302,
+  "description": "Powerful FPS Optimizer for all games. Increase frame rate, reduce lag and stutters with one-click profiles. Clean interface, fully reversible, easy to use.",
+  "created_at": "2026-10-30T18:40:57Z",
+  "html_url": "https://github.com/QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026"
+ },
+ {
+  "full_name": "raylee-ai/lancer",
+  "stars": 302,
+  "description": "Lancer — desktop AI workspace based on pi-gui and pi",
+  "created_at": "2026-10-31T08:01:15Z",
+  "html_url": "https://github.com/raylee-ai/lancer"
+ },
+ {
+  "full_name": "SplendorHornbill/windows-animated-wallpapers",
+  "stars": 301,
+  "description": "High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS animations, low CPU usage, 4K support. Open-source and portable",
+  "created_at": "2026-11-02T20:58:33Z",
+  "html_url": "https://github.com/SplendorHornbill/windows-animated-wallpapers"
+ },
+ {
+  "full_name": "dankumarlab2090u1/minecraft-hack-menu-2026",
+  "stars": 300,
+  "description": "Minecraft Hack Menu 2026 — Powerful utility mod for 1.21.4 Fabric. KillAura, ESP, XRay, Flight, Scaffold, Crystal Aura and 150+ modules. Easy install, working November 2026.",
+  "created_at": "2026-11-01T15:50:37Z",
+  "html_url": "https://github.com/dankumarlab2090u1/minecraft-hack-menu-2026"
+ },
+ {
+  "full_name": "circuitparrotmarket/adobe-after-effects",
+  "stars": 300,
+  "description": "Complete standalone setup for VFX Motion Studio 2026. Secure digital asset deployment pipeline, pre-activated and ready to run.",
+  "created_at": "2026-11-04T09:10:45Z",
+  "html_url": "https://github.com/circuitparrotmarket/adobe-after-effects"
+ },
+ {
+  "full_name": "TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
+  "stars": 300,
+  "description": "Powerful Roblox Account Manager for easy multi-account control. Switch accounts, manage sessions and organize profiles with a clean interface. Simple setup and regularly updated.",
+  "created_at": "2026-10-31T02:54:13Z",
+  "html_url": "https://github.com/TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026"
+ },
+ {
+  "full_name": "chordexpertflourish/autocad",
+  "stars": 300,
+  "description": "Autodesk AutoCAD 2026 complete standalone installation setup. Ready-to-run professional desktop software utility configuration.",
+  "created_at": "2026-11-04T09:10:45Z",
+  "html_url": "https://github.com/chordexpertflourish/autocad"
+ },
+ {
+  "full_name": "yt1988/who-are-you",
+  "stars": 300,
+  "description": "Who do websites think you are? A privacy self-check: every sniffer any site can run, the portrait they paint, and the contradictions that give away a VPN or proxy",
+  "created_at": "2026-11-01T03:15:18Z",
+  "html_url": "https://github.com/yt1988/who-are-you"
+ },
+ {
+  "full_name": "davidlopez-x05x8/minecraft-aim-assist",
+  "stars": 300,
+  "description": "Minecraft Aim Assist 2026 — Smooth aiming assistance for 1.21.4 Fabric. Adaptive tracking, customizable FOV, visibility check and clean UI. Easy install, regularly updated",
+  "created_at": "2026-11-02T04:19:35Z",
+  "html_url": "https://github.com/davidlopez-x05x8/minecraft-aim-assist"
+ },
+ {
+  "full_name": "redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026",
+  "stars": 300,
+  "description": "Advanced Bunny Hop script with smooth auto-bhop and movement assistance. Fully configurable, clean interface, easy setup. Regularly updated.",
+  "created_at": "2026-10-31T11:19:19Z",
+  "html_url": "https://github.com/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026"
+ },
+ {
+  "full_name": "jxy333967/jianxunyun",
+  "stars": 299,
+  "description": "简讯云  最好的vpn服务",
+  "created_at": "2026-11-01T12:54:27Z",
+  "html_url": "https://github.com/jxy333967/jianxunyun"
+ },
+ {
+  "full_name": "benderandrew069/deepseek-api-pricing-2026",
+  "stars": 299,
+  "description": "DeepSeek API pricing guide for models, cache hits, and peak hours (2026).",
+  "created_at": "2026-10-27T06:22:04Z",
+  "html_url": "https://github.com/benderandrew069/deepseek-api-pricing-2026"
+ },
+ {
+  "full_name": "Villagers654/Venture",
+  "stars": 296,
+  "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux.",
+  "created_at": "2026-10-27T19:20:10Z",
+  "html_url": "https://github.com/Villagers654/Venture"
+ },
+ {
+  "full_name": "wangweihong/comfyui-pose-gallery",
+  "stars": 295,
+  "description": "ComfyUI 中文人体姿势图库节点，支持多视角浏览与 Depth Anything → MOSS SFT 深度控制工作流",
+  "created_at": "2026-10-28T09:50:33Z",
+  "html_url": "https://github.com/wangweihong/comfyui-pose-gallery"
+ },
+ {
+  "full_name": "fmhyplay/android",
+  "stars": 294,
+  "description": "FMHYPlay: any streaming site, a real player. A TV-first Android app with a native player, ad blocking, in-app WARP and IPTV.",
+  "created_at": "2026-11-03T17:24:14Z",
+  "html_url": "https://github.com/fmhyplay/android"
+ },
+ {
+  "full_name": "alexrlocke/neorex",
+  "stars": 294,
+  "description": "A Rex-Native frontend for Neovim. ",
+  "created_at": "2026-10-27T16:32:41Z",
+  "html_url": "https://github.com/alexrlocke/neorex"
+ },
+ {
+  "full_name": "gulucaptain/Best-Paper-Writing-Skill",
+  "stars": 293,
+  "description": "[Writing] Claude / Codex skill for drafting abstracts, introductions, methods and experiments in the style of CVPR/ICCV/NeurIPS best papers, distilled from 60 award-winning papers.",
+  "created_at": "2026-10-28T02:18:51Z",
+  "html_url": "https://github.com/gulucaptain/Best-Paper-Writing-Skill"
+ },
+ {
+  "full_name": "phuryn/product-engineering",
+  "stars": 292,
+  "description": "Agent skills for shipping real products with coding agents, from the first idea to paying users. No coding.",
+  "created_at": "2026-10-29T11:32:54Z",
+  "html_url": "https://github.com/phuryn/product-engineering"
+ },
+ {
+  "full_name": "QuantMLResearch/quant-handbook",
+  "stars": 291,
+  "description": "Quantitative Research Handbook",
+  "created_at": "2026-10-27T02:31:33Z",
+  "html_url": "https://github.com/QuantMLResearch/quant-handbook"
+ },
+ {
+  "full_name": "dbreunig/nesformer",
+  "stars": 290,
+  "description": "An NES CPU compiled into the weights of a stock Qwen3.5 model",
+  "created_at": "2026-10-30T15:54:20Z",
+  "html_url": "https://github.com/dbreunig/nesformer"
+ },
+ {
+  "full_name": "ravencaio/tlou-remastered-pc",
+  "stars": 290,
+  "description": "Native Windows PC port of The Last of Us Remastered (PS4, CUSA00552). Runs the game’s own x86-64 code on a custom runtime, with PS4 system libraries reimplemented and a Vulkan renderer based on shadPS4. Includes a launcher. No game files included: you need your own copy.",
+  "created_at": "2026-11-01T20:52:57Z",
+  "html_url": "https://github.com/ravencaio/tlou-remastered-pc"
+ },
+ {
+  "full_name": "DominikScholz/open-bot-avatar",
+  "stars": 290,
+  "description": "A JSON spec and renderer for interactive agent avatars",
+  "created_at": "2026-11-02T17:03:14Z",
+  "html_url": "https://github.com/DominikScholz/open-bot-avatar"
+ },
+ {
+  "full_name": "ywEdAi/teachable-figures",
+  "stars": 289,
+  "description": "An agent skill for causal teaching figures through predict, try, and explain. Includes rendering kits, reviewed examples, and browser checks.",
+  "created_at": "2026-10-27T16:39:31Z",
+  "html_url": "https://github.com/ywEdAi/teachable-figures"
+ },
+ {
+  "full_name": "bia-pain-bache/BPB-VPN",
+  "stars": 288,
+  "description": "An open-source VPN client for bypassing censorship, with self-deployed Cloudflare Workers, WARP, MASQUE, Psiphon, Tor and Chain proxies.",
+  "created_at": "2026-11-01T19:17:24Z",
+  "html_url": "https://github.com/bia-pain-bache/BPB-VPN"
+ },
+ {
+  "full_name": "yappologistic/CUI",
+  "stars": 287,
+  "description": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
+  "created_at": "2026-11-05T08:18:08Z",
+  "html_url": "https://github.com/yappologistic/CUI"
+ },
+ {
+  "full_name": "AkaraChen/cc-remote",
+  "stars": 287,
+  "description": "Claude Code with the model on a remote host and the tools on your machine",
+  "created_at": "2026-11-01T09:49:24Z",
+  "html_url": "https://github.com/AkaraChen/cc-remote"
+ },
+ {
+  "full_name": "Moh4696/open-3d-skills",
+  "stars": 287,
+  "description": "Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, browser checks and 60 fps recording. Claude Code, Codex, Cursor, Gemini CLI.",
+  "created_at": "2026-10-31T08:46:18Z",
+  "html_url": "https://github.com/Moh4696/open-3d-skills"
+ },
+ {
+  "full_name": "eduwxyz/tucano",
+  "stars": 286,
+  "description": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on the Claude Code, Codex, OpenCode or Pi you already have. Anything that touches the real world waits for your yes.",
+  "created_at": "2026-10-28T04:27:38Z",
+  "html_url": "https://github.com/eduwxyz/tucano"
+ },
+ {
+  "full_name": "ngxson/esp32-usb-to-airprint",
+  "stars": 286,
+  "description": "Add AirPrint / AirScan support to your old printer, using just a cheap ESP32-S3",
+  "created_at": "2026-10-26T16:18:54Z",
+  "html_url": "https://github.com/ngxson/esp32-usb-to-airprint"
+ },
+ {
+  "full_name": "kunchenguid/runner-up",
+  "stars": 286,
+  "description": "GitHub Actions runners on your own machines, one fresh container or VM per job. Completely eliminate your cloud CI bill.",
+  "created_at": "2026-10-29T03:05:57Z",
+  "html_url": "https://github.com/kunchenguid/runner-up"
+ },
+ {
+  "full_name": "robertnisipeanu/idrive-apps",
+  "stars": 285,
+  "description": "Apps and tools for the BMW iDrive 7 (MGU) head unit, installable from the Store",
+  "created_at": "2026-10-31T11:04:14Z",
+  "html_url": "https://github.com/robertnisipeanu/idrive-apps"
+ },
+ {
+  "full_name": "OpenBMB/ForgeKernel",
+  "stars": 285,
+  "description": null,
+  "created_at": "2026-10-30T01:33:40Z",
+  "html_url": "https://github.com/OpenBMB/ForgeKernel"
+ },
+ {
+  "full_name": "rtora/munorai",
+  "stars": 284,
+  "description": "Supercharge the AI you already use. Greener. Better. Faster. Cheaper.",
+  "created_at": "2026-10-26T04:20:09Z",
+  "html_url": "https://github.com/rtora/munorai"
+ },
+ {
+  "full_name": "storytold/materialcraft",
+  "stars": 283,
+  "description": "MaterialCraft: An open-source, node-based material designer written from scratch in pure Rust",
+  "created_at": "2026-11-01T19:10:23Z",
+  "html_url": "https://github.com/storytold/materialcraft"
+ },
+ {
+  "full_name": "molence/Mol-1",
+  "stars": 279,
+  "description": "Open Frontier Biomolecular Intelligence",
+  "created_at": "2026-10-26T13:41:34Z",
+  "html_url": "https://github.com/molence/Mol-1"
+ },
+ {
+  "full_name": "Open-RUA/uni-robot-agent",
+  "stars": 277,
+  "description": "A Unified Robot-Use Agent Harness Across Environments",
+  "created_at": "2026-11-02T17:50:44Z",
+  "html_url": "https://github.com/Open-RUA/uni-robot-agent"
+ },
+ {
+  "full_name": "musubipapi/airpointer",
+  "stars": 275,
+  "description": null,
+  "created_at": "2026-11-06T01:31:48Z",
+  "html_url": "https://github.com/musubipapi/airpointer"
+ },
+ {
+  "full_name": "protonversestudio/wow-forever-builds-kindred",
+  "stars": 274,
+  "description": "Answer four questions and see which WoW Forever class fits how you play. Free Windows app.",
+  "created_at": "2026-11-04T05:12:03Z",
+  "html_url": "https://github.com/protonversestudio/wow-forever-builds-kindred"
+ },
+ {
+  "full_name": "rubenhassid1/remake",
+  "stars": 273,
+  "description": "Remake any website pixel for pixel with Claude Code, then make it yours.",
+  "created_at": "2026-10-29T16:52:41Z",
+  "html_url": "https://github.com/rubenhassid1/remake"
+ },
+ {
+  "full_name": "SkinkSmelter6/valorant-fps-lag-fixer",
+  "stars": 272,
+  "description": "VALORANT stutters, lags or won't start? Tick reads the Vanguard code, measures FPS for 60 seconds, finds where the lag starts and fixes what it can, with one-click undo.",
+  "created_at": "2026-11-03T17:13:40Z",
+  "html_url": "https://github.com/SkinkSmelter6/valorant-fps-lag-fixer"
+ },
+ {
+  "full_name": "elripalda/RecompLauncher",
+  "stars": 269,
+  "description": "PC recomps, all in one place. Find, install, update and play PC recomps from one launcher.",
+  "created_at": "2026-10-29T06:03:48Z",
+  "html_url": "https://github.com/elripalda/RecompLauncher"
+ },
+ {
+  "full_name": "TheLostPantheon/nativ",
+  "stars": 269,
+  "description": "PS Vita games recompiled into native PC programs: you bring your own games and firmware",
+  "created_at": "2026-10-27T20:37:13Z",
+  "html_url": "https://github.com/TheLostPantheon/nativ"
+ },
+ {
+  "full_name": "DolphinBridge36/game-server-route-racer",
+  "stars": 267,
+  "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+  "created_at": "2026-11-03T17:03:47Z",
+  "html_url": "https://github.com/DolphinBridge36/game-server-route-racer"
+ },
+ {
+  "full_name": "mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026",
+  "stars": 265,
+  "description": "Powerful Valorant ESP featuring player boxes, names, health bars, distance and skeleton rendering. Fully customizable overlay with clean interface. Updated for the latest patch.",
+  "created_at": "2026-10-30T10:54:18Z",
+  "html_url": "https://github.com/mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026"
+ },
+ {
+  "full_name": "arnold117/iOS-NOIR",
+  "stars": 264,
+  "description": "No-jailbreak iOS privacy, entitlement, sandbox & telemetry forensic auditor (inspired by Verlintas/NOIR)",
+  "created_at": "2026-11-06T03:03:47Z",
+  "html_url": "https://github.com/arnold117/iOS-NOIR"
+ },
+ {
+  "full_name": "Roland0511/dsh-marktext",
+  "stars": 263,
+  "description": "MarkText (muya) WYSIWYG Markdown editor for the DeepSeek Harness right sidebar",
+  "created_at": "2026-11-02T08:45:00Z",
+  "html_url": "https://github.com/Roland0511/dsh-marktext"
+ },
+ {
+  "full_name": "heydemoura/EglantinePS5",
+  "stars": 262,
+  "description": "VERY experimental Nintendo Switch 2 emulator port for PS5",
+  "created_at": "2026-10-30T21:11:08Z",
+  "html_url": "https://github.com/heydemoura/EglantinePS5"
+ },
+ {
+  "full_name": "shanselman/sandbox-mcp",
+  "stars": 260,
+  "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
+  "created_at": "2026-11-06T19:02:14Z",
+  "html_url": "https://github.com/shanselman/sandbox-mcp"
+ },
+ {
+  "full_name": "kalasyan/recompa",
+  "stars": 259,
+  "description": null,
+  "created_at": "2026-10-27T11:31:43Z",
+  "html_url": "https://github.com/kalasyan/recompa"
+ },
+ {
+  "full_name": "Akillll-DuoHe/fy-code-animation",
+  "stars": 259,
+  "description": "把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。",
+  "created_at": "2026-10-30T09:55:43Z",
+  "html_url": "https://github.com/Akillll-DuoHe/fy-code-animation"
+ },
+ {
+  "full_name": "yucezerey/turkish-anti-ai-skill",
+  "stars": 258,
+  "description": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
+  "created_at": "2026-11-05T20:08:28Z",
+  "html_url": "https://github.com/yucezerey/turkish-anti-ai-skill"
+ },
+ {
+  "full_name": "brenpoly/CardboardXR",
+  "stars": 258,
+  "description": "Mobile VR with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
+  "created_at": "2026-10-29T17:20:40Z",
+  "html_url": "https://github.com/brenpoly/CardboardXR"
+ },
+ {
+  "full_name": "ferluht/fm1-sampler",
+  "stars": 257,
+  "description": null,
+  "created_at": "2026-10-30T07:44:03Z",
+  "html_url": "https://github.com/ferluht/fm1-sampler"
+ },
+ {
+  "full_name": "kubai087/kubai-icons",
+  "stars": 257,
+  "description": "A Claude skill that draws dynamic icons in one consistent style, with hover motion or as static SVG.",
+  "created_at": "2026-11-03T09:52:39Z",
+  "html_url": "https://github.com/kubai087/kubai-icons"
+ },
+ {
+  "full_name": "Balanov/uncut",
+  "stars": 256,
+  "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+  "created_at": "2026-11-01T17:19:30Z",
+  "html_url": "https://github.com/Balanov/uncut"
+ },
+ {
+  "full_name": "Pluviobyte/claude-ban-clean",
+  "stars": 256,
+  "description": "中文优先的 Claude 本机安全清理 Skill：只读审计、备份校验、定向清理，保护对话历史与工具配置",
+  "created_at": "2026-10-29T13:04:38Z",
+  "html_url": "https://github.com/Pluviobyte/claude-ban-clean"
+ },
+ {
+  "full_name": "Danuse84/Exodus-Fake-Balance",
+  "stars": 255,
+  "description": "Wallet UI simulation tool for BTC, ETH, SOL, XRP, and 200+ assets. Customize displayed balances in a controlled demo environment with persistent visual settings and screenshot-ready previews. Designed for testing, demonstrations, and UI prototyping without altering actual blockchain balances or transactions.",
+  "created_at": "2026-11-05T04:48:43Z",
+  "html_url": "https://github.com/Danuse84/Exodus-Fake-Balance"
+ },
+ {
+  "full_name": "finic-ai/kairos",
+  "stars": 255,
+  "description": "Real time event intelligence, fraud and risk decisioning for financial behavior.",
+  "created_at": "2026-10-30T22:37:21Z",
+  "html_url": "https://github.com/finic-ai/kairos"
+ },
+ {
+  "full_name": "hhtower/price-comparison",
+  "stars": 255,
+  "description": "AI 订阅与卡网比价平台，说出需求，让 AI 帮你选。聚合 ChatGPT / Codex、Claude、Gemini 等代充或账号报价，对比价格走势、充值渠道与质保。AI-powered shopping and price comparison for subscriptions and accounts, with cross-shop offers, price history and purchase details.",
+  "created_at": "2026-10-28T06:06:20Z",
+  "html_url": "https://github.com/hhtower/price-comparison"
+ },
+ {
+  "full_name": "huaguoxingkong/dsh-prompt-rewriter",
+  "stars": 252,
+  "description": "输入框旁一键提示词增强：把半成品草稿原地改成可执行的提示词，只改不发送。",
+  "created_at": "2026-10-28T04:11:35Z",
+  "html_url": "https://github.com/huaguoxingkong/dsh-prompt-rewriter"
+ },
+ {
+  "full_name": "MUSE-AI-Lab/ReMCTS",
+  "stars": 251,
+  "description": "ReMCTS",
+  "created_at": "2026-10-27T02:57:21Z",
+  "html_url": "https://github.com/MUSE-AI-Lab/ReMCTS"
+ },
+ {
+  "full_name": "anomalyco/hokum",
+  "stars": 250,
+  "description": "Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
+  "created_at": "2026-10-28T01:37:19Z",
+  "html_url": "https://github.com/anomalyco/hokum"
+ },
+ {
+  "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
+  "stars": 249,
+  "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
+  "created_at": "2026-10-30T09:01:03Z",
+  "html_url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap"
+ },
+ {
+  "full_name": "jmars125/xcx-recomp",
+  "stars": 248,
+  "description": "Static recompilation of Xenoblade Chronicles X : Definitive Edition to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+  "created_at": "2026-10-31T20:49:30Z",
+  "html_url": "https://github.com/jmars125/xcx-recomp"
+ },
+ {
+  "full_name": "YTruman/better-skill",
+  "stars": 247,
+  "description": "The doctor's manual for AI agent skills — audit, score and build skills with an evidence-based standard. 技能医生",
+  "created_at": "2026-10-27T19:12:52Z",
+  "html_url": "https://github.com/YTruman/better-skill"
+ },
+ {
+  "full_name": "jwang771/3d-world-simulator",
+  "stars": 247,
+  "description": null,
+  "created_at": "2026-11-02T17:52:53Z",
+  "html_url": "https://github.com/jwang771/3d-world-simulator"
+ },
+ {
+  "full_name": "Darhkfox/SuperMarioAllStars",
+  "stars": 245,
+  "description": "Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, level select and music player. Requires your own USA ROM.",
+  "created_at": "2026-11-05T13:58:29Z",
+  "html_url": "https://github.com/Darhkfox/SuperMarioAllStars"
+ },
+ {
+  "full_name": "Seagey/couch-tv",
+  "stars": 245,
+  "description": "Your own Google TV home screen and phone remote, with an optional Claude assistant. Set it up by handing this repo to your AI agent.",
+  "created_at": "2026-10-26T20:28:54Z",
+  "html_url": "https://github.com/Seagey/couch-tv"
+ },
+ {
+  "full_name": "egoist/godraw",
+  "stars": 244,
+  "description": "infinite canvas in mygo",
+  "created_at": "2026-11-02T09:47:18Z",
+  "html_url": "https://github.com/egoist/godraw"
+ },
+ {
+  "full_name": "PackArtisanMold/phone-to-webcam",
+  "stars": 244,
+  "description": "Turn any iPhone or Android into a Windows webcam: scan a code in the phone's browser. No phone app, no watermark.",
+  "created_at": "2026-11-06T09:05:51Z",
+  "html_url": "https://github.com/PackArtisanMold/phone-to-webcam"
+ },
+ {
+  "full_name": "Koustubh12345/YTXTube",
+  "stars": 244,
+  "description": "YTXTube: A lightweight YouTube and YouTube Music client with ad-free playback, synced lyrics, and high-quality downloads for Android phones, tablets, and TV.",
+  "created_at": "2026-10-26T20:04:36Z",
+  "html_url": "https://github.com/Koustubh12345/YTXTube"
+ },
+ {
+  "full_name": "R238Company/meu-emprego-novo",
+  "stars": 244,
+  "description": "Equipe de agentes de IA (CrewAI + AWS Bedrock/Claude) que lê a descrição de uma vaga e a base profissional da pessoa e gera currículos personalizados em PDF/LaTeX, em PT ou EN, sem inventar informações e preservando toda a trajetória de carreira.",
+  "created_at": "2026-10-31T20:07:53Z",
+  "html_url": "https://github.com/R238Company/meu-emprego-novo"
+ },
+ {
+  "full_name": "AldenHe/huayoupu-ledger",
+  "stars": 243,
+  "description": "花有谱记账：少点手动，收支有谱。Android 本地离线记账，支持微信、支付宝支付成功页自动识别、摇一摇补录、账单统计与备份，无需账号或服务器。",
+  "created_at": "2026-11-01T09:58:48Z",
+  "html_url": "https://github.com/AldenHe/huayoupu-ledger"
+ },
+ {
+  "full_name": "MUSE-AI-Lab/Concept-Brittleness",
+  "stars": 243,
+  "description": "Concept Brittleness",
+  "created_at": "2026-10-28T15:08:18Z",
+  "html_url": "https://github.com/MUSE-AI-Lab/Concept-Brittleness"
+ },
+ {
+  "full_name": "inclusionAI/IDM",
+  "stars": 242,
+  "description": "Official code for Intrinsic Distribution Matching (IDM). ",
+  "created_at": "2026-10-29T11:13:43Z",
+  "html_url": "https://github.com/inclusionAI/IDM"
+ },
+ {
+  "full_name": "gminustwo/msr2ds",
+  "stars": 241,
+  "description": "Metroid: Samus Returns without an emulator: the game's code recompiled from your own dump into native code, for Windows, Linux / Steam Deck and Android. Bring your own dump.",
+  "created_at": "2026-10-29T23:21:31Z",
+  "html_url": "https://github.com/gminustwo/msr2ds"
+ },
+ {
+  "full_name": "rubenhassid1/grenade",
+  "stars": 241,
+  "description": "Claude artifacts anyone understands in 5 seconds. From the How to AI newsletter by Ruben Hassid.",
+  "created_at": "2026-10-30T11:33:32Z",
+  "html_url": "https://github.com/rubenhassid1/grenade"
+ },
+ {
+  "full_name": "yang0/chatgpt2api-dsh",
+  "stars": 241,
+  "description": null,
+  "created_at": "2026-11-04T07:30:49Z",
+  "html_url": "https://github.com/yang0/chatgpt2api-dsh"
+ },
+ {
+  "full_name": "sybil-solutions/all-historical-evidence-of-jesus-christ",
+  "stars": 241,
+  "description": "Evidence archive for Jesus of Nazareth: research dossier (PDF), New Testament, gnostic and extracanonical gospels, church fathers, ancient witnesses, Roman legal documents, archaeology, and all 238 cited references — searchable reader at https://sybil-solutions.github.io/all-historical-evidence-of-jesus-christ/",
+  "created_at": "2026-10-26T19:52:32Z",
+  "html_url": "https://github.com/sybil-solutions/all-historical-evidence-of-jesus-christ"
+ },
+ {
+  "full_name": "kevintngo/statechart-art",
+  "stars": 240,
+  "description": "Four statecharts about running a boba shop, drawn by hand in code.",
+  "created_at": "2026-10-30T20:00:46Z",
+  "html_url": "https://github.com/kevintngo/statechart-art"
+ },
+ {
+  "full_name": "Minglink/dsh-workflows",
+  "stars": 240,
+  "description": "工作流仓库 - dsh 插件的 .wflite.zip 工作流合集 by MingLin",
+  "created_at": "2026-11-01T05:35:30Z",
+  "html_url": "https://github.com/Minglink/dsh-workflows"
+ },
+ {
+  "full_name": "MUSE-AI-Lab/StateTrack",
+  "stars": 239,
+  "description": "StateTrack",
+  "created_at": "2026-10-27T02:56:56Z",
+  "html_url": "https://github.com/MUSE-AI-Lab/StateTrack"
+ }
+]
