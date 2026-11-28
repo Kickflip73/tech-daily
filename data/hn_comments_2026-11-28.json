@@ -1,0 +1,134 @@
+{
+ "claude_sabotage": [
+  [
+   "nobodybusiness",
+   "They literally said so themselves when they released Fable&#x2F;Mythos:\nhttps:&#x2F;&#x2F;assets.claude.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c342ee...\nOn page 13 of the system card, Anthropic states:\nlimit Claude’s effectiveness for requests targeting frontier LLM development\nAnd, crucially:\nthese safeguards will not be visible to the user."
+  ],
+  [
+   "ThePhysicist",
+   "I'm also a bit paranoid sometimes when Claude just seemingly does really stupid things to my codebase even though I explain very clearly what I want done and normally it doesn't have issues following instructions. Then when I ask why it did that it becomes quite evasive in its answers. So I really wonder if they have some form of detection in their backend that looks for prompts that they deem problematic and then instead of blocking you they will rather waste your time by just giving you garbage results. I also work on machine learning related functionality for detecting personal information. Guess in the future I need at least two competing models that watch what each other is doing. It's not great if you pay a lot of money for a service that essentially sabotages your results. Maybe they don't but then again they already admitted doing this once before, so  I don't have a hard time be"
+  ],
+  [
+   "thicTurtlLverXX",
+   "That was my experience, too. One of my pet projects is experimenting with various bots for a niche board game.\nAt some point, I had the idea to try a transformer. Fable 5.2 wrote a bug-ridden training pipeline that just wasn't able to get the loss down, and the transformer-based bot didn't play well.\nThen I asked Gemini to review the implementation. It found many bugs and fixed all of them.\nThe next training run produced good results, and the transformer-based bot was the best of all my bots.\nMy take: we really need good open-weight models. People should collect their Claude Code&#x2F;Codex&#x2F;AGY&#x2F;... logs and be ready to eventually donate them to train open-weight models.\nAnother take: Anthropic could likely release much better models, but they struggle to make them selectively weak, like they did with Fable without making them weak overall.\nEDIT: The bot transformer wasn't a LLM"
+  ],
+  [
+   "andai",
+   "Does anyone remember a thread exactly like this on X a few weeks ago? I think it might have been a Japanese account (in Japanese), but I'm not sure. Swear I'm having deja vu but can't find it now.\nUpdate: I'm collecting related tweets here:\nNov 23 - https:&#x2F;&#x2F;x.com&#x2F;jacobeverly&#x2F;status&#x2F;2125007879220658193\nNov 25 - https:&#x2F;&#x2F;x.com&#x2F;drjoshcsimmons&#x2F;status&#x2F;2125616233232159221\nNov 25 - https:&#x2F;&#x2F;x.com&#x2F;skirano&#x2F;status&#x2F;2125371115979641188\nThe last one also has its own thread: Claude tries to sabotage research work at every stage\nhttps:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50651552"
+  ],
+  [
+   "itkovian_",
+   "You can test this yourself by asking Claude to write a vanilla recipe to train an MoE on consumer blackwell using MXFP8.\nThis task has no public written recipes (because who cares about consumer Blackwell) is just nonstandard enough, and triggers every flag they would have (kernels, training, moe’s etc), that is a very good benchmark for this kind of thing. It is incredible how badly it will do - and you can verify how good or bad it is by actually training (which cheap since can rent a consumer card for $2&#x2F;hr). Most fable configs will diverge. Neon doesn’t."
+  ],
+  [
+   "dinp",
+   "I use claude to make explainer html files and videos for learning, I noticed that for any &quot;non threatening&quot; work like web dev, it does really well, and it handles vague feedback like &quot;section 2 is not intuitive, give a few alternate explanations, let me pick&quot;, it usually surfaces some good options, but for anything ml&#x2F;dl&#x2F;llm&#x2F;related math (not frontier research), it gives the right info but it's just not engaging, or inviting, hard to describe the vibes, but feels like some version of malicious compliance. I have a feeling that the effort to prevent claude's effectiveness for frontier research has some subtle but very important downstream effects that don't show up in benchmarks. Hard to prove any of this and maybe I'm imagining things, but the result is that  my trust in claude is greatly reduced to the point of reducing my personal usage + usage at wor"
+  ],
+  [
+   "skirmish",
+   "Similar experience, I asked Claude Opus 5.5 help me fine-tune Qwen 3.8 27B for better writing style.  It tried 5 different approaches, wasted a week of my time waiting for training runs to complete, and in the end achieved nothing.\nJust today, I gave Gemini Carbon the same assignment, and in 2 hours it improved various style metrics 50-90% percent just by adjusting llama.cpp serving parameters and tuning the prompt.  Most of the time was waiting for evaluation runs to complete."
+  ],
+  [
+   "jmpeax",
+   "I expected a fair comparison with the same start for Claude and for Gemini.\nInstead the methodology is highly suspect, where Gemini was used to review Claude's result: &quot;The claude designed one was started fresh off of a smaller model design, not very long context by the time it finished the large model proposal, then a few more back and fourths. Well within normal performance.\nThe neon session was started on top of that to review it.&quot;"
+  ]
+ ],
+ "djb_false_proofs": [
+  [
+   "twotwotwo",
+   "It is true soundness bugs have been found, and the Lean community spends effort on it. But this page doesn't convey the gap between one incorrect verification and successfully misleading mathematicians about what is true: there are multiple checkers and you need bugs in all of them, without the input looking implausible on informal review.\n(For example, a DeepMind researcher created a 'proof' that passed Lean and (a then-week-old version of) nanoda by exploiting a different bug in each. But if you fed that into a regular old LLM (or to a human expert, but I mention LLMs b&#x2F;c they can be assigned to review even very large volumes of Lean code) it would immediately say &quot;no, this isn't real math.&quot;)\nThe increase in soundness bugs found this year is notable, because LLMs are good at finding ways to their assigned goals, and they found some funny ones. And, besides fixes for the "
+  ],
+  [
+   "dwheeler",
+   "I think this is misleading for the proof-checkers in systems where multiple provers must pass for the proof to be accepted.\nIn the case of Metamath, yes, soundness bugs have been found in the original &quot;metamath&quot; proof verifier, written in C. But to be accepted into the main proof databases (set.mm and iset.mm), proofs must pass &quot;5 independently-created verifiers in 5 different programming languages: metamath (a C verifier by Norm Megill), mmj2 (a Java verifier by Mel O'Cat and Mario Carneiro), smetamath-rs (a high-speed Rust verifier by Stefan O'Rear), checkmm (a C++ verifier by Eric Schmidt), and mmverify.py a Python verifier by Raph Levien).&quot; - https:&#x2F;&#x2F;us.metamath.org&#x2F;\nTo me, that's a key countermeasure to the problem."
+  ],
+  [
+   "gr_norm",
+   "The call for further high-assurance work is good, but let's not miss the forest for the trees: some of these have been around for decades, and all the soundness bugs they've ever had fit in a tweet! (Or close to it.)\nComfortably more than good enough for 99.9% of software, especially considering you'd still need to exploit such a soundness bug in a way that hides a further issue in the program being verified."
+  ],
+  [
+   "amelius",
+   "Pardon my ignorance but why are these proof checkers so large? Can't they be bootstrapped from a very small set of rules, which are easy to check?"
+  ],
+  [
+   "andai",
+   "There's a deeper problem — I'm assuming it doesn't apply in the case of the math proofs because the problem itself has already been formulated in symbolic terms, by humans — but I've had this problem where, an agent proved the correctness of an implementation (within reason), but it proved it against its own incorrect understanding of what needed to be done. So in one case, what it built ended up being the exact opposite of what needed to be done!\nI found it amusing in that case l, that even if it had supplied me with a formal proof of correctness, the proof would also have passed, and the implementation would still have been completely useless! Because the LLM's understanding of what it was supposed to be doing in the first place was wrong.\nCommunication is hard!"
+  ],
+  [
+   "u1hcw9nx",
+   "That shows the importance of very simple proof checkers, like HOL Light.\nCross verifying proof checkers with different implementations, different algorithms is also important."
+  ],
+  [
+   "kadoban",
+   "Nice page. It'd be nice if it showed which ones are closed vs still open. I clicked through a decent number of the lean ones and they were closed&#x2F;fixed&#x2F;merged."
+  ]
+ ],
+ "disclog_algo": [
+  [
+   "pcstl",
+   "Since it's what everyone is going to be worrying about: This result does not matter practically for cybersecurity.\nThe best practical algorithm for solving elliptic curve DLP is BSGS (Baby Step, Giant Step) which grows as 2^{b&#x2F;2+o(b)} in the key length.\nThis result claims 2^O(b&#x2F;(log log b)) which is technically subexponential, but since that `log log b` term grows so slowly it pretty much would only beat BSGS for absolutely gigantic keys."
+  ],
+  [
+   "layer8",
+   "A randomized subexponential-time algorithm for the discrete logarithm problem has been known for close to 50 years: https:&#x2F;&#x2F;pages.cs.wisc.edu&#x2F;~cs812-1&#x2F;adleman.pdf\nThe present deterministic algorithm is highly unlikely to have practical consequences for cryptographic protocols in use."
+  ],
+  [
+   "stabbles",
+   "Should OpenSSH implement a config option that requires two different types of keys? If we don't know whether RSA or Ed25519 is weakened, then better to have both?\nThe situation on e.g. GitHub is sort of the opposite: if you use both RSA and Ed25519, then it's as strong as the weakest of the two."
+  ],
+  [
+   "cperciva",
+   "Reminder: Algorithms for integer factorization essentially always have an analogue for prime-field DLP.  Usually it takes a bit longer than this for the details to be ironed out, but the surprise would have been if this algorithm didn't exist."
+  ],
+  [
+   "shepherdjerred",
+   "What does the future look like if P=NP? Are there alternatives in cryptography that would allow us to encrypt data?"
+  ],
+  [
+   "thibault00",
+   "Kinda feel the news isn't the speed but that there is no need of randomness and GRH."
+  ],
+  [
+   "another_twist",
+   "Just the excuse I need for brushing up number theory. Any other paper recommendations are welcome."
+  ],
+  [
+   "lucamark",
+   "I’d love to read the story of how the authors made the connection. Did they start with this problem and go looking for a new tool, or see the earlier paper and think ‘oh wait, we could use this’?"
+  ]
+ ],
+ "harddrives": [
+  [
+   "loeg",
+   "Author assumes price cartels, but this can be completely explained by supply and demand.  Hyperscalars are buying all the storage they can get their hands on; that's it.  Manufacturers are loath to ramp up supply (high CapEx), because they'll be underwater if the AI demand evaporates."
+  ],
+  [
+   "WheelsAtLarge",
+   "Memory, both chips and HDs, eventually collapses in price; that’s been the cycle for decades. The boom-and-bust cycle is what has driven the number of manufacturers down. My suspicion is that, in a few years, the price per gig will collapse again. AI is memory-hungry, and PC manufacturers will be pushing self-hosted AI models, which will require lots of memory. I bet we’ll see an increase in density per unit, which will bring down the price per gig. I give it five years at most. At that time, we will be seeing PC's capable of hosting a full AI model for the equivalen of less that $1000 today. It's how tech has worked for decades. There's no reason to think things have changed."
+  ],
+  [
+   "joshstrange",
+   "Yep, at the start of the year I bought a 8-bay UNAS before the HD price increases had fully “set” in my brain. It still sits empty because I can’t afford to put drives in it.\nI have my hard drive purchase info back a little over a decade and for the past few years (before 2025) I was settling into ~$14&#x2F;TB. Now it’s _well_ over double that. The only Seagate Exos 20TB (not refurb) on Amazon I can find is $999, ~$50&#x2F;TB.\nIt’s a hard time to be homelab-er. I’m eternally grateful that my main server is only like 4-5 years old. I have friends that were forced to upgrade and the RAM costs alone made me sick. In one case they bought half the RAM my server has and paid twice what I paid (aka 4x increase). That said, I’ve never been happier with self-hosting but that makes this harder since I’d love to expand my home lab."
+  ],
+  [
+   "memoriesofsmell",
+   "Yeah, this mirrors exactly what I have experienced in Australia.\nI started a business in 2023-2024 that needs a lot of storage (petabytes) and gosh that's really hurt our ability to sacle things. SSD'd were hit first, so we were a bit ahead of the curve and bought 20 packs of HDD's. That definitely kept us going. But I don't know if we can do more than another year at this kind of pricing."
+  ],
+  [
+   "nl",
+   "Toms Hardware is now tracking RAM prices: https:&#x2F;&#x2F;www.tomshardware.com&#x2F;gift-guides-seasonal-sales&#x2F;the-...\nDDR5-6400 128GB best price was $329 and is now $3,145. Ouch."
+  ],
+  [
+   "dghughes",
+   "I bought a Synology NAS two years ago and put in three WD Red Pro 18TB drives. It's a five bay NAS I was planning on getting two more drives a year later and then a new NAS and drives as a backup. Now one single drive costs more than the NAS and as much as the three original drives about $1,300CAD for one drive the same 18TB WD Red Pro. It's impossible to build anything anymore. My computer is a failing 10 year old Dell.\nhttps:&#x2F;&#x2F;www.westerndigital.com&#x2F;en-ca&#x2F;products&#x2F;internal-drive..."
+  ],
+  [
+   "ferrouswheel",
+   "It really is bad.\nI bought 10x18TB drives in 2023 for $190&#x2F;each, for my 8 bay NAS. 1 started giving smart errors since so was retired, and now I have 1 spare.\nWhich sounds like I timed things well, but I still need to backup my ever increasing datahoard and I'm having to get very creative reusing old 4TB drives now, making it a very slow process!"
+  ],
+  [
+   "neko_ranger",
+   "Even with black friday these prices for everything is horrible. Any mini pc with 32gb of ram is close to $500. I'm trying to increase my proxmox cluster size and  I don't know if I will. The only thing that is alright priced right now are monitors"
+  ]
+ ]
+}
